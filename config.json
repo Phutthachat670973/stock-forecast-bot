@@ -1,9 +1,28 @@
 {
-  "tickers": ["AAPL", "MSFT", "TSLA"],
-  "lookback_days": 900,
-  "train_window_days": 500,
+  "tickers": ["AAPL", "MSFT"],
+  "company_names": {
+    "AAPL": "Apple",
+    "MSFT": "Microsoft"
+  },
+  "lookback_days": 1200,
   "horizon_days": 5,
   "timezone": "Asia/Bangkok",
-  "report_top_reasons": 5
-}
+  "report_top_reasons": 5,
 
+  "news": {
+    "mode": "rss_plus_ai",
+    "max_items": 8,
+    "days": 7,
+    "hl": "en-US",
+    "gl": "US",
+    "ceid": "US:en",
+    "query_suffix": "stock"
+  },
+
+  "ai": {
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "language": "th",
+    "top_pick": 5
+  }
+}
