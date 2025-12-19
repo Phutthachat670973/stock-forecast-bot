@@ -38,16 +38,16 @@
       "source": "The Motley Fool"
     },
     {
-      "title": "Tesla stock closes at record as investors rally around Musk's robotaxi hype despite slow EV sales - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOE5QeXBTMTB4SGxPYzdJYjB3SHNJZzhRZFYyZjNRMUNKRVV0TWpTTVFZM0VBTGRoLVZscHVjbWdPald3cndjRHh2U3h4VDBDMThraVpvbWp2Q1FRckhPVjlWSFlwQTVDRUVET2d3N29rLW9CNUlob3RDSXJGMFFHVWM1U21GODlZMXpoeURLbVlMV2dvaHBDcjBvb3NnNU5jNFR3R9IBqgFBVV95cUxPVld1Ymc2ZktEMU1GcC1aVUdKY1JfblRZYWlhTHR0d3JXTktDWTdvTkdfWEpYYlRyWnRad3dsajl5cnlJLWJaLW1XSTNZaFFFRmVJajdlYVNFQjQxZ1JVaUhYMVlOZF9YZDQyR0JOZ1BRZ1FFaGFpTG5jRm1Zemc0LUZSU0FfTEtlZGJCTWM2N1ExeG5OS0xJOHJQTXZOQ21XVXlEMkxSVEJ2QQ?oc=5",
-      "published": "Tue, 16 Dec 2025 20:35:08 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Tesla Shares Headed for Record for First Time in a Year - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMW5zOHo1RDJZUGFXdlJ3SW5ubUp6d1RDZDFRMEtScWQwQXZMOWZyd1BoSjQ2YlJZLXlUV2dPUHJNTmR3Qld3TDRCOFVVNDRyX0NKYldzSVZqRmdKZUpoU051MU9uVkoyVGNmZHVGTlQ4b3ZxWTJRWTMzMU1BU0RuT19FN191OUU5d1c4QmZ1WmNBdmktc0VOQWlTNUpUYWRLQ3RJemdtSDFldw?oc=5",
       "published": "Mon, 15 Dec 2025 15:16:56 GMT",
       "source": "Bloomberg.com"
+    },
+    {
+      "title": "Tesla stock closes at record as investors rally around Musk's robotaxi hype despite slow EV sales - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOE5QeXBTMTB4SGxPYzdJYjB3SHNJZzhRZFYyZjNRMUNKRVV0TWpTTVFZM0VBTGRoLVZscHVjbWdPald3cndjRHh2U3h4VDBDMThraVpvbWp2Q1FRckhPVjlWSFlwQTVDRUVET2d3N29rLW9CNUlob3RDSXJGMFFHVWM1U21GODlZMXpoeURLbVlMV2dvaHBDcjBvb3NnNU5jNFR3R9IBqgFBVV95cUxPVld1Ymc2ZktEMU1GcC1aVUdKY1JfblRZYWlhTHR0d3JXTktDWTdvTkdfWEpYYlRyWnRad3dsajl5cnlJLWJaLW1XSTNZaFFFRmVJajdlYVNFQjQxZ1JVaUhYMVlOZF9YZDQyR0JOZ1BRZ1FFaGFpTG5jRm1Zemc0LUZSU0FfTEtlZGJCTWM2N1ExeG5OS0xJOHJQTXZOQ21XVXlEMkxSVEJ2QQ?oc=5",
+      "published": "Tue, 16 Dec 2025 20:35:08 GMT",
+      "source": "CNBC"
     },
     {
       "title": "Tesla Stock Hits New Record High The Day After Longtime Bull Decided To Take Profit - Investor's Business Daily",
@@ -65,45 +65,45 @@
   "ai_news": {
     "picks": [
       {
-        "idx": 1,
-        "stance": "neutral",
-        "confidence": 80,
-        "summary": "Barclays กล่าวว่าการส่งมอบรถยนต์ของ Tesla (TSLA) อาจไม่มีผลต่อราคาหุ้น",
-        "why": "หัวข้อข่าวระบุว่า Barclays มีความเห็นว่าการส่งมอบรถยนต์ของ Tesla อาจไม่ส่งผลกระทบอย่างมีนัยสำคัญต่อราคาหุ้น ซึ่งเป็นมุมมองที่เป็นกลางต่อปัจจัยเฉพาะนี้"
-      },
-      {
         "idx": 2,
         "stance": "bullish",
-        "confidence": 95,
-        "summary": "หุ้น Tesla พุ่งขึ้นสู่ระดับสูงสุดเป็นประวัติการณ์ หลังจากรอคอยมานานหนึ่งปี",
-        "why": "หัวข้อข่าวระบุอย่างชัดเจนว่าราคาหุ้นของ Tesla ได้พุ่งขึ้นสู่ระดับสูงสุดเป็นประวัติการณ์ ซึ่งเป็นสัญญาณเชิงบวกอย่างมาก"
+        "confidence": 100,
+        "summary": "ราคาหุ้นเทสลาพุ่งขึ้นสู่ระดับสูงสุดเป็นประวัติการณ์ หลังจากการรอคอยมานานหนึ่งปี",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าราคาหุ้น Tesla กำลังพุ่งขึ้นสู่ระดับสูงสุดเป็นประวัติการณ์ ซึ่งเป็นสัญญาณเชิงบวกที่บ่งชี้ถึงการเติบโต"
       },
       {
         "idx": 3,
         "stance": "bearish",
+        "confidence": 100,
+        "summary": "พี่ชายของ Elon Musk ขายหุ้น Tesla (TSLA) มูลค่า 25 ล้านดอลลาร์ ในขณะที่ราคาพุ่งทะลุ 450 ดอลลาร์",
+        "why": "การที่คนวงในขายหุ้นจำนวนมาก แม้ในช่วงที่ราคาพุ่งสูงขึ้น มักถูกมองว่าเป็นสัญญาณเชิงลบที่อาจบ่งชี้ว่าหุ้นมีมูลค่าสูงเกินไปหรือคาดการณ์การชะลอตัวในอนาคต"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla ปิดที่ระดับสูงสุดเป็นประวัติการณ์ เนื่องจากนักลงทุนให้ความสนใจกับกระแสรถยนต์ไร้คนขับของ Musk แม้ว่ายอดขายรถยนต์ EV จะชะลอตัว",
+        "why": "พาดหัวข่าวระบุว่าหุ้นปิดที่ระดับสูงสุดเป็นประวัติการณ์และนักลงทุนให้การสนับสนุนกระแสรถยนต์ไร้คนขับ ซึ่งเป็นปัจจัยหนุนราคา"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
         "confidence": 90,
-        "summary": "น้องชายของ Elon Musk เทขายหุ้น Tesla (TSLA) มูลค่า 25 ล้านดอลลาร์ ในขณะที่ราคาพุ่งเกิน 450 ดอลลาร์",
-        "why": "การที่ผู้บริหารหรือบุคคลภายในบริษัท (น้องชายของ Elon Musk) ขายหุ้นจำนวนมาก บ่งชี้ถึงแนวโน้มเชิงลบ แม้ว่าราคาหุ้นจะสูงขึ้นก็ตาม"
+        "summary": "Barclays ระบุว่ายอดส่งมอบของ Tesla (TSLA) 'อาจไม่สำคัญ' ต่อราคาหุ้น",
+        "why": "พาดหัวข่าวนี้บ่งชี้ว่าตัวชี้วัดแบบดั้งเดิมอย่างยอดส่งมอบอาจไม่ส่งผลกระทบต่อราคาหุ้น ซึ่งอาจสะท้อนถึงการที่ตลาดให้ความสำคัญกับปัจจัยอื่น ไม่ได้บ่งชี้ทิศทางราคาขึ้นหรือลงโดยตรง"
       },
       {
-        "idx": 5,
+        "idx": 4,
         "stance": "neutral",
-        "confidence": 85,
-        "summary": "หุ้น Tesla ปิดที่ระดับสูงสุดเป็นประวัติการณ์ ขณะที่นักลงทุนพากันให้ความสนใจกับกระแส Robotaxi ของ Musk แม้จะมียอดขายรถยนต์ไฟฟ้าที่ชะลอตัว",
-        "why": "หัวข้อข่าวแสดงให้เห็นทั้งปัจจัยเชิงบวก (ราคาหุ้นทำสถิติสูงสุดและกระแส Robotaxi) และปัจจัยเชิงลบ (ยอดขายรถยนต์ไฟฟ้าที่ชะลอตัว) ทำให้ภาพรวมเป็นกลาง"
-      },
-      {
-        "idx": 7,
-        "stance": "neutral",
-        "confidence": 85,
-        "summary": "หุ้น Tesla ทำสถิติสูงสุดใหม่ หลังจากนักลงทุนระยะยาวรายหนึ่งตัดสินใจทำกำไร",
-        "why": "แม้ว่าหุ้นจะทำสถิติสูงสุดใหม่ แต่การที่นักลงทุนระยะยาวตัดสินใจทำกำไรก็บ่งชี้ถึงความระมัดระวังหรือสัญญาณการขาย ทำให้มุมมองโดยรวมเป็นกลาง"
+        "confidence": 100,
+        "summary": "การคาดการณ์หุ้น Tesla (TSLA): นักลงทุนควรคาดหวังอะไรในปี 2026 และหลังจากนั้น",
+        "why": "พาดหัวข่าวเป็นการนำเสนอเกี่ยวกับการคาดการณ์ในอนาคต ไม่ได้ระบุถึงเหตุการณ์หรือทิศทางราคาปัจจุบันที่ชัดเจน ทำให้เป็นกลาง"
       }
     ],
     "overall": {
-      "stance": "neutral",
+      "stance": "bullish",
       "confidence": 70,
-      "note": "แม้ว่าราคาหุ้น Tesla จะทำสถิติสูงสุดใหม่หลายครั้ง ซึ่งเป็นสัญญาณเชิงบวก แต่ก็มีปัจจัยเชิงลบและคำเตือนที่สำคัญ เช่น การที่น้องชายของ Elon Musk ขายหุ้นจำนวนมาก ยอดขายรถยนต์ไฟฟ้าที่ชะลอตัว และนักลงทุนระยะยาวตัดสินใจทำกำไร ทำให้ภาพรวมของ sentiment มีความผสมผสานและควรระมัดระวัง"
+      "note": "โดยรวมแล้ว ข่าวส่วนใหญ่ชี้ให้เห็นถึงราคาหุ้น Tesla ที่พุ่งขึ้นทำสถิติสูงสุดใหม่ โดยได้รับแรงหนุนจากความสนใจในรถยนต์ไร้คนขับของ Musk อย่างไรก็ตาม มีสัญญาณเชิงลบจากการขายหุ้นโดยคนวงใน และมุมมองที่ว่ายอดส่งมอบอาจไม่สำคัญต่อราคาหุ้น ซึ่งสร้างความไม่แน่นอนเล็กน้อย"
     }
   }
 }
