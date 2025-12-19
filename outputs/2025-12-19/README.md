@@ -1,5 +1,0 @@
-# 📅 Daily Forecast — 2025-12-19
-
-- **AAPL** → `AAPL_README.md` | Signal: **UP** | P(UP): **0.5079**
-- **MSFT** → `MSFT_README.md` | Signal: **UP** | P(UP): **0.5201**
-- **TSLA** → `TSLA_README.md` | Signal: **UP** | P(UP): **0.6951**
