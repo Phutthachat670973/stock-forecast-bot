@@ -25,4 +25,3 @@ def fetch_news_rss(query: str, max_items: int = 8, days: int = 7, hl: str = "en-
             "source": (e.get("source", {}).get("title") if isinstance(e.get("source"), dict) else "") or ""
         })
     return items
-
