@@ -1,1 +1,9 @@
+{
+  "tickers": ["AAPL", "MSFT", "TSLA"],
+  "lookback_days": 900,
+  "train_window_days": 500,
+  "horizon_days": 5,
+  "timezone": "Asia/Bangkok",
+  "report_top_reasons": 5
+}
 
