@@ -1,8 +1,9 @@
 {
-  "tickers": ["AAPL", "MSFT"],
+  "tickers": ["AAPL", "MSFT", "TSLA"],
   "company_names": {
     "AAPL": "Apple",
-    "MSFT": "Microsoft"
+    "MSFT": "Microsoft",
+    "TSLA": "Tesla"
   },
   "lookback_days": 1200,
   "horizon_days": 5,
