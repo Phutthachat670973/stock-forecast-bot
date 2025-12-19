@@ -1,6 +1,16 @@
+# src/render_md.py
+from explain_simple import label_value
+
 def _stance_emoji(s: str) -> str:
     s = (s or "").lower()
     return {"bullish": "🟢", "bearish": "🔴", "neutral": "🟡"}.get(s, "🟡")
+
+def _signal_badge(signal: str) -> str:
+    if signal == "UP":
+        return "🟢 UP (มีแนวโน้มบวก)"
+    if signal == "DOWN":
+        return "🔴 DOWN (มีแนวโน้มลบ)"
+    return "🟡 NEUTRAL"
 
 def render_ticker_markdown(r: dict) -> str:
     ticker = r.get("ticker", "N/A")
@@ -11,11 +21,39 @@ def render_ticker_markdown(r: dict) -> str:
     signal = r.get("signal", "N/A")
 
     p_txt = f"{p*100:.2f}%" if isinstance(p, (int, float)) else "N/A"
-    emoji = "🟢" if signal == "UP" else ("🔴" if signal == "DOWN" else "⚪")
 
+    # ===== Reasons (parse จากข้อความเดิม "- ชื่อ = ค่า → ข้อความ")
     reasons = r.get("reasons", []) or []
-    reasons_md = "\n".join([f"- {x.lstrip('- ').strip()}" for x in reasons]) if reasons else "- (ไม่มีเหตุผล)"
+    parsed = []
+    for line in reasons:
+        # ตัวอย่าง: "- โมเมนตัม 5 วัน = -0.0210 → กดลง"
+        s = line.lstrip("-").strip()
+        if "=" in s:
+            left, right = s.split("=", 1)
+            name = left.strip()
+            rest = right.strip()
+            # rest: "-0.0210 → กดลง"
+            val_str = rest.split("→")[0].strip()
+            try:
+                v = float(val_str)
+            except Exception:
+                v = None
+            parsed.append((name, v, s))
+        else:
+            parsed.append((None, None, s))
 
+    # ทำ bullet แบบ “แปลเป็นภาษาคน”
+    friendly_lines = []
+    for name, v, raw in parsed:
+        if name is None or v is None:
+            friendly_lines.append(f"- 🟡 {raw}")
+            continue
+        tag, human = label_value(name, v)
+        friendly_lines.append(f"- {tag} **{name}**: {human}  \n  <sub>ค่า = {v:.4f}</sub>")
+
+    reasons_md = "\n".join(friendly_lines) if friendly_lines else "- (ไม่มีเหตุผล)"
+
+    # ===== Headlines
     headlines = r.get("headlines", []) or []
     if headlines:
         hl_lines = []
@@ -29,45 +67,52 @@ def render_ticker_markdown(r: dict) -> str:
     else:
         headlines_md = "- (ไม่พบข่าว หรือดึงข่าวไม่ได้)"
 
+    # ===== AI summary
     ai = r.get("ai_news", None)
     if ai and ai.get("picks"):
         overall = ai.get("overall", {})
-        overall_md = f"{_stance_emoji(overall.get('stance'))} **{overall.get('stance','neutral').upper()}** (confidence {overall.get('confidence',50)}/100) — {overall.get('note','')}".strip()
+        overall_md = f"{_stance_emoji(overall.get('stance'))} **ภาพรวมข่าว:** {overall.get('note','')} (conf {overall.get('confidence',50)}/100)"
 
         pick_lines = []
         for p2 in ai.get("picks", []):
             em = _stance_emoji(p2.get("stance"))
             pick_lines.append(
-                f"- {em} อ้างอิงข่าว [{p2.get('idx')}] | conf {p2.get('confidence')}/100\n"
-                f"  - สรุป: {p2.get('summary')}\n"
-                f"  - เหตุผล: {p2.get('why')}"
+                f"- {em} อ้างอิงข่าว [{p2.get('idx')}] | conf {p2.get('confidence')}/100  \n"
+                f"  - สรุปสั้นๆ: {p2.get('summary')}  \n"
+                f"  - ทำไมสำคัญ: {p2.get('why')}"
             )
         ai_md = overall_md + "\n\n" + "\n".join(pick_lines)
     else:
-        ai_md = "_(AI summary ไม่พร้อมใช้งาน หรือ fallback เป็น rss_only)_"
+        ai_md = "_(ยังไม่ได้ใช้ AI หรือ AI ใช้งานไม่ได้ในรอบนี้ → แสดงข่าวแบบ RSS อย่างเดียว)_"
 
-    return f"""# 📈 Forecast — {ticker}
+    return f"""# 📌 สรุปวันนี้ — {ticker}
 
-**As of:** `{asof}`  
-**Data source:** `{src}`  
-**Horizon:** `{horizon} day(s)`  
-**Signal:** {emoji} **{signal}**  
-**Probability (UP):** **{p_txt}**
+**วันที่ข้อมูล (As of):** `{asof}`  
+**แหล่งข้อมูลราคา:** `{src}`  
+**ระยะที่มอง (Horizon):** `{horizon} วัน`  
+**สัญญาณ:** **{_signal_badge(signal)}**  
+**โอกาสขึ้น (Probability UP):** **{p_txt}**
+
+> อ่านง่ายๆ: ถ้า % ใกล้ 50% = ยัง “ก้ำกึ่ง” ไม่ชัดเจนมาก
 
 ---
 
-## 🧠 Technical Reasons (Rule-based)
+## ✅ ทำไมระบบถึงมองแบบนี้ (สรุปแบบมือใหม่)
 {reasons_md}
 
 ---
 
-## 📰 Top Headlines (with links)
+## 📰 ข่าวที่อาจเกี่ยวข้อง (เปิดอ่านได้)
 {headlines_md}
 
 ---
 
-## 🤖 AI News Summary (based on headlines above)
+## 🤖 สรุปข่าวแบบ AI (ถ้ามี)
 {ai_md}
 
-> หมายเหตุ: ส่วน AI ใช้ “หัวข้อข่าวที่ดึงมา” เท่านั้น และอ้างอิงเลขข่าวเพื่อให้ตรวจสอบย้อนกลับได้
+---
+
+### ⚠️ หมายเหตุสำคัญ
+- นี่คือระบบ “ช่วยมองแนวโน้ม” ไม่ใช่คำแนะนำการลงทุน  
+- ข่าวเป็น “ปัจจัยที่อาจเกี่ยวข้อง” ไม่ได้ยืนยันว่าเป็นสาเหตุที่ทำให้ราคาขึ้น/ลงจริง
 """
