@@ -22,18 +22,15 @@ def render_ticker_markdown(r: dict) -> str:
 
     p_txt = f"{p*100:.2f}%" if isinstance(p, (int, float)) else "N/A"
 
-    # ===== Reasons (parse จากข้อความเดิม "- ชื่อ = ค่า → ข้อความ")
+    # ---- แปล reasons จากรูปแบบเดิม: "- ชื่อ = ค่า → ..."
     reasons = r.get("reasons", []) or []
     parsed = []
     for line in reasons:
-        # ตัวอย่าง: "- โมเมนตัม 5 วัน = -0.0210 → กดลง"
         s = line.lstrip("-").strip()
         if "=" in s:
             left, right = s.split("=", 1)
             name = left.strip()
-            rest = right.strip()
-            # rest: "-0.0210 → กดลง"
-            val_str = rest.split("→")[0].strip()
+            val_str = right.split("→")[0].strip()
             try:
                 v = float(val_str)
             except Exception:
@@ -42,32 +39,33 @@ def render_ticker_markdown(r: dict) -> str:
         else:
             parsed.append((None, None, s))
 
-    # ทำ bullet แบบ “แปลเป็นภาษาคน”
     friendly_lines = []
     for name, v, raw in parsed:
         if name is None or v is None:
             friendly_lines.append(f"- 🟡 {raw}")
             continue
         tag, human = label_value(name, v)
-        friendly_lines.append(f"- {tag} **{name}**: {human}  \n  <sub>ค่า = {v:.4f}</sub>")
+        friendly_lines.append(
+            f"- {tag} **{name}**: {human}  \n  <sub>ค่า = {v:.4f}</sub>"
+        )
 
     reasons_md = "\n".join(friendly_lines) if friendly_lines else "- (ไม่มีเหตุผล)"
 
-    # ===== Headlines
+    # ---- Headlines
     headlines = r.get("headlines", []) or []
     if headlines:
         hl_lines = []
         for i, h in enumerate(headlines, start=1):
-            title = h.get("title","").strip()
-            link = h.get("link","").strip()
-            pub = h.get("published","").strip()
-            src2 = h.get("source","").strip()
+            title = h.get("title", "").strip()
+            link = h.get("link", "").strip()
+            pub = h.get("published", "").strip()
+            src2 = h.get("source", "").strip()
             hl_lines.append(f"- [{i}] [{title}]({link})  \n  <sub>{src2} | {pub}</sub>")
         headlines_md = "\n".join(hl_lines)
     else:
         headlines_md = "- (ไม่พบข่าว หรือดึงข่าวไม่ได้)"
 
-    # ===== AI summary
+    # ---- AI summary
     ai = r.get("ai_news", None)
     if ai and ai.get("picks"):
         overall = ai.get("overall", {})
@@ -78,12 +76,12 @@ def render_ticker_markdown(r: dict) -> str:
             em = _stance_emoji(p2.get("stance"))
             pick_lines.append(
                 f"- {em} อ้างอิงข่าว [{p2.get('idx')}] | conf {p2.get('confidence')}/100  \n"
-                f"  - สรุปสั้นๆ: {p2.get('summary')}  \n"
-                f"  - ทำไมสำคัญ: {p2.get('why')}"
+                f"  - สรุป: {p2.get('summary')}  \n"
+                f"  - เหตุผล: {p2.get('why')}"
             )
         ai_md = overall_md + "\n\n" + "\n".join(pick_lines)
     else:
-        ai_md = "_(ยังไม่ได้ใช้ AI หรือ AI ใช้งานไม่ได้ในรอบนี้ → แสดงข่าวแบบ RSS อย่างเดียว)_"
+        ai_md = "_(AI summary ไม่พร้อมใช้งานในรอบนี้)_"
 
     return f"""# 📌 สรุปวันนี้ — {ticker}
 
@@ -93,21 +91,19 @@ def render_ticker_markdown(r: dict) -> str:
 **สัญญาณ:** **{_signal_badge(signal)}**  
 **โอกาสขึ้น (Probability UP):** **{p_txt}**
 
-> อ่านง่ายๆ: ถ้า % ใกล้ 50% = ยัง “ก้ำกึ่ง” ไม่ชัดเจนมาก
-
 ---
 
-## ✅ ทำไมระบบถึงมองแบบนี้ (สรุปแบบมือใหม่)
+## ✅ ทำไมระบบถึงมองแบบนี้
 {reasons_md}
 
 ---
 
-## 📰 ข่าวที่อาจเกี่ยวข้อง (เปิดอ่านได้)
+## 📰 ข่าวที่อาจเกี่ยวข้อง
 {headlines_md}
 
 ---
 
-## 🤖 สรุปข่าวแบบ AI (ถ้ามี)
+## 🤖 สรุปข่าวแบบ AI
 {ai_md}
 
 ---
