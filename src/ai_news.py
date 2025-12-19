@@ -5,7 +5,6 @@ def _safe_json_load(s: str):
     try:
         return json.loads(s)
     except Exception:
-        # เผื่อโมเดลตอบมี text ปนมา ลองตัดช่วง {...}
         start = s.find("{")
         end = s.rfind("}")
         if start != -1 and end != -1 and end > start:
@@ -13,23 +12,14 @@ def _safe_json_load(s: str):
         raise
 
 def summarize_news_with_ai(ticker: str, company: str, headlines: list[dict], ai_cfg: dict) -> dict | None:
-    """
-    Return dict:
-      {
-        "picks": [{"idx":1,"stance":"bullish|bearish|neutral","confidence":0-100,"summary":"...","why":"..."}],
-        "overall": {"stance":"...","confidence":..,"note":"..."}
-      }
-    If AI not available -> None
-    """
     provider = (ai_cfg.get("provider") or "gemini").lower()
     if provider != "gemini":
-        raise RuntimeError("Only gemini provider is implemented in this snippet.")
+        raise RuntimeError("Only gemini provider is implemented.")
 
     api_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not api_key:
         return None
 
-    # Import lazily so rss_only doesn't require install
     from google import genai
 
     model_name = ai_cfg.get("model", "gemini-2.5-flash")
@@ -38,7 +28,6 @@ def summarize_news_with_ai(ticker: str, company: str, headlines: list[dict], ai_
 
     client = genai.Client(api_key=api_key)
 
-    # เตรียมหัวข้อข่าวเป็นรายการ indexed เพื่อให้ AI อ้างอิงแบบตรวจสอบได้
     lines = []
     for i, h in enumerate(headlines, start=1):
         title = h.get("title", "")
@@ -56,11 +45,11 @@ Task:
    - bullish (may support price up)
    - bearish (may pressure price down)
    - neutral
-3) Provide confidence 0-100 (how strongly the headline implies that stance).
-4) Write short Thai summaries if language=th, otherwise English.
-5) IMPORTANT: Reference each item by its headline index.
+3) Provide confidence 0-100.
+4) Write Thai if language=th, otherwise English.
+5) Reference each item by its headline index.
 
-Output STRICT JSON only, schema:
+Output STRICT JSON only:
 {{
   "picks": [
     {{"idx": 1, "stance": "bullish|bearish|neutral", "confidence": 0-100, "summary": "...", "why": "..."}}
@@ -84,14 +73,11 @@ Headlines:
         return None
 
     data = _safe_json_load(text)
-
-    # sanitize
     if "picks" not in data or "overall" not in data:
         return None
 
-    # filter picks that refer to existing idx
-    valid = []
     n = len(headlines)
+    valid = []
     for p in data.get("picks", []):
         try:
             idx = int(p.get("idx"))
@@ -105,5 +91,6 @@ Headlines:
                 })
         except Exception:
             continue
+
     data["picks"] = valid[:top_pick]
     return data
