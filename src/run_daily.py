@@ -7,6 +7,8 @@ import pandas as pd
 from data_provider import download_daily_ohlcv_stooq
 from features import make_features
 from strategy_rules import score_and_explain
+from news_rss import fetch_news_rss
+from ai_news import summarize_news_with_ai
 from render_md import render_ticker_markdown
 
 def _now_str(tzname: str) -> str:
@@ -18,6 +20,7 @@ def run_one_ticker(ticker: str, cfg: dict) -> dict:
     top_k = int(cfg.get("report_top_reasons", 5))
     horizon_days = int(cfg.get("horizon_days", 5))
 
+    # ----- price + features -----
     df = download_daily_ohlcv_stooq(ticker)
     if df.empty:
         raise RuntimeError("No data from Stooq")
@@ -30,6 +33,38 @@ def run_one_ticker(ticker: str, cfg: dict) -> dict:
 
     proba_up, signal, reasons = score_and_explain(latest, top_k=top_k)
 
+    # ----- news (rss + optional ai) -----
+    news_cfg = cfg.get("news", {})
+    ai_cfg = cfg.get("ai", {})
+    company_map = cfg.get("company_names", {})
+
+    mode = (news_cfg.get("mode") or "rss_only").lower()
+    company = company_map.get(ticker, ticker)
+
+    suffix = news_cfg.get("query_suffix", "stock")
+    query = f"{company} {ticker} {suffix}"
+
+    headlines = []
+    ai_news = None
+
+    try:
+        headlines = fetch_news_rss(
+            query=query,
+            max_items=int(news_cfg.get("max_items", 8)),
+            days=int(news_cfg.get("days", 7)),
+            hl=news_cfg.get("hl", "en-US"),
+            gl=news_cfg.get("gl", "US"),
+            ceid=news_cfg.get("ceid", "US:en"),
+        )
+    except Exception:
+        headlines = []
+
+    if mode == "rss_plus_ai" and headlines:
+        try:
+            ai_news = summarize_news_with_ai(ticker=ticker, company=company, headlines=headlines, ai_cfg=ai_cfg)
+        except Exception:
+            ai_news = None
+
     return {
         "ticker": ticker,
         "asof": str(feat.index[-1].date()),
@@ -38,6 +73,8 @@ def run_one_ticker(ticker: str, cfg: dict) -> dict:
         "signal": signal,
         "horizon_days": horizon_days,
         "reasons": reasons,
+        "headlines": headlines,
+        "ai_news": ai_news
     }
 
 def main():
@@ -57,33 +94,36 @@ def main():
     for t in cfg.get("tickers", []):
         try:
             r = run_one_ticker(t, cfg)
-            summary.append({
-                "date": out_date,
-                "ticker": r["ticker"],
-                "asof": r["asof"],
-                "proba_up_next_day": r["proba_up_next_day"],
-                "signal": r["signal"],
-                "data_source": r["data_source"],
-            })
 
-            # JSON (เก็บไว้ audit ได้)
+            # save json (audit)
             with open(os.path.join(out_dir, f"{t}_result.json"), "w", encoding="utf-8") as jf:
                 json.dump(r, jf, ensure_ascii=False, indent=2)
 
-            # README ต่อหุ้น
+            # save markdown per ticker
             md_text = render_ticker_markdown(r)
             with open(os.path.join(out_dir, f"{t}_README.md"), "w", encoding="utf-8") as f:
                 f.write(md_text)
             with open(os.path.join("outputs", "latest", f"{t}_README.md"), "w", encoding="utf-8") as f:
                 f.write(md_text)
 
-            index_lines.append(f"- **{t}** → `{t}_README.md` | Signal: **{r['signal']}** | P(UP): **{r['proba_up_next_day']}**")
+            summary.append({
+                "date": out_date,
+                "ticker": r["ticker"],
+                "asof": r["asof"],
+                "proba_up_next_day": r["proba_up_next_day"],
+                "signal": r["signal"],
+                "data_source": r["data_source"]
+            })
+
+            index_lines.append(
+                f"- **{t}** → `{t}_README.md` | Signal: **{r['signal']}** | P(UP): **{r['proba_up_next_day']}**"
+            )
 
         except Exception as e:
             errors.append({"ticker": t, "error": str(e)})
             index_lines.append(f"- **{t}** → ❌ {e}")
 
-    # summary + index
+    # write summary + index readme
     pd.DataFrame(summary).to_csv(os.path.join(out_dir, "summary.csv"), index=False, encoding="utf-8-sig")
     with open(os.path.join(out_dir, "README.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(index_lines))
