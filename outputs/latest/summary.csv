@@ -1,0 +1,4 @@
+﻿date,ticker,asof,data_source,proba_up_next_day,signal
+2025-12-19,AAPL,2025-12-18,stooq,0.4991,DOWN
+2025-12-19,MSFT,2025-12-18,stooq,0.4697,DOWN
+2025-12-19,TSLA,2025-12-18,stooq,0.4972,DOWN
