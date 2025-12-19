@@ -6,7 +6,7 @@ def _stooq_symbol(ticker: str) -> str:
     t = ticker.strip().lower()
     if "." in t:
         return t
-    return f"{t}.us"  # US stocks
+    return f"{t}.us"  # default US
 
 def download_daily_ohlcv_stooq(ticker: str) -> pd.DataFrame:
     sym = _stooq_symbol(ticker)
