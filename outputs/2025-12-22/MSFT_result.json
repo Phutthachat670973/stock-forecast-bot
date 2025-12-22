@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2025-12-19",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.7859,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 1.6039 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0365 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0154 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0081 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0057 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW5jaWUybGhBcFNveGJNdFIzb0VqRWhDWWVDMFVnbS1HN1Z4d3VWd1pmSmh4dXNvY0xfTFZtWkdjcUpyemNjNnpySHpqclVaODdCSXM2SGo4c3JWVVhObnRDU3gxVy1rRVlGY1V1a19WeGZlWUhaTF9DQXlNYkhLQmtqWlpXQQ?oc=5",
+      "published": "Thu, 18 Dec 2025 13:30:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock Eyes $600 on AI and Cloud Growth - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2ZNWWF5ZWRybWVGUXJzMmhXcGF2YVhDQUo4N2MySHNaWllQX3kydm4tNW5qTm4zVmZfel9ld3YyWENtT2JQRTNuRkdUel9RSmF1dDM1UGlfV2Q1dmp1VEwtLXhYZk1rYXJqMmQ1NlY4WmNnakU4c2Rrd3dTQjRVZ0ZaMURGcU04WDhGUWwxWUFKVUlvZi12OGpOZG04Qklf?oc=5",
+      "published": "Thu, 18 Dec 2025 14:26:21 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "How to Invest in Microsoft Stock (MSFT) - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnlfZGI2cDJKMEtZeTlOMmdOZDItdXFYS1Zxdk5STDczbUoyNkdPS2FBdC1YMjFqajZtRlZ0SU1yOHVWTG5LY3ctRWF6ZUNNUm8tVVFkMDQwendSQnp0d3hPbHh5b1ExVVJnclBmSEF3ZWpYNFR3bVczQ2pxTTlnWVhhT0FaR0ZWX29UaVNR?oc=5",
+      "published": "Tue, 16 Dec 2025 17:46:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONkdFdGZWVk1UUjBxQngyUWt0akswbzVHMHdsT3BLQkZaQnFzMzc5dEdBeUcza01ab1AwX1lpejlJM3dTdjFhbDlyNzlCOGM5VlVYX05tVi13UV9QQmVZUWRod1BZbWE3aW1kZ2E4bEN6Q0p2VW4yUnVLV2dLTFgyVS1sblJZWXJ0WUVLb0tidzAwOGZaUklBZnRSVUdnTXpwemlqSklTRkFDYXNkMUF1NW5jMTZINm5icmQ0NENuQ1lJUQ?oc=5",
+      "published": "Thu, 18 Dec 2025 12:30:04 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Named a ‘Top Pick’ for 2026 by Morgan Stanley - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTVFFV1dIcGNkdG8yVEN6ZV9LTXdYZWpxNFhnMVdnODEwX3Y3YVN6MmpxamJTRFl4d1JPWUZ4S1JvODc3YmtkTXdlMzB4WGttNHgtVlJ0aFl3ZkNnUm1kZmdNaFRaRVFBYnNqeDd6U0VGeXF6MnNTVWJqODB2c2E1dWdTVElvQkkxVU5mN3BfRFp6bmJVZXMyZzZR?oc=5",
+      "published": "Wed, 17 Dec 2025 16:51:37 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft: Recent Sell-Off Presents Strong Buying Opportunity (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUZ1YV81SlV3dS1zMVgxWkVOTG5oTDNhUnRpU1BqOG14akxsT19ncW1ncFRkMVUtYXpIV0xhaGJCaWxULXNDYTNydzItSjFDeEk0LV94ZEdWQ2R4ODNVU0VMbksxVkdnQnE0UTRNWW45dGtuYUhGYUM3QnpBLTZ3Z0RNVXFLZ2NBaFF4TnpwZ2d4RnpTSWdMZ0gwbm5NOGVMaF9aWlAtVFdfV3c?oc=5",
+      "published": "Tue, 16 Dec 2025 05:11:17 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Week Ahead: Holiday Liquidity, GDP Data, and AI Headlines in Focus (Dec. 22–26, 2025) - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDR6cHotdC1Pam1TaHRydUlxUmpmT2pKSGNSTy1hdGt6RXVmZHFKSGYtQk8xQnhVeGhyZXRFSEF1RlR2SUhiVHpOaUdTTy1Id1RoTG5JWl80b0dIS005QURnWTl0dlNkNVgxa2lpNmxFYVRlaXFPSEtWRWhjdXVwN1ZETURGUW1zUWdBTW5TVUY5bVVJanBhd19pVHFvVTJYVDRfTlp4NkV5Z3BPdlQxMi0tWktwRHRTbGpLeQ?oc=5",
+      "published": "Sun, 21 Dec 2025 15:07:01 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on AI Investment and Stock Decline - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzduQ0gzRlZ2NGd5VHo4djZuNFd3eG1mMnNCclo3b3JSTHVabWd4SW5DNWRyNmhiU2xBX1ZMcU1LVnhNTkl4SThYNzZJZUYzT2pvR0NvSFZHODh1cXBKbmhia3N2QWpLX3lyWDhaLXJZNWl5ZzczYTQwb3dONmlQLW5aNjdmZjZZMUtFcG5ROEhubFd1NTRUTjZ4dHBoenNjYkZmQ3B3?oc=5",
+      "published": "Tue, 16 Dec 2025 14:07:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft มีแนวโน้มจะถึง 600 ดอลลาร์ จากการเติบโตของ AI และ Cloud",
+        "why": "พาดหัวระบุเป้าหมายราคาที่สูงขึ้น ($600) และสาเหตุเชิงบวก (AI และ Cloud Growth)"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft (MSFT) ได้รับการจัดอันดับให้เป็น 'หุ้นแนะนำยอดเยี่ยม' สำหรับปี 2026 โดย Morgan Stanley",
+        "why": "พาดหัวระบุว่า Morgan Stanley ยกให้เป็น 'Top Pick' ซึ่งเป็นการส่งสัญญาณเชิงบวกอย่างชัดเจน"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Microsoft: การเทขายล่าสุดเป็นโอกาสในการซื้อที่แข็งแกร่ง",
+        "why": "พาดหัวระบุอย่างชัดเจนว่าเป็น 'Strong Buying Opportunity' (โอกาสในการซื้อที่แข็งแกร่ง)"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "การคาดการณ์ราคาหุ้น Microsoft (NASDAQ: MSFT) สำหรับปี 2025: จะเป็นอย่างไรใน 1 ปีข้างหน้า",
+        "why": "พาดหัวเป็นการคาดการณ์ราคาหุ้นโดยทั่วไป ไม่ได้ระบุทิศทางราคาขึ้นหรือลงอย่างชัดเจน"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ความเห็นเกี่ยวกับหุ้น Microsoft (MSFT) ในเรื่องการลงทุน AI และการลดลงของราคาหุ้น",
+        "why": "พาดหัวกล่าวถึงทั้ง 'AI Investment' (เชิงบวก) และ 'Stock Decline' (เชิงลบ) ซึ่งเป็นการนำเสนอข้อมูลแบบผสมผสาน ไม่ได้ชี้นำทิศทางเดียว"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "พาดหัวส่วนใหญ่แสดงถึงมุมมองเชิงบวกอย่างชัดเจนเกี่ยวกับหุ้น Microsoft โดยมีการระบุเป้าหมายราคา โอกาสในการซื้อ และการจัดอันดับเป็น 'Top Pick' แม้จะมีพาดหัวบางส่วนที่เป็นกลางก็ตาม"
+    }
+  }
+}

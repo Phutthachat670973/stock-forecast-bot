@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-19",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.6858,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.3035 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0765 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0485 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0576 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0379 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla's Stock Drives Up to a Record High, After a Year-Long Wait - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHNmLTBuYnFsX3pvelVsVlJqMUJCc0I5YTZfV3lCWGFLOUZpUXBfeFd0TVgxSzJkeWZNSG1oekNBSHVkMWlib0wyNkJPWGwtYWptaTd6Um9UYVRiWkNrYVBpZGRUUkdXZzUzazlJUkpqQWItZEVLZUtsWm9QTUtZZ204bFlOR2FrZ2hrVHExREF6NzdmSVZFMGJqYk5Vc1hRSi1ZdldFcEYzdlZkaWpPMA?oc=5",
+      "published": "Tue, 16 Dec 2025 20:29:46 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Predictions for 2026 and Beyond - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nVlI1QjJaUkNLazNFc3FLN25GQnpWM2VjZVNuU0NUNnBfdldMSnh0MFlQMDlMSEstb0ZDd3Awb04zSlVtclNDeERSTlNIN3FuUFMxRVp2WmhpTDI1TURGN2VxQXpWYXdCajlZNXZMMkJlQ1lDaHViSVBKeDhBUQ?oc=5",
+      "published": "Tue, 16 Dec 2025 00:44:12 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "TSLA Stock Price Prediction: Where Tesla Could Be by 2025, 2026, 2030 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSk9teHJ0czZvaW9VNDFwX1Y2cHJEQmpZZFpkLThOSkFmNW5NZTAzYlYzMlV5WDhtQnc3T2R3bDRBVmIzT1VJMmRqbkhlYnNkYmxMS25qUmtzUURlRmxlR3N0VXlDRThDX0lzS1FrZTlsUVBjVVRTS09PdGd2d01aTFVGNThndw?oc=5",
+      "published": "Fri, 19 Dec 2025 10:25:29 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Shares Headed for Record for First Time in a Year - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMW5zOHo1RDJZUGFXdlJ3SW5ubUp6d1RDZDFRMEtScWQwQXZMOWZyd1BoSjQ2YlJZLXlUV2dPUHJNTmR3Qld3TDRCOFVVNDRyX0NKYldzSVZqRmdKZUpoU051MU9uVkoyVGNmZHVGTlQ4b3ZxWTJRWTMzMU1BU0RuT19FN191OUU5d1c4QmZ1WmNBdmktc0VOQWlTNUpUYWRLQ3RJemdtSDFldw?oc=5",
+      "published": "Mon, 15 Dec 2025 15:16:56 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Tesla Stock Has A New Buy Point. Will Driverless Robotaxi Excitement Fuel Action? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNHVCNzRvNklKYjhMQzBVTHUtZmFXNE1lX0haNXVpUW5QenRtTXNsVDh4RHBORTRHNHgwMnQ0TTVkdHJSbVFZQlJYZWJYVDEwSk9maUY2WUR4TC12WHQtS2RjaEhlaXk3MU4zRUhDdTI0aW9ZaFZiQVRzRmV5UmdpV1VjWG5ESnhnUUtXeWdkd2J3UVpWNHc4RXZBYV8yeG9OOERB?oc=5",
+      "published": "Mon, 15 Dec 2025 21:06:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "What Can Trigger Tesla Stock’s Slide? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVVQUHRULVhQTU9iMW9uYm9nT2FMSEVGbGsyMW1URmZLaG9WS2pybXRhaDJkdUQtU21veTRGUHZQQVRmR3NnT294dzh2andqUWJFZTJUenJNMDdQODZtTVBmWDEySGgwSUhrRklSTlF5anF3NEZyZWRRU0FEWG4wRVB1dnFHUTZZX0dHX3dCd1pHQ1ZySkJIeUhB?oc=5",
+      "published": "Fri, 19 Dec 2025 14:05:31 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 18) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWFNZWlqM2swcnEtX21SMHRXYzlPR0hGd3g1bmFEYUtkUkM2V1lkdGk4TWxwUTZzOHMxYThaQ3RtZzQ5YTl6QjJOT0NiTDJGcU5GS1dIQmRvR3ZsREc3bTA3c2hpZ21rdGMwT1dZeFhhd2RydENRLTlTREdhYjBRS0dRV3RpTDdmNGRmMw?oc=5",
+      "published": "Thu, 18 Dec 2025 13:25:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla stock split: what’s next for TSLA shares? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jSzVOTnZqV2R5cXd1U1BnZ1RrNDE4eGdvRjVHVExCZ3B2VGp2ZzNfcTk4NXV6dTVpSGdmaEJHbGk4U2pweFM3MDdlbG9xelJ6bHozNXFGY0hvbVNfM2YwcEl4SQ?oc=5",
+      "published": "Tue, 16 Dec 2025 13:02:00 GMT",
+      "source": "Capital.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Tesla พุ่งขึ้นสู่ระดับสูงสุดเป็นประวัติการณ์หลังจากรอคอยมานานหนึ่งปี",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าหุ้นของ Tesla 'Drives Up to a Record High' ซึ่งบ่งชี้ถึงการเติบโตและการขึ้นของราคา"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Tesla กำลังมุ่งหน้าสู่จุดสูงสุดเป็นประวัติการณ์เป็นครั้งแรกในรอบปี",
+        "why": "พาดหัวข่าวระบุว่าหุ้น 'Headed for Record' ซึ่งแสดงถึงโมเมนตัมเชิงบวกและแนวโน้มที่ราคาจะสูงขึ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "หุ้น Tesla มีจุดซื้อใหม่ และมีความตื่นเต้นเกี่ยวกับ Robotaxi ไร้คนขับที่อาจกระตุ้นการเคลื่อนไหว",
+        "why": "วลี 'Has A New Buy Point' บ่งชี้ถึงโอกาสในการเข้าซื้อที่อาจนำไปสู่ราคาที่สูงขึ้น และการกล่าวถึง 'Robotaxi Excitement' ชี้ให้เห็นถึงปัจจัยบวกที่เป็นไปได้"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวสำรวจปัจจัยที่อาจทำให้หุ้น Tesla ร่วงลง",
+        "why": "คำว่า 'Trigger Tesla Stock’s Slide' แสดงถึงความกังวลเกี่ยวกับความเป็นไปได้ที่ราคาหุ้นจะลดลงหรือเผชิญกับแรงกดดัน"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "พาดหัวข่าวกล่าวถึงการแตกหุ้นของ Tesla และตั้งคำถามเกี่ยวกับอนาคตของหุ้น TSLA",
+        "why": "การแตกหุ้นเป็นเหตุการณ์ทางองค์กรที่ไม่จำเป็นต้องบ่งบอกถึงทิศทางราคาโดยตรงในระยะยาว และพาดหัวข่าวเพียงแค่ตั้งคำถามว่า 'what’s next' ซึ่งแสดงถึงความเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "มีพาดหัวข่าวหลายรายการที่บ่งชี้ว่าหุ้น Tesla ทำสถิติสูงสุดใหม่และมีจุดซื้อใหม่ ซึ่งบ่งบอกถึงแนวโน้มเชิงบวกที่แข็งแกร่ง แม้จะมีพาดหัวข่าวที่พูดถึงปัจจัยที่อาจทำให้ราคาลดลงก็ตาม"
+    }
+  }
+}
