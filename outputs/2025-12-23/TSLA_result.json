@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-22",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.663,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0816 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.1118 → หนุนขึ้น",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1031 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0375 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0282 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock In A Buy Zone Amid More Unsupervised Robotaxi Videos And Musk's Pay Deal Court Win - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd6WFhickhJWGJIcjd4M3BYWWI5b0RvVnNOT0JxeXhDTHRHVXRzQllIY18xMUt4QzhHWHV1ZHdEV0pSVDQ2OVAzNjI1TzFnN3BvRk9BRU52NWd4cjhhZ1RDRS11MkxmcFozLXNjSktKMENFbk5ZS3ROdXRsNHZHbmQ5c0MwZzV5NVl5bWZkRTY4TXR2STNfa2c5V3VLTHYxY0lRTEtSX3h6Zw?oc=5",
+      "published": "Mon, 22 Dec 2025 21:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why Tesla (TSLA) Stock Is Trading Up Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lWDRCTUZEU1dGZ0ZUYzc1VXNGMXFFN1dmVG5hTHIxXzlaNlRUSkhWcFVpV1B1YkN2dmNiZjc2NGUtQ3FSUThOUGhybHpzVnpmRktuREI2SFNxc1ZWRmhvaTZuMEVDZHdHZ2s4OWtoY0w5c21CakhobjgzeEJGSXM?oc=5",
+      "published": "Mon, 22 Dec 2025 20:01:29 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla's Stock Drives Up to a Record High, After a Year-Long Wait - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHNmLTBuYnFsX3pvelVsVlJqMUJCc0I5YTZfV3lCWGFLOUZpUXBfeFd0TVgxSzJkeWZNSG1oekNBSHVkMWlib0wyNkJPWGwtYWptaTd6Um9UYVRiWkNrYVBpZGRUUkdXZzUzazlJUkpqQWItZEVLZUtsWm9QTUtZZ204bFlOR2FrZ2hrVHExREF6NzdmSVZFMGJqYk5Vc1hRSi1ZdldFcEYzdlZkaWpPMA?oc=5",
+      "published": "Tue, 16 Dec 2025 20:29:46 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Why Tesla Stock Popped Thursday - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVVlWLTZPY01UN09qN3p4ZkoxRlUxU2N0QzQwcWxGOVZfSFdKU1pUM3RzWWpIZEN4ZDRJOVFLS0duVkZ4dWpBcnFLLS11MnZvLW1keEJlbWpUdGk1dUpKLXlCMmJRc1YwTFRRaVRnRXVtRDk3MUJpZ3lnQ1Vablk?oc=5",
+      "published": "Thu, 18 Dec 2025 19:08:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Forecast — 3 Red Flags Investors Can’t Ignore in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1yMVZZUERaYjdBaVFJbnhEcXJOUFJKdkxVenNZMkpnalFibHh3RHZIcVY1azdqZkxlLUhjN2NnTnh0VlNHQzFmRzZsaUpYTVFRMTl4WTUxVjM0M25jYnBXbEFPMDJzNGlLdXpOUmhQd3BNWlJLTFVTbE5CbEJSWm1iMGxOX3kxN0pZZ3NvX3NKbnpONE1qQWlrNGhPUQ?oc=5",
+      "published": "Mon, 22 Dec 2025 13:53:06 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla stock hits new record high the day after longtime bull decided to take profit - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMm9ReGlYMkFTNlVWVUV1TTRlVjdOM0R5OE4xblNac3U4b010NkZYM3Btakd3WnZydmVUdmpQbVhUSmtzUWxXd3F0cE1ZVHlsQlZIbUpCVEwycktORG11ZE1SaFhkcHAtLTNpR1h2dW42SnRsRElON0lkVzc5YzE3d0NyaDlPdGl4VkMxUFJtSDB1ZzllMTlXUC1vbF9LZ255TGxRZEp0aG0xY0Izbk1qY0g0NkM1QXp3Q0NhTDhfcmt0OVRwUVRoalVkV3lXMHZ3SjJsWXcyVENlcldWeUdyVw?oc=5",
+      "published": "Tue, 16 Dec 2025 13:42:36 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "What Can Trigger Tesla Stock’s Slide? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVVQUHRULVhQTU9iMW9uYm9nT2FMSEVGbGsyMW1URmZLaG9WS2pybXRhaDJkdUQtU21veTRGUHZQQVRmR3NnT294dzh2andqUWJFZTJUenJNMDdQODZtTVBmWDEySGgwSUhrRklSTlF5anF3NEZyZWRRU0FEWG4wRVB1dnFHUTZZX0dHX3dCd1pHQ1ZySkJIeUhB?oc=5",
+      "published": "Fri, 19 Dec 2025 14:05:31 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla: Fundamentals Don't Add Up (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UZ3k2aEdxSGVqQTdsVmhQSFlPVDRPWnU2ZWtiWW80anVwQWtuM3RxMjR6eVc5OFdHckxtdE5kc3l0dzZ1UzBkNkhMc2ZvNk1lU0dMLVZwZnBiRm8zd0RJU00zcEdyQlhmeHI4R0xvTklKbEc1WDJpY2lwYw?oc=5",
+      "published": "Tue, 16 Dec 2025 16:38:36 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้นเทสลาอยู่ในโซนที่น่าซื้อ ท่ามกลางวิดีโอ Robotaxi แบบไร้คนควบคุม และชัยชนะในคดีข้อตกลงค่าตอบแทนของมัสก์",
+        "why": "พาดหัวข่าวระบุถึง 'Buy Zone' และปัจจัยบวกสองอย่างคือ วิดีโอ Robotaxi ที่เพิ่มขึ้น และชัยชนะในคดีค่าตอบแทนของ Elon Musk ซึ่งเป็นสัญญาณเชิงบวกสำหรับหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้นเทสลาพุ่งสูงขึ้นเป็นประวัติการณ์ หลังจากรอคอยมานานหนึ่งปี",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าหุ้นเทสลา 'พุ่งสูงขึ้นเป็นประวัติการณ์' ซึ่งเป็นตัวบ่งชี้การเคลื่อนไหวของราคาที่เป็นบวกอย่างมาก"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การคาดการณ์หุ้น Tesla (TSLA) — 3 ธงแดงที่นักลงทุนไม่ควรมองข้ามในปี 2026",
+        "why": "พาดหัวข่าวระบุถึง '3 ธงแดง' ซึ่งบ่งชี้ถึงสัญญาณเตือนหรือความเสี่ยงที่อาจส่งผลเสียต่อหุ้นในอนาคต"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "อะไรที่สามารถกระตุ้นให้หุ้นเทสลาตกต่ำได้?",
+        "why": "พาดหัวข่าวตั้งคำถามเกี่ยวกับปัจจัยที่อาจทำให้หุ้น 'ตกต่ำ' ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบที่อาจเกิดขึ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Tesla: ปัจจัยพื้นฐานไม่สมเหตุสมผล (NASDAQ:TSLA)",
+        "why": "พาดหัวข่าววิพากษ์วิจารณ์ว่า 'ปัจจัยพื้นฐานไม่สมเหตุสมผล' ซึ่งเป็นการประเมินเชิงลบต่อมูลค่าพื้นฐานของบริษัทและอาจกดดันราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "การเลือกพาดหัวข่าวแสดงให้เห็นถึงทั้งปัจจัยเชิงบวกที่ผลักดันราคาหุ้นให้สูงเป็นประวัติการณ์และอยู่ในโซนที่น่าซื้อ และปัจจัยเชิงลบที่เกี่ยวกับธงแดง ความเสี่ยงในการตกต่ำของหุ้น และข้อกังวลเกี่ยวกับปัจจัยพื้นฐาน ซึ่งทำให้สถานการณ์โดยรวมเป็นกลาง"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-22",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8454,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 17.6223 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2306 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0240 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0276 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0254 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Morgan Stanley Lifts Apple Inc. (AAPL) Price Target on Earnings Growth Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNxZUpldGwwM1pwNXU5LUUtYUNmV191WTJtaTRvc1ZGSS1uV1FycWJEdGlxaE1OUTJkdkNweFBCUkxpSTllU0cxUFprNDd4bHFsQkFlVjhNT1J4OGwxbzJvWEZ1S2U4ekZJdTFsdjA0SlNSYk5OanlsLWFfb3FMZ053?oc=5",
+      "published": "Mon, 22 Dec 2025 13:39:55 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock Could Drop 30% on Valuation Risks - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1Frb1Z4dm93WnpoaDRHNEJTTnFlVmpNckZ6YjdmQnBqS092b2lKOWZIY0JlVFJSUEw5bzUwOWp3OThJXzVFbl91dXNYelp2Y1JINktpSFBuU3hwM25pRHN0ZkYzZTVLNGRSUlJka0xGOGswTFlzUWRUeHJEbWt3MzJfcjhOdmh1alNiazFlcDBCVTg?oc=5",
+      "published": "Tue, 16 Dec 2025 13:20:06 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 19 Dec 2025 18:08:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Top Morgan Stanley, Jefferies Analysts Lift Apple Stock (AAPL) Price Target. Here’s Why - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdE43bTcxYVlrSWFhUjBjaDVTc214TlNFOUNwbG8td0FPS3FxSXhNV0t2WXg1ejQ4bmFLSGZhV2sxckk2bDg5UEwtZzNwNEFldnlOd3NYa1JHT0k2SkgtdFpDdjRQRGkxR05Vak1xcEx3b1F2YUxEQzBDd1NaUG9kamswM3NrbldHMk5FQnpyS2gxcFIxdWdlejFfNjFPZTJhS3JUTkpxcmljUDRNWkpQOXpR?oc=5",
+      "published": "Thu, 18 Dec 2025 21:22:23 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3VWZU5YZlZ6UTE4cUNBVXdPVXhsVEdNWDdVaUdONDN3M1NhaTJiSXBUOHpKUTlaNld4c3NfeVF5dW9tZUw4VXBvNFNWeWhfRXVzem9ZN1FaLWEtSkZZVDVFYUVrTENwc0h2TDRoLThFNXpWWTRwMFJ5OHZoUVFyS1Q2X0JRSXBVYnZKWDBlYw?oc=5",
+      "published": "Sat, 20 Dec 2025 22:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "The Hidden Dangers Facing Apple Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHNoUnY4dVlCd2JmQWlPVDVDNGQxMkJVamZmQVRpQmlta3NoZnJZekhwYjdxM203MG9PTTRNbkh3MTB0VVRRSlZHT0JRRzJfQmZBVzRQbXFweDFxVldkNjFWaG5icmFwUWdPQV9xQXdtdHloTHBZcEdWYkxwY05mLWs0TU1rc29VYkt4YzBBNmNmbm5YSUdnOVJ4eVRGbmcwV3hsY3J6RlhqRGc?oc=5",
+      "published": "Tue, 16 Dec 2025 08:29:15 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Apple Stock (AAPL) Pre-Market Preview: Key News, Analyst Forecasts, and What to Watch Before the Open on Dec. 22, 2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdmtXcHNScFJnTmdBVkd5LXRHNW1RQkZKaFBVbkd6eC10X1Yyb09QeGt6VVoyeGQ4OFdrQlg1MnNMMGJNTDE3TTFaSkl2QlhSQTZ3bXJkZVRQOVFmLXlnaXlrdzRUaTV6cTdSSS1fVzY2MTg5VlZTalk3dmJjODl1WFh6SWN3TWVaSzV3QzRrQjl4UXM3NGxrekZyQVhoSlRTRjI4anMxQnRNa191aTV3eGlBd3JZTmxHSnBFeUhxV09NVXQ4Rl9JTmI1QjY?oc=5",
+      "published": "Mon, 22 Dec 2025 00:57:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on India Supply Chain Strategy - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVltYzBtejcxR2p1MWRpV2lsWElwa0RjeXZBeXUzTWVIUW9XemJDUWF2VTFjcWtkOWoxZTBhdVF2SkJuSW1jeXZOQmtOMkNqXy1pWXBONTluWFJyclI1OHdGQTZWb1NWS1Vlak4xWGRWRk81ZWcwcE1TODFVSWlJaTJ2OFdONW1KbWZvLVpuMTJ3d09XRklWQnlqbw?oc=5",
+      "published": "Wed, 17 Dec 2025 17:38:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Morgan Stanley ปรับเพิ่มเป้าหมายราคาสำหรับ Apple Inc. (AAPL)",
+        "why": "การปรับเพิ่มเป้าหมายราคาโดย Morgan Stanley เป็นสัญญาณเชิงบวกต่อแนวโน้มการเติบโตของกำไรของ Apple"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple อาจลดลง 30% เนื่องจากความเสี่ยงด้านมูลค่า",
+        "why": "หัวข้อข่าวระบุถึงความเสี่ยงด้านมูลค่าที่อาจทำให้ราคาหุ้น Apple ลดลงอย่างมีนัยสำคัญ"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์ชั้นนำจาก Morgan Stanley และ Jefferies ปรับเพิ่มเป้าหมายราคาหุ้น Apple (AAPL)",
+        "why": "การปรับเพิ่มเป้าหมายราคาโดยนักวิเคราะห์ชั้นนำสองรายเป็นสัญญาณเชิงบวกที่แข็งแกร่งสำหรับหุ้น Apple"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "อันตรายที่ซ่อนอยู่ซึ่งกำลังเผชิญกับหุ้น Apple",
+        "why": "การกล่าวถึง 'อันตรายที่ซ่อนอยู่' ชี้ให้เห็นถึงปัจจัยลบที่อาจส่งผลกระทบต่อราคาหุ้น Apple"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 70,
+        "summary": "ความคิดเห็นเกี่ยวกับกลยุทธ์ห่วงโซ่อุปทานของ Apple (AAPL) ในอินเดีย",
+        "why": "หัวข้อข่าวเพียงระบุถึงความคิดเห็นเกี่ยวกับกลยุทธ์ห่วงโซ่อุปทานในอินเดีย โดยไม่ได้บ่งบอกถึงผลกระทบเชิงบวกหรือลบต่อราคาหุ้นโดยตรง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 60,
+      "note": "มีมุมมองที่หลากหลายเกี่ยวกับหุ้น Apple โดยมีทั้งนักวิเคราะห์ที่ปรับเพิ่มเป้าหมายราคาและคำเตือนเกี่ยวกับความเสี่ยงที่อาจทำให้หุ้นลดลง ทำให้สถานการณ์โดยรวมดูเป็นกลาง"
+    }
+  }
+}
