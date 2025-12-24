@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8365,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 24.2913 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3557 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0179 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0251 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0174 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Morgan Stanley Lifts Apple Inc. (AAPL) Price Target on Earnings Growth Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNxZUpldGwwM1pwNXU5LUUtYUNmV191WTJtaTRvc1ZGSS1uV1FycWJEdGlxaE1OUTJkdkNweFBCUkxpSTllU0cxUFprNDd4bHFsQkFlVjhNT1J4OGwxbzJvWEZ1S2U4ekZJdTFsdjA0SlNSYk5OanlsLWFfb3FMZ053?oc=5",
+      "published": "Mon, 22 Dec 2025 13:39:55 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Seen Moving From AI Laggard To Leader In 2026 - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWldwR3k0T1RjX3UzNlY0dTBWNDNyLXkwaVNKS2dvcFptT2NGaGxYOXhMaUxnRjRqd3VkVWFsbUdNNnJKSjlSbG9FY25NZWFwWDR4a1JFS3FZcEdIMW5zNjdvTWllTGs3X3hSTEVNeW5LZ29UTXI1VGxqQWJjbVhaNE9Fb2RYNVFRbW5BS2lieFg2REthNi1n?oc=5",
+      "published": "Wed, 17 Dec 2025 21:30:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3VWZU5YZlZ6UTE4cUNBVXdPVXhsVEdNWDdVaUdONDN3M1NhaTJiSXBUOHpKUTlaNld4c3NfeVF5dW9tZUw4VXBvNFNWeWhfRXVzem9ZN1FaLWEtSkZZVDVFYUVrTENwc0h2TDRoLThFNXpWWTRwMFJ5OHZoUVFyS1Q2X0JRSXBVYnZKWDBlYw?oc=5",
+      "published": "Sat, 20 Dec 2025 22:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Evercore ISI raises PT on Apple (AAPL) stock - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRmRILWhIeDBkc3gtekNZUG1OdXI4ajY3d0h1VERteHJTVWxLWlRjX2hzdWRUTFZzaEk1dTIzNDdjQWRHNTl2S2xncVpCR1NZV1ptcERHMVhuVEFaSS1PRFJBazFzbFJFbUJCUHplUW1LNTRjMzZfaGZQanJKeGcwdFBGS2pOeV9KZGxZYTc0b2ZrVnd3Sk1UWHJNZzgtZl9VN2tMVlJnYWpLekVMMHpEdWVuSkIzM2ZsY3c?oc=5",
+      "published": "Thu, 18 Dec 2025 06:01:21 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "Top Morgan Stanley, Jefferies Analysts Lift Apple Stock (AAPL) Price Target. Here’s Why - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdE43bTcxYVlrSWFhUjBjaDVTc214TlNFOUNwbG8td0FPS3FxSXhNV0t2WXg1ejQ4bmFLSGZhV2sxckk2bDg5UEwtZzNwNEFldnlOd3NYa1JHT0k2SkgtdFpDdjRQRGkxR05Vak1xcEx3b1F2YUxEQzBDd1NaUG9kamswM3NrbldHMk5FQnpyS2gxcFIxdWdlejFfNjFPZTJhS3JUTkpxcmljUDRNWkpQOXpR?oc=5",
+      "published": "Thu, 18 Dec 2025 21:23:24 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Analysts Are Hot on the Foldable iPhone. Should You Buy AAPL Stock Before Apple’s Next Big Product Launch? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSk45dVo0YlRUbWVpVzBaVjFaSzVlSHlPS0hkd0hmV21YcTFmZmVmYkVIR1djMmlBbkZNaEs1bG96dGtscVhmcnlGd0d0LUllVmNHZG5GZktQWEdESXBQcHg4X1Vab0J5Q1h5c1BaQVpqZjBHbXI1M3l1WjJjbUY4WjNvZUF2dElBaFdBeG9tR1JSMnQ2U2pBQUFTc1A5RXBodWN2OHNSVHlTUDdIX0pleTRZbGlzNXIyVVp6RVFBVUJMUHNCQ1RyNkY3TEkwNGpuQWFzWEZmV0pCV2ZUM1Q1aUNR?oc=5",
+      "published": "Sun, 21 Dec 2025 16:00:02 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple Stock (AAPL) Pre-Market Preview: Key News, Analyst Forecasts, and What to Watch Before the Open on Dec. 22, 2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdmtXcHNScFJnTmdBVkd5LXRHNW1RQkZKaFBVbkd6eC10X1Yyb09QeGt6VVoyeGQ4OFdrQlg1MnNMMGJNTDE3TTFaSkl2QlhSQTZ3bXJkZVRQOVFmLXlnaXlrdzRUaTV6cTdSSS1fVzY2MTg5VlZTalk3dmJjODl1WFh6SWN3TWVaSzV3QzRrQjl4UXM3NGxrekZyQVhoSlRTRjI4anMxQnRNa191aTV3eGlBd3JZTmxHSnBFeUhxV09NVXQ4Rl9JTmI1QjY?oc=5",
+      "published": "Mon, 22 Dec 2025 00:57:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "These Techs Had The Biggest Stock Buybacks In Q3. What To Expect In 2026. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RQ3hhLVA2R09tT19ZcklfMGdLMkRvcG84NjdhbHd5WmdQeERFTlg4VGQzMjNfTXVJUVlCSHF4VTFvaVhtc1M1V2VVTUxGYzdLUy1pdEQwMWZrcHNVXzM1XzhwMXA5czBZMHZwY0FaWmtFTEpPMGFoY2lQUQ?oc=5",
+      "published": "Thu, 18 Dec 2025 19:56:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "มอร์แกน สแตนลีย์ปรับเพิ่มเป้าหมายราคาหุ้น Apple Inc. (AAPL)",
+        "why": "การปรับเพิ่มเป้าหมายราคาหุ้น Apple Inc. (AAPL) โดย Morgan Stanley เกิดจากความคาดหวังการเติบโตของกำไร"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple ถูกมองว่าจะเปลี่ยนจากการเป็นผู้ตาม AI ไปสู่ผู้นำในปี 2026",
+        "why": "การคาดการณ์เชิงบวกว่า Apple จะก้าวขึ้นเป็นผู้นำด้าน AI ในอนาคตเป็นสัญญาณที่ดี"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Evercore ISI เพิ่มเป้าหมายราคาหุ้น Apple (AAPL)",
+        "why": "การปรับเพิ่มเป้าหมายราคาหุ้น Apple (AAPL) โดย Evercore ISI"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์ชั้นนำจาก Morgan Stanley และ Jefferies ปรับเพิ่มเป้าหมายราคาหุ้น Apple (AAPL)",
+        "why": "นักวิเคราะห์ชั้นนำหลายรายได้ปรับเพิ่มเป้าหมายราคาหุ้น Apple (AAPL)"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "นักวิเคราะห์มีความสนใจอย่างมากใน iPhone แบบพับได้ และมีการพิจารณาเรื่องการซื้อหุ้น AAPL ก่อนการเปิดตัวผลิตภัณฑ์ใหม่ที่สำคัญของ Apple",
+        "why": "ความสนใจของนักวิเคราะห์ในผลิตภัณฑ์ใหม่ที่มีศักยภาพ (Foldable iPhone) และการพิจารณาการซื้อหุ้นก่อนการเปิดตัว"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 90,
+      "note": "ข่าวส่วนใหญ่ที่เลือกมาแสดงถึงมุมมองที่เป็นบวกต่อ Apple (AAPL) โดยเฉพาะอย่างยิ่งจากการปรับเพิ่มเป้าหมายราคาหุ้นโดยนักวิเคราะห์หลายราย และแนวโน้มเชิงบวกเกี่ยวกับ AI และผลิตภัณฑ์ใหม่ในอนาคต"
+    }
+  }
+}

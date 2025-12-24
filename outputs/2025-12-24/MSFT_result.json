@@ -1,0 +1,66 @@
+{
+  "ticker": "MSFT",
+  "asof": "2025-12-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4168,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.4244 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0220 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0319 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0074 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0105 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW5jaWUybGhBcFNveGJNdFIzb0VqRWhDWWVDMFVnbS1HN1Z4d3VWd1pmSmh4dXNvY0xfTFZtWkdjcUpyemNjNnpySHpqclVaODdCSXM2SGo4c3JWVVhObnRDU3gxVy1rRVlGY1V1a19WeGZlWUhaTF9DQXlNYkhLQmtqWlpXQQ?oc=5",
+      "published": "Thu, 18 Dec 2025 13:30:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock Eyes $600 on AI and Cloud Growth - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2ZNWWF5ZWRybWVGUXJzMmhXcGF2YVhDQUo4N2MySHNaWllQX3kydm4tNW5qTm4zVmZfel9ld3YyWENtT2JQRTNuRkdUel9RSmF1dDM1UGlfV2Q1dmp1VEwtLXhYZk1rYXJqMmQ1NlY4WmNnakU4c2Rrd3dTQjRVZ0ZaMURGcU04WDhGUWwxWUFKVUlvZi12OGpOZG04Qklf?oc=5",
+      "published": "Thu, 18 Dec 2025 14:26:21 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPVUtPZWl3a3NDMzlId0xpUFFKX1JDNVdJTzZxNzFWNnFOZjk3emRmUmt3dllCX25ISkJELWZUdU56VVY5S001dzRHai1xWm1zclMtc0xGc0tNTlM1N3kyNmZmejNDdjd5YWthUjE2ZUlGMFRneEU1QUZmeWNReVd4RWV4cE5PMUFFdEVMdW5Ybmp4TkRzMDZWN2NBUWNlMUNhRUgxS3UxRkppMUhQYmZKX2VxQVRqV05oQ1BROUxRZmtIQ0JfeGo4M3BxS19PWW56QV92TmxkZEV5dXRGbmtNMlhET2RGTmZmR2RvTFBuenYtZGVhaFhQdllxaEJWbHZRT0lvT195MHMtRDFyQ1l0dkJ2MmZKYzlhbmJEVjR6aEo3Q1Fady1qbUFmUGZOU2trX0NvemljeUE5Uk9yelA0NXpyVHpfbGY3dWRwaERyUmk2cGxrcVZrSlBLT2duNllBWGJRMS15VzRfd08xYUZRT1dhcFZSTEIyM2pQT3dWM1Fudw?oc=5",
+      "published": "Mon, 22 Dec 2025 14:33:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock: What to Know Before the U.S. Market Opens on 22/12/2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0hBYmJmVmZGY3djUTI2Y0tYNXk3elQ4eHFpZlZRcHVoNU9IX3FOaXJ1NmdnbkQxNTNWZWRHTE5wSENiZnc5THZORnpFNDVtNkgyTGdWcFZkeDVFTU1IazFhNnc5aVEwUGVoc2hycFQ2RXRwam5QVkRwTWtDR3QzbWVZY2dheTNDeWZ3SWJ1TzNPOG4yYU0zZkhncUQ?oc=5",
+      "published": "Mon, 22 Dec 2025 01:02:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Dan Ives Says Microsoft Stock (MSFT) Can Rise Nearly 30% in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEc5Zk9MbWpETk5EM2xteV9TY1JQOWFxYjE2RnJDSWVZTzFVUDJxT1A1WGptQnE4YlA4QmJBTUltQi1sYlFqWWdjbE9sUDhIUDdqYXpmRHRTblBRV0VhQlI0YnFBT1NjMXdORUR5Z3dpYk1CeUFRVjVjVmxUQU1XcnBRTEQzS2w0dWM1Q1QxaVpLMzJCdlE?oc=5",
+      "published": "Mon, 22 Dec 2025 16:13:18 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Is Microsoft Undervalued by Investors? These Tech Stock Experts Think So. - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS20wSTR4TlNsWmhTSUlOeTl6RGQyRmF5ZTM5TGtqRTBtRXpXOGZrUW9iM2ZtQVk1OHN2MWZEYlRpaXpmdGNPSXBMVWY4d3NUVzJkTDJkejhfRERIdmR1dFJJQ3RRU3l5NUJnUjlQTExqS05iTDBxQnZQbUN3N0xkZVRZbFR6ZEp3SjVRUU5HLVJRN1FoYjAtV1BSREJ3Nkltd09IMkNhMVEtSkxlcFE?oc=5",
+      "published": "Mon, 22 Dec 2025 20:34:53 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "How Does Microsoft Stock Stack Up Against Its Peers? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1NSYjNmU2tOaDhxazJRZ3g4clJUNzdnREp5RjFPME5nWUREX0lnNHlIR2xidTUzaVJRUXRlUWVRTEllX0xNSV9EVzVNTVROR1F0dlRmUXdVNk50bUNaclZfdkg5amJweVVISmgzR2dZM1UxRGUxem1lWm1Gekh1T3NFSHhrSVFoZDl2RzlhVTJ6YXlnLVZwdFZiVjI3SGNMajE4MmxsemlsdXpQZmtFb0lzdmRNM0NPNnJYTWxYMA?oc=5",
+      "published": "Tue, 23 Dec 2025 07:24:27 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Microsoft: OpenAI Is Looking More Like A Liability Than A Golden Goose (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV215bjI3d3ZRc1BITmxwY0RLZ1VsMWNXeDF1Y2hqTnVMYngzbldFNWRSZ2RKel9nYWpqS2cya0NTNTBzWDlPQzFZVHhueEtnbmVnMXJCaWkxQ2tFeEJJcDdqM0oxU1ZydEx1dTBsYmVNXzBhVUxTd3J5RHQycEVoUU53aWVaTnZZZnpMVjRMRlNtRzhHMm8yWUtqTHZyZ0JaLUctelBpSmFoOExFMVZv?oc=5",
+      "published": "Mon, 22 Dec 2025 17:24:18 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": null
+}

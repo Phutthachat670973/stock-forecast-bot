@@ -1,0 +1,66 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.56,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0666 → หนุนขึ้น",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2425 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0907 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0387 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0295 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Why Tesla (TSLA) Stock Is Trading Up Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lWDRCTUZEU1dGZ0ZUYzc1VXNGMXFFN1dmVG5hTHIxXzlaNlRUSkhWcFVpV1B1YkN2dmNiZjc2NGUtQ3FSUThOUGhybHpzVnpmRktuREI2SFNxc1ZWRmhvaTZuMEVDZHdHZ2s4OWtoY0w5c21CakhobjgzeEJGSXM?oc=5",
+      "published": "Mon, 22 Dec 2025 20:01:29 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock In A Buy Zone Amid More Unsupervised Robotaxi Videos And Musk's Pay Deal Court Win - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd6WFhickhJWGJIcjd4M3BYWWI5b0RvVnNOT0JxeXhDTHRHVXRzQllIY18xMUt4QzhHWHV1ZHdEV0pSVDQ2OVAzNjI1TzFnN3BvRk9BRU52NWd4cjhhZ1RDRS11MkxmcFozLXNjSktKMENFbk5ZS3ROdXRsNHZHbmQ5c0MwZzV5NVl5bWZkRTY4TXR2STNfa2c5V3VLTHYxY0lRTEtSX3h6Zw?oc=5",
+      "published": "Mon, 22 Dec 2025 21:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "TESLA, INC. (TSLA) - MSN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxemFWUHlQUGgxR2tvYXNiV1VuRzE4RE5ZWmhtVElwam5RcldvMlFjWEVkWk9yS1JteXBRYzU0R2dRUFZub1ZYQmVNVG9CeWRaLUMyTWE5UkFManhlT0pMb1RwNHozdTBEYWZLZE1VX01sUWVFZWQ0?oc=5",
+      "published": "Tue, 23 Dec 2025 06:51:21 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "Elon Musk Got Tesla's Stock Back to Record Highs. Can Its AI-Powered 'March' Continue? - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckdWYUtacXVQYTU5ZHVKTnZNeFloV3RRTnpKaHNFajlTUnZFcC01MWFpZERfbHByT3JZN3ZpcXpYU3VlcHRZc0lhSnFLcUtqNHh1cG9TLTFCRGljSEM5VEFZX052Q1VLZEo4NXMtWFEwZ2ljTmRKS245dUtUMTZlc3pHa052TG5SUEdTbzlYZ3hKc0d2T0p6X3NDQjZyaGlfSjE2UGFaRXppWWpmNGprUE1rYUhZWGRaeldQRmRGV3BSTG8?oc=5",
+      "published": "Wed, 17 Dec 2025 19:00:48 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Why Tesla Stock Popped Thursday - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVVlWLTZPY01UN09qN3p4ZkoxRlUxU2N0QzQwcWxGOVZfSFdKU1pUM3RzWWpIZEN4ZDRJOVFLS0duVkZ4dWpBcnFLLS11MnZvLW1keEJlbWpUdGk1dUpKLXlCMmJRc1YwTFRRaVRnRXVtRDk3MUJpZ3lnQ1Vablk?oc=5",
+      "published": "Thu, 18 Dec 2025 19:08:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Forecast — 3 Red Flags Investors Can’t Ignore in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1yMVZZUERaYjdBaVFJbnhEcXJOUFJKdkxVenNZMkpnalFibHh3RHZIcVY1azdqZkxlLUhjN2NnTnh0VlNHQzFmRzZsaUpYTVFRMTl4WTUxVjM0M25jYnBXbEFPMDJzNGlLdXpOUmhQd3BNWlJLTFVTbE5CbEJSWm1iMGxOX3kxN0pZZ3NvX3NKbnpONE1qQWlrNGhPUQ?oc=5",
+      "published": "Mon, 22 Dec 2025 13:53:06 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "What Can Trigger Tesla Stock’s Slide? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVVQUHRULVhQTU9iMW9uYm9nT2FMSEVGbGsyMW1URmZLaG9WS2pybXRhaDJkdUQtU21veTRGUHZQQVRmR3NnT294dzh2andqUWJFZTJUenJNMDdQODZtTVBmWDEySGgwSUhrRklSTlF5anF3NEZyZWRRU0FEWG4wRVB1dnFHUTZZX0dHX3dCd1pHQ1ZySkJIeUhB?oc=5",
+      "published": "Fri, 19 Dec 2025 14:05:31 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 18) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWFNZWlqM2swcnEtX21SMHRXYzlPR0hGd3g1bmFEYUtkUkM2V1lkdGk4TWxwUTZzOHMxYThaQ3RtZzQ5YTl6QjJOT0NiTDJGcU5GS1dIQmRvR3ZsREc3bTA3c2hpZ21rdGMwT1dZeFhhd2RydENRLTlTREdhYjBRS0dRV3RpTDdmNGRmMw?oc=5",
+      "published": "Thu, 18 Dec 2025 13:25:09 GMT",
+      "source": "24/7 Wall St."
+    }
+  ],
+  "ai_news": null
+}
