@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-24",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5384,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.4504 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0585 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0752 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0388 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0386 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock In A Buy Zone Amid More Unsupervised Robotaxi Videos And Musk's Pay Deal Court Win - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd6WFhickhJWGJIcjd4M3BYWWI5b0RvVnNOT0JxeXhDTHRHVXRzQllIY18xMUt4QzhHWHV1ZHdEV0pSVDQ2OVAzNjI1TzFnN3BvRk9BRU52NWd4cjhhZ1RDRS11MkxmcFozLXNjSktKMENFbk5ZS3ROdXRsNHZHbmQ5c0MwZzV5NVl5bWZkRTY4TXR2STNfa2c5V3VLTHYxY0lRTEtSX3h6Zw?oc=5",
+      "published": "Mon, 22 Dec 2025 21:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why Tesla (TSLA) Stock Is Trading Up Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lWDRCTUZEU1dGZ0ZUYzc1VXNGMXFFN1dmVG5hTHIxXzlaNlRUSkhWcFVpV1B1YkN2dmNiZjc2NGUtQ3FSUThOUGhybHpzVnpmRktuREI2SFNxc1ZWRmhvaTZuMEVDZHdHZ2s4OWtoY0w5c21CakhobjgzeEJGSXM?oc=5",
+      "published": "Mon, 22 Dec 2025 20:01:29 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "TESLA, INC. (TSLA) - MSN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxemFWUHlQUGgxR2tvYXNiV1VuRzE4RE5ZWmhtVElwam5RcldvMlFjWEVkWk9yS1JteXBRYzU0R2dRUFZub1ZYQmVNVG9CeWRaLUMyTWE5UkFManhlT0pMb1RwNHozdTBEYWZLZE1VX01sUWVFZWQ0?oc=5",
+      "published": "Tue, 23 Dec 2025 06:51:21 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "Why Tesla Stock Popped Thursday - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVVlWLTZPY01UN09qN3p4ZkoxRlUxU2N0QzQwcWxGOVZfSFdKU1pUM3RzWWpIZEN4ZDRJOVFLS0duVkZ4dWpBcnFLLS11MnZvLW1keEJlbWpUdGk1dUpKLXlCMmJRc1YwTFRRaVRnRXVtRDk3MUJpZ3lnQ1Vablk?oc=5",
+      "published": "Thu, 18 Dec 2025 19:08:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Forecast — 3 Red Flags Investors Can’t Ignore in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1yMVZZUERaYjdBaVFJbnhEcXJOUFJKdkxVenNZMkpnalFibHh3RHZIcVY1azdqZkxlLUhjN2NnTnh0VlNHQzFmRzZsaUpYTVFRMTl4WTUxVjM0M25jYnBXbEFPMDJzNGlLdXpOUmhQd3BNWlJLTFVTbE5CbEJSWm1iMGxOX3kxN0pZZ3NvX3NKbnpONE1qQWlrNGhPUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 10:37:05 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 18) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWFNZWlqM2swcnEtX21SMHRXYzlPR0hGd3g1bmFEYUtkUkM2V1lkdGk4TWxwUTZzOHMxYThaQ3RtZzQ5YTl6QjJOT0NiTDJGcU5GS1dIQmRvR3ZsREc3bTA3c2hpZ21rdGMwT1dZeFhhd2RydENRLTlTREdhYjBRS0dRV3RpTDdmNGRmMw?oc=5",
+      "published": "Thu, 18 Dec 2025 13:25:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "What Can Trigger Tesla Stock’s Slide? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVVQUHRULVhQTU9iMW9uYm9nT2FMSEVGbGsyMW1URmZLaG9WS2pybXRhaDJkdUQtU21veTRGUHZQQVRmR3NnT294dzh2andqUWJFZTJUenJNMDdQODZtTVBmWDEySGgwSUhrRklSTlF5anF3NEZyZWRRU0FEWG4wRVB1dnFHUTZZX0dHX3dCd1pHQ1ZySkJIeUhB?oc=5",
+      "published": "Fri, 19 Dec 2025 14:05:31 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Before the Market Opens: The Key News, Forecasts, and Analyst Calls to Watch for Dec. 22, 2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGdaelFxaEF2Uks2d19uNmp0UEt4LWJ2Tk5pTXVyOHhVMTFTR05TLXFLX1M0R3NUWWtBcnVVS1FIX2gwNmtRN3BDYTNHVG1wWU5WSXRfcDhaTG1zUjBrZkpfanBMUk53d1l5c3lGRXZza2JndHpVTTBrOXdvVW9ObVJ3M1ZwdEYxb2xSSV83QTkzOUs5cXh5ZUQ2NzJnYklWTGZEbm1WT0syY2pZX1hsYWtJNkJsMXc4bzBFWEIxUXQzUW5SOFE?oc=5",
+      "published": "Mon, 22 Dec 2025 00:57:22 GMT",
+      "source": "ts2.tech"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla อยู่ในโซนซื้อท่ามกลางวิดีโอ Robotaxi ที่ไม่ต้องควบคุมดูแลมากขึ้น และชัยชนะคดีข้อตกลงค่าตอบแทนของ Musk",
+        "why": "พาดหัวข่าวระบุว่าหุ้นอยู่ใน 'โซนซื้อ' และปัจจัยบวกเพิ่มเติมคือความก้าวหน้าของ Robotaxi และชัยชนะในคดีค่าตอบแทนของ Musk ซึ่งเป็นข่าวดีต่อบริษัทและราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "เหตุใดหุ้น Tesla (TSLA) จึงมีการซื้อขายเพิ่มขึ้นในวันนี้",
+        "why": "พาดหัวข่าวระบุโดยตรงว่าหุ้น Tesla กำลัง 'ซื้อขายเพิ่มขึ้นในวันนี้' ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาที่เป็นบวกในปัจจุบัน"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "เหตุใดหุ้น Tesla จึงพุ่งขึ้นเมื่อวันพฤหัสบดี",
+        "why": "คำว่า 'พุ่งขึ้น' (Popped) บ่งชี้ถึงการเคลื่อนไหวของราคาที่เพิ่มขึ้นอย่างมีนัยสำคัญและเป็นบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การคาดการณ์หุ้น Tesla (TSLA) — 3 ธงแดงที่นักลงทุนไม่ควรมองข้ามในปี 2026",
+        "why": "พาดหัวข่าวระบุถึง '3 ธงแดง' (Red Flags) ที่นักลงทุนไม่ควรมองข้าม ซึ่งบ่งชี้ถึงปัจจัยลบที่อาจส่งผลต่อหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "อะไรที่สามารถกระตุ้นให้หุ้น Tesla ร่วงลงได้?",
+        "why": "พาดหัวข่าวกล่าวถึง 'หุ้น Tesla ร่วงลง' (Stock’s Slide) ซึ่งเป็นการบ่งชี้ถึงศักยภาพในการเคลื่อนไหวของราคาที่เป็นลบ"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 80,
+      "note": "พาดหัวข่าวที่เลือกมามีทั้งปัจจัยเชิงบวกและเชิงลบที่ชัดเจน โดยมี 3 รายการบ่งชี้ถึงแนวโน้มเชิงบวก และ 2 รายการบ่งชี้ถึงแนวโน้มเชิงลบ ทำให้ภาพรวมเป็นกลาง เนื่องจากมีสัญญาณที่ขัดแย้งกัน"
+    }
+  }
+}

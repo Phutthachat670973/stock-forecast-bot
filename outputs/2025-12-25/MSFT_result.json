@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2025-12-24",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3676,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.7597 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0250 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0298 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0198 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0087 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW5jaWUybGhBcFNveGJNdFIzb0VqRWhDWWVDMFVnbS1HN1Z4d3VWd1pmSmh4dXNvY0xfTFZtWkdjcUpyemNjNnpySHpqclVaODdCSXM2SGo4c3JWVVhObnRDU3gxVy1rRVlGY1V1a19WeGZlWUhaTF9DQXlNYkhLQmtqWlpXQQ?oc=5",
+      "published": "Thu, 18 Dec 2025 13:30:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock Eyes $600 on AI and Cloud Growth - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2ZNWWF5ZWRybWVGUXJzMmhXcGF2YVhDQUo4N2MySHNaWllQX3kydm4tNW5qTm4zVmZfel9ld3YyWENtT2JQRTNuRkdUel9RSmF1dDM1UGlfV2Q1dmp1VEwtLXhYZk1rYXJqMmQ1NlY4WmNnakU4c2Rrd3dTQjRVZ0ZaMURGcU04WDhGUWwxWUFKVUlvZi12OGpOZG04Qklf?oc=5",
+      "published": "Thu, 18 Dec 2025 14:26:21 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNRlVKWElNbF9MSjJCQjZQcDk0LVlrYWRyNXZTeVJqeW5XWGdPaDBNRjdlTTFWZnRDeGZ0NzRiQ0V5OEhINDdlQ0kwbnlVMnNCa3hlaENaVFBmZ1JUaTNoaFRFUHotS3JBVDVOSEpBVG0xendRY3I3MmFzVUN4Z09SV2JYLUZ3UGxrbXR1dFN4MTNkUkcxWDRaV2MxTVZUejg5aERaMlRlT2R4Nks1M2RXN1d1SE5LQ0JwNG5YSFhoXzNCb1MtQ0RaOUhZT0tJVDljZTNvS2dwc1ZDOWV4c3NqU3FHMkc3Yi1ERE9MSEFRSTZDM2kxekVWVFJlMnNHTktIYUVTdllnaEw5bzVZZDJ5NXoyRVd5YkEwYm9iVFhhbENxSlVteGZsakVUZGdVY0pyTzBDdnVRNW12a3MyZk43cjNZZHFEVl9rRUh4NzFUU1BqVnNVWjlKSE5IcjZYdjE1M2lUVXZReFkxYm9zQkppM1k1V0tSa1hTQTA4VndKbjROZw?oc=5",
+      "published": "Mon, 22 Dec 2025 14:33:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Dan Ives Says Microsoft Stock (MSFT) Can Rise Nearly 30% in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEc5Zk9MbWpETk5EM2xteV9TY1JQOWFxYjE2RnJDSWVZTzFVUDJxT1A1WGptQnE4YlA4QmJBTUltQi1sYlFqWWdjbE9sUDhIUDdqYXpmRHRTblBRV0VhQlI0YnFBT1NjMXdORUR5Z3dpYk1CeUFRVjVjVmxUQU1XcnBRTEQzS2w0dWM1Q1QxaVpLMzJCdlE?oc=5",
+      "published": "Mon, 22 Dec 2025 16:13:18 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock: What to Know Before the U.S. Market Opens on 22/12/2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0hBYmJmVmZGY3djUTI2Y0tYNXk3elQ4eHFpZlZRcHVoNU9IX3FOaXJ1NmdnbkQxNTNWZWRHTE5wSENiZnc5THZORnpFNDVtNkgyTGdWcFZkeDVFTU1IazFhNnc5aVEwUGVoc2hycFQ2RXRwam5QVkRwTWtDR3QzbWVZY2dheTNDeWZ3SWJ1TzNPOG4yYU0zZkhncUQ?oc=5",
+      "published": "Mon, 22 Dec 2025 01:02:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Is Microsoft Undervalued by Investors? These Tech Stock Experts Think So. - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS20wSTR4TlNsWmhTSUlOeTl6RGQyRmF5ZTM5TGtqRTBtRXpXOGZrUW9iM2ZtQVk1OHN2MWZEYlRpaXpmdGNPSXBMVWY4d3NUVzJkTDJkejhfRERIdmR1dFJJQ3RRU3l5NUJnUjlQTExqS05iTDBxQnZQbUN3N0xkZVRZbFR6ZEp3SjVRUU5HLVJRN1FoYjAtV1BSREJ3Nkltd09IMkNhMVEtSkxlcFE?oc=5",
+      "published": "Mon, 22 Dec 2025 20:34:53 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "How Does Microsoft Stock Stack Up Against Its Peers? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1NSYjNmU2tOaDhxazJRZ3g4clJUNzdnREp5RjFPME5nWUREX0lnNHlIR2xidTUzaVJRUXRlUWVRTEllX0xNSV9EVzVNTVROR1F0dlRmUXdVNk50bUNaclZfdkg5amJweVVISmgzR2dZM1UxRGUxem1lWm1Gekh1T3NFSHhrSVFoZDl2RzlhVTJ6YXlnLVZwdFZiVjI3SGNMajE4MmxsemlsdXpQZmtFb0lzdmRNM0NPNnJYTWxYMA?oc=5",
+      "published": "Tue, 23 Dec 2025 07:24:27 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on AI and Cloud Growth - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDQ0SURsMU5KVE5vZjZ3VHc0YjlldHNUbENXRDFXVWNyMTA2V2MtblVqWnJybEVZRXhSMXlBaThFRXpRcjRDaGY5R3VTOTNieUt5V3JSZlBUdmVsc2xaQUJMbE5BQ0dhTVZoS1ZRYkNxbzFQT0xiN2VFM0UwNlREZktpcE1rRWNhcjB0eXpnRmNLMzJ5aVE?oc=5",
+      "published": "Wed, 24 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "รายงานว่าหุ้น Microsoft ตั้งเป้าที่ $600 โดยได้แรงหนุนจากการเติบโตของ AI และ Cloud",
+        "why": "พาดหัวข่าวกำหนดเป้าหมายราคาที่สูง ($600) และระบุปัจจัยบวกที่ชัดเจน (AI และ Cloud Growth) ซึ่งบ่งชี้ถึงแนวโน้มขาขึ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Dan Ives ระบุว่าหุ้น Microsoft มีโอกาสปรับตัวขึ้น 29% ในปี 2026 และเป็นผู้นำด้าน AI",
+        "why": "พาดหัวข่าวให้ตัวเลขศักยภาพในการปรับขึ้นที่ชัดเจน (29%) จากนักวิเคราะห์ชื่อดัง พร้อมระบุสถานะความเป็นผู้นำด้าน AI ซึ่งเป็นปัจจัยบวกอย่างยิ่ง"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ผู้เชี่ยวชาญด้านหุ้นเทคโนโลยีเชื่อว่านักลงทุนประเมินมูลค่าหุ้น Microsoft ต่ำกว่าความเป็นจริง",
+        "why": "การที่ผู้เชี่ยวชาญเชื่อว่าหุ้นถูกประเมินค่าต่ำกว่าจริง บ่งชี้ถึงศักยภาพในการเติบโตของราคาในอนาคต"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "การคาดการณ์ราคาหุ้น Microsoft (MSFT) สำหรับปี 2025 ว่าจะเป็นอย่างไรใน 1 ปีข้างหน้า",
+        "why": "พาดหัวข่าวนี้เป็นการตั้งคำถามเกี่ยวกับการคาดการณ์ราคาหุ้นในอนาคต ไม่ได้ระบุทิศทางขาขึ้นหรือขาลงโดยตรง"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ความคิดเห็นเกี่ยวกับหุ้น Microsoft (MSFT) ที่เกี่ยวข้องกับการเติบโตของ AI และ Cloud",
+        "why": "พาดหัวข่าวเพียงระบุถึงการมีอยู่ของความคิดเห็นเกี่ยวกับปัจจัยขับเคลื่อนหลัก (AI และ Cloud Growth) โดยไม่ได้ระบุว่าความคิดเห็นเหล่านั้นเป็นไปในเชิงบวกหรือลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "พาดหัวข่าวส่วนใหญ่ที่เลือกมาแสดงถึงมุมมองเชิงบวกอย่างชัดเจนสำหรับหุ้น Microsoft โดยเฉพาะอย่างยิ่งจากการคาดการณ์เป้าหมายราคาที่สูง ศักยภาพการเติบโต และการรับรู้ว่ามูลค่าต่ำกว่าความเป็นจริง นอกจากนี้ ยังมีการเน้นย้ำถึงบทบาทของ AI และ Cloud ในฐานะปัจจัยขับเคลื่อนหลักของการเติบโต ไม่มีพาดหัวข่าวใดที่แสดงมุมมองเชิงลบ"
+    }
+  }
+}

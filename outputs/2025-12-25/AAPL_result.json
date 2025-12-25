@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-24",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3754,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.5945 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0120 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0225 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0178 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0114 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Evercore ISI Raises PT on Apple (AAPL) Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWlhQNEF4R0w4UURnZlhPQy1ONjUxNUx1M1RvbE1MTG5XY0JiM2YydlVpMjFNaVVidEVST2x0Y0s1dWxIa05KVmY3UGk4OVYtXzZLQ2ZnV09kNkNkUnp6aVB0Y0dHdmlrYnFRenozbWpMb1Ywckp1dTBhbU05ZmM?oc=5",
+      "published": "Thu, 18 Dec 2025 05:39:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Just Released a New AI Model. Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEUzNFhMbjlZbG5va282QlRqc0hqVWRmM0hVVzNRSGxZTlFGZEh4am9FOHpPTlQ4Y3I2SC1LN2Nhb2xHa3BKM0hjRjdwcV9EVzZVczBfaVpuazhEU09DZnJPenBDWHFWam5LWWVZMmFPOFZIcHlsSHV4akdqbVN5SjlCdE9zeFNvbjU3WWI2SkxVYVYwUlVfS3ZBcmpGNnlwSXF6OTgxb0lpMUhKaVVJ?oc=5",
+      "published": "Tue, 23 Dec 2025 16:00:03 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3VWZU5YZlZ6UTE4cUNBVXdPVXhsVEdNWDdVaUdONDN3M1NhaTJiSXBUOHpKUTlaNld4c3NfeVF5dW9tZUw4VXBvNFNWeWhfRXVzem9ZN1FaLWEtSkZZVDVFYUVrTENwc0h2TDRoLThFNXpWWTRwMFJ5OHZoUVFyS1Q2X0JRSXBVYnZKWDBlYw?oc=5",
+      "published": "Sat, 20 Dec 2025 22:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Will 2026 Be The Year Apple Finally Joins The AI Race? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG1oNVRjN0VoOWVPbFJVRzByeVhrek9GSU5kSTJzQWJjMUhCRFFSSjQ5LUl5UU1DX2Z4QjJkelNWWWdLY1hvRmRIeEVOMGhKWjlOaTN6d0FfaEdYOE9DWFpXcWM3aUJHRUNIM2FjLXBiQ2cwUzlIMkszU2QwRmxodGVsSW1uemlGM0RF?oc=5",
+      "published": "Tue, 23 Dec 2025 21:54:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Top Morgan Stanley, Jefferies Analysts Lift Apple Stock (AAPL) Price Target. Here’s Why - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdE43bTcxYVlrSWFhUjBjaDVTc214TlNFOUNwbG8td0FPS3FxSXhNV0t2WXg1ejQ4bmFLSGZhV2sxckk2bDg5UEwtZzNwNEFldnlOd3NYa1JHT0k2SkgtdFpDdjRQRGkxR05Vak1xcEx3b1F2YUxEQzBDd1NaUG9kamswM3NrbldHMk5FQnpyS2gxcFIxdWdlejFfNjFPZTJhS3JUTkpxcmljUDRNWkpQOXpR?oc=5",
+      "published": "Thu, 18 Dec 2025 21:23:24 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Apple Stock (AAPL) Today: Latest News, Analyst Forecasts, and Key Drivers on December 19, 2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUthaXl2RElleXRwaGZOcUpYTUtsLWM5OE1iYkE0OTZZNV9FMEd2bk1xVnBSbXgtTnlETHFEdUFFQWtoV1Q4Rmk5TmxTZFc4Z2J4X2F4UmctZ2dCbURZV2kyTDFMa05zUEZ0aDhucHZWTmNvR2tab1J0bXhIZWRoTVFfWU0zWEhBNHJSejk0d0xWR3g1WGpfcWJKU1hFNWUzbTlfZGxDYlR1WGVWZ1E?oc=5",
+      "published": "Fri, 19 Dec 2025 15:35:19 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Morgan Stanley Lifts Apple Inc. (AAPL) Price Target on Earnings Growth Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNxZUpldGwwM1pwNXU5LUUtYUNmV191WTJtaTRvc1ZGSS1uV1FycWJEdGlxaE1OUTJkdkNweFBCUkxpSTllU0cxUFprNDd4bHFsQkFlVjhNT1J4OGwxbzJvWEZ1S2U4ekZJdTFsdjA0SlNSYk5OanlsLWFfb3FMZ053?oc=5",
+      "published": "Mon, 22 Dec 2025 13:39:55 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Prediction: Berkshire Hathaway Will Stop Selling Apple Stock in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZU9uRHg2QVlWWlBJMUVUZzh1MGFEcWluUjQtTGMxTlRxQkJheVdCV0dVYXluR0lva0g2dVRmYXNLMlg2c3dUb0ZTVmtZdGtST09uVVk1X19aS3psbVNRSHdsVVVIVmU2cWM4emtZU3A4ZGhqZlp4SkluM0JJX1RvRERUR0VJdTJSY29pcDJTSGVPRDZkblVOWg?oc=5",
+      "published": "Mon, 22 Dec 2025 08:31:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Evercore ISI ได้ปรับเพิ่มราคาเป้าหมายสำหรับหุ้น Apple (AAPL)",
+        "why": "การที่นักวิเคราะห์ปรับเพิ่มราคาเป้าหมายของหุ้นเป็นสัญญาณเชิงบวกที่บ่งชี้ถึงความคาดหวังว่าราคาหุ้นจะเพิ่มขึ้นในอนาคต"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "Apple ได้เปิดตัวโมเดล AI ใหม่",
+        "why": "การเปิดตัวโมเดล AI ใหม่แสดงให้เห็นถึงนวัตกรรมและความก้าวหน้าของบริษัท ซึ่งอาจเป็นปัจจัยขับเคลื่อนการเติบโตและสร้างความเชื่อมั่นให้กับนักลงทุน"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์ชั้นนำจาก Morgan Stanley และ Jefferies ได้ปรับเพิ่มราคาเป้าหมายสำหรับหุ้น Apple (AAPL)",
+        "why": "การที่นักวิเคราะห์ชั้นนำจากสองสถาบันใหญ่ปรับเพิ่มราคาเป้าหมายเป็นสัญญาณที่แข็งแกร่งว่าพวกเขามองเห็นศักยภาพในการเติบโตของราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Morgan Stanley ได้ปรับเพิ่มราคาเป้าหมายสำหรับหุ้น Apple Inc. (AAPL) โดยอิงจากความคาดหวังการเติบโตของกำไร",
+        "why": "การปรับเพิ่มราคาเป้าหมายที่มาพร้อมกับเหตุผลเรื่อง 'ความคาดหวังการเติบโตของกำไร' เป็นปัจจัยเชิงบวกที่ชัดเจนและมีพื้นฐาน"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "มีการคาดการณ์ว่า Berkshire Hathaway จะหยุดขายหุ้น Apple ในปี 2026",
+        "why": "หาก Berkshire Hathaway ซึ่งเป็นนักลงทุนรายใหญ่หยุดขายหุ้น Apple อาจส่งสัญญาณว่าพวกเขามีความเชื่อมั่นในอนาคตของบริษัทมากขึ้น ซึ่งเป็นปัจจัยบวกต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 90,
+      "note": "ข่าวส่วนใหญ่ที่เกี่ยวข้องกับ Apple (AAPL) บ่งชี้ถึงแนวโน้มเชิงบวก โดยเฉพาะการปรับเพิ่มราคาเป้าหมายจากนักวิเคราะห์ชั้นนำ การเปิดตัวนวัตกรรมใหม่ และการคาดการณ์ว่านักลงทุนรายใหญ่อย่าง Berkshire Hathaway อาจจะหยุดขายหุ้น"
+    }
+  }
+}
