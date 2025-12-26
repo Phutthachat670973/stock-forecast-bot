@@ -1,0 +1,66 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-24",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3753,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.5945 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0121 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0225 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0178 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0114 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGpza255OVZjcXUwQ0R1SkRHbWlMa2kzUS1iUDlmVUtnY3dVbXZGTkF0aUI4N1FpdnVJZHVjTm9rcmtSSWlsOVB5aTlSQURER0l2ZWFHM2c4QkpIazFBcUktMHVZbW1UM3FiM2VDaXhRZng1eHZWeVJOcVBzMk56aTh3?oc=5",
+      "published": "Mon, 22 Dec 2025 22:45:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Just Released a New AI Model. Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEUzNFhMbjlZbG5va282QlRqc0hqVWRmM0hVVzNRSGxZTlFGZEh4am9FOHpPTlQ4Y3I2SC1LN2Nhb2xHa3BKM0hjRjdwcV9EVzZVczBfaVpuazhEU09DZnJPenBDWHFWam5LWWVZMmFPOFZIcHlsSHV4akdqbVN5SjlCdE9zeFNvbjU3WWI2SkxVYVYwUlVfS3ZBcmpGNnlwSXF6OTgxb0lpMUhKaVVJ?oc=5",
+      "published": "Tue, 23 Dec 2025 16:00:03 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Will 2026 Be The Year Apple Finally Joins The AI Race? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG1oNVRjN0VoOWVPbFJVRzByeVhrek9GSU5kSTJzQWJjMUhCRFFSSjQ5LUl5UU1DX2Z4QjJkelNWWWdLY1hvRmRIeEVOMGhKWjlOaTN6d0FfaEdYOE9DWFpXcWM3aUJHRUNIM2FjLXBiQ2cwUzlIMkszU2QwRmxodGVsSW1uemlGM0RF?oc=5",
+      "published": "Tue, 23 Dec 2025 21:54:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3VWZU5YZlZ6UTE4cUNBVXdPVXhsVEdNWDdVaUdONDN3M1NhaTJiSXBUOHpKUTlaNld4c3NfeVF5dW9tZUw4VXBvNFNWeWhfRXVzem9ZN1FaLWEtSkZZVDVFYUVrTENwc0h2TDRoLThFNXpWWTRwMFJ5OHZoUVFyS1Q2X0JRSXBVYnZKWDBlYw?oc=5",
+      "published": "Sat, 20 Dec 2025 22:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on AI Model Release and Regulatory Fine - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUVIcW5iR0Vvc1VhVUhHblhoeFg5cW56NExpN3N4RThDNmFseUljZnR3ZGVtbTFONWdqYjdDRWRCTzRGWXhHZXRaRWVuVm1jYnJEWXc1QVJYdzAtTWtaUkV4RGJEMGg1dFduQXFocDBkejAwSFBnR1FnTjRGQkUwRzd4WHJaQ21lRmItYUNmcHUtOE1KQzYycFZETnVVVTJqTUFBM1VIUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple Stock (AAPL) Pre-Market Preview: Key News, Analyst Forecasts, and What to Watch Before the Open on Dec. 22, 2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdmtXcHNScFJnTmdBVkd5LXRHNW1RQkZKaFBVbkd6eC10X1Yyb09QeGt6VVoyeGQ4OFdrQlg1MnNMMGJNTDE3TTFaSkl2QlhSQTZ3bXJkZVRQOVFmLXlnaXlrdzRUaTV6cTdSSS1fVzY2MTg5VlZTalk3dmJjODl1WFh6SWN3TWVaSzV3QzRrQjl4UXM3NGxrekZyQVhoSlRTRjI4anMxQnRNa191aTV3eGlBd3JZTmxHSnBFeUhxV09NVXQ4Rl9JTmI1QjY?oc=5",
+      "published": "Mon, 22 Dec 2025 00:57:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Morgan Stanley Lifts Apple Inc. (AAPL) Price Target on Earnings Growth Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNxZUpldGwwM1pwNXU5LUUtYUNmV191WTJtaTRvc1ZGSS1uV1FycWJEdGlxaE1OUTJkdkNweFBCUkxpSTllU0cxUFprNDd4bHFsQkFlVjhNT1J4OGwxbzJvWEZ1S2U4ekZJdTFsdjA0SlNSYk5OanlsLWFfb3FMZ053?oc=5",
+      "published": "Mon, 22 Dec 2025 13:39:55 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Prediction: Berkshire Hathaway Will Stop Selling Apple Stock in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZU9uRHg2QVlWWlBJMUVUZzh1MGFEcWluUjQtTGMxTlRxQkJheVdCV0dVYXluR0lva0g2dVRmYXNLMlg2c3dUb0ZTVmtZdGtST09uVVk1X19aS3psbVNRSHdsVVVIVmU2cWM4emtZU3A4ZGhqZlp4SkluM0JJX1RvRERUR0VJdTJSY29pcDJTSGVPRDZkblVOWg?oc=5",
+      "published": "Mon, 22 Dec 2025 08:31:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": null
+}
