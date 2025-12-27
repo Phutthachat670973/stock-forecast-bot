@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2025-12-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.379,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.6250 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0286 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0078 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0077 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0088 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUtremtEV2VEMVBpQnc2Q3RYSkNsRFhKb3lYSFR2cmtwVzhRdlFyek0xRVRCYml4Tk5DVS1HYjhCOXQ0STR2OV9WYVUtRFVKelZNd2R1RTdnT2xrV1Y1LWItN1NMbXJzckRYNDNCQUVYOVlpUEplbE1UWVNTSFVfVTkzXzU0TGliNHFhZW9jMXRMc1ZTMldLcW9MaVJqYTg3VTZ3T2lXUHlSd1RXNXl4ZjZ3YzdaSkpfLTBib05BZHl0Zw?oc=5",
+      "published": "Sat, 27 Dec 2025 00:35:01 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft (MSFT) Stock: What to Know Before the U.S. Market Opens on 22/12/2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0hBYmJmVmZGY3djUTI2Y0tYNXk3elQ4eHFpZlZRcHVoNU9IX3FOaXJ1NmdnbkQxNTNWZWRHTE5wSENiZnc5THZORnpFNDVtNkgyTGdWcFZkeDVFTU1IazFhNnc5aVEwUGVoc2hycFQ2RXRwam5QVkRwTWtDR3QzbWVZY2dheTNDeWZ3SWJ1TzNPOG4yYU0zZkhncUQ?oc=5",
+      "published": "Mon, 22 Dec 2025 01:02:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQR1NJQ0RhNTRkb2xSWlRocm96WW53OUoyeFpWcl9xTUU0R2ZYbTJkVWhzMEVXdWQySV80aldlNVFfOUpLMkhQV1RTU2NjYmdlLTJJSEYxUDgtcERuN0ptcTdjbWdzUUZkSGdLRWFOUVdZZ3hFRXlNbjlkWmtHT2l6akNmTFdOM2lUcEhGQmQwaDh1LTNrdVRKZF9WS29FTERCYjRFWjBQWndadXdHcks4MXVnaDdZdU9RajFoeUdpZEpqQmMtR05ZQ3ZUYlp3T01obkFmNlUydUlKcTA2ZzNHNG11bUhTMmszNGV0NFp6aExDd1dreTRDNk1uT1g2TVNNT3E0TUtoWURTREhnTk8wYVY2ZndnVjExSGVtdlpuYmFnTTV3ekw1M0pvdlFyemFkVzhnSXowTGRtclpqM3o3RURmbW1YalVpbkJXdTg3UXhBckxCa3NvTUIxU3lmNGt5aVJnVWlpQjRkT3Y0cjZ6amJ4SEktc1dQTEtwd3ZBYVhjQQ?oc=5",
+      "published": "Mon, 22 Dec 2025 14:33:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Microsoft (MSFT) Fell Due to Concerns About Its Relationship With OpenAI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2RKOVI5OVFUQ0ljMGNGNkVSYW95dFNEMlc4UFhmbEV2QnVGdk9naXlJSTc5MGFVdTd6cTBYNWNHOGxIT2U3ekxBZTZCYXdDT3p2a21NVUU2aThzSXhSdW9mVGxxb0VLa2pJa2l4MGdRZUg4R1ZITmFZeVFtLUpnSnNmU0Y?oc=5",
+      "published": "Fri, 26 Dec 2025 13:00:01 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlBLeXNEZ3N6cE41bU1QbmVnZnFaZDdFNlgxYWJ3YWxNaVhjanBmRTdYcDQ3T01QXzJiVE5HVDVyTTNURG52MHFQYkZnNUJrOTBxQzhIM1J4SHBDbms0MzhnYndRN0t5ek1oVkhXRnhOQTllbkRTTWFmX3dlRnBqWk9IUzNTbVJy?oc=5",
+      "published": "Wed, 24 Dec 2025 19:15:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Dan Ives Says Microsoft Stock (MSFT) Can Rise Nearly 30% in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEc5Zk9MbWpETk5EM2xteV9TY1JQOWFxYjE2RnJDSWVZTzFVUDJxT1A1WGptQnE4YlA4QmJBTUltQi1sYlFqWWdjbE9sUDhIUDdqYXpmRHRTblBRV0VhQlI0YnFBT1NjMXdORUR5Z3dpYk1CeUFRVjVjVmxUQU1XcnBRTEQzS2w0dWM1Q1QxaVpLMzJCdlE?oc=5",
+      "published": "Mon, 22 Dec 2025 16:13:18 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on AI and Cloud Growth - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDQ0SURsMU5KVE5vZjZ3VHc0YjlldHNUbENXRDFXVWNyMTA2V2MtblVqWnJybEVZRXhSMXlBaThFRXpRcjRDaGY5R3VTOTNieUt5V3JSZlBUdmVsc2xaQUJMbE5BQ0dhTVZoS1ZRYkNxbzFQT0xiN2VFM0UwNlREZktpcE1rRWNhcjB0eXpnRmNLMzJ5aVE?oc=5",
+      "published": "Wed, 24 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "How Does Microsoft Stock Stack Up Against Its Peers? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1NSYjNmU2tOaDhxazJRZ3g4clJUNzdnREp5RjFPME5nWUREX0lnNHlIR2xidTUzaVJRUXRlUWVRTEllX0xNSV9EVzVNTVROR1F0dlRmUXdVNk50bUNaclZfdkg5amJweVVISmgzR2dZM1UxRGUxem1lWm1Gekh1T3NFSHhrSVFoZDl2RzlhVTJ6YXlnLVZwdFZiVjI3SGNMajE4MmxsemlsdXpQZmtFb0lzdmRNM0NPNnJYTWxYMA?oc=5",
+      "published": "Tue, 23 Dec 2025 07:24:27 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "พาดหัวข่าวแนะนำว่าราคาหุ้น MSFT มีแนวโน้มเพิ่มขึ้น 29% ในปี 2026 โดยอ้างถึงสถานะผู้นำด้าน AI ของบริษัทฯ",
+        "why": "คำว่า '29% Upside' บ่งชี้ถึงแนวโน้มราคาหุ้นที่เป็นบวก และ 'AI Front-Runner' สนับสนุนการเติบโตในอนาคต"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ราคาหุ้น MSFT ลดลงเนื่องจากความกังวลเกี่ยวกับความสัมพันธ์กับ OpenAI",
+        "why": "ข้อความ 'Fell Due to Concerns' บ่งชี้ถึงผลกระทบเชิงลบต่อราคาหุ้นอย่างชัดเจน"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "Microsoft คาดว่าจะพิสูจน์ให้เห็นถึงการเติบโตที่ขับเคลื่อนด้วย AI ในปี 2026 ซึ่งจะทำให้ผู้ที่สงสัยต้องเปลี่ยนใจ",
+        "why": "วลี ''Prove Doubters Wrong'' และ 'AI-Fueled Growth' ชี้ให้เห็นถึงแนวโน้มการเติบโตที่เป็นบวกในอนาคต"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "พาดหัวข่าวนี้กล่าวถึงการคาดการณ์ราคาหุ้นของ Microsoft สำหรับปี 2025 แต่ไม่ได้ระบุทิศทาง",
+        "why": "พาดหัวข่าวเพียงระบุว่ามีการคาดการณ์ราคาหุ้น แต่ไม่ได้บอกทิศทางของการคาดการณ์นั้นว่าเป็นบวกหรือลบ"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวนี้พูดถึงความคิดเห็นเกี่ยวกับหุ้น Microsoft โดยพิจารณาจากการเติบโตของ AI และ Cloud",
+        "why": "พาดหัวข่าวกล่าวถึง 'Opinions' (ความคิดเห็น) เกี่ยวกับ AI และ Cloud Growth ซึ่งโดยทั่วไปเป็นปัจจัยเชิงบวก แต่ไม่ได้ระบุทิศทางราคาหุ้นที่ชัดเจนจากความคิดเห็นเหล่านั้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 60,
+      "note": "โดยรวมแล้วมีมุมมองที่เป็นบวกเกี่ยวกับศักยภาพการเติบโตของ Microsoft ในอนาคต โดยเฉพาะอย่างยิ่งจาก AI และ Cloud ซึ่งมีการคาดการณ์การเพิ่มขึ้นของราคาหุ้น อย่างไรก็ตาม มีความกังวลเกี่ยวกับการลดลงของราคาหุ้นเมื่อเร็วๆ นี้เนื่องจากความสัมพันธ์กับ OpenAI."
+    }
+  }
+}
