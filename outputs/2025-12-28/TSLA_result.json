@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5271,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2150 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0633 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0308 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0393 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0379 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock In A Buy Zone Amid More Unsupervised Robotaxi Videos And Musk's Pay Deal Court Win - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd6WFhickhJWGJIcjd4M3BYWWI5b0RvVnNOT0JxeXhDTHRHVXRzQllIY18xMUt4QzhHWHV1ZHdEV0pSVDQ2OVAzNjI1TzFnN3BvRk9BRU52NWd4cjhhZ1RDRS11MkxmcFozLXNjSktKMENFbk5ZS3ROdXRsNHZHbmQ5c0MwZzV5NVl5bWZkRTY4TXR2STNfa2c5V3VLTHYxY0lRTEtSX3h6Zw?oc=5",
+      "published": "Mon, 22 Dec 2025 21:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 25) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0F2dmhZdERIekJjMEtEZ0tnQXpSQlhLZXBLbUhvcjB1VFRrY2tIYTNtZ0ltbmd5NG5XNV9KbENNT0ZkUTkzQTRBcmwzNUpTS2d1blc4LUJocmFLcVJjd05iWEExaG9EMDJIRDMxTGZKV2Y4bC1DM0NTS2EyUko0NkROY2ZUQ1pNblM3eA?oc=5",
+      "published": "Thu, 25 Dec 2025 21:15:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "275 times earnings! Am I the only person who thinks Tesla’s stock price is over-inflated? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWngwOG1saTBPZVZULXhrQS1BRjhoWGVfQ0hTbTJuX1Qxc0xBUnNYeGMxaWl4eFRlNmlNTXZVaXZxcENQd05URmhuanJTeFZvY2dzQ0o3WWFHMGd5azlqMjdhTlQzMFNia2Rxa2JRQ2Z6Qm1LTjM0YkFlMWZOQjFkOA?oc=5",
+      "published": "Mon, 22 Dec 2025 10:00:00 GMT",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "Is Tesla Stock a Buy Before 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXBfM0VTSFd3aVo3YUhneFVkXzRCMUtTaHVwZWs5NFFoRHhYQ1hpOHl0RnAzM1N5azFZeENucXdpUV80dVZPSUtlQTkwdW1oR1hUVEM3UVhocXl0RklsSEdyUElvOVUwaTJGYTl5NmJBQkJRVXZpLTF5SU9SRjJEdg?oc=5",
+      "published": "Tue, 23 Dec 2025 21:23:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Forecast — 3 Red Flags Investors Can’t Ignore in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1yMVZZUERaYjdBaVFJbnhEcXJOUFJKdkxVenNZMkpnalFibHh3RHZIcVY1azdqZkxlLUhjN2NnTnh0VlNHQzFmRzZsaUpYTVFRMTl4WTUxVjM0M25jYnBXbEFPMDJzNGlLdXpOUmhQd3BNWlJLTFVTbE5CbEJSWm1iMGxOX3kxN0pZZ3NvX3NKbnpONE1qQWlrNGhPUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 10:37:05 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Top Mutual Fund Holders of Tesla (TSLA) - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0prMkp5OHhmaTdtT190NGgxeU5wdGtodWg5TzNzamxJNFdqX3JzdUt3TGN3YnNlTlNiQXM1M3JIaVhhLTVHZzN3a2NNX29rY19pUlAwQXEyTlM0QmpVVWo0S1J1ZTlUZEl1ZkJhTmZiMEpCMy10cEFhMjFpYXB2X183anNTY0x4VUpBZ1pqZUxFcTRm?oc=5",
+      "published": "Wed, 24 Dec 2025 17:15:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Before the Market Opens: The Key News, Forecasts, and Analyst Calls to Watch for Dec. 22, 2025 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGdaelFxaEF2Uks2d19uNmp0UEt4LWJ2Tk5pTXVyOHhVMTFTR05TLXFLX1M0R3NUWWtBcnVVS1FIX2gwNmtRN3BDYTNHVG1wWU5WSXRfcDhaTG1zUjBrZkpfanBMUk53d1l5c3lGRXZza2JndHpVTTBrOXdvVW9ObVJ3M1ZwdEYxb2xSSV83QTkzOUs5cXh5ZUQ2NzJnYklWTGZEbm1WT0syY2pZX1hsYWtJNkJsMXc4bzBFWEIxUXQzUW5SOFE?oc=5",
+      "published": "Mon, 22 Dec 2025 00:57:22 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Cathie Wood Sells More Tesla Stock. Q4 Deliveries Loom But The Market May Not Care. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmVGZ2ItWWVPTkt2MDRRdzVvTkVwLVNTeHBESGlSd3FBSTZnVmRETF8zSm5SZk9wcjZ4b213ejYyMkhtUVZkRDhRclMtTWNKbHBocFduU2k4cFAtbE1DWU9vM296S1lqUFJnNW5kYWthWUctZUlmYkZySWx4UGgyWEcySzAyYzUtX1lYb1NuVmtzRFVKX1JkMTFmZnpZZEFRS211eDROX0Q?oc=5",
+      "published": "Tue, 23 Dec 2025 22:10:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้นเทสลาอยู่ในโซนซื้อท่ามกลางวิดีโอ Robotaxi ที่ไม่ต้องมีการควบคุมดูแลมากขึ้น และชัยชนะในคดีข้อตกลงค่าตอบแทนของ Musk",
+        "why": "พาดหัวข่าวระบุถึง 'โซนซื้อ' สำหรับหุ้นเทสลา และปัจจัยเชิงบวกสองประการ ได้แก่ วิดีโอ Robotaxi ที่ไม่ต้องมีการควบคุมดูแล และการชนะคดีข้อตกลงค่าตอบแทนของ Elon Musk ซึ่งเป็นสัญญาณเชิงบวกสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "กำไร 275 เท่า! มีฉันคนเดียวหรือเปล่าที่คิดว่าราคาหุ้นเทสลาสูงเกินจริง?",
+        "why": "พาดหัวข่าวตั้งคำถามว่าราคาหุ้นเทสลา 'สูงเกินจริง' ซึ่งบ่งชี้ถึงมุมมองเชิงลบต่อมูลค่าปัจจุบันและอาจกดดันราคาหุ้นให้ลดลง"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "การคาดการณ์หุ้น Tesla (TSLA) — 3 ธงแดงที่นักลงทุนไม่ควรมองข้ามในปี 2026",
+        "why": "พาดหัวข่าวระบุถึง '3 ธงแดง' ซึ่งเป็นสัญญาณเตือนภัยที่นักลงทุนไม่ควรมองข้าม บ่งชี้ถึงปัจจัยเชิงลบที่อาจส่งผลกระทบต่อราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "Cathie Wood ขายหุ้น Tesla เพิ่มขึ้น การส่งมอบไตรมาส 4 กำลังจะมาถึงแต่ตลาดอาจไม่สนใจ",
+        "why": "การที่ Cathie Wood ซึ่งเป็นที่รู้จักในฐานะผู้สนับสนุน Tesla ขายหุ้นเพิ่มขึ้น ถือเป็นสัญญาณเชิงลบสำหรับราคาหุ้น โดยเฉพาะอย่างยิ่งเมื่อพาดหัวข่าวระบุว่า 'ตลาดอาจไม่สนใจ' ผลการส่งมอบไตรมาส 4"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "การคาดการณ์และพยากรณ์ราคาหุ้น Tesla (NASDAQ: TSLA) ปี 2026-2030 (25 ธ.ค.)",
+        "why": "พาดหัวข่าวระบุถึงการคาดการณ์และพยากรณ์ราคาหุ้นในอนาคต แต่ไม่ได้ระบุทิศทางที่เป็นบวกหรือลบอย่างชัดเจน จึงเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 75,
+      "note": "พาดหัวข่าวที่เลือกส่วนใหญ่บ่งชี้ถึงมุมมองเชิงลบ โดยเน้นย้ำถึงความกังวลเรื่องมูลค่า การขายหุ้นโดยนักลงทุนรายใหญ่ และ 'ธงแดง' ที่อาจส่งผลกระทบต่อราคาหุ้น"
+    }
+  }
+}
