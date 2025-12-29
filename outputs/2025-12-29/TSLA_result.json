@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5271,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2150 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0633 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0308 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0393 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0379 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock In A Buy Zone Amid More Unsupervised Robotaxi Videos And Musk's Pay Deal Court Win - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd6WFhickhJWGJIcjd4M3BYWWI5b0RvVnNOT0JxeXhDTHRHVXRzQllIY18xMUt4QzhHWHV1ZHdEV0pSVDQ2OVAzNjI1TzFnN3BvRk9BRU52NWd4cjhhZ1RDRS11MkxmcFozLXNjSktKMENFbk5ZS3ROdXRsNHZHbmQ5c0MwZzV5NVl5bWZkRTY4TXR2STNfa2c5V3VLTHYxY0lRTEtSX3h6Zw?oc=5",
+      "published": "Mon, 22 Dec 2025 21:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "$800 for Tesla Stock Could Be Reality in 2026. Here’s Why. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOTZGcUNYSS1aR2xOWThrMVZsSFZuNy1URVVQOGVBbHFSZTRJcUJFdkJYSS1pZ2UxU3BBeWtxR1QxdjBLdnN0UWItRVFWd1B4Ny15Zk5nSk83SkRLZk16dWpvYkhzSXJwU0pHbGd2dkFZVlEtSi1NUzFGOVNqRTRtYw?oc=5",
+      "published": "Tue, 23 Dec 2025 14:30:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 25) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0F2dmhZdERIekJjMEtEZ0tnQXpSQlhLZXBLbUhvcjB1VFRrY2tIYTNtZ0ltbmd5NG5XNV9KbENNT0ZkUTkzQTRBcmwzNUpTS2d1blc4LUJocmFLcVJjd05iWEExaG9EMDJIRDMxTGZKV2Y4bC1DM0NTS2EyUko0NkROY2ZUQ1pNblM3eA?oc=5",
+      "published": "Thu, 25 Dec 2025 21:15:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla (TSLA) Stock Forecast — 3 Red Flags Investors Can’t Ignore in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1yMVZZUERaYjdBaVFJbnhEcXJOUFJKdkxVenNZMkpnalFibHh3RHZIcVY1azdqZkxlLUhjN2NnTnh0VlNHQzFmRzZsaUpYTVFRMTl4WTUxVjM0M25jYnBXbEFPMDJzNGlLdXpOUmhQd3BNWlJLTFVTbE5CbEJSWm1iMGxOX3kxN0pZZ3NvX3NKbnpONE1qQWlrNGhPUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 10:37:05 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Is Tesla Stock a Buy Before 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXBfM0VTSFd3aVo3YUhneFVkXzRCMUtTaHVwZWs5NFFoRHhYQ1hpOHl0RnAzM1N5azFZeENucXdpUV80dVZPSUtlQTkwdW1oR1hUVEM3UVhocXl0RklsSEdyUElvOVUwaTJGYTl5NmJBQkJRVXZpLTF5SU9SRjJEdg?oc=5",
+      "published": "Tue, 23 Dec 2025 21:23:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Top Mutual Fund Holders of Tesla (TSLA) - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0prMkp5OHhmaTdtT190NGgxeU5wdGtodWg5TzNzamxJNFdqX3JzdUt3TGN3YnNlTlNiQXM1M3JIaVhhLTVHZzN3a2NNX29rY19pUlAwQXEyTlM0QmpVVWo0S1J1ZTlUZEl1ZkJhTmZiMEpCMy10cEFhMjFpYXB2X183anNTY0x4VUpBZ1pqZUxFcTRm?oc=5",
+      "published": "Wed, 24 Dec 2025 17:15:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla Eyes $3 Trillion Valuation. Here's What Noted Bull Dan Ives Expects From The Elon Musk-Led Company In 2026. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkluZ3NadnlfbWZmVnZ6V1NHS3MwUVpHRlhnbTRYVHpJVklSZDg1QkVpYVp4LUN0Ym9HYXE2aXNGNFBsWG0ySHVfRWJseHNpQUdpSk1KNmsyXzJMYnA0dU5vWFpZMWlvejRaWmF5RzdERGtZbzRDQjJmNmVrMVFaX21YZlhyZkE?oc=5",
+      "published": "Fri, 26 Dec 2025 20:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Cathie Wood Reduced Her Stake in Tesla: Is TSLA Stock a Buy, Hold, or Sell Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2lWVUJvQWc0WlhVM29UN3pqRUozYVdMZEp5bUJySzZjV3d6Y3hKUklvUXlxUk1HamlabXdkRWlDQ3RyN2hPSjMyWndialBqZ0pRUnFKalo0ZTdzSFh6c090dC1FTms3SFlLZkpxVl9hRGRGTGR3ZGdZMjhEZmFaOQ?oc=5",
+      "published": "Wed, 24 Dec 2025 16:30:04 GMT",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla อยู่ในโซนที่น่าซื้อ ท่ามกลางวิดีโอ Robotaxi แบบไร้คนขับที่เพิ่มขึ้น และชัยชนะในศาลของ Musk เรื่องข้อตกลงค่าตอบแทน",
+        "why": "พาดหัวข่าวระบุว่าหุ้นอยู่ใน 'Buy Zone' และมีข่าวดีเกี่ยวกับเทคโนโลยี Robotaxi รวมถึงชัยชนะทางกฎหมายของ Elon Musk ซึ่งเป็นปัจจัยบวกที่สนับสนุนราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Tesla อาจมีราคาถึง 800 ดอลลาร์ได้ในปี 2026 พร้อมเหตุผลสนับสนุน",
+        "why": "การคาดการณ์ราคาหุ้น Tesla ที่ 800 ดอลลาร์ในอนาคตบ่งชี้ถึงแนวโน้มเชิงบวกที่อาจผลักดันราคาหุ้นให้สูงขึ้นอย่างมีนัยสำคัญ"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การคาดการณ์หุ้น Tesla (TSLA) — 3 สัญญาณอันตรายที่นักลงทุนไม่ควรมองข้ามในปี 2026",
+        "why": "คำว่า 'Red Flags' (สัญญาณอันตราย) ชี้ให้เห็นถึงปัจจัยลบที่สำคัญและอาจส่งผลกระทบต่อราคาหุ้นในเชิงลบ ซึ่งนักลงทุนควรระมัดระวัง"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Tesla ตั้งเป้าหมายมูลค่า 3 ล้านล้านดอลลาร์ และนักวิเคราะห์ Dan Ives คาดการณ์ถึงบริษัทที่นำโดย Elon Musk ในปี 2026",
+        "why": "การตั้งเป้าหมายมูลค่าบริษัทที่สูงถึง 3 ล้านล้านดอลลาร์ และการอ้างถึง 'Noted Bull' (นักวิเคราะห์ขาขึ้น) ยืนยันถึงมุมมองเชิงบวกอย่างมากต่อศักยภาพของหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Cathie Wood ลดการถือหุ้นใน Tesla: หุ้น TSLA น่าซื้อ ถือ หรือขายตอนนี้?",
+        "why": "การที่นักลงทุนที่มีชื่อเสียงอย่าง Cathie Wood ลดการถือหุ้นใน Tesla ถือเป็นสัญญาณเชิงลบที่อาจกดดันราคาหุ้น หรืออย่างน้อยก็เป็นข้อบ่งชี้ว่าควรทบทวนสถานะการลงทุน"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "โดยรวมแล้วมีสัญญาณทั้งในเชิงบวกที่แข็งแกร่ง เช่น เป้าหมายราคาที่สูงและข่าวดีเกี่ยวกับเทคโนโลยีใหม่ และสัญญาณเชิงลบที่สำคัญ เช่น สัญญาณอันตรายและนักลงทุนรายใหญ่ลดการถือหุ้น ทำให้ภาพรวมยังคงเป็นกลาง"
+    }
+  }
+}

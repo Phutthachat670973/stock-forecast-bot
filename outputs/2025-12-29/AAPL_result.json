@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3889,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.5061 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0128 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0199 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0167 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0124 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Morgan Stanley Lifts Apple Inc. (AAPL) Price Target on Earnings Growth Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNxZUpldGwwM1pwNXU5LUUtYUNmV191WTJtaTRvc1ZGSS1uV1FycWJEdGlxaE1OUTJkdkNweFBCUkxpSTllU0cxUFprNDd4bHFsQkFlVjhNT1J4OGwxbzJvWEZ1S2U4ekZJdTFsdjA0SlNSYk5OanlsLWFfb3FMZ053?oc=5",
+      "published": "Mon, 22 Dec 2025 13:39:55 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Just Released a New AI Model. Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEUzNFhMbjlZbG5va282QlRqc0hqVWRmM0hVVzNRSGxZTlFGZEh4am9FOHpPTlQ4Y3I2SC1LN2Nhb2xHa3BKM0hjRjdwcV9EVzZVczBfaVpuazhEU09DZnJPenBDWHFWam5LWWVZMmFPOFZIcHlsSHV4akdqbVN5SjlCdE9zeFNvbjU3WWI2SkxVYVYwUlVfS3ZBcmpGNnlwSXF6OTgxb0lpMUhKaVVJ?oc=5",
+      "published": "Tue, 23 Dec 2025 16:00:03 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Will 2026 Be The Year Apple Finally Joins The AI Race? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG1oNVRjN0VoOWVPbFJVRzByeVhrek9GSU5kSTJzQWJjMUhCRFFSSjQ5LUl5UU1DX2Z4QjJkelNWWWdLY1hvRmRIeEVOMGhKWjlOaTN6d0FfaEdYOE9DWFpXcWM3aUJHRUNIM2FjLXBiQ2cwUzlIMkszU2QwRmxodGVsSW1uemlGM0RF?oc=5",
+      "published": "Tue, 23 Dec 2025 21:54:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "AAPL - Apple Inc Stock Price and Quote - Finviz",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VVpTazYwR3NVeGVVRURfbU43Mm53dVE1ZHZhMkozOTF3TS15a09Pb0twZm44NlBBRFdFR1NCalVIcS1DcjVXWGhsOGk?oc=5",
+      "published": "Fri, 26 Dec 2025 21:00:00 GMT",
+      "source": "Finviz"
+    },
+    {
+      "title": "Apple Inc (AAPL-Q) Stock Price and News - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNUthQUdiVFRtTDA4VmU4cjZETk5WRFBvcEtVbHNhNWNwYnNFYzBhZC11ejg3QkNkdVpXbk5EUjlfRVROdzc5RFdtTDVhYTV1cFlpUEoxb2hKU2Z1RHVOTXVILWVoNFVFZGozMXNVTi1FUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 10:07:51 GMT",
+      "source": "The Globe and Mail"
+    },
+    {
+      "title": "1 Top Stock to Buy Hand Over Fist Before the Nasdaq Soars Higher in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0R6MXlBQUVvT2RmTDQ4Z3kwdnljVmYySXIyczlMZ25XTVBTV19JWUo1REdIZDZMLW1PVjVjYXZxQlJXaHBfa194VVJidGVTVHJoS2NBSGxnNER3RE9GcUpLUG9rbUtEY1EzZDlRT1Z1SFF2dFJPSjhBX0NObDhWRGltdnNzY01lWWpHei1ab1lWb3UzTk5ybg?oc=5",
+      "published": "Wed, 24 Dec 2025 21:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on AI Model Release and Regulatory Fine - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUVIcW5iR0Vvc1VhVUhHblhoeFg5cW56NExpN3N4RThDNmFseUljZnR3ZGVtbTFONWdqYjdDRWRCTzRGWXhHZXRaRWVuVm1jYnJEWXc1QVJYdzAtTWtaUkV4RGJEMGg1dFduQXFocDBkejAwSFBnR1FnTjRGQkUwRzd4WHJaQ21lRmItYUNmcHUtOE1KQzYycFZETnVVVTJqTUFBM1VIUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple Stock Today: AAPL trades near $274 as China iPhone data, Apple Watch ruling, and new Wall Street targets shape the 2026 outlook - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFZJSUxTNzRvSzhrYnBuOXR5Y1k5U3A3NDlEM0szdW02Y1J0QjhfSXZxMi1JQnpqZUJjbmEtcXIyNm1jUkxNOGZkSlhQQ2s1LVA4MXhvRm82YzRIZUpKS2NFNE1hUUU5bU1PeEpLVko0RDVhNUdtSTVnLWR5NHpPRXJxeWVfZS1VZDF2aFBWelVhM21LdzQ5bTBvMGdkcEs2SXUtZEMwNmVGbkw5Y09wUEJTOWZLY0tPWFNlMGhMVkhJbmt2MERKUktIR3REYmhZYTFIbXBFemhQNUdTODZSbU8zSEs?oc=5",
+      "published": "Fri, 26 Dec 2025 17:49:29 GMT",
+      "source": "ts2.tech"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Morgan Stanley เพิ่มราคาเป้าหมายของ Apple (AAPL) โดยอิงจากการคาดการณ์การเติบโตของรายได้",
+        "why": "การที่สถาบันการเงินขนาดใหญ่อย่าง Morgan Stanley ปรับเพิ่มราคาเป้าหมายของหุ้น AAPL เนื่องจากการคาดการณ์การเติบโตของกำไร ถือเป็นสัญญาณเชิงบวกที่ชัดเจนสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "Apple เพิ่งเปิดตัวโมเดล AI ใหม่ ซึ่งนำไปสู่คำถามว่าควรซื้อหุ้น AAPL หรือไม่",
+        "why": "การเปิดตัวโมเดล AI ใหม่ของ Apple แสดงให้เห็นถึงนวัตกรรมและการพัฒนาผลิตภัณฑ์ ซึ่งโดยทั่วไปถือเป็นปัจจัยเชิงบวกที่อาจหนุนราคาหุ้น แม้พาดหัวข่าวจะตั้งคำถามถึงการซื้อหุ้นก็ตาม"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ความคิดเห็นเกี่ยวกับหุ้น Apple (AAPL) เกี่ยวกับการเปิดตัวโมเดล AI และค่าปรับด้านกฎระเบียบ",
+        "why": "พาดหัวข่าวนี้กล่าวถึงทั้งปัจจัยเชิงบวก (การเปิดตัวโมเดล AI) และปัจจัยเชิงลบ (ค่าปรับด้านกฎระเบียบ) พร้อมกันโดยไม่ได้ให้น้ำหนักหรือสรุปทิศทาง จึงทำให้ผลกระทบต่อราคาหุ้นเป็นกลางจากพาดหัวข่าวนี้"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้น Apple (AAPL) ซื้อขายใกล้ $274 โดยมีข้อมูล iPhone ในจีน, คำตัดสิน Apple Watch และเป้าหมายใหม่ของ Wall Street เป็นปัจจัยกำหนดแนวโน้มปี 2026",
+        "why": "พาดหัวข่าวนี้ระบุถึงปัจจัยหลายอย่างที่อาจส่งผลต่อแนวโน้มหุ้น AAPL ซึ่งมีทั้งที่อาจเป็นบวก ลบ หรือยังไม่ชัดเจน ทำให้ไม่สามารถสรุปทิศทางที่ชัดเจนจากพาดหัวข่าวเพียงอย่างเดียวได้"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ปี 2026 จะเป็นปีที่ Apple เข้าร่วมการแข่งขัน AI อย่างเต็มตัวหรือไม่",
+        "why": "พาดหัวข่าวตั้งคำถามเกี่ยวกับการเข้าร่วมการแข่งขัน AI ของ Apple ในอนาคต ซึ่งเป็นการคาดการณ์และยังไม่มีข้อมูลที่ชัดเจนว่าจะส่งผลบวกหรือลบต่อราคาหุ้นในปัจจุบัน ทำให้เป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 75,
+      "note": "ข่าวสารที่เลือกมีทั้งปัจจัยเชิงบวกที่ชัดเจน เช่น การปรับเพิ่มราคาเป้าหมายและการเปิดตัวโมเดล AI ใหม่ และปัจจัยที่เป็นกลางซึ่งระบุถึงความไม่แน่นอนหรือปัจจัยผสม เช่น การตั้งคำถามเกี่ยวกับบทบาทใน AI และข่าวที่มีทั้งด้านบวกและลบ จึงทำให้มุมมองโดยรวมเป็นกลาง"
+    }
+  }
+}
