@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-29",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4737,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 5 วัน = -0.0448 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1366 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0361 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0398 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0061 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Big Moves On The Horizon For Tesla Stock With These Two Deadlines Looming - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLS1LTm5vLUZUQTVlR0ZBN2g0R1lLeWcza3JVQS1zcUM5LWlaZ2dQQzJMckNJeXE0ZFBNeUxIUjNfQ0t0WTR5UU9lbHdRaFc4bXN4VnZkQUhyU1NZM2tIZDBGNGFyaGpRWm5ZbkZWR0t3b3NIcm5BUVQ3aW1CdU1HQmhXa2ZzZHhxRVVSaVJnTllQQUs4VldpbWFucGpmNmxyc3JF?oc=5",
+      "published": "Mon, 29 Dec 2025 21:03:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "TSLA: Cathie Wood Dumps $30 Million Worth Tesla Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zUE1vUXBmWmc0UUJob0VnbHQyNFF6SktIZWpsdWRWNWRPd0Z4MmYxNkQ4VW9hYjQ2bVZkNHhleFY2anR2dnNkWkUyNHlSLUdwdEFPMkFUM3dhTGNuTG9Dem1ZZDdlVEdLOUJPek0zdU5YbWgzcUVRaVdYcw?oc=5",
+      "published": "Mon, 29 Dec 2025 17:51:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 25) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0F2dmhZdERIekJjMEtEZ0tnQXpSQlhLZXBLbUhvcjB1VFRrY2tIYTNtZ0ltbmd5NG5XNV9KbENNT0ZkUTkzQTRBcmwzNUpTS2d1blc4LUJocmFLcVJjd05iWEExaG9EMDJIRDMxTGZKV2Y4bC1DM0NTS2EyUko0NkROY2ZUQ1pNblM3eA?oc=5",
+      "published": "Thu, 25 Dec 2025 21:15:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla (TSLA) Stock Forecast — 3 Red Flags Investors Can’t Ignore in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1yMVZZUERaYjdBaVFJbnhEcXJOUFJKdkxVenNZMkpnalFibHh3RHZIcVY1azdqZkxlLUhjN2NnTnh0VlNHQzFmRzZsaUpYTVFRMTl4WTUxVjM0M25jYnBXbEFPMDJzNGlLdXpOUmhQd3BNWlJLTFVTbE5CbEJSWm1iMGxOX3kxN0pZZ3NvX3NKbnpONE1qQWlrNGhPUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 10:37:05 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Is Tesla Stock a Buy Before 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXBfM0VTSFd3aVo3YUhneFVkXzRCMUtTaHVwZWs5NFFoRHhYQ1hpOHl0RnAzM1N5azFZeENucXdpUV80dVZPSUtlQTkwdW1oR1hUVEM3UVhocXl0RklsSEdyUElvOVUwaTJGYTl5NmJBQkJRVXZpLTF5SU9SRjJEdg?oc=5",
+      "published": "Tue, 23 Dec 2025 21:23:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Top Mutual Fund Holders of Tesla (TSLA) - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0prMkp5OHhmaTdtT190NGgxeU5wdGtodWg5TzNzamxJNFdqX3JzdUt3TGN3YnNlTlNiQXM1M3JIaVhhLTVHZzN3a2NNX29rY19pUlAwQXEyTlM0QmpVVWo0S1J1ZTlUZEl1ZkJhTmZiMEpCMy10cEFhMjFpYXB2X183anNTY0x4VUpBZ1pqZUxFcTRm?oc=5",
+      "published": "Wed, 24 Dec 2025 17:15:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla, Inc. (TSLA) Stock News Today: Robotaxi Pressure-Test, Delivery Forecasts, and What Matters Before Monday’s Open - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM3dycDFWNGdGQ1NaX3dxc1ZUbFdua1lmRkt0UlF2X29LVG5Jc1lZMmU5Qnltc2xQc3l1Rk41Xzd0SEI1NjBOS2Fnc2N3TnBRRUJKTW1Yb3JPN3A1VUtvNjdyY09rdjZoMGpYUzJudUJaU3FzcXNkMmpTbm9mNVF1MXhDX2p6M1habHhhclZLNlRWeng1aWVRdmdlT2R2SHdzT3hVRVNEaF93UkFpZHlFaE95WG90WHVWMmxiRGZnR2JtN1VSOU1fRHh5Zw?oc=5",
+      "published": "Sun, 28 Dec 2025 14:44:46 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Tesla Eyes $3 Trillion Valuation. Here's What Noted Bull Dan Ives Expects From The Elon Musk-Led Company In 2026. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkluZ3NadnlfbWZmVnZ6V1NHS3MwUVpHRlhnbTRYVHpJVklSZDg1QkVpYVp4LUN0Ym9HYXE2aXNGNFBsWG0ySHVfRWJseHNpQUdpSk1KNmsyXzJMYnA0dU5vWFpZMWlvejRaWmF5RzdERGtZbzRDQjJmNmVrMVFaX21YZlhyZkE?oc=5",
+      "published": "Fri, 26 Dec 2025 20:27:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 70,
+        "summary": "ข่าวระบุว่ามีการเคลื่อนไหวครั้งใหญ่สำหรับหุ้น Tesla โดยมีกำหนดเวลาสำคัญสองอย่างรออยู่",
+        "why": "หัวข้อข่าวระบุถึง 'การเคลื่อนไหวครั้งใหญ่' สำหรับหุ้น Tesla ที่กำลังจะมาถึง แต่ไม่ได้ระบุทิศทางที่ชัดเจนว่าเป็นบวกหรือลบ"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Cathie Wood นักลงทุนชื่อดังได้ขายหุ้น Tesla มูลค่า 30 ล้านดอลลาร์",
+        "why": "นักลงทุนชื่อดัง Cathie Wood ขายหุ้น Tesla มูลค่า 30 ล้านดอลลาร์ ซึ่งมักถูกมองว่าเป็นสัญญาณลบและอาจสร้างแรงกดดันต่อราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การคาดการณ์หุ้น Tesla (TSLA) ชี้ให้เห็นถึง 'ธงแดง 3 ประการ' ที่นักลงทุนไม่ควรมองข้ามในปี 2026",
+        "why": "หัวข้อข่าวระบุถึง 'ธงแดง 3 ประการ' สำหรับหุ้น Tesla ซึ่งเป็นสัญญาณเตือนที่อาจบ่งชี้ถึงปัญหาและอาจส่งผลให้ราคาหุ้นปรับตัวลดลง"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ข่าวหุ้น Tesla, Inc. (TSLA) วันนี้ ครอบคลุมถึงการทดสอบ Robotaxi, การคาดการณ์การส่งมอบ และสิ่งสำคัญก่อนตลาดเปิดวันจันทร์",
+        "why": "หัวข้อข่าวกล่าวถึงข่าวสารและกิจกรรมของ Tesla เช่น การทดสอบ Robotaxi และการคาดการณ์การส่งมอบ แต่ไม่ได้ระบุผลลัพธ์ที่ชัดเจนว่าเป็นบวกหรือลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Tesla ตั้งเป้าการประเมินมูลค่า 3 ล้านล้านดอลลาร์ และ Dan Ives นักวิเคราะห์ชื่อดังคาดหวังอะไรจากบริษัทที่นำโดย Elon Musk ในปี 2026",
+        "why": "หัวข้อข่าวระบุถึงเป้าหมายการประเมินมูลค่า 3 ล้านล้านดอลลาร์สำหรับ Tesla และมุมมองเชิงบวกจากนักวิเคราะห์ชื่อดัง ซึ่งเป็นสัญญาณที่อาจสนับสนุนราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 60,
+      "note": "โดยรวมแล้วมีทั้งข่าวที่บ่งชี้ถึงแรงกดดันขาลงที่ชัดเจน (Cathie Wood ขายหุ้น, ธงแดง 3 ประการ) และข่าวเชิงบวกที่แข็งแกร่ง (เป้าหมาย 3 ล้านล้านดอลลาร์) รวมถึงข่าวที่เป็นกลางแต่บ่งบอกถึงเหตุการณ์สำคัญที่จะเกิดขึ้น ทำให้ภาพรวมยังคงเป็นกลางเนื่องจากมีปัจจัยที่ถ่วงดุลกันอยู่"
+    }
+  }
+}

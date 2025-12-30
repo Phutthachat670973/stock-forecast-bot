@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-29",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3959,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.4584 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0106 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0131 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0170 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0162 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple Just Released a New AI Model. Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEUzNFhMbjlZbG5va282QlRqc0hqVWRmM0hVVzNRSGxZTlFGZEh4am9FOHpPTlQ4Y3I2SC1LN2Nhb2xHa3BKM0hjRjdwcV9EVzZVczBfaVpuazhEU09DZnJPenBDWHFWam5LWWVZMmFPOFZIcHlsSHV4akdqbVN5SjlCdE9zeFNvbjU3WWI2SkxVYVYwUlVfS3ZBcmpGNnlwSXF6OTgxb0lpMUhKaVVJ?oc=5",
+      "published": "Tue, 23 Dec 2025 16:00:03 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Will 2026 Be The Year Apple Finally Joins The AI Race? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRG1oNVRjN0VoOWVPbFJVRzByeVhrek9GSU5kSTJzQWJjMUhCRFFSSjQ5LUl5UU1DX2Z4QjJkelNWWWdLY1hvRmRIeEVOMGhKWjlOaTN6d0FfaEdYOE9DWFpXcWM3aUJHRUNIM2FjLXBiQ2cwUzlIMkszU2QwRmxodGVsSW1uemlGM0RF?oc=5",
+      "published": "Tue, 23 Dec 2025 21:54:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple Stock Ticks Up After a Surprise From China—and a Legal Win - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPMWZFT2lKNXZRZDRoaXZKVHY0NkJVdGNaYzRrSUVtOHJYNGtqMTI2Ym0zNnNuWjFhZVZVQ3JMZ1hRM1ZzS1NuUlVvQmFTSTdtdXRnMHp1X1g1MURyU2M5alV0NHdCd0MxcmVRMERNbUFqNXJVeGpZMWFoQ3lPdFhpcXdSczRLNk1yQWZBc3Bod3dmYlE3X2RKMjdjQ19UNUpHVW1adGdTUTlTVnpwT25CRGUyUU1MMHBrdW9ET1JPYVRuYVYxbENGX1hMcGVnbDBsRnpMSzJSOFMwS2VCRm56a3pZOXN3Y3IzVUd4ZHI3N2hHb1NxQ2tfc1lZZGtib2lPYnBsbEtzNkhUX0xFcE9wbUh1QzZsVTRTLWlsU2hoZDVOWU1wMlphSEZyMHNJMzFlNE5fYm85ZFJYSkVYU2J5dnhOWEVzM2w2VmxjWWpUc3Z4R0MwaFBuTzIzY1JxdENCb1FkSk5EdlRaTk1QZ3o0SXFGaWdfWUdXN2dwbnJHampaMXcwck1OdkF5ZU1YZlRtdVE?oc=5",
+      "published": "Fri, 26 Dec 2025 18:31:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "AAPL: Apple Navigates Legal Hurdles and Market Recovery as Year Ends - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPNkJxd0gtbXRQRU4zOWhaSU9pNnRtdU54bjRfbmR4ZkN4amZScV92RVI0cU9nN2pKQjR6YXhFczBmVHNqa3I0a3dURGFkTmlkc0R0NV9Ud29xaTNiQ1BnX3JPekZzRGh0ak16RmdtR0h0cTMzU0tkc2dqTU1ndnM?oc=5",
+      "published": "Fri, 26 Dec 2025 16:38:01 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Top Stock to Buy Hand Over Fist Before the Nasdaq Soars Higher in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd0R6MXlBQUVvT2RmTDQ4Z3kwdnljVmYySXIyczlMZ25XTVBTV19JWUo1REdIZDZMLW1PVjVjYXZxQlJXaHBfa194VVJidGVTVHJoS2NBSGxnNER3RE9GcUpLUG9rbUtEY1EzZDlRT1Z1SFF2dFJPSjhBX0NObDhWRGltdnNzY01lWWpHei1ab1lWb3UzTk5ybg?oc=5",
+      "published": "Wed, 24 Dec 2025 21:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on AI Model Release and Regulatory Fine - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUVIcW5iR0Vvc1VhVUhHblhoeFg5cW56NExpN3N4RThDNmFseUljZnR3ZGVtbTFONWdqYjdDRWRCTzRGWXhHZXRaRWVuVm1jYnJEWXc1QVJYdzAtTWtaUkV4RGJEMGg1dFduQXFocDBkejAwSFBnR1FnTjRGQkUwRzd4WHJaQ21lRmItYUNmcHUtOE1KQzYycFZETnVVVTJqTUFBM1VIUQ?oc=5",
+      "published": "Wed, 24 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple Stock Today: AAPL trades near $274 as China iPhone data, Apple Watch ruling, and new Wall Street targets shape the 2026 outlook - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFZJSUxTNzRvSzhrYnBuOXR5Y1k5U3A3NDlEM0szdW02Y1J0QjhfSXZxMi1JQnpqZUJjbmEtcXIyNm1jUkxNOGZkSlhQQ2s1LVA4MXhvRm82YzRIZUpKS2NFNE1hUUU5bU1PeEpLVko0RDVhNUdtSTVnLWR5NHpPRXJxeWVfZS1VZDF2aFBWelVhM21LdzQ5bTBvMGdkcEs2SXUtZEMwNmVGbkw5Y09wUEJTOWZLY0tPWFNlMGhMVkhJbmt2MERKUktIR3REYmhZYTFIbXBFemhQNUdTODZSbU8zSEs?oc=5",
+      "published": "Fri, 26 Dec 2025 17:49:29 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Dan Ives is betting that Apple and Google will partner in 2026. Should you buy AAPL stock first? - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU0IySTJrMUQybEVpMmNCaUE5Y3hKZGNxRF92cjBSUVNRNnhkS3dyWDJRZV8ybnFIVGU4cmlXU2wzNGg5S1kwWTdZQThpWXdfd3cxd0JOZ21laGk1UXBWamdIbnpQRGJFM25pRzBDN19pNFpDM05sNTJFaWlwWWxOM3h2WGlCSGlEWE1rUzVrR1hwZGZYdjVUbVFhUldHVnBna2FvcUtMalcyX2pEa3pqd0psTElHS0FWWHc4eVN4bEloSkJtLUVRampuc2JsNU1JQ2JYNUhVVHM0ZTkyOG9JaVZ3?oc=5",
+      "published": "Wed, 24 Dec 2025 19:50:31 GMT",
+      "source": "MSN"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple ได้เปิดตัวโมเดล AI ใหม่ ซึ่งนำไปสู่คำถามเกี่ยวกับการซื้อหุ้น AAPL",
+        "why": "การเปิดตัวโมเดล AI ใหม่ของ Apple โดยทั่วไปถือเป็นสัญญาณที่ดีของนวัตกรรมและอาจเป็นตัวขับเคลื่อนการเติบโตของบริษัท ซึ่งอาจสนับสนุนราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple ปรับตัวสูงขึ้นหลังจากเกิดเหตุการณ์ไม่คาดฝันจากจีนและชัยชนะทางกฎหมาย",
+        "why": "การที่ราคาหุ้นปรับตัวสูงขึ้นพร้อมกับข่าวดีจากจีนและผลการตัดสินคดีที่เป็นบวก เป็นปัจจัยที่ชัดเจนที่สนับสนุนแนวโน้มราคาหุ้นในเชิงบวก"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "มีความคิดเห็นเกี่ยวกับหุ้น Apple (AAPL) เกี่ยวกับการเปิดตัวโมเดล AI และค่าปรับจากหน่วยงานกำกับดูแล",
+        "why": "หัวข้อข่าวนี้กล่าวถึงทั้งปัจจัยเชิงบวก (การเปิดตัวโมเดล AI) และปัจจัยเชิงลบ (ค่าปรับจากหน่วยงานกำกับดูแล) ทำให้ภาพรวมเป็นกลาง เนื่องจากมีทั้งข่าวดีและข่าวร้าย"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "หุ้น AAPL ซื้อขายใกล้ $274 โดยข้อมูล iPhone ในจีน คำตัดสินเกี่ยวกับ Apple Watch และเป้าหมายใหม่จาก Wall Street เป็นปัจจัยกำหนดแนวโน้มปี 2026",
+        "why": "หัวข้อข่าวนี้ระบุถึงราคาหุ้นในปัจจุบันและปัจจัยหลายอย่างที่อาจส่งผลกระทบต่อแนวโน้มในอนาคต แต่ไม่ได้ระบุทิศทางที่ชัดเจนว่าเป็นบวกหรือลบสำหรับแต่ละปัจจัย ทำให้ภาพรวมเป็นกลาง"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Dan Ives คาดการณ์ว่า Apple และ Google จะร่วมมือกันในปี 2026 และตั้งคำถามเกี่ยวกับการซื้อหุ้น AAPL",
+        "why": "การคาดการณ์การเป็นพันธมิตรกับ Google โดยนักวิเคราะห์ที่มีชื่อเสียง ถือเป็นข่าวเชิงบวกที่สำคัญสำหรับ Apple โดยเฉพาะอย่างยิ่งในด้านนวัตกรรมและตำแหน่งทางการตลาด ซึ่งอาจเป็นตัวกระตุ้นราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 75,
+      "note": "แนวโน้มโดยรวมมีทิศทางเชิงบวกเล็กน้อยถึงปานกลาง โดยมีข่าวดีที่ชัดเจนและพัฒนาการที่อาจเป็นประโยชน์ แม้ว่าจะมีปัจจัยที่เป็นกลางที่ต้องจับตาดู"
+    }
+  }
+}
