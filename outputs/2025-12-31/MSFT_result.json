@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2025-12-30",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4321,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3911 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0270 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0268 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0078 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0054 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW5jaWUybGhBcFNveGJNdFIzb0VqRWhDWWVDMFVnbS1HN1Z4d3VWd1pmSmh4dXNvY0xfTFZtWkdjcUpyemNjNnpySHpqclVaODdCSXM2SGo4c3JWVVhObnRDU3gxVy1rRVlGY1V1a19WeGZlWUhaTF9DQXlNYkhLQmtqWlpXQQ?oc=5",
+      "published": "Fri, 26 Dec 2025 12:30:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "MSFT Stock A Winner In 2026? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVRXM1h2RGUzcy1HMHRQc1Fmd2NNR3NIVlVNYkVpWWl4MnJSVkliZzRvZ3ZBaXBDdmNmd000aUlyeWFpRFhJUDlmS2w4RTJ3anZrV2Jtcllad0xvR3lRYTVBd01WbnMwR3gxcUNva0tiYUt2OXpMU05DbGMza0ZZdXpXYlpOUHNRQ2paNVZqSQ?oc=5",
+      "published": "Mon, 29 Dec 2025 15:08:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "2 Billionaires Just Loaded Up on Microsoft Stock. Do They Know Something We Don't for 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1g4QVNRdXJSal92RjcyUUN4ZXdMMWdUNW5BUXJ3QmxfeTlqTDJzTmN0cVpZcjBYaVFFaHhvVHh1THNtOHB1cTdHWmtjbXlpa3Zxc25PaklJX1pCQzJFRkljclh1VjIwazhUNlNjSnpUTTM1elF2VVVjVTdpUUdPbnNucXRrLURrOERPNU1OcTlMLVVXTFE?oc=5",
+      "published": "Mon, 29 Dec 2025 21:38:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft’s business is on fire. So how can its stock break from its curse? - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNaGtncGszOUxNZk13dm10ZTc3ek1CV2ZtZHJfVzhNUkt3VWs2aF9HeEhNYnFyTUpueUpOTG1Fb0dwU0kwclBId3pvTGlHbkpCNU9hRWxjbml4MjBrakV4YnctUnBZUVdRMGdacDdsMWJzbDJZeWlIYk4wZlduTklIZnhILWpFNzRFQi1uMlByOWhidk12cWpBMEtLdG1kbnFDMmlPalVQdUZHVkxISkNNZm4tcGlnaEMwb3VWNS1RWDBEZTNjSVRiMURDaGEtVFNZNlp5c3JYUGRfVTNuaTJJcmY3bFQ0S08xdDBsUG1Oa3MxemRhYWpETGJpaV80bWRQRmxHWkNoOXRCYndoVmJORWYyODZrbUo4YUNURjJLd1ZiaUhicFpBWWkyS1lrc3VSd0M4bDdwUllwdVZGamsyNVNFdFVFV2JWSXNwcHkwNk1Xc0tjQWFMeVAwTGZzc3NJX0JzOThnZjdEdGJsYTVxOW1sVDFsQ1pjeFhtVDh2dDJGUEJfUVhTN1B2VlRKYkt6Q2hibE04UWZXY29JaEJjLUF0WldydVJKWkNuYlo1Rk1XLTJpcEdEdUtvcw?oc=5",
+      "published": "Mon, 29 Dec 2025 12:39:00 GMT",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Today: Price, News, Analyst Forecasts, and What Investors Are Watching Into 2026 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTRXVGJCeUlHQjVQUmFjZU9tYkFYN1huTzNKOVFmZ2k3LU1oMmxvdHd1VTA3TC03T3piTjRoZGlOaFl5THNsSjlfa2ZZRjBKYmlpZFc0ak14WW5fbTQyckt2bTFlMHo4SnVQby1yYkd6MFBnT1YtUWNZODZVSGppUmRyM2RsSFJoZVppbTJlUUpTM3dic1FWV1otWTNiNjBQTS04VHc4Qi1mZXdSV1prb19JSUotcVRQY1E?oc=5",
+      "published": "Fri, 26 Dec 2025 18:04:29 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlBLeXNEZ3N6cE41bU1QbmVnZnFaZDdFNlgxYWJ3YWxNaVhjanBmRTdYcDQ3T01QXzJiVE5HVDVyTTNURG52MHFQYkZnNUJrOTBxQzhIM1J4SHBDbms0MzhnYndRN0t5ek1oVkhXRnhOQTllbkRTTWFmX3dlRnBqWk9IUzNTbVJy?oc=5",
+      "published": "Wed, 24 Dec 2025 19:15:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on AI and Cloud Growth - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDQ0SURsMU5KVE5vZjZ3VHc0YjlldHNUbENXRDFXVWNyMTA2V2MtblVqWnJybEVZRXhSMXlBaThFRXpRcjRDaGY5R3VTOTNieUt5V3JSZlBUdmVsc2xaQUJMbE5BQ0dhTVZoS1ZRYkNxbzFQT0xiN2VFM0UwNlREZktpcE1rRWNhcjB0eXpnRmNLMzJ5aVE?oc=5",
+      "published": "Wed, 24 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Why Analysts See 2026 as a Breakout Year for Microsoft Stock (MSFT) - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzJSV2pkZGp4WXBYR3JFUzA1Mzg0czFiTjJEazJJM0RaNzl2bmNJWlJ6RjBmNHAweDdjOEo5TDdEZ3FBLTlJMnhsNG9WYmxzeUVjMTk3SGJGTFAwbTNCaGZCdGEweDRfVGpZMEJhOUNsejZiN1NYeXZqbDF3REVJU2R1cklaMFdEc21wUld1OGw0Q1RzeUJ6OUVYRQ?oc=5",
+      "published": "Fri, 26 Dec 2025 02:20:42 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "บทความนี้เป็นการคาดการณ์ราคาหุ้น MSFT สำหรับปี 2025 โดยเป็นการนำเสนอข้อมูลการวิเคราะห์",
+        "why": "พาดหัวข่าวนี้เป็นการนำเสนอถึงการคาดการณ์ ไม่ได้ระบุทิศทางของราคาหุ้นโดยตรง แต่เป็นการเชิญชวนให้ผู้อ่านดูข้อมูลการคาดการณ์"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "มหาเศรษฐีสองคนเข้าซื้อหุ้น Microsoft จำนวนมาก ซึ่งอาจบ่งชี้ถึงความเชื่อมั่นในอนาคตของบริษัท",
+        "why": "การที่มหาเศรษฐีจำนวนมากเข้าซื้อหุ้นมักถูกมองว่าเป็นสัญญาณเชิงบวกที่แสดงถึงความเชื่อมั่นในศักยภาพการเติบโตของบริษัท"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ธุรกิจของ Microsoft กำลังเติบโตอย่างแข็งแกร่ง แต่บทความตั้งคำถามว่าหุ้นจะสามารถหลุดพ้นจากปัญหาที่เคยเผชิญได้อย่างไร",
+        "why": "แม้จะกล่าวว่าธุรกิจ 'on fire' ซึ่งเป็นบวก แต่ก็มีการตั้งคำถามถึง 'curse' (ปัญหา) ของหุ้น ซึ่งชี้ให้เห็นถึงความท้าทายหรือการตั้งคำถาม ทำให้ภาพรวมไม่เป็นบวกหรือลบชัดเจนนัก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 98,
+        "summary": "Microsoft คาดว่าจะพิสูจน์ให้ผู้ที่สงสัยเห็นว่าคิดผิดด้วยการเติบโตที่ขับเคลื่อนด้วย AI ในปี 2026",
+        "why": "ถ้อยคำว่า 'Prove Doubters Wrong' และ 'AI-Fueled Growth' บ่งชี้ถึงมุมมองเชิงบวกอย่างมากต่อศักยภาพการเติบโตของบริษัท"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 98,
+        "summary": "นักวิเคราะห์มองว่าปี 2026 จะเป็นปีที่หุ้น Microsoft มีผลงานโดดเด่นอย่างมาก",
+        "why": "คำว่า 'Breakout Year' เป็นคำที่ใช้บ่งบอกถึงการเติบโตหรือประสิทธิภาพที่ยอดเยี่ยม ซึ่งสะท้อนมุมมองเชิงบวกจากนักวิเคราะห์"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 90,
+      "note": "พาดหัวข่าวที่เลือกส่วนใหญ่ (3 ใน 5) ชี้ไปที่แนวโน้มเชิงบวกสำหรับ Microsoft โดยเน้นย้ำถึงความเชื่อมั่นของนักลงทุนรายใหญ่ ศักยภาพการเติบโตที่ขับเคลื่อนด้วย AI และการคาดการณ์จากนักวิเคราะห์ว่าปี 2026 จะเป็นปีที่โดดเด่น"
+    }
+  }
+}
