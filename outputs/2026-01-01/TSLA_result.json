@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-31",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.358,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3521 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0738 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0820 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0322 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0440 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Why Tesla (TSLA) Shares Are Trading Lower Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFNjb3NJcTRJb3NQVTZHTXdORXRRbzNYRVdGcm9lQTJIYThRdzhjaUh5eXVxMjFlZm5tNkdHQnQta3EwRURyNElNSmVjeEVXSC1XZjBRYUJEZTd4U011b2NEVzVaWG9Mc3BGRV9fQjRMMDQzR3JBejJacFlFQ3UxOQ?oc=5",
+      "published": "Mon, 29 Dec 2025 20:00:39 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Big Moves On The Horizon For Tesla Stock With These Two Deadlines Looming - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLS1LTm5vLUZUQTVlR0ZBN2g0R1lLeWcza3JVQS1zcUM5LWlaZ2dQQzJMckNJeXE0ZFBNeUxIUjNfQ0t0WTR5UU9lbHdRaFc4bXN4VnZkQUhyU1NZM2tIZDBGNGFyaGpRWm5ZbkZWR0t3b3NIcm5BUVQ3aW1CdU1HQmhXa2ZzZHhxRVVSaVJnTllQQUs4VldpbWFucGpmNmxyc3JF?oc=5",
+      "published": "Wed, 31 Dec 2025 14:45:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla Stock: Buy, Sell, or Hold in 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1NXZ1lHUTNRbDJvd2w1MFhfeDI0by1FTlE5R0pMWW9wR2pJWEtOTUlsV2MtZVNrMWFpSEotb19LVkx2amJxVHJ2bmE0Ry00aGRpR0JaOGdBYU85eG1GQjhORlA3cVBiREMyanJvUTFmSkdMVlFhR19FZ2JhenJONnAxTjBCQQ?oc=5",
+      "published": "Wed, 31 Dec 2025 17:49:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Dec 25) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0F2dmhZdERIekJjMEtEZ0tnQXpSQlhLZXBLbUhvcjB1VFRrY2tIYTNtZ0ltbmd5NG5XNV9KbENNT0ZkUTkzQTRBcmwzNUpTS2d1blc4LUJocmFLcVJjd05iWEExaG9EMDJIRDMxTGZKV2Y4bC1DM0NTS2EyUko0NkROY2ZUQ1pNblM3eA?oc=5",
+      "published": "Thu, 25 Dec 2025 21:15:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla: It's Not Time For Bears To Give Up, The Big Short Of 2026 (Downgrade) (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeS13NG9qeGVuYzBVa0lrUmdzTmwtWjI3dGF1NnJ3eTN3QjJuX0FUT3YtbkNOTm1VWC10NTBVSF93c25mYVhoWkZJbE1oNlZTdnlXM2x5WnFGOU9KMWI4c21CNU45bi0yekdZbEdERXNRb1B1RWx4Q2x2NlRvYzlWb05sTHZWaXpiT2hHYXJNbngwLVVUZlBkQjhscXNNSUMxVDRQc25DMVNXdmJBSmNzdkF3?oc=5",
+      "published": "Mon, 29 Dec 2025 17:19:30 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla (TSLA) does something unusual ahead of Q4 delivery results - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEZHLTVtMi1rRldQbU9fb1BLVUZ6WkJ2NW55enUzOE00ZU05VzhaTkt0alltbTRwNVRYa0N1SGJJR2tVeFc1b2lVclVLaU1DZEtVZGtYbGhEcHZma1kwbGtuTGRDcWZSVG9WaUF3TEhvSVVyU3J1U2ItbFcyZXRhdm5YMUZjQjlrSnVHZA?oc=5",
+      "published": "Tue, 30 Dec 2025 02:10:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Tesla Inc (TSLA) - MSN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWlZIbDlYMEk3bkRIRk14M0lEc2ZsY2dXNFdFVlZuV0NlWUJWeFg5d2U3WDRfb25jNjhDRVl0ZGJiSkptV1AyQ2FpZVF3bWVhbmxPVXlzdk5aX3NqUTNnTmxLNFRKRUo5LXh6cTEtRC1oTVk3YlpN?oc=5",
+      "published": "Wed, 31 Dec 2025 04:56:23 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "How Strong Is Tesla Stock In Bad Markets? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGl6M3BoV0tJbE40eEdQSUhkd3lBemw2a1lLZlkyVEc3SlBqVUZvUTQ3dWFoX1RIdzNXbnlZNFo3ZEQxOHZDTlp5ZW44Q05iU05UNUd6V3hZS1ByZi10NlBYTDd3bmkwQWJZcnljUmF0VWpISGhBb2hpOFowMTZWcTBDRm5lVjBwTk9CRXYyYWtWZDJIZE9tdXNOampsSXQy?oc=5",
+      "published": "Tue, 30 Dec 2025 13:08:55 GMT",
+      "source": "Forbes"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Tesla (TSLA) กำลังซื้อขายในราคาที่ลดลงในวันนี้",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น TSLA กำลังซื้อขายในราคาที่ต่ำลง ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาที่เป็นลบในปัจจุบัน"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "หุ้น Tesla กำลังจะมีการเคลื่อนไหวครั้งใหญ่ในอนาคตอันใกล้เนื่องจากมีกำหนดเวลาสำคัญสองอย่างกำลังจะมาถึง",
+        "why": "พาดหัวข่าวระบุถึงการเคลื่อนไหวที่สำคัญที่อาจเกิดขึ้นกับหุ้น แต่ไม่ได้ระบุทิศทางว่าจะเป็นบวกหรือลบ"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 98,
+        "summary": "นักลงทุนที่มองลบต่อ Tesla ยังไม่ควรยอมแพ้ อาจเป็นการ short ครั้งใหญ่ในปี 2026 พร้อมกับการปรับลดอันดับ",
+        "why": "พาดหัวข่าวใช้คำว่า 'Not Time For Bears To Give Up', 'The Big Short Of 2026' และ '(Downgrade)' ซึ่งทั้งหมดนี้แสดงถึงมุมมองที่เป็นลบอย่างชัดเจนต่อหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 75,
+        "summary": "Tesla (TSLA) ทำสิ่งที่ไม่ปกติก่อนการประกาศผลการส่งมอบไตรมาสที่ 4",
+        "why": "พาดหัวข่าวระบุถึงการกระทำ 'ที่ไม่ปกติ' ซึ่งอาจมีผลกระทบต่อผลการส่งมอบในไตรมาสที่ 4 แต่ไม่ได้ระบุว่าการกระทำนั้นจะเป็นผลดีหรือผลเสีย"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ควรซื้อ ขาย หรือถือหุ้น Tesla ในปี 2026?",
+        "why": "พาดหัวข่าวตั้งคำถามเกี่ยวกับกลยุทธ์การลงทุนสำหรับหุ้น Tesla ซึ่งแสดงถึงการวิเคราะห์ในอนาคต แต่ไม่ได้ระบุทิศทางที่เป็นบวกหรือลบจากตัวพาดหัวข่าวเอง"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "มีพาดหัวข่าวที่บ่งชี้ถึงแนวโน้มราคาที่เป็นลบอย่างชัดเจนและการปรับลดอันดับ ซึ่งมีน้ำหนักมากกว่าพาดหัวข่าวที่เป็นกลางที่ไม่ได้ระบุทิศทาง"
+    }
+  }
+}

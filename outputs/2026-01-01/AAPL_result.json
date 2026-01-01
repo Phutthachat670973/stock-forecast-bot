@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2025-12-31",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4172,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3381 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0131 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0101 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0103 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0100 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Mon, 29 Dec 2025 16:43:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple Is Likely to Return to Double-Digit Revenue Growth in Fiscal 2026 -- and the Stock Looks Like a Buy - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0JRRTR4RGZPTXhiZDJiTW9hTlQxSzB0ZlVuN0JqcW1qdHlxVTFwekNYY3M4TW9jNzREWHhseXp3d2g5Rk9LT1VLQXo3X1JLbGJsSFdpZ2R1NDJUX0tBWDV3OW55NVlCbXAwSWFJWExMWFFSUWtBMEpvS0xDUXVHYjhaaWtsbnZEMUVPVXE2ODdLSTh4VVRr?oc=5",
+      "published": "Mon, 29 Dec 2025 16:41:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Here’s How Apple (AAPL) Impacted Harbor Capital Appreciation Fund - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTU1dEV3UDBFYnZpSVF6b1JBemEzRi1tc1B1dUpyVmhiUDB1QklZM0U0VUxhaUdIZll0UHh0aGhZWjJ0MHNaMjNSSXVoeEhGNGY0R0Itd1ROWnYySDZLeDRUVHdraHRMQ2Vkc0VBNFcxcExFZlVjeE55akV4U1pOenRVbWZLazg?oc=5",
+      "published": "Fri, 26 Dec 2025 13:02:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Can Trigger An Apple Stock Rally In 2026? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3VqYU5YS00xczgzeE9XcC05R2J0THBVcl93VkxTYWtKSmRWRHd4SFdjbmdkRTlmLVhtcHVJLTVDRFJZRWJ2MW5EalBUZ1I5UV9IN0NXX3RFSXYwei1aUldQNHhHalpEWUxzQmhhVWRZVWEzekk2VlhzcURKYVJUbEhEWnFWWVdjN3ZkSThMZGJjOTQtSm1DRno5UXY4YjkzbHk0Sk02cw?oc=5",
+      "published": "Wed, 31 Dec 2025 13:38:15 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Catalysts That Could Propel Apple Stock to the Moon - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0RHaGJScW1mcGNVdW5qZ0xZWl9sM1JPQnRxaElfUTU4VnBjbXlOOG45SThPdF9JSnJzNnVjektlRnp4dEJSZXVwN1UzWi14elNEMkJja2t3MV9faEw5V1BwTVVtZ0VOcGFnWlpkbzJGSllGX05jRmFzeEhub1J1YmQxNERxeHRQa1FKWVl2blhoaU8wemRJcU01WS10ZEhsNG1YQ0cyVU5kNXZrQWVmTEtpVQ?oc=5",
+      "published": "Wed, 31 Dec 2025 10:53:09 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Apple Inc. Stock (AAPL) Opinions on AI Model Release and Regulatory Updates - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHpqYWNzbndTWlU2Wmd6UkxVN0ZYUDUyd1djV09RSHpiSU44R2NoeHNFanNtWEs5eURORTU1c1pLUU40b0VuMldRNVBfOTRtZzdWWGhqTm1rZzNweV83UlZxcEZ5TkVvLXQzV054TEN4enF1cWIwdzdBLXozeUhZM1BSNW54VktSeHl4anlrRzZnb1A0cmVfZk1sU0tpb3VUNUxIc2dPSTFRQmItc0tzWU5B?oc=5",
+      "published": "Mon, 29 Dec 2025 17:35:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple Stock (AAPL) Update for Dec. 26, 2025: Shares Hover Near $273 After the Bell as China iPhone Data, Apple Watch Legal Win, and 2026 AI Forecasts Take Center Stage - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOV2NUX1FPWmRMbFlLbGFKbi1Zd0N5NjhpZ3l2clpzR2NmRVNDdXFYY3IxLXFvVWxUNm51X085MlFBZ3JXckMxVTFzOXBBMnQxM29KeG12RjY5dU9GNm9pX2hEa0pFaGVBaFo5WXV6Y1NiUWktQVQwWEF2MkE3S2hPZUstUUFhUENSeTdmcTVzNTFkRXJwNF9MZ0g2aVphODc1S3NWNmR0Q0FqRDlNXzNma0U1N1RHVHk2SFNxNHNCSDNNcDE1eGFYVEV0aHBiUmpJV3RjV2V6ZzF0REhURV9PSUxfYXB2bjNzVVlYV05zcFg5bE5EQ1RMM2VNNUJneFl5a2kzc2R0MjRnN2tx?oc=5",
+      "published": "Fri, 26 Dec 2025 21:32:00 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Barclays Keeps Sell on Apple (AAPL) Stock Even as Analyst Targets Stay Elevated - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0dYZDJmaGFYaDBvakdkNHRkdlFyN3lUOGdwZWk5dG0zb3gwTVBFZ2ZMNEl4RmZCajlhZm1FT18wSXJxdGhNcEk5enlKZ3JTcjRmSzhSQXRjc2x3clA1cU0yNVdaSVhJZkVPdUVOUmdEeHkyT1JlTlFmLVpBQmpkcmZXVmRMZEJPdU54QnMwUEJRTzdzOUxzbVloTjk1dnRvakFiSDdiUjAyZ3M?oc=5",
+      "published": "Tue, 30 Dec 2025 11:07:34 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Apple มีแนวโน้มจะกลับมาเติบโตของรายได้เป็นเลขสองหลักในปีงบประมาณ 2026 และหุ้นน่าซื้อ",
+        "why": "พาดหัวข่าวระบุถึงการเติบโตของรายได้ที่คาดว่าจะกลับมาเป็นเลขสองหลักและคำแนะนำว่าหุ้นน่าซื้อ ซึ่งเป็นสัญญาณเชิงบวกอย่างชัดเจนสำหรับราคาหุ้น AAPL"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ตัวเร่งปฏิกิริยาที่อาจผลักดันราคาหุ้น Apple ให้พุ่งสูงขึ้นอย่างมาก",
+        "why": "พาดหัวข่าวใช้สำนวน 'Propel... to the Moon' ซึ่งหมายถึงการปรับตัวขึ้นอย่างมีนัยสำคัญและรุนแรง ถือเป็นสัญญาณเชิงบวกอย่างชัดเจนสำหรับราคาหุ้น AAPL"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Barclays ยังคงแนะนำ 'ขาย' หุ้น Apple (AAPL) แม้เป้าหมายราคาของนักวิเคราะห์จะยังคงสูง",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า Barclays ยังคงคำแนะนำ 'ขาย' สำหรับหุ้น Apple ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น AAPL"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "อัปเดตหุ้น Apple (AAPL) ณ วันที่ 26 ธ.ค. 2025: หุ้นอยู่ที่ประมาณ 273 ดอลลาร์ หลังปิดตลาด โดยมีข้อมูล iPhone ในจีน, ชัยชนะทางกฎหมายของ Apple Watch และการคาดการณ์ AI ปี 2026 เป็นประเด็นสำคัญ",
+        "why": "พาดหัวข่าวนี้รวบรวมข้อมูลหลายประเด็น ทั้งชัยชนะทางกฎหมายที่เป็นบวก (Apple Watch Legal Win) และการที่ราคาหุ้น 'Hover Near $273' ซึ่งบ่งชี้ถึงสถานะที่ค่อนข้างคงที่ พร้อมปัจจัยอื่นที่ยังไม่ระบุทิศทางชัดเจน ทำให้ภาพรวมเป็นกลาง"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ความคิดเห็นเกี่ยวกับหุ้น Apple (AAPL) เรื่องการเปิดตัวโมเดล AI และการอัปเดตด้านกฎระเบียบ",
+        "why": "พาดหัวข่าวนี้กล่าวถึงความคิดเห็นเกี่ยวกับประเด็นสำคัญสำหรับ Apple (การเปิดตัวโมเดล AI และการอัปเดตด้านกฎระเบียบ) ซึ่งเป็นตัวขับเคลื่อนในอนาคต แต่ไม่ได้ระบุว่าความคิดเห็นเหล่านั้นเป็นบวกหรือลบโดยตรงต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีทั้งพาดหัวข่าวที่บ่งชี้ถึงแนวโน้มเชิงบวกอย่างชัดเจนเกี่ยวกับศักยภาพการเติบโตและตัวเร่งปฏิกิริยาในอนาคต ควบคู่ไปกับคำแนะนำ 'ขาย' จากนักวิเคราะห์ และข่าวอัปเดตที่แสดงสถานะค่อนข้างคงที่และปัจจัยที่ยังไม่มีทิศทางชัดเจน ทำให้ภาพรวมเป็นกลางในขณะนี้"
+    }
+  }
+}
