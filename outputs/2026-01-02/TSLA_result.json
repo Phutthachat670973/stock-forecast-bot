@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2025-12-31",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3585,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3496 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0738 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0820 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0322 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0440 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Big Moves On The Horizon For Tesla Stock With These Two Deadlines Looming - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLS1LTm5vLUZUQTVlR0ZBN2g0R1lLeWcza3JVQS1zcUM5LWlaZ2dQQzJMckNJeXE0ZFBNeUxIUjNfQ0t0WTR5UU9lbHdRaFc4bXN4VnZkQUhyU1NZM2tIZDBGNGFyaGpRWm5ZbkZWR0t3b3NIcm5BUVQ3aW1CdU1HQmhXa2ZzZHhxRVVSaVJnTllQQUs4VldpbWFucGpmNmxyc3JF?oc=5",
+      "published": "Wed, 31 Dec 2025 14:45:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "TSLA: Cathie Wood Dumps $30 Million Worth Tesla Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zUE1vUXBmWmc0UUJob0VnbHQyNFF6SktIZWpsdWRWNWRPd0Z4MmYxNkQ4VW9hYjQ2bVZkNHhleFY2anR2dnNkWkUyNHlSLUdwdEFPMkFUM3dhTGNuTG9Dem1ZZDdlVEdLOUJPek0zdU5YbWgzcUVRaVdYcw?oc=5",
+      "published": "Mon, 29 Dec 2025 17:51:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock: Buy, Sell, or Hold in 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1NXZ1lHUTNRbDJvd2w1MFhfeDI0by1FTlE5R0pMWW9wR2pJWEtOTUlsV2MtZVNrMWFpSEotb19LVkx2amJxVHJ2bmE0Ry00aGRpR0JaOGdBYU85eG1GQjhORlA3cVBiREMyanJvUTFmSkdMVlFhR19FZ2JhenJONnAxTjBCQQ?oc=5",
+      "published": "Wed, 31 Dec 2025 17:49:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Should You Buy, Hold, or Sell Tesla Stock in 2026? - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1VHNG43SzVIVThIeURjYmd3TU5xaFMzb2p5a2YzLXFTVE5Vc2Yzb0J6cjM0YUJSbTQtZUw2NG9hOFNCalFnUG5xZWRKUkR0RUJMdWFIb1RlYzRsY2tHR21LM1BhY2hkYXo0Nk5wSFFaWVNEdHc3OWM0aE1RbWtxNXNiYWdXbFk?oc=5",
+      "published": "Thu, 01 Jan 2026 03:31:49 GMT",
+      "source": "NAI500"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Jan 1) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDhhNXJQRnpIRXkzUTNFaU13Y000UmVSRklueDc1d1hsU3A5WXdJcGM1VUN6TDU4ZFFobHBFNFgzSE1uMjUwWUZKWlJ0TGtaY2VBaWdSSTkzaER2TUlPMTlMQlhHU21zQzFzOHdGTUc3WXcyRzE2bDRjNmZ5VDNvZlVfcjgxdVpUM2FSUQ?oc=5",
+      "published": "Thu, 01 Jan 2026 13:20:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Michael Burry says he's not short Tesla (TSLA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNjc2YmV3aGlfLUpibWYzZ3J1aHRxa1A4bE41ZzRWNWFNNldDVGZveXhsd3ZIamE5V0dUWnk1bVZMZi1XUXFBZWNFMThuX3pRWmhJVnN5aTRrX3N1Q1E0WlZHNUtyNk1OcVZsRXJNbDg1VzBJVWxMMTZRVlRqZjRrTEhB?oc=5",
+      "published": "Wed, 31 Dec 2025 12:01:28 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla (TSLA) does something unusual ahead of Q4 delivery results - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEZHLTVtMi1rRldQbU9fb1BLVUZ6WkJ2NW55enUzOE00ZU05VzhaTkt0alltbTRwNVRYa0N1SGJJR2tVeFc1b2lVclVLaU1DZEtVZGtYbGhEcHZma1kwbGtuTGRDcWZSVG9WaUF3TEhvSVVyU3J1U2ItbFcyZXRhdm5YMUZjQjlrSnVHZA?oc=5",
+      "published": "Tue, 30 Dec 2025 02:10:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "How Strong Is Tesla Stock In Bad Markets? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGl6M3BoV0tJbE40eEdQSUhkd3lBemw2a1lLZlkyVEc3SlBqVUZvUTQ3dWFoX1RIdzNXbnlZNFo3ZEQxOHZDTlp5ZW44Q05iU05UNUd6V3hZS1ByZi10NlBYTDd3bmkwQWJZcnljUmF0VWpISGhBb2hpOFowMTZWcTBDRm5lVjBwTk9CRXYyYWtWZDJIZE9tdXNOampsSXQy?oc=5",
+      "published": "Tue, 30 Dec 2025 13:08:55 GMT",
+      "source": "Forbes"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "เป็นกลาง",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวระบุว่าหุ้นเทสลาอาจมีการเคลื่อนไหวครั้งใหญ่ในอนาคตอันใกล้ โดยมีกำหนดเวลาสำคัญสองอย่างกำลังจะมาถึง",
+        "why": "พาดหัวข่าวกล่าวถึง 'การเคลื่อนไหวครั้งใหญ่' และ 'กำหนดเวลา' โดยไม่ได้ระบุทิศทางที่ชัดเจนว่าจะเป็นเชิงบวกหรือลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "เชิงลบ",
+        "confidence": 95,
+        "summary": "แคธี วูดได้เทขายหุ้นเทสลามูลค่า 30 ล้านดอลลาร์สหรัฐฯ",
+        "why": "การที่นักลงทุนที่มีชื่อเสียงขายหุ้นจำนวนมากมักถูกมองว่าเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "เชิงบวก",
+        "confidence": 85,
+        "summary": "ไมเคิล เบอร์รี่ระบุว่าเขาไม่ได้เดิมพันในทิศทางขาลงกับหุ้นเทสลา",
+        "why": "การที่นักลงทุนที่มีชื่อเสียงในการทำชอร์ตเซลล์ระบุว่าเขาไม่ได้เดิมพันขาลงกับหุ้นเทสลา อาจถูกตีความว่าเป็นสัญญาณเชิงบวกหรือลดแรงกดดันขาลง"
+      },
+      {
+        "idx": 7,
+        "stance": "เป็นกลาง",
+        "confidence": 90,
+        "summary": "เทสลามีการดำเนินการที่ 'ไม่ปกติ' บางอย่างก่อนการประกาศผลการส่งมอบรถยนต์ในไตรมาสที่ 4",
+        "why": "คำว่า 'ไม่ปกติ' ไม่ได้บ่งชี้ชัดเจนว่าการกระทำดังกล่าวจะเป็นผลดีหรือผลเสียต่อบริษัทและราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "เป็นกลาง",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวตั้งคำถามเกี่ยวกับความแข็งแกร่งของหุ้นเทสลาในตลาดที่ไม่ดี",
+        "why": "พาดหัวข่าวนี้เป็นการตั้งคำถามเพื่อวิเคราะห์ ไม่ได้ให้ข้อมูลเชิงยืนยันที่เป็นบวกหรือลบต่อราคาหุ้นโดยตรง"
+      }
+    ],
+    "overall": {
+      "stance": "เป็นกลาง",
+      "confidence": 70,
+      "note": "มีสัญญาณผสมกัน โดยมีข่าวเชิงลบจากการเทขายหุ้นของ Cathie Wood แต่ก็มีข่าวเชิงบวกจากการที่ Michael Burry ไม่ได้เดิมพันขาลงกับหุ้นเทสลา ส่วนพาดหัวข่าวอื่น ๆ เป็นกลางหรือเป็นเชิงวิเคราะห์"
+    }
+  }
+}

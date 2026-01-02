@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2025-12-31",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.432,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3112 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0264 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0152 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0066 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0036 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "2 Billionaires Just Loaded Up on Microsoft Stock. Do They Know Something We Don't for 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1g4QVNRdXJSal92RjcyUUN4ZXdMMWdUNW5BUXJ3QmxfeTlqTDJzTmN0cVpZcjBYaVFFaHhvVHh1THNtOHB1cTdHWmtjbXlpa3Zxc25PaklJX1pCQzJFRkljclh1VjIwazhUNlNjSnpUTTM1elF2VVVjVTdpUUdPbnNucXRrLURrOERPNU1OcTlMLVVXTFE?oc=5",
+      "published": "Mon, 29 Dec 2025 21:38:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "MSFT Stock A Winner In 2026? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVRXM1h2RGUzcy1HMHRQc1Fmd2NNR3NIVlVNYkVpWWl4MnJSVkliZzRvZ3ZBaXBDdmNmd000aUlyeWFpRFhJUDlmS2w4RTJ3anZrV2Jtcllad0xvR3lRYTVBd01WbnMwR3gxcUNva0tiYUt2OXpMU05DbGMza0ZZdXpXYlpOUHNRQ2paNVZqSQ?oc=5",
+      "published": "Mon, 29 Dec 2025 15:08:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft’s business is on fire. So how can its stock break from its curse? - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQS2ZJdXg0NUJQdGNPVjk0U0FCTU5YVEE2NGIxZWs2Y0VCODFjZEVlemdWZElqbkQ0TkVoZ2xIVjM4V3l1c3RkWVdjUWFrQmxiTXVSTVFwV0VJQ3hwNWdrM183X1lob0F2cmNGQndLcWI0OHd5WC16elZVdUVqQ3c2VGtwdWJfQnlMbTdzRlZpQ2cwTVBTWmlsZllfWjBuWEhPd3lUTTZDbHFfSzY4VzFjNURxVGplLVprVWFnVHZTQWJyR1h3c0NFLVdkc00xS090cVFvUDNDUDRSQUdXbDZSNEItMFdtRFlSSzRJelZRZ295Z0xvY0J0WHFpSHNqRGxmQ05XMS0xVEFvNWMxbGVUdFYtMy1qWldST1BSdzhXa2hjR1BuWlhxZU54YjhndnVxWG9UYzFBOW5naC13SUxvZ2JxVmFWcHpyNVd3WjFVLTZIdjB5YWpUd25neHFlMU9IZ0V0ZGhNOFY1eDE5cldxdG9leUdldEN3Q2hWYm9aSUdwMno1X0V4ZlZDWFBNVTdQYzJkeEIxckdHUExid2RaRDVPZmgzWGFEb3VXM1NEU3VMVkVCVjZjdEhTRQ?oc=5",
+      "published": "Mon, 29 Dec 2025 12:39:00 GMT",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Microsoft Named A Top Pick Amid AI 'Inflection Point'; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fQUVBTWtDY3lJVWdoSzVxR2V1SDVhQzVjV1hoU2R3ajI3ckNKdktPT3FwcnZoNzlCWG5aSzFvU1BaMlYzNGduMWFGa0ZMX0pjZ1J3MnUzY1RWZWN5b3daeWZvbjUyUVNoeG81d0hzeGJQSGc?oc=5",
+      "published": "Wed, 31 Dec 2025 18:52:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Here’s What Dan Ives Think About Microsoft Corporation (MSFT) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmt0SFV6WVdPLXZSZDJjMkh3Mi1pRWdXTWZydGU5U0NRWXdBVjhPc1hzWnNUYk5YVmowejBrN3dCZHRVazdOTllyVGFMRkZPclVsb19xVHJxYmc3ekxJdUJuMmJFYTZJWVNvb29LWFZNUGd6TWhGVUNhUUhZVlNaald2U1B0WU83ZVE?oc=5",
+      "published": "Sun, 28 Dec 2025 18:20:47 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock Forecast: Why AI Keeps 30% Upside on the Table for MSFT in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3NUY294c1N2Y2wyTF9CeWFZNU9wZGFZc1JRNURMN1ZVX0hLM25ZajBNVUlidnVUTnpxTTVOb2dUN2RnektLZUxxUEQxc2pVVmhvN1NOZmRkQU9jekV1SzQzVVpWdFpJOW5GajNNZDB0MTc5cWxXcmhlV2V2X3NCckMyV2d2d01rV3ZZX3NGNDljWU96M3kzVjJIcDVlZm8wa1BEY3ljTVNIVDZhY0lMTnJn?oc=5",
+      "published": "Tue, 30 Dec 2025 13:03:11 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Today: Price, News, Analyst Forecasts, and What Investors Are Watching Into 2026 - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTRXVGJCeUlHQjVQUmFjZU9tYkFYN1huTzNKOVFmZ2k3LU1oMmxvdHd1VTA3TC03T3piTjRoZGlOaFl5THNsSjlfa2ZZRjBKYmlpZFc0ak14WW5fbTQyckt2bTFlMHo4SnVQby1yYkd6MFBnT1YtUWNZODZVSGppUmRyM2RsSFJoZVppbTJlUUpTM3dic1FWV1otWTNiNjBQTS04VHc4Qi1mZXdSV1prb19JSUotcVRQY1E?oc=5",
+      "published": "Fri, 26 Dec 2025 17:39:00 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on AI and Cloud Expansion - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3NrcWU5TVFXaks5T3pEV1ZNNGhnOTYyU0FLUi1MTGVtdFhMbEdoYWJtZDJSMlAwYV9ZTXFyekNXQ3dtd2hOOUx5SGZQNG5IbnA4X3RPZVcyS1RSS2NqaXk2ZlZJcFRndi0xLVRaQkVmTUhOMGJMZTZMalZVeEpPZ3VkZkZfUDZnTDl0OEQ3VER2UFFNUVl2Q0xn?oc=5",
+      "published": "Wed, 31 Dec 2025 14:06:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "มหาเศรษฐีสองคนได้ลงทุนในหุ้น Microsoft จำนวนมากสำหรับปี 2026",
+        "why": "การที่มหาเศรษฐีเข้าซื้อหุ้น Microsoft บ่งชี้ถึงความเชื่อมั่นในอนาคตของบริษัท"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Microsoft ถูกจัดเป็นหุ้นแนะนำท่ามกลางจุดเปลี่ยนสำคัญของ AI",
+        "why": "ข่าวระบุว่า Microsoft เป็นหุ้นแนะนำและมีการกล่าวถึง AI ซึ่งเป็นปัจจัยบวกที่สำคัญ"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "การคาดการณ์หุ้น Microsoft ชี้ว่า AI หนุนโอกาสที่หุ้นจะเพิ่มขึ้นได้ 30% ในปี 2026",
+        "why": "ข่าวให้ข้อมูลการคาดการณ์เชิงบวกสำหรับหุ้น Microsoft โดยมี AI เป็นปัจจัยขับเคลื่อนที่ชัดเจน"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ธุรกิจของ Microsoft กำลังไปได้ดี แต่ตั้งคำถามถึงปัญหาที่หุ้นอาจยังไม่สะท้อนผลลัพธ์ที่ดี",
+        "why": "หัวข้อข่าวระบุว่าธุรกิจดี แต่ก็ตั้งคำถามถึงประสิทธิภาพของราคาหุ้น ทำให้มีทั้งปัจจัยบวกและคำถามเชิงลบจึงจัดว่าเป็นกลาง"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ความคิดเห็นเกี่ยวกับหุ้น Microsoft ในด้าน AI และการขยายคลาวด์",
+        "why": "หัวข้อข่าวระบุถึงความคิดเห็นเกี่ยวกับประเด็นสำคัญ (AI และคลาวด์) แต่ไม่ได้ระบุว่าความคิดเห็นเหล่านั้นเป็นบวกหรือลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "หลายหัวข้อข่าวชี้ไปที่มุมมองเชิงบวกสำหรับ Microsoft โดยเฉพาะอย่างยิ่งที่เกี่ยวข้องกับการลงทุนของมหาเศรษฐี การจัดอันดับหุ้นแนะนำ และศักยภาพในการเติบโตจาก AI อย่างไรก็ตาม ยังมีหัวข้อข่าวที่สะท้อนถึงมุมมองที่เป็นกลางและตั้งคำถามเกี่ยวกับประสิทธิภาพของราคาหุ้นเมื่อเทียบกับผลประกอบการ"
+    }
+  }
+}
