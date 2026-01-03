@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4657,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0760 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0138 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0102 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0080 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0073 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Where Will Apple Stock Be in 1 Year? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdsdzNPYjQ0SmxzTkdab0ZadkxLWkh1SzBQcWtGejVZQVplMUd1b0JaNkZQWGNkNVQwR3BjU3ltZUpKRWVuSGdFZmVvN0NpRlcyV2c5OFp5bmtDMkROS1dQcmZPQUQ4N0dyYmxRczZWWGZCTkRMbjZ5dzVpNUFtNWQ0YWE?oc=5",
+      "published": "Fri, 02 Jan 2026 10:12:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "What Can Trigger An Apple Stock Rally In 2026? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3VqYU5YS00xczgzeE9XcC05R2J0THBVcl93VkxTYWtKSmRWRHd4SFdjbmdkRTlmLVhtcHVJLTVDRFJZRWJ2MW5EalBUZ1I5UV9IN0NXX3RFSXYwei1aUldQNHhHalpEWUxzQmhhVWRZVWEzekk2VlhzcURKYVJUbEhEWnFWWVdjN3ZkSThMZGJjOTQtSm1DRno5UXY4YjkzbHk0Sk02cw?oc=5",
+      "published": "Wed, 31 Dec 2025 13:38:15 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Mon, 29 Dec 2025 16:43:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple is an Analyst Favorite, But AAPL Stock Has Been Flat - Shorting Puts Is the Best Play - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnlnbWNHOGVhdFRJcGxzbU1fUVZiQW94NE9RTXAyOVdaZDF5NXFyaUFhbmpFelRqUXp5cWxLMkpmdlpsMUZ4S05HVUtCQnZweEJXS1llcDRTQk9UVWNmYW9GV0VraUdKaWJQVVJzLXNldkhITTBibnhaTWRuS0c4QTVPUl9XUQ?oc=5",
+      "published": "Tue, 30 Dec 2025 16:48:44 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "If You Purchased $100 of Apple in 2002 - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVNWemItU1FvQS1JbjBOWjZDdjJFTXB5YV9nQkpqWlh6M2UzZk9IdjBha0ZPV013V2ZLd0FWbUhEU3A2NGduNDc1T0VlMC0yX1dBa2prWXVKWE5NRWpPYkFUTWZCZWVxUmlSU1JPQ2ZRN0lzV1ktTUVsc0tLYWlWSUVvRWxMSnBtZDZtNmthTGxQX1piSkVjT2owYXVzZw?oc=5",
+      "published": "Tue, 30 Dec 2025 22:07:50 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Apple stock slips as Raymond James turns cautious; Vision Pro pullback report hits AAPL - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3FGcHNmaGNSeVFxa3ZmWkRmUE9NR1lpcnNrbmNUdmhmenJuOVVjM3dTWGl4N1VuU3IycDhCTmppNDNzcXVuejFyV2dLeUVRUEtHa1Y1MExrNmJwbkZqcWhGU1hJVEY5QllSU1czc3VmWnZNSG9TclJJUTI0NzNDcUt5NlBsd2tRTG82dVplcmNWUUg2MWtvRDczRGphOVZXSFZBM1FFWDc4QTA?oc=5",
+      "published": "Fri, 02 Jan 2026 22:25:16 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Apple Stock To $190? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV281d2FBY2JEQTN4WHFWTmxvMGpQbHZ3OW9SMmo5NzJhRGtETFZhbGZoNDQ2SkhCRUh2NmRWNDhrUTVlY0dhVjJod20wSzBVX1cyajBaY283YzI2aERUYmdMTTdXeVBIT1Bpb3poVDg0R2xuNVlacThYU3Vzd0JrUXNNUmxURHM?oc=5",
+      "published": "Thu, 01 Jan 2026 12:23:47 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Here’s Why Top Raymond James Analyst Is Sidelined on Apple (AAPL) Stock - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHRwSlprcnVKaFlOeVdOeHZyazEwTkVPTTZINlJRSzRwemQ3eUJuRzZyYzREcnYzdklNaGZQV2NxMUhIOTRvNVFZbU1jVUVXeHg0eGwtRlFWV0N6VVNIQ1I4TUZRcGpvRnVnWFpPX1RLazhzVWM5aVlTaVZfUzQyRi1QaWNFbnVTWGUxLUs2eTBZX0ZHYlNjSkVBMGt3OXc?oc=5",
+      "published": "Fri, 02 Jan 2026 09:01:20 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวนี้ตั้งคำถามเกี่ยวกับผลการดำเนินงานในอนาคตของหุ้น Apple ในช่วงระยะเวลาหนึ่งปี",
+        "why": "หัวข้อข่าวนี้เป็นคำถามที่สำรวจความเป็นไปได้ในอนาคตโดยไม่ได้เสนอแนวโน้มที่เป็นขาขึ้นหรือขาลงที่ชัดเจน"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 70,
+        "summary": "นักวิเคราะห์ชื่นชอบ Apple แต่ผลงานของหุ้นกลับทรงตัว โดยมีการแนะนำให้ Short Puts เป็นกลยุทธ์",
+        "why": "แม้นักวิเคราะห์จะชอบ Apple แต่ผลงานของหุ้นที่ทรงตัวแสดงให้เห็นถึงการขาดโมเมนตัมขาขึ้นในทันที กลยุทธ์ออปชั่นที่กล่าวถึงเป็นกลยุทธ์ที่เน้นความมั่นคงมากกว่าการเติบโตที่แข็งแกร่ง"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Apple ปรับตัวลดลงเนื่องจาก Raymond James เปลี่ยนมาใช้ความระมัดระวัง และรายงานข่าวการลดการผลิต Vision Pro ส่งผลกระทบต่อ AAPL",
+        "why": "วลี 'หุ้นปรับตัวลดลง', 'เปลี่ยนมาใช้ความระมัดระวัง' และ 'รายงานข่าวการลดการผลิตส่งผลกระทบต่อ AAPL' บ่งชี้โดยตรงถึงผลงานและความเชื่อมั่นเชิงลบสำหรับหุ้น Apple"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวนี้ถามว่าหุ้น Apple จะไปถึงราคา 190 ดอลลาร์ได้หรือไม่",
+        "why": "เป็นการนำเสนอเป้าหมายราคาเฉพาะเจาะจงในรูปแบบคำถาม ซึ่งหมายถึงการคาดการณ์มากกว่าการพยากรณ์ที่ยืนยันแล้ว จึงเป็นกลาง"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์ระดับสูงจาก Raymond James ได้ใช้สถานะ 'Sidelined' (ไม่ให้คำแนะนำซื้อหรือขาย) สำหรับหุ้น Apple",
+        "why": "การที่นักวิเคราะห์ถูก 'Sidelined' บ่งบอกถึงจุดยืนที่ไม่ใช่ขาขึ้นหรือระมัดระวัง ซึ่งแสดงถึงการขาดปัจจัยบวกหรือแนวโน้มเชิงลบที่เป็นไปได้"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 80,
+      "note": "จากข่าวที่เลือกมา มีสัญญาณชัดเจนถึงการปรับตัวลดลงของหุ้น Apple และนักวิเคราะห์มีความระมัดระวัง โดยเฉพาะจาก Raymond James ที่เปลี่ยนมาใช้สถานะ 'sidelined' และรายงานข่าวการลดการผลิต Vision Pro ซึ่งมีน้ำหนักมากกว่าหัวข้อข่าวที่เป็นกลางซึ่งเป็นคำถามทั่วไป"
+    }
+  }
+}
