@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4658,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0755 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0138 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0102 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0080 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0073 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Where Will Apple Stock Be in 1 Year? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdsdzNPYjQ0SmxzTkdab0ZadkxLWkh1SzBQcWtGejVZQVplMUd1b0JaNkZQWGNkNVQwR3BjU3ltZUpKRWVuSGdFZmVvN0NpRlcyV2c5OFp5bmtDMkROS1dQcmZPQUQ4N0dyYmxRczZWWGZCTkRMbjZ5dzVpNUFtNWQ0YWE?oc=5",
+      "published": "Fri, 02 Jan 2026 10:12:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is It Time To Reduce Exposure To Apple Stock? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVdjVmZ1THRxYUZ4ckp2bjUxVkRTZHRCSnZxSWNSSVNvYnVYdVNyWkhCUWU3Wk1vRUpkOFo3Ums1MW1NSnh1cXVKazhUT2xSaFZCS2VFN0t4MUlXbldwWFFTb2RCdldHUFB4TWtjRFZzaV9PaG9pWnNnWU5sYUhUZkstNFhISGpqcFY5YzVOY1BiejBmMUw1VUNCZC1TV2EtSVBGVC1R?oc=5",
+      "published": "Fri, 02 Jan 2026 15:25:58 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "If You Purchased $100 of Apple in 2002 - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVNWemItU1FvQS1JbjBOWjZDdjJFTXB5YV9nQkpqWlh6M2UzZk9IdjBha0ZPV013V2ZLd0FWbUhEU3A2NGduNDc1T0VlMC0yX1dBa2prWXVKWE5NRWpPYkFUTWZCZWVxUmlSU1JPQ2ZRN0lzV1ktTUVsc0tLYWlWSUVvRWxMSnBtZDZtNmthTGxQX1piSkVjT2owYXVzZw?oc=5",
+      "published": "Tue, 30 Dec 2025 22:07:50 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Apple stock price today: AAPL ticks up at 2026 open as Raymond James flags valuation, jobs data looms - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjVtY2c0eUlGRldvR181akJEUnNNQ3Z4RHdIWTR5WUMwbFAtVW1IT0JOZHRRT09zb0RudENFWG9GUmZkX3dPcGtXV2dHdHNvYzVzOTJ2YnUydjdOWVdSdUkwakxnMDN4M2dTd2N2d3daUFJoZG55azZ0ZHc5bHp4c1VNZEE4dWg2S19lQTlpNEV4dURfM29XVjN0V1pZQ2U0NGVwc3dKQUN5TEFwYkhwVmFkd21KNDVNaVhxaw?oc=5",
+      "published": "Fri, 02 Jan 2026 15:10:05 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Apple Stock To $190? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV281d2FBY2JEQTN4WHFWTmxvMGpQbHZ3OW9SMmo5NzJhRGtETFZhbGZoNDQ2SkhCRUh2NmRWNDhrUTVlY0dhVjJod20wSzBVX1cyajBaY283YzI2aERUYmdMTTdXeVBIT1Bpb3poVDg0R2xuNVlacThYU3Vzd0JrUXNNUmxURHM?oc=5",
+      "published": "Thu, 01 Jan 2026 12:23:47 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Apple is an Analyst Favorite, But AAPL Stock Has Been Flat - Shorting Puts Is the Best Play - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVptbFBQalVDdU5HZHBXLUpsUGFESW95OHo3NFZWX1lJSzNOVl9KS3YzaHlxQ0tXUHdHeV96Zk9PNEJwTmJ4Umt0ZkdyaVBDczFqM0dsYloxSzBYSTZ2OFVpbVFfeGxBVmh0clB2ZGRTc1Z6ajk4MzRyY1NtTU5fejlobkt4eVBtMFk3enk0YjFCQ3lPc2dIdXNxR3p4X2NMdmtnd0JVc2cweXVILVprU2RaOEw1RHUtd3Y2eXkyMTdzc2lobTM3aUZPUDM1QQ?oc=5",
+      "published": "Tue, 30 Dec 2025 16:48:44 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple Inc. (AAPL) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcF8td2ZxQVlpZlpPNzFmT254d2htNFMxNmstQ1dNRk9SYlhSMldCeWVuZWVlcTMyb19PX0hCOHA0UjdXZFllaDk5c3hfMHczQUpaV1p6eGdvanN1c2h0MEJjTHhmWkx2X0w3elJ1V21ONFhENkVOUWU5OXpNUXBoNA?oc=5",
+      "published": "Tue, 30 Dec 2025 14:00:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock Initiated At Neutral. Here’s Why. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWxTX2w4LS04MEIyREY3Q01rNEZIZWVETzdTclZ3X3lmLWo3NDRTX1pMQm1OdUlFdEc5NXRPQUV5UFN6Y29COTlhc0pMVkpIVURaemo2d0RvWEtFOEhpQllkRlh0ek1uWWVQc3lzc2FQRkNZY3F3Vk05a2Utc0lieUxBVlZJQ2o4MWJlV2FYbXRCQmxBZ25RTQ?oc=5",
+      "published": "Fri, 02 Jan 2026 21:23:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 95,
+        "summary": "เป็นคำถามเกี่ยวกับการคาดการณ์ราคาหุ้น Apple ในอีกหนึ่งปีข้างหน้า",
+        "why": "หัวข้อนี้เป็นคำถามเกี่ยวกับอนาคตของราคาหุ้นโดยไม่มีการบ่งชี้ทิศทางที่ชัดเจน จึงถือเป็นกลาง"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "เป็นคำถามที่ชวนให้พิจารณาว่าถึงเวลาแล้วหรือยังที่จะลดการลงทุนในหุ้น Apple",
+        "why": "คำถามนี้แนะนำให้พิจารณาลดสัดส่วนการลงทุนในหุ้น Apple ซึ่งโดยนัยแล้วบ่งชี้ถึงมุมมองเชิงลบหรือควรระมัดระวัง"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "รายงานราคาหุ้น Apple วันนี้ที่ปรับตัวขึ้น ณ ช่วงเปิดตลาดในปี 2026 โดยมีการกล่าวถึงการประเมินมูลค่าของ Raymond James และข้อมูลการจ้างงานที่กำลังจะมาถึง",
+        "why": "หัวข้อระบุอย่างชัดเจนว่าราคาหุ้น AAPL 'ปรับตัวขึ้น' (ticks up) ณ ช่วงเปิดตลาด ซึ่งเป็นสัญญาณเชิงบวก แม้จะมีปัจจัยอื่นที่ต้องพิจารณา"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "เป็นคำถามเกี่ยวกับการที่ราคาหุ้น Apple จะไปถึง 190 ดอลลาร์หรือไม่ ซึ่งมักบ่งบอกถึงเป้าหมายราคาที่เป็นบวก",
+        "why": "หัวข้อนี้เสนอการคาดการณ์ราคาเป้าหมายที่ 190 ดอลลาร์ ซึ่งโดยทั่วไปแล้วเป็นการคาดการณ์ในเชิงบวกสำหรับการปรับตัวขึ้นของราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "รายงานว่าหุ้น Apple ถูกเริ่มจัดอันดับโดยนักวิเคราะห์ที่ระดับ 'เป็นกลาง' พร้อมเหตุผลประกอบ",
+        "why": "หัวข้อระบุอย่างชัดเจนว่าหุ้น Apple ถูกจัดอันดับเริ่มต้นที่ 'เป็นกลาง'"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "จากหัวข้อข่าวที่เลือกมา มีสัญญาณที่ผสมผสานกัน ทั้งในเชิงบวก (ราคาปรับขึ้น, เป้าหมายราคา), เชิงลบ (คำถามเกี่ยวกับการลดการลงทุน) และเป็นกลาง (การตั้งคำถามทั่วไป, การจัดอันดับจากนักวิเคราะห์) ทำให้ภาพรวมเป็นกลาง"
+    }
+  }
+}
