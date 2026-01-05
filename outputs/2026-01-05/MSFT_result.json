@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.485,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1519 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0309 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0212 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0251 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0067 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUUxbE9Eb0lKOGZZNXZiNDNoTjVZYXNRNXFCN1FuRG1GRXVWcWVDWk5NN054bHZmSEFsbi1BX0ZrYThiaHcyb3AweTJ4SDZPcjJSZV9uNHNWOHdPVjByWElDUmNnYzY0WVc4NTNnaHZXN3RLdGVSLXlpQmdiVUVZSWdHOA?oc=5",
+      "published": "Fri, 02 Jan 2026 22:45:08 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Named A Top Pick Amid AI 'Inflection Point'; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fQUVBTWtDY3lJVWdoSzVxR2V1SDVhQzVjV1hoU2R3ajI3ckNKdktPT3FwcnZoNzlCWG5aSzFvU1BaMlYzNGduMWFGa0ZMX0pjZ1J3MnUzY1RWZWN5b3daeWZvbjUyUVNoeG81d0hzeGJQSGc?oc=5",
+      "published": "Wed, 31 Dec 2025 18:52:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "MSFT Stock A Winner In 2026? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVRXM1h2RGUzcy1HMHRQc1Fmd2NNR3NIVlVNYkVpWWl4MnJSVkliZzRvZ3ZBaXBDdmNmd000aUlyeWFpRFhJUDlmS2w4RTJ3anZrV2Jtcllad0xvR3lRYTVBd01WbnMwR3gxcUNva0tiYUt2OXpMU05DbGMza0ZZdXpXYlpOUHNRQ2paNVZqSQ?oc=5",
+      "published": "Mon, 29 Dec 2025 15:08:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "2 Billionaires Just Loaded Up on Microsoft Stock. Do They Know Something We Don't for 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1g4QVNRdXJSal92RjcyUUN4ZXdMMWdUNW5BUXJ3QmxfeTlqTDJzTmN0cVpZcjBYaVFFaHhvVHh1THNtOHB1cTdHWmtjbXlpa3Zxc25PaklJX1pCQzJFRkljclh1VjIwazhUNlNjSnpUTTM1elF2VVVjVTdpUUdPbnNucXRrLURrOERPNU1OcTlMLVVXTFE?oc=5",
+      "published": "Mon, 29 Dec 2025 21:38:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Perfectly Poised for 2026 After Underperforming in 2025 - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2M4bEQ0OWllY1RIaDdrS3FtRm1EeG9HRy1EMXgxTmpxcmF2dmdOMWxsWFBqQkw2cEpwUlA2YmU0djNRcjIybDMteG9ITFV2bmp1NExVeEFYUFRCQlpHUjJvUlM2ai10Tnc1b21JbGx1TjJTY3hWazNTZmliWjNoNVdOM2VQbGN0YnRFTHFKZjl4Z1F6V19xb3B0TUxOYUIzWlkzcnhYTU9ReGdRRDI4?oc=5",
+      "published": "Wed, 31 Dec 2025 14:45:23 GMT",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Moves Lower As Investors Assess Its AI Edge Against Google - Microsoft (NASDAQ:MSFT) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzVLNmJTcGI4b19FdkhtcnhhbnFXVDlhbkdTS3A4SjZTOGpPVkFKY0R5ZldGeHR1TFZnQ3Q4aFAzTU5WQVNvcnVSYWdBenJTZ3FsNlI2RzllRVI2eWItUVZTbkZmX2h0S1o2eHVaekN0V3o0STRFbS0wSXc2VkF4V0x1a1FOQW92RE1hS1BRd2VHd18xM05IdDdORkdJaVNPU1hRam5nblM2aXJFWlBKUE53QVRHaHZlS1VxOHdkeUV3MTU1TlBLalZ6R0pFdkczYnZaMXVOUQ?oc=5",
+      "published": "Fri, 02 Jan 2026 17:55:07 GMT",
+      "source": "Benzinga"
+    },
+    {
+      "title": "Microsoft: An Easy Top Pick For 2026 (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzQzZnZqb3l0YVFiQm1adlFfQ21yOURXc2M1Q3M5bEJJei1laTZaMnJoaTZxT003RUVwWUVhU3RObGdpU3hvSEVnam9LSUZzRzUzbDNIc1pzbTFVNDBpV2FuMWpGM01NYUozaE84N0I1d1dXNjZTS2tRV01jeU80UHJn?oc=5",
+      "published": "Wed, 31 Dec 2025 00:20:27 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (MSFT) Named Top Large-Cap Software Pick by Morgan Stanley - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajd6bGRLU0h1U0JKOUszVFZiUjdsMVc2MzBPSjZnQ0xmaGdTSFdEYy1XTUh0RmthdFNxNUdMNU1icnVRbDU4N3FqOFhHcFZ0bGFKOU9hOUNNSmhrVGJIb2FBcl9oeS04Sm11RmkwZ21YZmw1V0hvNDJyRlJzc1A2TDBn?oc=5",
+      "published": "Fri, 02 Jan 2026 16:29:07 GMT",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft (MSFT) ร่วงลงแม้ตลาดโดยรวมจะปรับตัวขึ้น",
+        "why": "พาดหัวข่าวระบุโดยตรงว่า 'Stock Falls' (หุ้นร่วงลง) ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Microsoft ได้รับเลือกให้เป็นหุ้นเด่นท่ามกลางช่วงเวลาสำคัญของ AI",
+        "why": "พาดหัวข่าวระบุว่า 'Named A Top Pick' (ได้รับเลือกเป็นหุ้นเด่น) และมีการกล่าวถึง AI ซึ่งเป็นปัจจัยบวก"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "มหาเศรษฐีสองรายเข้าซื้อหุ้น Microsoft จำนวนมาก",
+        "why": "การที่มหาเศรษฐีเข้าซื้อหุ้นในปริมาณมากมักถูกตีความว่าเป็นสัญญาณเชิงบวกถึงความเชื่อมั่นในอนาคตของบริษัท"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft (MSFT) ปรับตัวลงขณะนักลงทุนประเมินความได้เปรียบด้าน AI เทียบกับ Google",
+        "why": "พาดหัวข่าวระบุโดยตรงว่า 'Stock Moves Lower' (หุ้นปรับตัวลง) ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Microsoft (MSFT) ได้รับการจัดอันดับให้เป็นหุ้นซอฟต์แวร์ขนาดใหญ่ยอดเยี่ยมโดย Morgan Stanley",
+        "why": "พาดหัวข่าวระบุว่า 'Named Top Large-Cap Software Pick by Morgan Stanley' (Morgan Stanley ยกให้เป็นหุ้นซอฟต์แวร์ขนาดใหญ่ที่โดดเด่น) ซึ่งเป็นการรับรองจากสถาบันการเงินขนาดใหญ่และเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "โดยรวมแล้วมีมุมมองเชิงบวกต่อ Microsoft จากการที่ได้รับเลือกให้เป็นหุ้นเด่นหลายครั้ง การลงทุนของมหาเศรษฐี และการรับรองจากสถาบันการเงิน แม้ว่าจะมีการรายงานข่าวถึงราคาหุ้นที่ลดลงเมื่อเร็วๆ นี้"
+    }
+  }
+}
