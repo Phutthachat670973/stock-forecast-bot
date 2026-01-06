@@ -1,0 +1,66 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-05",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8723,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 25.0566 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1105 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0251 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0224 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0181 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Sinks As Market Gains: What You Should Know - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcEZjbF9DeUdoMklaUDcydHFGNGhxamp1V1FEVXNaM0tGd1NDZHE5bWlOX3dtWlN5NXU4OW82SEJITm1STFhaUFZvOXdvWGt5TTZCN2NWRzJPandWckhjYXlWdzV3OG0xWXhvcmI3ai1kaHBjRWdlbEh5VjdwdVZQcDdaVHBoZkpQS3owaGlZREI5dw?oc=5",
+      "published": "Mon, 05 Jan 2026 22:45:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Where Will Apple Stock Be in 1 Year? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdsdzNPYjQ0SmxzTkdab0ZadkxLWkh1SzBQcWtGejVZQVplMUd1b0JaNkZQWGNkNVQwR3BjU3ltZUpKRWVuSGdFZmVvN0NpRlcyV2c5OFp5bmtDMkROS1dQcmZPQUQ4N0dyYmxRczZWWGZCTkRMbjZ5dzVpNUFtNWQ0YWE?oc=5",
+      "published": "Fri, 02 Jan 2026 10:12:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is It Time To Reduce Exposure To Apple Stock? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVdjVmZ1THRxYUZ4ckp2bjUxVkRTZHRCSnZxSWNSSVNvYnVYdVNyWkhCUWU3Wk1vRUpkOFo3Ums1MW1NSnh1cXVKazhUT2xSaFZCS2VFN0t4MUlXbldwWFFTb2RCdldHUFB4TWtjRFZzaV9PaG9pWnNnWU5sYUhUZkstNFhISGpqcFY5YzVOY1BiejBmMUw1VUNCZC1TV2EtSVBGVC1R?oc=5",
+      "published": "Fri, 02 Jan 2026 15:25:58 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 02 Jan 2026 16:59:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple: What To Make Of The iPhone 18 Rumors (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmRlUE42Y2U0M1c3a0ZaOUdnR1BlRXhvd0xCNUpLaDhoZjNXZ0R1Z0VJQWk1UkowYkdzSWJBOGxwZi1BcERwWVJLazBsb3haZXQ0ZW9QTHZ4dFhVWVo4SEVxVFE2a0xyd3lRZS1jUVBUS2ZON04tY0JfeTVVNW1lNTBYVkNkbWZsOUhn?oc=5",
+      "published": "Mon, 05 Jan 2026 14:10:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock To $190? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV281d2FBY2JEQTN4WHFWTmxvMGpQbHZ3OW9SMmo5NzJhRGtETFZhbGZoNDQ2SkhCRUh2NmRWNDhrUTVlY0dhVjJod20wSzBVX1cyajBaY283YzI2aERUYmdMTTdXeVBIT1Bpb3poVDg0R2xuNVlacThYU3Vzd0JrUXNNUmxURHM?oc=5",
+      "published": "Thu, 01 Jan 2026 12:23:47 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Apple stock price today: AAPL ticks up at 2026 open as Raymond James flags valuation, jobs data looms - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdjVtY2c0eUlGRldvR181akJEUnNNQ3Z4RHdIWTR5WUMwbFAtVW1IT0JOZHRRT09zb0RudENFWG9GUmZkX3dPcGtXV2dHdHNvYzVzOTJ2YnUydjdOWVdSdUkwakxnMDN4M2dTd2N2d3daUFJoZG55azZ0ZHc5bHp4c1VNZEE4dWg2S19lQTlpNEV4dURfM29XVjN0V1pZQ2U0NGVwc3dKQUN5TEFwYkhwVmFkd21KNDVNaVhxaw?oc=5",
+      "published": "Fri, 02 Jan 2026 15:10:05 GMT",
+      "source": "ts2.tech"
+    },
+    {
+      "title": "Assessing Apple (AAPL) Valuation After Recent Share Price Softness and Mixed Return Signals - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWV2azduZEEzZVRqU2JHdWpLUDMyOFlkd0htQU1yWWNoTUg3ODBOcVJQN2RLOV9vNEJrd3lWNFIyUFZHZEdUTE1lSXVPR1A1bDhUbGUtUzFhQzVDV1ZvMlFJMkg2RXZsV2tOOXhRSFQ5R3RkY0dCUVBzXy1XRjV4QjZQNXZueEFrT2Ew?oc=5",
+      "published": "Mon, 05 Jan 2026 19:10:31 GMT",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "ai_news": null
+}

@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-05",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.475,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1291 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0303 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0204 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0240 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0229 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Named Top Large-Cap Software Pick by Morgan Stanley - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajd6bGRLU0h1U0JKOUszVFZiUjdsMVc2MzBPSjZnQ0xmaGdTSFdEYy1XTUh0RmthdFNxNUdMNU1icnVRbDU4N3FqOFhHcFZ0bGFKOU9hOUNNSmhrVGJIb2FBcl9oeS04Sm11RmkwZ21YZmw1V0hvNDJyRlJzc1A2TDBn?oc=5",
+      "published": "Fri, 02 Jan 2026 16:29:07 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Microsoft Stock A Good Pick At $470? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDZReDdISmttaW80MlJaaVpGYjhmclNhdUhVcnlZVzEwc25RWElhLXFCanZqRHZBTzhDZTIwN0JnOGpkSU56VGxzdTVxZWpsVGlSYXlJUnBFVTFPd1JxVkVwamdLLVYydFFSMm5uUi1YYXlfYVdpSkZkOEJpeU5FZ09WUVIxMWt5TFp1MFExWnhxbG1NVTN5R2NHcG0?oc=5",
+      "published": "Mon, 05 Jan 2026 13:30:54 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Named A Top Pick Amid AI 'Inflection Point'; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fQUVBTWtDY3lJVWdoSzVxR2V1SDVhQzVjV1hoU2R3ajI3ckNKdktPT3FwcnZoNzlCWG5aSzFvU1BaMlYzNGduMWFGa0ZMX0pjZ1J3MnUzY1RWZWN5b3daeWZvbjUyUVNoeG81d0hzeGJQSGc?oc=5",
+      "published": "Wed, 31 Dec 2025 18:52:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft Perfectly Poised for 2026 After Underperforming in 2025 - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2M4bEQ0OWllY1RIaDdrS3FtRm1EeG9HRy1EMXgxTmpxcmF2dmdOMWxsWFBqQkw2cEpwUlA2YmU0djNRcjIybDMteG9ITFV2bmp1NExVeEFYUFRCQlpHUjJvUlM2ai10Tnc1b21JbGx1TjJTY3hWazNTZmliWjNoNVdOM2VQbGN0YnRFTHFKZjl4Z1F6V19xb3B0TUxOYUIzWlkzcnhYTU9ReGdRRDI4?oc=5",
+      "published": "Wed, 31 Dec 2025 19:18:45 GMT",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Prediction: This Will Be Microsoft's Stock Price at the End of 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEVXQmxiR09aT0NjaThqTzFZdjN5VThPOXZHWFlJWXE5alB5cTRIeUNZUnZPNHBGN3l0QTdKTndJTmd1UkRtdWFuMjJ4Nlg2ZkVoU3pBeXg0YVVnUGNtaEY2UzgwTHJGYUVIZzhaUnhqTEEzb1VyUFJmaVdmdnBpMGNzYmNuaGg0QWpuX1lnODZyTkxUS3lv?oc=5",
+      "published": "Mon, 05 Jan 2026 11:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Is Entering an ‘Inflection’ Year. What Dan Ives Thinks Is Coming for MSFT. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVnJiUkt6UGtXSFJsemRTdzF1a2VoSW5uV2FoSWF6QXl1U3E2U0tmSzBJUlcwS0FHVEtQVW9qbHE4OXc4VUFpMW5RX25wQ3g1ZW14dlMzcWlRNUJ4MTY0MFZGR252M1dzU0NLUGx2UkV1cnBXRkdTam1tMkhCWVJqWTRlMHF0SDRXUGt6RmZMSjB0MTI2TVdIUkRDTWdpX0RFUUwtRVBubHI0VXFJdW0xeXZvNTJ0VW5IME9sdW1hOVhHX05vNHBFeU8wWQ?oc=5",
+      "published": "Mon, 05 Jan 2026 15:10:23 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Microsoft: An Easy Top Pick For 2026 (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYzQzZnZqb3l0YVFiQm1adlFfQ21yOURXc2M1Q3M5bEJJei1laTZaMnJoaTZxT003RUVwWUVhU3RObGdpU3hvSEVnam9LSUZzRzUzbDNIc1pzbTFVNDBpV2FuMWpGM01NYUozaE84N0I1d1dXNjZTS2tRV01jeU80UHJn?oc=5",
+      "published": "Wed, 31 Dec 2025 00:20:27 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Moves Lower As Investors Assess Its AI Edge Against Google - Microsoft (NASDAQ:MSFT) - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUzVLNmJTcGI4b19FdkhtcnhhbnFXVDlhbkdTS3A4SjZTOGpPVkFKY0R5ZldGeHR1TFZnQ3Q4aFAzTU5WQVNvcnVSYWdBenJTZ3FsNlI2RzllRVI2eWItUVZTbkZmX2h0S1o2eHVaekN0V3o0STRFbS0wSXc2VkF4V0x1a1FOQW92RE1hS1BRd2VHd18xM05IdDdORkdJaVNPU1hRam5nblM2aXJFWlBKUE53QVRHaHZlS1VxOHdkeUV3MTU1TlBLalZ6R0pFdkczYnZaMXVOUQ?oc=5",
+      "published": "Fri, 02 Jan 2026 17:55:07 GMT",
+      "source": "Benzinga"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Microsoft (MSFT) ถูก Morgan Stanley จัดให้เป็นหุ้นซอฟต์แวร์ขนาดใหญ่ที่น่าสนใจอันดับต้นๆ",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า MSFT เป็น 'หุ้นเด่น' ที่ถูกเลือกโดย Morgan Stanley ซึ่งเป็นการบ่งชี้ถึงมุมมองเชิงบวกอย่างแข็งแกร่ง."
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Microsoft ถูกยกให้เป็นหุ้นเด่นท่ามกลาง 'จุดเปลี่ยน' ของ AI พร้อมคำถามว่าตอนนี้ควรซื้อหรือไม่",
+        "why": "การที่ Microsoft ถูกจัดให้เป็น 'หุ้นเด่น' และเชื่อมโยงกับ 'จุดเปลี่ยนของ AI' ชี้ให้เห็นถึงศักยภาพการเติบโตที่สำคัญ แม้จะมีคำถามท้ายพาดหัวข่าว."
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "Microsoft อยู่ในตำแหน่งที่พร้อมอย่างสมบูรณ์แบบสำหรับปี 2026 หลังจากมีผลงานต่ำกว่าที่คาดการณ์ไว้ในปี 2025",
+        "why": "พาดหัวข่าวนี้บ่งชี้ถึงความคาดหวังเชิงบวกที่แข็งแกร่งสำหรับผลการดำเนินงานของ Microsoft ในปี 2026 โดยเน้นว่าบริษัท 'พร้อมอย่างสมบูรณ์แบบ'."
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Microsoft: หุ้นเด่นที่เลือกได้ง่ายสำหรับปี 2026",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า Microsoft เป็น 'หุ้นเด่นที่เลือกได้ง่ายสำหรับปี 2026' ซึ่งเป็นการส่งสัญญาณเชิงบวกอย่างชัดเจนเกี่ยวกับศักยภาพของหุ้น."
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft (MSFT) ปรับตัวลดลง เนื่องจากนักลงทุนประเมินความได้เปรียบด้าน AI เมื่อเทียบกับ Google",
+        "why": "พาดหัวข่าวระบุโดยตรงว่า 'หุ้น Moves Lower' (หุ้นปรับตัวลดลง) ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาเชิงลบ และให้เหตุผลเกี่ยวกับการประเมินความได้เปรียบด้าน AI."
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "แม้จะมีข่าวเชิงลบหนึ่งรายการที่ระบุว่าราคาหุ้น MSFT ปรับตัวลดลง แต่พาดหัวข่าวส่วนใหญ่ยังคงแสดงมุมมองเชิงบวกที่แข็งแกร่งและคาดการณ์ว่า Microsoft จะเป็นหุ้นเด่นสำหรับปี 2026 โดยเฉพาะอย่างยิ่งในบริบทของ AI."
+    }
+  }
+}
