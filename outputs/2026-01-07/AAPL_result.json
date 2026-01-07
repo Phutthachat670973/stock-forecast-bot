@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8708,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 24.0959 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2668 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0406 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0422 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0418 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVjMxTFZHS0F2NUxGa3dxVzdsUnVkc3JFdmRjaUN1cUYyS1M1WW5sb3NNc3lFY1pnS0FCWUN5S1hNeTBPZjhFb01iVVV0amVhWXpmYUNmYUd5dUN6YTlIT3hUQ3kxRXRnNl9HZkdZa1Jyd2dfQXZHNmdydlE5R1p0ZQ?oc=5",
+      "published": "Mon, 05 Jan 2026 22:45:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Where Will Apple Stock Be in 1 Year? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdsdzNPYjQ0SmxzTkdab0ZadkxLWkh1SzBQcWtGejVZQVplMUd1b0JaNkZQWGNkNVQwR3BjU3ltZUpKRWVuSGdFZmVvN0NpRlcyV2c5OFp5bmtDMkROS1dQcmZPQUQ4N0dyYmxRczZWWGZCTkRMbjZ5dzVpNUFtNWQ0YWE?oc=5",
+      "published": "Fri, 02 Jan 2026 10:12:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is It Time To Reduce Exposure To Apple Stock? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVdjVmZ1THRxYUZ4ckp2bjUxVkRTZHRCSnZxSWNSSVNvYnVYdVNyWkhCUWU3Wk1vRUpkOFo3Ums1MW1NSnh1cXVKazhUT2xSaFZCS2VFN0t4MUlXbldwWFFTb2RCdldHUFB4TWtjRFZzaV9PaG9pWnNnWU5sYUhUZkstNFhISGpqcFY5YzVOY1BiejBmMUw1VUNCZC1TV2EtSVBGVC1R?oc=5",
+      "published": "Fri, 02 Jan 2026 15:25:58 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple Stock Starts 2026 With a Downgrade. Why Investors Shouldn’t Make Too Much of It - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekF3MUpQMWdaQ3ByRm1uamM1T1JSMTA5TElSQVdIZmNSZnhOdkRzRlVtNWs0UmpVSk0yTGtCVUY1XzhTbUtwNUwzVjdSb1VvdFZtbTFydHNrYm1Ubms0aG1IdDMyU1hYNGxZZWg2ZEotaTdXSlYwWGpDNWpmOUJoQWpNSWVTZDI3N2xYTE4yazNGOGp6R0tDOEt1OXdsU1RWeHF5dzFhX3dFRWRyb2c4MXRMWnFvbDZlZlNSMkQ1VzRnUGEyWnc?oc=5",
+      "published": "Tue, 06 Jan 2026 15:42:05 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Apple Stock Initiated At Neutral. Here’s Why. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWxTX2w4LS04MEIyREY3Q01rNEZIZWVETzdTclZ3X3lmLWo3NDRTX1pMQm1OdUlFdEc5NXRPQUV5UFN6Y29COTlhc0pMVkpIVURaemo2d0RvWEtFOEhpQllkRlh0ek1uWWVQc3lzc2FQRkNZY3F3Vk05a2Utc0lieUxBVlZJQ2o4MWJlV2FYbXRCQmxBZ25RTQ?oc=5",
+      "published": "Fri, 02 Jan 2026 21:23:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Dear Apple Stock Fans, Mark Your Calendars for January 12 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWFKaG93cFhUbEVmY2VWZEljYVhuWE1EbHpPa0dRXzFXQXJ3V3RYZVV1dGYzdlNuZF9LbzZBLUxiRXc5SkV4QWJleWRJNWdVNVl6SEJLdkYyWDdERHVubWUtb0hZNHE4aTctZ0dkUXhSeXB0Q1NSWFd6NXA0Z21UV0J4V2JLbi0yZUJEZUdNTmx2U1hZTmtCNms3X0JIUUtVcjlv?oc=5",
+      "published": "Tue, 06 Jan 2026 15:55:36 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple: What To Make Of The iPhone 18 Rumors (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmRlUE42Y2U0M1c3a0ZaOUdnR1BlRXhvd0xCNUpLaDhoZjNXZ0R1Z0VJQWk1UkowYkdzSWJBOGxwZi1BcERwWVJLazBsb3haZXQ0ZW9QTHZ4dFhVWVo4SEVxVFE2a0xyd3lRZS1jUVBUS2ZON04tY0JfeTVVNW1lNTBYVkNkbWZsOUhn?oc=5",
+      "published": "Mon, 05 Jan 2026 14:10:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock To $190? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV281d2FBY2JEQTN4WHFWTmxvMGpQbHZ3OW9SMmo5NzJhRGtETFZhbGZoNDQ2SkhCRUh2NmRWNDhrUTVlY0dhVjJod20wSzBVX1cyajBaY283YzI2aERUYmdMTTdXeVBIT1Bpb3poVDg0R2xuNVlacThYU3Vzd0JrUXNNUmxURHM?oc=5",
+      "published": "Thu, 01 Jan 2026 12:23:47 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple (AAPL) ปรับตัวลดลงในขณะที่ตลาดโดยรวมปรับตัวเพิ่มขึ้น",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าหุ้น Apple 'ร่วงลง' สวนทางกับตลาดที่ 'เพิ่มขึ้น' ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาหุ้นในเชิงลบ"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "มีการตั้งคำถามว่าถึงเวลาแล้วหรือยังที่จะลดสัดส่วนการลงทุนในหุ้น Apple",
+        "why": "พาดหัวข่าวตั้งคำถามถึงการ 'ลดสัดส่วนการลงทุน' ในหุ้น Apple ซึ่งโดยนัยเป็นการแนะนำให้พิจารณาขายหรือลดการถือครอง ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "หุ้น Apple เริ่มต้นปี 2026 ด้วยการถูกปรับลดอันดับ แต่ข่าวก็แนะนำว่านักลงทุนไม่ควรให้ความสำคัญมากเกินไป",
+        "why": "พาดหัวข่าวระบุถึงการ 'ปรับลดอันดับ' หุ้น Apple ซึ่งเป็นสัญญาณเชิงลบโดยตรง แม้จะมีข้อความที่พยายามลดทอนความสำคัญลงก็ตาม"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 98,
+        "summary": "หุ้น Apple ถูกประเมินเริ่มต้นที่ระดับ 'เป็นกลาง'",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น Apple ถูก 'ประเมินเริ่มต้นที่ระดับเป็นกลาง' โดยนักวิเคราะห์หรือบริษัท ซึ่งไม่มีสัญญาณชี้นำไปในทางบวกหรือลบ"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ข่าวลือเกี่ยวกับ iPhone 18 ของ Apple (AAPL) จะถูกนำมาวิเคราะห์",
+        "why": "พาดหัวข่าวกล่าวถึง 'ข่าวลือ' เกี่ยวกับผลิตภัณฑ์ในอนาคต ซึ่งยังไม่มีข้อมูลที่ชัดเจนและยังไม่ส่งผลกระทบโดยตรงต่อราคาหุ้น ทำให้มีมุมมองเป็นกลางจนกว่าจะมีรายละเอียดเพิ่มเติม"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "ข่าวส่วนใหญ่ที่เลือกมาแสดงถึงสัญญาณเชิงลบสำหรับหุ้น Apple เช่น การร่วงลงของราคา การแนะนำให้ลดการถือครอง และการถูกปรับลดอันดับ แม้จะมีข่าวที่แสดงมุมมองเป็นกลางอยู่บ้าง"
+    }
+  }
+}
