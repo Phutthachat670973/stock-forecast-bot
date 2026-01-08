@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-07",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.7945,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 28.0095 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0675 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.1173 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2194 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0507 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla (TSLA) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHRnQTdsM2FNYURmcTNyUXdFOUVnRXNVeGZOcTJjaGJEOHBlQWtfbjRMWlJQMXYxYlVpVnJSdExiVVpCNWJRWnRLc2VvRkZleVoyY0FmbHNPdHJYMmVLNzFwMExIRGo0QnhiVU1VZ3RlUHNxVF95SjRCUGVtd2h1cQ?oc=5",
+      "published": "Fri, 02 Jan 2026 22:45:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Investors Hit the Brakes on Tesla Stock Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzQwWDRDRXIwN1NzcDRvZDRxXzRaWnItNnFOX2dVU3JfNDJZeGtrQUJRZTJZYmF3bmlvTXNuQ3ltOUJyOEhsaHRLUlQ1UFhKR0p0YnllTjIxSDRNTjI1YlpFdU4tOUIta3U1RmpZSGQwc18xZGt0V2pmN3JfWXJmTHZ1UFh1QnB5VXhDZ3JRNXJwc0VmTXBJ?oc=5",
+      "published": "Tue, 06 Jan 2026 23:28:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Q4 Vehicle Deliveries Fall 16%. Miss Already Low Expectations. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Rb2tUcG9MS1RWM1BaNFlVam1YZ2FGSnc5ekxVbmNwczNEb20yUkFMaENITV9vNDlPYUhmZGI4bUM1ZFh1Yks3a3BRSW43MGRxbFVJUFlmTkdZbDNTTlFxbWN6eVU1NTZZcFV2YzNkWjhpZG8?oc=5",
+      "published": "Fri, 02 Jan 2026 22:19:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla: Shares Fall on Market Concerns About Autonomous Driving Competition from Nvidia - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWYzZU1QNWZ1QVI2eVNNby1uN1F4c3RBM1c2V1hyNThHdTcxV05CZkF6RS1kUG9FRG5IV1lKdXNac2xYa0NqRkhOOGd5Skt3aUFIeEkzcm1LeWJQZ1JnMDdJampKdVVfNFJmS0NvZGJ0cUwzc3B6aXpfWGQzSXh4U1dPVTZxbmJIRHJGWDBpUWREbnhfaGVpUGQyUEl1ZEJuLUt0eTNjQUl0OVIzQWdVYnd3?oc=5",
+      "published": "Tue, 06 Jan 2026 18:45:35 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Tesla reports 418,227 deliveries for the fourth quarter, down 16% - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTTWVpcmJlbWxuSHF0bThUcExsVWpxOXkwbVpqY0ZrZlVHcmtNY0YwVjlpYUxEOTVQeE1RTTlXYi1GeDNwTXF1TWlZTFRCQzRTX3B4WlRMc3ZKcXpNQjJoeVd3LUlCQmVXOHlmSi1NUEVtRG9CSUEwZ3lsRFZUWkHSAYQBQVVfeXFMT1hqLUtaMGxJRE03eXhtcDV3eUlOZGxoUXFwQWYyRGFoREtPeXdHc2hRVUxWSGlTQ3dFLVRVMFZ5QjBBVm9OTHV2cHV1YmZUZG5QX2VDdEZUT3lHTHo5bHloaW9Vb21ZNTFBLTBqdGE5Qjl5bG1uZmVENkZ0SjVpUHBaM0U3?oc=5",
+      "published": "Fri, 02 Jan 2026 14:05:11 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Tesla: Stock Is Overvalued With Technical And Fundamental Issues (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV9oNVk5TXJrRnE5VEctb0YycXVJd1FLQUxieTBiWldqR2pZMVdBemRaSGpXa2d4RG5BazN0R3NDSmNOaHFNMlBzeEViT2xZTTd3QTdMbkJjTkxsVnpHRWtqWGdVVDVIUVd6LVJ3aWVzZHZHTG1qczZ5NnhJSTBGZlJyVk1PRnRGZVJZb3lBWkExN28tWjhvSW1vM255TzFXZUUw?oc=5",
+      "published": "Tue, 06 Jan 2026 01:37:09 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Jan 1) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDhhNXJQRnpIRXkzUTNFaU13Y000UmVSRklueDc1d1hsU3A5WXdJcGM1VUN6TDU4ZFFobHBFNFgzSE1uMjUwWUZKWlJ0TGtaY2VBaWdSSTkzaER2TUlPMTlMQlhHU21zQzFzOHdGTUc3WXcyRzE2bDRjNmZ5VDNvZlVfcjgxdVpUM2FSUQ?oc=5",
+      "published": "Thu, 01 Jan 2026 13:20:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Should You Buy, Hold, or Sell Tesla Stock in 2026? - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1VHNG43SzVIVThIeURjYmd3TU5xaFMzb2p5a2YzLXFTVE5Vc2Yzb0J6cjM0YUJSbTQtZUw2NG9hOFNCalFnUG5xZWRKUkR0RUJMdWFIb1RlYzRsY2tHR21LM1BhY2hkYXo0Nk5wSFFaWVNEdHc3OWM0aE1RbWtxNXNiYWdXbFk?oc=5",
+      "published": "Thu, 01 Jan 2026 03:31:49 GMT",
+      "source": "NAI500"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Tesla ตกลงแม้ตลาดโดยรวมจะปรับตัวสูงขึ้น",
+        "why": "พาดหัวระบุชัดเจนว่าหุ้น TSLA 'ตกลง' แม้ตลาดโดยรวมจะปรับตัวขึ้น ซึ่งบ่งชี้ถึงแรงกดดันเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "นักลงทุนชะลอการลงทุนในหุ้น Tesla ในวันนี้",
+        "why": "วลี 'Hit the Brakes' (เหยียบเบรก) บ่งชี้ถึงการชะลอหรือหยุดการลงทุน ซึ่งเป็นสัญญาณเชิงลบที่อาจนำไปสู่ราคาหุ้นที่ลดลง"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ยอดส่งมอบรถยนต์ของ Tesla ในไตรมาส 4 ลดลง 16% และต่ำกว่าที่คาดการณ์ไว้",
+        "why": "การที่ยอดส่งมอบลดลงอย่างมีนัยสำคัญและไม่เป็นไปตามความคาดหวังถือเป็นข้อมูลเชิงลบโดยตรงต่อผลประกอบการและแนวโน้มราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla ตกลงจากความกังวลของตลาดเกี่ยวกับการแข่งขันด้านการขับขี่อัตโนมัติจาก Nvidia",
+        "why": "พาดหัวระบุชัดเจนว่าหุ้น 'ตกลง' เนื่องจากความกังวลด้านการแข่งขัน ซึ่งเป็นปัจจัยภายนอกที่ส่งผลกระทบเชิงลบต่อธุรกิจหลัก"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla ถูกประเมินค่าสูงเกินไปและมีปัญหาทั้งทางเทคนิคและพื้นฐาน",
+        "why": "การที่หุ้นถูกประเมินค่าสูงเกินไปและมี 'ปัญหาทั้งทางเทคนิคและพื้นฐาน' บ่งชี้ถึงแนวโน้มราคาที่อาจปรับตัวลดลงในอนาคต"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 98,
+      "note": "พาดหัวข่าวส่วนใหญ่ที่เกี่ยวข้องกับ TSLA บ่งชี้ถึงข่าวเชิงลบ ทั้งในด้านผลการดำเนินงาน ยอดส่งมอบ ความกังวลด้านการแข่งขัน และการประเมินมูลค่าหุ้น ซึ่งล้วนเป็นปัจจัยกดดันต่อราคาหุ้น"
+    }
+  }
+}
