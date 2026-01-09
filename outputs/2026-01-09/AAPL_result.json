@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-08",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8564,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 22.0035 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1798 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0460 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0472 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0489 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVjMxTFZHS0F2NUxGa3dxVzdsUnVkc3JFdmRjaUN1cUYyS1M1WW5sb3NNc3lFY1pnS0FCWUN5S1hNeTBPZjhFb01iVVV0amVhWXpmYUNmYUd5dUN6YTlIT3hUQ3kxRXRnNl9HZkdZa1Jyd2dfQXZHNmdydlE5R1p0ZQ?oc=5",
+      "published": "Mon, 05 Jan 2026 22:45:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Where Will Apple Stock Be in 1 Year? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzdsdzNPYjQ0SmxzTkdab0ZadkxLWkh1SzBQcWtGejVZQVplMUd1b0JaNkZQWGNkNVQwR3BjU3ltZUpKRWVuSGdFZmVvN0NpRlcyV2c5OFp5bmtDMkROS1dQcmZPQUQ4N0dyYmxRczZWWGZCTkRMbjZ5dzVpNUFtNWQ0YWE?oc=5",
+      "published": "Fri, 02 Jan 2026 10:12:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is It Time To Reduce Exposure To Apple Stock? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVdjVmZ1THRxYUZ4ckp2bjUxVkRTZHRCSnZxSWNSSVNvYnVYdVNyWkhCUWU3Wk1vRUpkOFo3Ums1MW1NSnh1cXVKazhUT2xSaFZCS2VFN0t4MUlXbldwWFFTb2RCdldHUFB4TWtjRFZzaV9PaG9pWnNnWU5sYUhUZkstNFhISGpqcFY5YzVOY1BiejBmMUw1VUNCZC1TV2EtSVBGVC1R?oc=5",
+      "published": "Fri, 02 Jan 2026 15:25:58 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple 2026: Major Change Expected (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TRzlaWFNKN0ZESkZSd1lHOU4zeXVReUJNa0MyYWVZenNrNlF6VkNxMG9aRnJJcnpHY3pqbmpKaFgyV2ljdk9mZDFvUFpaQVFtSmVBTGlkbW9iSUl6NlppR1NBZjNnZDV5NHJQT0tHOXpjRWpqQjQzTkxnSHNmdw?oc=5",
+      "published": "Wed, 07 Jan 2026 20:33:32 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Dow Jones Tech Titan Apple Stock Offers Buy Point, But Has Broken Key Level - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDRfVkJ2M2o2VmNuaTJUQndhYWRmdG93UEtzcUJybGw1M3ZscktDRm1QaUNNb3JPYVF2dzRSNl9MRXZRZFF3bTFoV2I2bzVDTHF3Yzg3emFxYURHakpDWnZRcmVDeUl1NThFNklPbzB5YUdPMkRnY1ZmTmhlNHBiS25MTGd1NVBSeVlBaTJrSktJSDgwcXB4TnkxLVNBSTdFb2c?oc=5",
+      "published": "Wed, 07 Jan 2026 19:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple Stock Starts 2026 With a Downgrade. Why Investors Shouldn’t Make Too Much of It - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekF3MUpQMWdaQ3ByRm1uamM1T1JSMTA5TElSQVdIZmNSZnhOdkRzRlVtNWs0UmpVSk0yTGtCVUY1XzhTbUtwNUwzVjdSb1VvdFZtbTFydHNrYm1Ubms0aG1IdDMyU1hYNGxZZWg2ZEotaTdXSlYwWGpDNWpmOUJoQWpNSWVTZDI3N2xYTE4yazNGOGp6R0tDOEt1OXdsU1RWeHF5dzFhX3dFRWRyb2c4MXRMWnFvbDZlZlNSMkQ1VzRnUGEyWnc?oc=5",
+      "published": "Tue, 06 Jan 2026 15:42:05 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "AAPL Stock: Why Apple Got a Double Thumbs-Up from Top Analysts - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTW4tbUFMcVVPbWxRX1NZQi13OENYSFQ3cV8xUnplVXRWQ2pWLXpZSmc0Um1HR3R5aG55NjR4Q2Fxa2x5MVNncWsyWU5pel9nWmRCZzQ3eFRkOVFHSHJOQjlJX3NkenhSTnVjdU1fTEJvR2RwOGRUTjU0azdtX25vaEc3UzdUTGV5NVMxQ2VpbUxhN0dkYXc?oc=5",
+      "published": "Tue, 06 Jan 2026 15:03:42 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 1.4% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2x5RUFTRWMyMi01d1Z2VUhRQjZ1eGJ0dlVnaVRySHVEekw4VGRUbU85SUc5cW5DVXNoMGU2UWpNTkpmQjZmd1Z5Zkt6VE9RbFdBNjVXa2FZcUg5aDhrd3dwbWs5WVliMjdEYktoZ2JmdkZOV3pFb1pncy1uZ25nRk15Qk9MYUUzMWRrSFRqUGprV3ZsRzQ2RHRZUQ?oc=5",
+      "published": "Tue, 06 Jan 2026 01:05:10 GMT",
+      "source": "MarketBeat"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple (AAPL) ร่วงลงในขณะที่ตลาดโดยรวมปรับตัวขึ้น",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น 'Sinks' (ร่วงลง) ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวตั้งคำถามว่าถึงเวลาที่จะลดการถือครองหุ้น Apple หรือไม่",
+        "why": "การตั้งคำถามเกี่ยวกับการ 'Reduce Exposure' (ลดการถือครอง) หุ้นโดยนัยเป็นการแนะนำให้ลดน้ำหนักการลงทุน ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น AAPL ได้รับการสนับสนุนอย่างมากจากนักวิเคราะห์ชั้นนำ",
+        "why": "การได้รับการ 'Double Thumbs-Up' (สองนิ้วโป้งยกขึ้น) จากนักวิเคราะห์ชั้นนำเป็นสัญญาณเชิงบวกที่ชัดเจนสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple (NASDAQ:AAPL) ลดลง 1.4%",
+        "why": "พาดหัวข่าวรายงานโดยตรงถึงการลดลงของราคาหุ้น 1.4% ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "เป็นการตั้งคำถามเกี่ยวกับแนวโน้มราคาหุ้น Apple ในอีกหนึ่งปีข้างหน้า",
+        "why": "พาดหัวข่าวเป็นการตั้งคำถามเชิงวิเคราะห์ถึงอนาคตของหุ้น ไม่ได้ให้สัญญาณเชิงบวกหรือลบโดยตรงต่อราคาในทันที"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "จากพาดหัวข่าวที่เลือกมา 5 รายการ มี 3 รายการที่แสดงสัญญาณเชิงลบ (bearish), 1 รายการแสดงสัญญาณเชิงบวก (bullish) และ 1 รายการเป็นกลาง (neutral) โดยรวมแล้วมีแนวโน้มเชิงลบมากกว่า"
+    }
+  }
+}
