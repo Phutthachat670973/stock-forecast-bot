@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-09",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4272,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 10 วัน = -0.0832 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0364 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1193 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0313 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0395 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Why Investors Hit the Brakes on Tesla Stock Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORzQwWDRDRXIwN1NzcDRvZDRxXzRaWnItNnFOX2dVU3JfNDJZeGtrQUJRZTJZYmF3bmlvTXNuQ3ltOUJyOEhsaHRLUlQ1UFhKR0p0YnllTjIxSDRNTjI1YlpFdU4tOUIta3U1RmpZSGQwc18xZGt0V2pmN3JfWXJmTHZ1UFh1QnB5VXhDZ3JRNXJwc0VmTXBJ?oc=5",
+      "published": "Tue, 06 Jan 2026 23:28:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla price target boost from its biggest bear is 95% below its current level - Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmg0RTBXOVkxcVYxbzV2X2thTHRCdldUclAweUw4N25mQlBUeHg5XzZ5cG1STXRpYzd4blhyQlBCWWtxZlMtaFc5eGhwekN4Q0RTWWNMbVQ3V0dQZUdjOTVZWWxTaWZEQ1MtSFRVbnhKWlZBdjBGRGhJaWdWd09rYlk5bGE2OGpsSkdMX3NCTThjQWM?oc=5",
+      "published": "Thu, 08 Jan 2026 08:15:02 GMT",
+      "source": "Teslarati"
+    },
+    {
+      "title": "Tesla (TSLA) Valuation Check After Recent Share Price Drift - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYzVsX0dJUXk3aERUYnJ3d0l2dG5Hb1hhRmM2U0MyMnJOWFo4Z2JvdlNwSmpRMDBmZG5raVpxeGJzRUdQTThMM1lmaHlpb01KTHFQUW9hU2FHa1JxNTFuQkVMT0htSFM5RE4zN0FFWUhMUHZ2d1ZsRkJxbGpoMkx6S2p1YnlsQQ?oc=5",
+      "published": "Mon, 05 Jan 2026 00:24:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla: Shares Fall on Market Concerns About Autonomous Driving Competition from Nvidia - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWYzZU1QNWZ1QVI2eVNNby1uN1F4c3RBM1c2V1hyNThHdTcxV05CZkF6RS1kUG9FRG5IV1lKdXNac2xYa0NqRkhOOGd5Skt3aUFIeEkzcm1LeWJQZ1JnMDdJampKdVVfNFJmS0NvZGJ0cUwzc3B6aXpfWGQzSXh4U1dPVTZxbmJIRHJGWDBpUWREbnhfaGVpUGQyUEl1ZEJuLUt0eTNjQUl0OVIzQWdVYnd3?oc=5",
+      "published": "Tue, 06 Jan 2026 18:45:35 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Tesla: Stock Is Overvalued With Technical And Fundamental Issues (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV9oNVk5TXJrRnE5VEctb0YycXVJd1FLQUxieTBiWldqR2pZMVdBemRaSGpXa2d4RG5BazN0R3NDSmNOaHFNMlBzeEViT2xZTTd3QTdMbkJjTkxsVnpHRWtqWGdVVDVIUVd6LVJ3aWVzZHZHTG1qczZ5NnhJSTBGZlJyVk1PRnRGZVJZb3lBWkExN28tWjhvSW1vM255TzFXZUUw?oc=5",
+      "published": "Tue, 06 Jan 2026 01:37:09 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Why 2026 Will Be A 'Defining Year' For Tesla - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjJ6d3ZVRFdQckEzWWM1cE8tN1YxbWRCYy13cWRxUXpWdktlYllZTWd5NGo2QnFTTDF4RFl5VXdpY3hMYUQ0blR3ME5ueXoyc21oYlkwZ3BwbTFWYU5VNkNLd3BPaEgybUdydGUtNnBJZnJMNHhWajFHbTg4Z29mQTRnVzVCZ1pxVklXckhNYWd6dW1udFlyTzJnNXQ2azQ?oc=5",
+      "published": "Mon, 05 Jan 2026 14:38:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla Stock (NASDAQ:TSLA) Gains as Elon Musk Explains Nvidia Buy - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmEwZVcwS3BtLUVZLWJPVmZ0Q0l5UndRMmswdEZ2aHhKZjZ3eVU1cGRVRFBoSFJwQmFwTnpWMGl1MnFHdXM1WXVhTFBxRnIzWDJMNFJ4aGRRRlcxY2p5R19veDhEdE1Zd1pzcndvN01ncmlKcTlEWnZDM3FnRTJOVkJZbjJmUDJzek1Ed0c4d1NqTVVGZ1E?oc=5",
+      "published": "Thu, 08 Jan 2026 18:08:28 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Jan 8) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFdBQlMtWGRUZndTWjBEVEdZcnRoVTZSNFhfQW43R0E5Skg0OHNpNlFRREM2cVpITUNqSUM1bUNtUFMzNDRneTdFTzdFU3JTbEZ5SThsMlI3WkdzaU1VSHAtak9KVW1vSl85Q3pWMXBHc3ktWUFONl9VRDJYRTNPR2hqMFJVcElkVGtDRQ?oc=5",
+      "published": "Thu, 08 Jan 2026 12:55:09 GMT",
+      "source": "24/7 Wall St."
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "นักลงทุนชะลอการลงทุนในหุ้น Tesla",
+        "why": "พาดหัวข่าวระบุว่านักลงทุน 'เหยียบเบรก' ในหุ้น Tesla ซึ่งบ่งชี้ถึงการชะลอตัวหรือการขายที่อาจส่งผลให้ราคาลดลง"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "เป้าหมายราคา Tesla ที่นักวิเคราะห์สายหมีให้เพิ่มขึ้นนั้นยังต่ำกว่าระดับปัจจุบันถึง 95%",
+        "why": "แม้จะเป็นการ 'เพิ่มเป้าหมายราคา' แต่การที่เป้าหมายดังกล่าวยังต่ำกว่าระดับปัจจุบันถึง 95% จากนักวิเคราะห์สายหมีที่ใหญ่ที่สุด แสดงให้เห็นถึงมุมมองที่เป็นลบอย่างมากต่อมูลค่าหุ้นในปัจจุบัน"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla ร่วงลงจากความกังวลของตลาดเกี่ยวกับการแข่งขันด้านการขับขี่อัตโนมัติจาก Nvidia",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'หุ้นร่วงลง' ซึ่งเป็นสัญญาณเชิงลบที่ส่งผลให้ราคาลดลง"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla มีมูลค่าสูงเกินไปและมีปัญหาทั้งทางเทคนิคและปัจจัยพื้นฐาน",
+        "why": "พาดหัวข่าวระบุว่าหุ้น 'มีมูลค่าสูงเกินไป' และมี 'ปัญหาทั้งทางเทคนิคและปัจจัยพื้นฐาน' ซึ่งเป็นสัญญาณเชิงลบที่อาจทำให้ราคาลดลง"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla เพิ่มขึ้นเมื่อ Elon Musk อธิบายการซื้อ Nvidia",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'หุ้นเพิ่มขึ้น' ซึ่งเป็นสัญญาณเชิงบวกที่ส่งผลให้ราคาเพิ่มขึ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 80,
+      "note": "พาดหัวข่าวส่วนใหญ่บ่งชี้ถึงความกังวลเกี่ยวกับหุ้น Tesla ไม่ว่าจะเป็นราคาที่สูงเกินไป การร่วงลงของหุ้นเนื่องจากความกังวลในการแข่งขัน หรือเป้าหมายราคาที่ต่ำมาก แม้จะมีข่าวดีว่าหุ้นเพิ่มขึ้นในบางช่วง แต่ภาพรวมที่ได้รับจากข่าวที่เลือกมานั้นเป็นไปในทิศทางลบมากกว่า"
+    }
+  }
+}
