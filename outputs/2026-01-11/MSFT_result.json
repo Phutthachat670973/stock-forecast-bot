@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-09",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.46,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1540 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0134 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0187 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0179 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0046 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Moves Lower As Investors Assess Its AI Edge Against Google - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnhwdUJ5aGFxN0pQNjd1VDJiS0tqSS1qUHh5WU5HQ3Nhd2dCRmRNajBDcUx2OW8yV0NCWVo0NDFLQmNrNWhFT3RUc2hEV1hXZUw0Vm5HclVmVnAtUXc2WmMzakpzZjJTeGdwdFJrNm15UGdQZ01SalZyOHc1cEZmbXd1R3E?oc=5",
+      "published": "Sun, 04 Jan 2026 11:46:36 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Prediction: This Will Be Microsoft's Stock Price at the End of 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEVXQmxiR09aT0NjaThqTzFZdjN5VThPOXZHWFlJWXE5alB5cTRIeUNZUnZPNHBGN3l0QTdKTndJTmd1UkRtdWFuMjJ4Nlg2ZkVoU3pBeXg0YVVnUGNtaEY2UzgwTHJGYUVIZzhaUnhqTEEzb1VyUFJmaVdmdnBpMGNzYmNuaGg0QWpuX1lnODZyTkxUS3lv?oc=5",
+      "published": "Mon, 05 Jan 2026 11:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Named 'Core Winner' In 2026 AI Race; Is It a Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bVlNQkRpRmY4R3V1RjJiSHdGUDRNVnZSallmaU5oNGtwdUh2Yy1HbGswMjhNbWFHOUczbzd2ampFT3hkNFUxSFRfSFdONmR5eFdxTTctSGJlS3NRdzVFRlhfTFYzZ1RxMVExZjlR?oc=5",
+      "published": "Tue, 06 Jan 2026 20:15:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Is Microsoft Stock A Good Pick At $470? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDZReDdISmttaW80MlJaaVpGYjhmclNhdUhVcnlZVzEwc25RWElhLXFCanZqRHZBTzhDZTIwN0JnOGpkSU56VGxzdTVxZWpsVGlSYXlJUnBFVTFPd1JxVkVwamdLLVYydFFSMm5uUi1YYXlfYVdpSkZkOEJpeU5FZ09WUVIxMWt5TFp1MFExWnhxbG1NVTN5R2NHcG0?oc=5",
+      "published": "Mon, 05 Jan 2026 13:30:54 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2026-2030 (Jan 2026) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWVncHR2RDd6QVNxcDNudDNqdWRJTERBWUR4RTB4T0RrWmd0aC1GS1RYazA2dEZYbkFxQUNWeWpYT1VEeGdoTm5WUXNMNFpyZXh5ZDh3TXozM3ZPWjNWTHVtdkJmdTY3TFctb29RRlRmVjVEdjVVY21sTklQRWFhQWVQNUxNMXo4cUZLa2pLZTBBZw?oc=5",
+      "published": "Thu, 08 Jan 2026 12:40:13 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Should You Buy Microsoft Stock? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlVRWGxhRU8xOHBwOE1oS2JNUHBaRDRYb2ZnblBSdUlROHFWbGpycDhJMnZpdTd3RU9NcFczMFNhUmx2U3prb2xlVzRvU2hBalg0bGp5ZGpyTTVjQ3FPaU9jQ2xPMExodjZnUzJXMzJCYnhmY2hBTy1ud3hrb1pUSFpFeFhuSDZXT0dyM1lTZndzRWZHUnc?oc=5",
+      "published": "Mon, 05 Jan 2026 13:02:31 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Microsoft Stock Is Entering an ‘Inflection’ Year. What Dan Ives Thinks Is Coming for MSFT. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVnJiUkt6UGtXSFJsemRTdzF1a2VoSW5uV2FoSWF6QXl1U3E2U0tmSzBJUlcwS0FHVEtQVW9qbHE4OXc4VUFpMW5RX25wQ3g1ZW14dlMzcWlRNUJ4MTY0MFZGR252M1dzU0NLUGx2UkV1cnBXRkdTam1tMkhCWVJqWTRlMHF0SDRXUGt6RmZMSjB0MTI2TVdIUkRDTWdpX0RFUUwtRVBubHI0VXFJdW0xeXZvNTJ0VW5IME9sdW1hOVhHX05vNHBFeU8wWQ?oc=5",
+      "published": "Mon, 05 Jan 2026 15:10:23 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Microsoft Dips 9% in 3 Months: 3 Reasons Why the Stock is Still a Buy - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEh3QUI2MTNfWnlWRlVzay1uT2ZLUUpmZUNGZzhPR2I2S2NlbEN0SGZrZkdScEFRbGsxcDVEa0VxdEMtdS1zSzVnMWJHMzlYWTBCaWNEMmpmOHV2OE9hVGtWczNzWGs3WW9UeEt3T0Z3QXpVSll4V1R2S19Eb0FXMDZzV0lCM05wOWE2SlpXV1BkNDZ1ZlJFZmZZR0ZKSldBSVhZNmxLZGxwaHpu?oc=5",
+      "published": "Wed, 07 Jan 2026 15:25:03 GMT",
+      "source": "Zacks Investment Research"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ราคาหุ้น MSFT ปรับตัวลง เนื่องจากนักลงทุนประเมินความได้เปรียบด้าน AI เมื่อเทียบกับ Google",
+        "why": "พาดหัวระบุชัดเจนว่า 'หุ้นปรับตัวลง' และสาเหตุมาจากความกังวลเกี่ยวกับการแข่งขันด้าน AI ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft ได้รับการยกย่องว่าเป็น 'ผู้ชนะหลัก' ในการแข่งขัน AI ปี 2026",
+        "why": "พาดหัวข่าวระบุว่า Microsoft เป็น 'ผู้ชนะหลัก' ในการแข่งขัน AI ซึ่งบ่งชี้ถึงสถานะที่แข็งแกร่งและแนวโน้มที่ดีในอนาคต"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft ลดลง 9% ใน 3 เดือน แต่ยังคงเป็นหุ้นที่น่าซื้อด้วย 3 เหตุผล",
+        "why": "แม้ว่าหุ้นจะลดลง แต่พาดหัวข่าวสรุปว่า 'ยังคงเป็นหุ้นที่น่าซื้อ' ซึ่งเป็นคำแนะนำเชิงบวกที่บ่งบอกถึงมูลค่าที่ซ่อนอยู่"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "หุ้น Microsoft กำลังเข้าสู่ปีแห่งการ 'เปลี่ยนผ่าน' โดยมีมุมมองจาก Dan Ives เกี่ยวกับอนาคตของ MSFT",
+        "why": "พาดหัวระบุว่าเป็นปีแห่ง 'การเปลี่ยนผ่าน' ซึ่งอาจเป็นได้ทั้งเชิงบวกหรือลบ และไม่ได้เปิดเผยมุมมองที่แน่ชัดของ Dan Ives"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "การคาดการณ์ราคาหุ้น Microsoft ณ สิ้นปี 2026",
+        "why": "พาดหัวข่าวระบุเพียงการคาดการณ์ราคาหุ้นโดยไม่บอกทิศทางว่าจะเป็นบวกหรือลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 65,
+      "note": "มีสัญญาณที่ผสมผสานกัน โดยรายงานบางฉบับระบุว่าหุ้นร่วงลงและความกังวลเกี่ยวกับการแข่งขันด้าน AI ขณะที่รายงานอื่นๆ ชี้ให้เห็นว่า Microsoft เป็นผู้ชนะหลักในด้าน AI และแนะนำให้ซื้อแม้ราคาจะลดลงเมื่อเร็วๆ นี้"
+    }
+  }
+}
