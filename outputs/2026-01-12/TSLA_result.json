@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-09",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4277,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 10 วัน = -0.0832 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0364 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1171 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0313 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0395 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla price target boost from its biggest bear is 95% below its current level - Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmg0RTBXOVkxcVYxbzV2X2thTHRCdldUclAweUw4N25mQlBUeHg5XzZ5cG1STXRpYzd4blhyQlBCWWtxZlMtaFc5eGhwekN4Q0RTWWNMbVQ3V0dQZUdjOTVZWWxTaWZEQ1MtSFRVbnhKWlZBdjBGRGhJaWdWd09rYlk5bGE2OGpsSkdMX3NCTThjQWM?oc=5",
+      "published": "Thu, 08 Jan 2026 08:15:02 GMT",
+      "source": "Teslarati"
+    },
+    {
+      "title": "Tesla: Shares Fall on Market Concerns About Autonomous Driving Competition from Nvidia - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWYzZU1QNWZ1QVI2eVNNby1uN1F4c3RBM1c2V1hyNThHdTcxV05CZkF6RS1kUG9FRG5IV1lKdXNac2xYa0NqRkhOOGd5Skt3aUFIeEkzcm1LeWJQZ1JnMDdJampKdVVfNFJmS0NvZGJ0cUwzc3B6aXpfWGQzSXh4U1dPVTZxbmJIRHJGWDBpUWREbnhfaGVpUGQyUEl1ZEJuLUt0eTNjQUl0OVIzQWdVYnd3?oc=5",
+      "published": "Tue, 06 Jan 2026 18:45:35 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Tesla: Stock Is Overvalued With Technical And Fundamental Issues (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV9oNVk5TXJrRnE5VEctb0YycXVJd1FLQUxieTBiWldqR2pZMVdBemRaSGpXa2d4RG5BazN0R3NDSmNOaHFNMlBzeEViT2xZTTd3QTdMbkJjTkxsVnpHRWtqWGdVVDVIUVd6LVJ3aWVzZHZHTG1qczZ5NnhJSTBGZlJyVk1PRnRGZVJZb3lBWkExN28tWjhvSW1vM255TzFXZUUw?oc=5",
+      "published": "Tue, 06 Jan 2026 01:37:09 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla Just Delivered Very Bad News for Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1g0QkROSUdPZ0Fzc2VUQ3ZibElaNVVHcUZvQzdSTWZWbDhjdk1UR3ZPUEoxUEx5SWhiRkFzTUZFV0pkYWFJQnp4UEFGQWtKVFI4VjFhcHMzM1RISEJkbmRidTRNWVBPYXZCZEdESDNFT0gwal9IeWpuTm9DYkhPLTdsSmVuSDBLbGF1LTRGaENjamlXNWc?oc=5",
+      "published": "Tue, 06 Jan 2026 10:06:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 09 Jan 2026 16:29:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla EV Deliveries Slide in 2025: Time to Sell TSLA Stock? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTBwX014eEJBVE53dzZYbm1XNkRtTnh4eFNFQjBVWkdXN2ZfSmxKSTJrY05aT241bURpLUh2RTlqUzNxZjFhcEY5YXpmbnlTT2JYY2NpcjlOWENPUjVFNGE1OHh1NWx4MkNaek45RWVualphWlZqY1JwWDVfT0hzM1M1eWFzNWw4SU5qWDZnU1ZUNHJXOGg4T2dONjFlX1U?oc=5",
+      "published": "Mon, 05 Jan 2026 15:00:48 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Tesla Just Missed Delivery Estimates Again. How Should You Play TSLA Stock in 2026? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZFhpZ2NER0cwRTREYmhaSy1nUk94OFZnNS1hTFlxTjhhWk5pX2dXOWo4d0h2b2dWd0JQOFZjcDBnczRJbzNQNjRDTjZsYV9QYTY3UjU1YWFmMlVuanVYNWZDMC1ZZ3dCV0duaXpQeWdyd0FGV1k3MUVTMUYzSjJzU0JFdW1mcUtITHc?oc=5",
+      "published": "Tue, 06 Jan 2026 17:21:23 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wall Street Price Prediction: Tesla’s Share Price Forecast for 2026 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFcxMS1aTVFjMEdvOHNvVGVrZWxaampGbGRHUFFPNm9MU3k0aGUxR1RYdG1pVlFiVTZLTWJhQ25SUlRINmFBZzdCU0twR0lGUFhsUlo1c3BRaS1sWmdDc2RpTklsVWM4TWhWaTdSYnBvNS1ON0hITGhvZUtOQVhIT3BCT3ljcHdjSG55UjZYSWM3ODZyZm93dEpJZjlVcjBqeXlCbVE2SlJSVEJ1ekE?oc=5",
+      "published": "Tue, 06 Jan 2026 12:10:03 GMT",
+      "source": "24/7 Wall St."
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "การเพิ่มเป้าหมายราคาของ Tesla จากนักวิเคราะห์ที่มองลบที่สุดยังคงต่ำกว่าระดับปัจจุบันถึง 95%",
+        "why": "แม้จะมีการ 'เพิ่มเป้าหมายราคา' แต่ข้อความสำคัญคือเป้าหมายที่เพิ่มขึ้นนั้นยังคง 'ต่ำกว่าระดับปัจจุบันถึง 95%' ซึ่งบ่งชี้ว่านักวิเคราะห์รายนี้ยังคงมีมุมมองที่เป็นลบอย่างมากต่อมูลค่าหุ้นของ Tesla"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Tesla ตกลงเนื่องจากความกังวลของตลาดเกี่ยวกับการแข่งขันด้านการขับขี่อัตโนมัติจาก Nvidia",
+        "why": "หัวข้อระบุชัดเจนว่า 'หุ้นตกลง' และเกิดจาก 'ความกังวลของตลาด' เกี่ยวกับการแข่งขัน ซึ่งเป็นปัจจัยเชิงลบที่ส่งผลกระทบต่อราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla ถูกประเมินค่าสูงเกินไป และมีปัญหาทั้งทางเทคนิคและปัจจัยพื้นฐาน",
+        "why": "หัวข้อระบุโดยตรงว่าหุ้น 'ถูกประเมินค่าสูงเกินไป' และมี 'ปัญหาทั้งทางเทคนิคและปัจจัยพื้นฐาน' ซึ่งล้วนเป็นสัญญาณเชิงลบที่อาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ยอดส่งมอบรถยนต์ไฟฟ้าของ Tesla ลดลงในปี 2025: ถึงเวลาขายหุ้น TSLA แล้วหรือยัง?",
+        "why": "'ยอดส่งมอบลดลง' เป็นข่าวเชิงลบที่บ่งชี้ถึงผลการดำเนินงานที่อ่อนแอ และคำถาม 'ถึงเวลาขายหุ้นแล้วหรือยัง' ก็เป็นนัยของการมองในแง่ลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Tesla พลาดเป้าประมาณการยอดส่งมอบอีกครั้ง ควรดำเนินการอย่างไรกับหุ้น TSLA ในปี 2026?",
+        "why": "การที่ Tesla 'พลาดเป้าประมาณการยอดส่งมอบอีกครั้ง' เป็นข่าวเชิงลบที่บ่งชี้ถึงผลการดำเนินงานที่ต่ำกว่าคาด และอาจส่งผลเสียต่อความเชื่อมั่นของนักลงทุนและราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "โดยรวมแล้วข่าวที่คัดเลือกมาทั้งหมดบ่งชี้ถึงปัจจัยเชิงลบที่อาจส่งผลกดดันต่อราคาหุ้น Tesla ไม่ว่าจะเป็นเป้าหมายราคาที่ต่ำลง การแข่งขัน ปัญหาการประเมินมูลค่า หรือยอดส่งมอบที่ต่ำกว่าคาด"
+    }
+  }
+}
