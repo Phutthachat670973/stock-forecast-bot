@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-12",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.851,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 19.8291 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0350 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0481 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0262 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0357 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Apple Stock: Time To Get Out (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1VUtkSkNTNFpxS05LSEhpMFVtbW12YTYxQmxUYnBLd3NHWHE5ZHFxVjlhaEh6SExneW1MQkRMQXVJdml5dGs5eE1GeVlyenRuSFA1N2kycUQydnFuMTBPWnZYcUpGRTdfS2ZQeTZRTQ?oc=5",
+      "published": "Fri, 09 Jan 2026 00:16:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple (NASDAQ: AAPL) Stock Price Prediction and Forecast 2026-2030 (Jan 2026) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVklMclp1TmpLbHJ4Sk41VlBTWDZsX2IwZXZaakt6Y3FiLTVVVHE0VjlJVmRUSV9odTFOR1JxZkpmZE9sWlJVSTRpVHJmbm5NT3dHY2tUVHVTUm5TSHoyME5FbEJjNENqNG1jMVlUUGRxOXNmSUsyeWxmZ010N3MzdFpQSGkwNGV2djRMazNBcmV2d1ZaLUM5bDZoZWJodEk?oc=5",
+      "published": "Wed, 07 Jan 2026 12:45:20 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Here's Why This Sleeping Giant Is My Top \"Magnificent Seven\" Stock To Buy in January - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWYwcHZnWFVabHZFMm1BT2ZOYU9IM1VzcHdqMzVkdm9HSXJuaFpNUW03MUdaZzJMdHQtWGRDNW5aQlBjVXFnQldoNGc2RUkyZ0hzSFN3eFV4WDZlLWhabkNHSlVwRldoZ2NDQmpodm9RRGdPRGl6RXp4Ni1Gek5wc2o0VEJCTWI5N3ptdkhRbXFFX09PV3ZVTg?oc=5",
+      "published": "Thu, 08 Jan 2026 17:06:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Will 2026 Be The Year Apple Gets AI Right? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQS12cUk3bmxSYVR6dFBTRDBrN0JGeXd4NmhlYUdvNHMxYmh6QXNjSC14eURlTXJWbUlyVUpaZ1l0VG9wdGptNmtyZnQ5MEdiTlY1X1E1UFlwMkh0V0tHeWlXRkVnVHNlOW9mN0l4VTExbmRCVTYxampaYnhoTldlOEM2SENLNTlZNmF0MnZ2TkZsbE9ENHo0R1N6a1dQYTVldmFyaA?oc=5",
+      "published": "Thu, 08 Jan 2026 13:28:51 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Apple Stock Starts 2026 With a Downgrade. Why Investors Shouldn’t Make Too Much of It - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3dVN3dCb1pucnMtS0V0Q1h1WFpkSHMtemNhN0tZRFYyQ0pfV3V1QVNlMFo1dm5MUkE5SjRHWTJsTHZER0dlV2lIWGg3YWpaTGF0QTk4b1BJaUFzcExad25KYUZsMzFhQzJNcXhkU1Foa09PcGl0bldEMk10a25TVjZLQjAxQQ?oc=5",
+      "published": "Tue, 06 Jan 2026 15:42:05 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Dow Jones Tech Titan Apple Stock Offers Buy Point, But Has Broken Key Level - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDRfVkJ2M2o2VmNuaTJUQndhYWRmdG93UEtzcUJybGw1M3ZscktDRm1QaUNNb3JPYVF2dzRSNl9MRXZRZFF3bTFoV2I2bzVDTHF3Yzg3emFxYURHakpDWnZRcmVDeUl1NThFNklPbzB5YUdPMkRnY1ZmTmhlNHBiS25MTGd1NVBSeVlBaTJrSktJSDgwcXB4TnkxLVNBSTdFb2c?oc=5",
+      "published": "Wed, 07 Jan 2026 19:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple Stock Set to Break Brutal Losing Streak. Why It Remains Evercore’s ‘Top Pick.’ - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOWXVIVjQtdFhVdHd2UzZ2aE8ybEtFSk1XdEhZV2hDRHQtWnQtemZEaGxOdmtBRG9mWFVxS3JZWXkzVTFqZUdrcEM0Nm5fQy1Eb0FtT0R0aXlIb3JGV1o5dGVsc0xMUnh2MDRsWGtSOHNybEhPN21OX2tnSnppVVRCN3dqbElVTVNwdUVUOHlwUDJBTnJRT0UyazRmcnNaWEx5ZDk3STl2ZkhoVm1ZRFZLTTcxemxoY2daTUdUZ1VBVF8xX092c2FFMGdjek1yekwxSXFwbnYybk01QnlKdklqUGJUOHpkVkpjRjFtNUx5TUFaRF9pczFoal9XVE5WZlRsNmhLUU1uZmh4TXlaOUx0alZ0cXZCNER1bzlWbndEa3picE1mZUxSd2kzMVprN2x2b1VPUFgxZDNOb0VEQ19BY3M2a0hkV05FSGI5dmZqZHo5d2FkMkZJSXdnS1ZwUnU5WGkzTjBjdkNFZmxCQ2I3M2lqX3F1UWdDUXVKZ0UyQkxsZjk4SDJEZ0RFWDBOR21WU0gzMk0tdjczUDRCMVdDbHJQUGZQbExRTEFiZnJ3?oc=5",
+      "published": "Fri, 09 Jan 2026 19:28:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Apple (AAPL) vs. Amazon (AMZN): Which Is the Better Buy? - Cabot Wealth Network",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHNYSzdPbnFmb1drV3BOWFhVLUhGMUFEXzIzUjZtX0toM2pfQS1waE5MWWo1eDNCbzFfT1hyUE15UnJkY3d1a01PSWptdVdnaUkzeTc5aXRfOVVkdTVfQWdvRFhhRDdQRFNnSzVUSEZfVVhPZUFjYzAwbFFwNjc2Ri1lQjNBXzg?oc=5",
+      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+      "source": "Cabot Wealth Network"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวแนะนำให้ 'ขายออก' จากหุ้น Apple โดยตรง",
+        "why": "พาดหัวข่าว 'Time To Get Out' บ่งชี้ถึงแนวโน้มเชิงลบอย่างชัดเจนสำหรับหุ้น Apple"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple เตรียมยุติช่วงขาลงที่รุนแรง และยังคงเป็น 'หุ้นแนะนำอันดับต้นๆ' ของ Evercore",
+        "why": "พาดหัวข่าวระบุถึงการสิ้นสุดช่วงขาลงและสถานะ 'หุ้นแนะนำอันดับต้นๆ' ซึ่งเป็นสัญญาณเชิงบวกอย่างมาก"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้น Apple เริ่มต้นปี 2026 ด้วยการถูกปรับลดอันดับ แต่พาดหัวข่าวแนะนำว่านักลงทุนไม่ควรกังวลมากนัก",
+        "why": "แม้จะมีการปรับลดอันดับซึ่งเป็นลบ แต่พาดหัวข่าวก็แนะนำว่าผลกระทบไม่ควรถูกมองข้ามมากนัก ทำให้มุมมองเชิงลบถูกลดทอนลงจนเป็นกลาง"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "บทความนี้ระบุถึง 'ยักษ์หลับ' ที่เป็นหุ้น 'Magnificent Seven' อันดับต้นๆ ที่น่าซื้อในเดือนมกราคม ซึ่งมักจะหมายถึง Apple",
+        "why": "Apple เป็นหุ้นที่โดดเด่นในกลุ่ม 'Magnificent Seven' และการถูกเรียกว่า 'ยักษ์หลับ' และ 'หุ้นแนะนำอันดับต้นๆ ที่น่าซื้อ' บ่งชี้ถึงมุมมองเชิงบวกอย่างมากสำหรับบริษัทในกลุ่มนี้"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้น Apple ยักษ์ใหญ่ด้านเทคโนโลยีของ Dow Jones เสนอจุดซื้อ แต่ได้ทะลุแนวรับสำคัญแล้ว",
+        "why": "มีทั้งมุมมองเชิงบวก ('เสนอจุดซื้อ') และเชิงลบ ('ได้ทะลุแนวรับสำคัญ') ทำให้พาดหัวข่าวมีข้อมูลที่ขัดแย้งกันและเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "ภาพรวมมีข้อมูลที่ขัดแย้งกัน ทั้งมุมมองเชิงบวกและเชิงลบเกี่ยวกับหุ้น Apple ทำให้โดยรวมแล้วมีความเป็นกลาง นักลงทุนควรพิจารณาปัจจัยทั้งหมด"
+    }
+  }
+}

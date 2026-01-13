@@ -1,0 +1,66 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-12",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4989,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0751 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0216 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0168 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0083 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0092 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa084cEJsU3FWZ1hUVG85bjhNUHB3N2J0dnpNclF0SVEyYVh2ZVJJaDNwMW9jQzdzbkN3UTNnVXFiemE4eC1SRHJQdjRHcVdrOXdwOEtLcDFuOFBhZzJObGRWTnVpc1NqTzk2SDRxMmZFRWJmQklxclY4Q3BRNXU3NktNX3M1RFk?oc=5",
+      "published": "Thu, 08 Jan 2026 22:45:05 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2026-2030 (Jan 2026) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWVncHR2RDd6QVNxcDNudDNqdWRJTERBWUR4RTB4T0RrWmd0aC1GS1RYazA2dEZYbkFxQUNWeWpYT1VEeGdoTm5WUXNMNFpyZXh5ZDh3TXozM3ZPWjNWTHVtdkJmdTY3TFctb29RRlRmVjVEdjVVY21sTklQRWFhQWVQNUxNMXo4cUZLa2pLZTBBZw?oc=5",
+      "published": "Thu, 08 Jan 2026 12:40:13 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft Stock Named 'Core Winner' In 2026 AI Race; Is It a Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bVlNQkRpRmY4R3V1RjJiSHdGUDRNVnZSallmaU5oNGtwdUh2Yy1HbGswMjhNbWFHOUczbzd2ampFT3hkNFUxSFRfSFdONmR5eFdxTTctSGJlS3NRdzVFRlhfTFYzZ1RxMVExZjlR?oc=5",
+      "published": "Tue, 06 Jan 2026 20:15:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Is Microsoft Stock Expensive? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVg5Y3pmTDRxNU9ZV3FEOUlsWHhoSjB4R2FQc3p0T3Zkak5icmRUb2o4WE5KWFNTS194N3lHbjV3RHhPdGwtOC1jSzAyRVhqdXQ3V1BIcmVLVEFwYWZLY0hhc2VYb3BzSzdJSUx0YktZb2xveFZnVG1mTlZwQ1dnN3NJU1pnVEp6ZllDbWQzT3U?oc=5",
+      "published": "Wed, 07 Jan 2026 15:10:29 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft: The Calm Before A 2026 Earnings Reacceleration (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0RUR3pXVjdDWHNRWXJKTjh5Z2cwNGlSQVRnOG52N0t5QXh4SUlpQ3VCWjVJOVBCbmtMaFVSNUdIYjdBbzNUOGxORnJlbzBqTTdsQzZDeTRXakY5SmFJSW0tSWJFUFlNYTVEaTZSb3kzS0R0M0RhR3M5RXNkRGpJMHItU2tLdzZVcVUyaTlJS3RJOGxwazU4QXZ2em16Zw?oc=5",
+      "published": "Thu, 08 Jan 2026 20:51:38 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Dips 9% in 3 Months: 3 Reasons Why the Stock is Still a Buy - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEh3QUI2MTNfWnlWRlVzay1uT2ZLUUpmZUNGZzhPR2I2S2NlbEN0SGZrZkdScEFRbGsxcDVEa0VxdEMtdS1zSzVnMWJHMzlYWTBCaWNEMmpmOHV2OE9hVGtWczNzWGs3WW9UeEt3T0Z3QXpVSll4V1R2S19Eb0FXMDZzV0lCM05wOWE2SlpXV1BkNDZ1ZlJFZmZZR0ZKSldBSVhZNmxLZGxwaHpu?oc=5",
+      "published": "Wed, 07 Jan 2026 15:25:03 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Microsoft Stock Can Grow 37%, Goldman Sachs Says. It Has Many Paths to AI Profit. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPbDNGeFFKeDNBYmhhZ0xpOUZVclBfaUJ2NjJBVFo1SDRoN2dFcEk1WFVaSUhuUThRX2MwQlR6VUx4NFNVWHdYTy1DNjlRTlNiSG1FZ3lCTEtLQlBQcnJabmJxaHRFQndJSmliMERnMndOT0ZHcUN3cjRrUW1ldlFwNXhjTXp0LTFPcHZMUEk1WUw4S2g3XzhxX0NSYzE0cWMwN0ttYjFpV0hXUkJWYktmbklENU03dW8yYUtGUngzUEZVc3lmX012dkVFY3VBRWRmdGJqMElGenR0U2pCOUVBQlhYdF9oN016eVVNZUMxc2xMOC00TVRpaW9tZHB2WjR1ZDE3N0s3M2VIRmdQZlhua2U0RlR4aE5KQzNpaU5ZTkZNOWpER1U4Uks1eHVCME9veG1fZ3ZrMlRZUXRqSzJ0eE5mTTl5Q0xLWGhrUWd4a3VpNkZYdWNaNndSYlNiVEttSURwQlAwMHhvMW9WTWxGd0xkSU96Y054NDFfWUxzZTNnOWF3ay1xag?oc=5",
+      "published": "Mon, 12 Jan 2026 18:15:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Microsoft vs. Oracle: Which Tech Stock Will Make You Richer? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckVnZkFCd1pDWmFCVXZiQmo5SGFmQnZoT1NJcEIydS1tajBxVllsR3k4bDViblA0bjhWUlljaklmX2ZWWVlyYy03dEJRVkFxbEpDNlZmeDNNWElHNFdCX0FTNDYtcE1sSkhpMUNEcFl5RjBDMnliTXlBUVhaZ0lzaHVkd2ZfZDI4NjhOTHFVdF9IQ2Vtcmh5dg?oc=5",
+      "published": "Tue, 06 Jan 2026 15:00:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": null
+}
