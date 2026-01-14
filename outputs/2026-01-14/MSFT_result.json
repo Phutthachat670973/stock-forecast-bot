@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5103,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2863 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0211 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0337 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0164 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0154 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2026-2030 (Jan 2026) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWVncHR2RDd6QVNxcDNudDNqdWRJTERBWUR4RTB4T0RrWmd0aC1GS1RYazA2dEZYbkFxQUNWeWpYT1VEeGdoTm5WUXNMNFpyZXh5ZDh3TXozM3ZPWjNWTHVtdkJmdTY3TFctb29RRlRmVjVEdjVVY21sTklQRWFhQWVQNUxNMXo4cUZLa2pLZTBBZw?oc=5",
+      "published": "Thu, 08 Jan 2026 12:40:13 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa084cEJsU3FWZ1hUVG85bjhNUHB3N2J0dnpNclF0SVEyYVh2ZVJJaDNwMW9jQzdzbkN3UTNnVXFiemE4eC1SRHJQdjRHcVdrOXdwOEtLcDFuOFBhZzJObGRWTnVpc1NqTzk2SDRxMmZFRWJmQklxclY4Q3BRNXU3NktNX3M1RFk?oc=5",
+      "published": "Thu, 08 Jan 2026 22:45:05 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Microsoft Stock Expensive? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVg5Y3pmTDRxNU9ZV3FEOUlsWHhoSjB4R2FQc3p0T3Zkak5icmRUb2o4WE5KWFNTS194N3lHbjV3RHhPdGwtOC1jSzAyRVhqdXQ3V1BIcmVLVEFwYWZLY0hhc2VYb3BzSzdJSUx0YktZb2xveFZnVG1mTlZwQ1dnN3NJU1pnVEp6ZllDbWQzT3U?oc=5",
+      "published": "Wed, 07 Jan 2026 15:10:29 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft: The Calm Before A 2026 Earnings Reacceleration (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0RUR3pXVjdDWHNRWXJKTjh5Z2cwNGlSQVRnOG52N0t5QXh4SUlpQ3VCWjVJOVBCbmtMaFVSNUdIYjdBbzNUOGxORnJlbzBqTTdsQzZDeTRXakY5SmFJSW0tSWJFUFlNYTVEaTZSb3kzS0R0M0RhR3M5RXNkRGpJMHItU2tLdzZVcVUyaTlJS3RJOGxwazU4QXZ2em16Zw?oc=5",
+      "published": "Thu, 08 Jan 2026 20:51:38 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Dips 9% in 3 Months: 3 Reasons Why the Stock is Still a Buy - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEh3QUI2MTNfWnlWRlVzay1uT2ZLUUpmZUNGZzhPR2I2S2NlbEN0SGZrZkdScEFRbGsxcDVEa0VxdEMtdS1zSzVnMWJHMzlYWTBCaWNEMmpmOHV2OE9hVGtWczNzWGs3WW9UeEt3T0Z3QXpVSll4V1R2S19Eb0FXMDZzV0lCM05wOWE2SlpXV1BkNDZ1ZlJFZmZZR0ZKSldBSVhZNmxLZGxwaHpu?oc=5",
+      "published": "Wed, 07 Jan 2026 15:25:03 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Microsoft Stock Can Grow 37%, Goldman Sachs Says. It Has Many Paths to AI Profit. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQSDhnM2FCX21GckJnMlhaanVmamM1eFVhZ2x6ZHo2M0ZxRUlNQ2NRdmdpV2diLThsN0ZONnpVbXFsNEFlNnFQdE1vQlJrZ3pvZVJZaW0xVWRjOWExVGFVdEQxNW9GODBuZWZ4dmhEbkFHYmxmN25SZW5nUlZsMWthRDdnbGM1eW5EVlZobW9lMlpMN1pEdzQybklmcUw4T2MwbVBfc2lXdWdQaXFHY2RQRjFxZUtxMmZiTndFR0hUZlhHZl9HMExYd1lpSmpzNzBieU0wc0FIS0JDY3BmUnRaSkViNWo1UzlGWWNJcVFrY2F5WHF6M0lsWkJPbm50czd6T05HQnZGdmk0REZJcmdQclI1c1pVT3hmMnA1LUV6a2tZR0VkcklrUjBQV0xxZkw3M0hER3dDUnBBaDUwZ2ZLanZnMklpSmFaRWY4SVo3T2R3bVpuME1qN2VZa09lOFdxM0l2THhGSTVhRU1za1VFWlJNRXh1REZkQUVIVlVsU3lWSVNKaTRrMQ?oc=5",
+      "published": "Mon, 12 Jan 2026 18:15:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "The Best Trillion-Dollar Stock to Buy for 2026, According to Wall Street - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelhheW1tcUVlNXhxeGJYTVE4N3Z3OEoyb1c0cFNBZ0hxZDBhR0pXUmRQZE5TTFhzUHFHN3FjVEVvQ1BmRU0xN2dXZnEyR25kWHQ0MThjUnJubzhYeTZwWEptajA4Z2drUGxOQ2JicGJFSnJUTmM5Q3pDcVFIbWlhVzdDR2tGT2JfM01nelNQbi1GUQ?oc=5",
+      "published": "Sat, 10 Jan 2026 13:27:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "“Growing, But Not Fast”: Microsoft Stock (NASDAQ:MSFT) Slips as AI Adoption Rates Examined - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1dJU1pSaGVDTnV2OUpzNVdXSzVVbHlOUmIxRVU3X2ZrVEx3UjEySnFPb1NqbzNURF9VTUxRLXRPVWh2OGJuc0hQWXBEWl9CYk1SdHd3T052QmpjU3RfX2NfdXc3dnJTWUpmV0Q3OURUZ1dJZXJXeVdLeUZoX0RVQ1QzNEgyN3RoRk9lNWxxQnU5bzU3c3lLUDhOZ2dnYXBnOC10VEF0S1BSOHhDdTZQMDQ5Yw?oc=5",
+      "published": "Tue, 13 Jan 2026 19:06:33 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Goldman Sachs คาดการณ์ว่าหุ้น Microsoft มีศักยภาพในการเติบโต 37% และมีช่องทางหลายทางในการทำกำไรจาก AI",
+        "why": "Headline ระบุตัวเลขการเติบโตของหุ้นที่สำคัญและกล่าวถึงโอกาสในการทำกำไรจาก AI ซึ่งเป็นปัจจัยบวกอย่างชัดเจน"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บทความนี้ชี้ว่า Microsoft กำลังอยู่ในช่วง 'ความสงบ' ก่อนที่จะมีการเร่งตัวของผลประกอบการในปี 2026",
+        "why": "การคาดการณ์ 'earnings reacceleration' (การเร่งตัวของผลประกอบการ) ในอนาคตเป็นสัญญาณเชิงบวกสำหรับหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "แม้ว่าหุ้น Microsoft จะลดลง 9% ในช่วง 3 เดือนที่ผ่านมา แต่บทความระบุ 3 เหตุผลที่ทำให้หุ้นยังคงน่าซื้อ",
+        "why": "แม้จะยอมรับว่ามีการปรับตัวลดลง แต่ข้อสรุปของ headline คือ 'ยังคงน่าซื้อ' ซึ่งบ่งชี้ถึงมุมมองเชิงบวกในระยะยาว"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft ปรับตัวลดลง ในขณะที่ตลาดโดยรวมปรับตัวสูงขึ้น",
+        "why": "Headline ระบุว่าหุ้นมีการ 'slides' (ลดลง) และมีประสิทธิภาพต่ำกว่าตลาดโดยรวมที่ 'rises' (สูงขึ้น) ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft ปรับตัวลดลง เนื่องจากมีการตรวจสอบอัตราการนำ AI ไปใช้ ซึ่งแสดงให้เห็นว่าเติบโตแต่ไม่เร็ว",
+        "why": "Headline ระบุว่าหุ้น 'slips' (ลดลง) และการเติบโตของ AI 'not fast' (ไม่เร็ว) ซึ่งบ่งชี้ถึงความกังวลและปัจจัยเชิงลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "แม้ว่าจะมีข่าวที่บ่งชี้ถึงการปรับตัวลดลงในระยะสั้นและอัตราการเติบโตที่อาจไม่รวดเร็ว แต่ข่าวส่วนใหญ่ชี้ให้เห็นถึงศักยภาพการเติบโตในอนาคตที่แข็งแกร่ง โดยเฉพาะจากการทำกำไรจาก AI และการเร่งตัวของผลประกอบการที่คาดการณ์ไว้"
+    }
+  }
+}

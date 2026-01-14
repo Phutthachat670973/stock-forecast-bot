@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.427,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2808 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0306 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0329 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0386 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0387 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla price target boost from its biggest bear is 95% below its current level - Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmg0RTBXOVkxcVYxbzV2X2thTHRCdldUclAweUw4N25mQlBUeHg5XzZ5cG1STXRpYzd4blhyQlBCWWtxZlMtaFc5eGhwekN4Q0RTWWNMbVQ3V0dQZUdjOTVZWWxTaWZEQ1MtSFRVbnhKWlZBdjBGRGhJaWdWd09rYlk5bGE2OGpsSkdMX3NCTThjQWM?oc=5",
+      "published": "Thu, 08 Jan 2026 08:15:34 GMT",
+      "source": "Teslarati"
+    },
+    {
+      "title": "How to buy Tesla stock (TSLA) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmM2d2VDRFNLYVpWZDVZM0ZyTmhUXzgxdERNWTVDbmxMRFBuWS1FYm0zbVF4dW9vVUt2MU5wQkk3d2NDd0xKelZoVTUxMWRIelBtQzItRzBrZ1didXlXWjF5aDB3U2hpSFE?oc=5",
+      "published": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Tesla: Gap Between Dream And Reality Never Been Bigger (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWZUeHJhUGxtd2hmNEN4a0RnMDRxYVh4UldjU0pndGNpWnpRTVFUejFQYU9QTFY3SVJLemJiTUFZSUNobUJrZFdhbENtSXpoT3VuYlczZVJlRExQc3dHZmU4MkE2WlZwMUI3YnBQSVhyV2ZlQ1hCNGVpa0haV1FWSWM0MHZCeDZqaU1DeEs3NTFXRHdGMDl0ZEJR?oc=5",
+      "published": "Mon, 12 Jan 2026 14:30:55 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Has Tesla (TSLA) Outrun Its Valuation After Mixed Recent Share Price Performance? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDBhV29MaUpDYXNxaDl0aml5YURsWElwUDFGNUpBOGJkeW1CdzFEd1dOOXE0NGVoUjRaMzFyNVpudDdvUDdRcHJWSzhON2M1NTdMeFpraEhDdEhqa09hM2xORjVRTE5lamo2aWdGRnZIZE5mcm1XMUFEblFZNV94NEphV0cydw?oc=5",
+      "published": "Wed, 07 Jan 2026 21:11:47 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Tesla Bear Case That Few Are Talking About - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3J0U1h1N2FDR21wcTR3U1RIZk55am0wWmNURWRlaHRBUDVTNXhSWVpQWU5SSFZJMkNmbFk5QjlKLVJPV3U2NV9MLTB0VWZ5dGRNMjVCMlpLRVduSXB1ckFhNmNURDJ6T1dkOUctdFo0cmRsWjVWX2hlN3JqSTRmVHdPMVQ5Smg3MFhVdkZiTjZmU3c?oc=5",
+      "published": "Thu, 08 Jan 2026 19:03:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Where Will Tesla Stock Be in 3 Years? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXVieGQtM2thNTNmNjVWSDZZZWJtXzItY1JWU0QtN0lYbFNHWmNqU0dDb3NPV1VTcnU5LUJQNTdwZ1dqU3p1eHplV0IyWVZCbHdneVhTRi1lZkstaDRYRlo3bGFnNDJYdnFJekFWVWlDWkNjMHBKU2RKZW81RERFVFZ1dFRZVUk?oc=5",
+      "published": "Tue, 13 Jan 2026 16:25:38 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "“The Math Doesn’t Add Up Anymore”: Tesla Stock (NASDAQ:TSLA) Gains, the Berlin Gigafactory at Risk? - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0w5a0U3UnBpRks1QjZCeF9NdzZ5cmJmRlFzSEtndEJZQ1EwYnplNHlMZ2hENG9XTFoxU2ZtUUtTTWNBWFNfeDJJMmpHVGRLaExFYjc4X2V0UjNBTmlNYWVJNERHVnFET2daY0ZETVJ0dng2cTBCbjU3V3EwdGFBU0xfODUwVG9wb0ptN2VaaEJpUFRkTmFRYWs3WXZMWEF3cHRMc0cwRGkwVnhDMWh1bmV3elFqUExKSmU2VA?oc=5",
+      "published": "Fri, 09 Jan 2026 18:03:45 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Why Elon Musk And Tesla Aren't 'Losing Sleep' Over Nvidia's Self-Driving Announcement - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2lvYl92OThWb2I2cVNsQWQ1RTNqckdlNDJtbUh5WFFmNUZYZ0JfTDVrSHk5LTVoYkJnODNMcmVxTlU0bFE2WFl2NlNOdWt0NURqQk8wcW9yclJraTEwTGJVYTZfNzNnaFhnc3FnTFN5OThVbVZqVndVQXZ4emdnMG1mZ0x5VHpiQlRTOF9ud0dJbEw1T0ZkVlYxVllXa3ZJUjNrRA?oc=5",
+      "published": "Wed, 07 Jan 2026 21:05:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "เป้าหมายราคาของ Tesla ได้รับการปรับเพิ่มจากนักวิเคราะห์สายหมีที่วิเคราะห์ Tesla แต่ก็ยังต่ำกว่าระดับปัจจุบันถึง 95%",
+        "why": "แม้ว่าจะมีการ 'ปรับเพิ่ม' เป้าหมายราคาจากนักวิเคราะห์สายหมี แต่เป้าหมายใหม่ยังคงต่ำกว่าระดับราคาปัจจุบันอย่างมากถึง 95% ซึ่งบ่งชี้ถึงความคาดหวังเชิงลบอย่างรุนแรงจากนักวิเคราะห์ที่วิพากษ์วิจารณ์"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ช่องว่างระหว่างความฝันและความเป็นจริงของ Tesla ไม่เคยห่างกันขนาดนี้มาก่อน",
+        "why": "พาดหัวข่าวชี้ให้เห็นถึงความแตกต่างอย่างมีนัยสำคัญระหว่างการรับรู้ของตลาด (ความฝัน) และประสิทธิภาพที่แท้จริงของบริษัท (ความเป็นจริง) ซึ่งบ่งบอกถึงการประเมินมูลค่าที่สูงเกินไปหรือไม่เป็นไปตามความคาดหวัง"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "มุมมองเชิงลบต่อ Tesla ที่ไม่ค่อยมีคนพูดถึง",
+        "why": "พาดหัวข่าวอ้างถึง 'มุมมองเชิงลบ' โดยตรง ซึ่งบ่งชี้ถึงข้อโต้แย้งที่ว่าราคาหุ้นอาจลดลง"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "แม้หุ้น Tesla จะมีกำไร แต่ 'ตัวเลขไม่สมเหตุสมผลอีกต่อไป' และ Gigafactory ในเบอร์ลินมีความเสี่ยง",
+        "why": "แม้หุ้นจะมีกำไรล่าสุด แต่พาดหัวข่าวเน้นย้ำถึงความกังวลพื้นฐาน ('ตัวเลขไม่สมเหตุสมผลอีกต่อไป') และความเสี่ยงในการดำเนินงาน (โรงงาน Gigafactory ในเบอร์ลิน) ซึ่งบ่งชี้ถึงจุดอ่อนที่ซ่อนอยู่"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "เหตุใด Elon Musk และ Tesla จึงไม่ 'กังวล' เกี่ยวกับการประกาศเทคโนโลยีขับขี่อัตโนมัติของ Nvidia",
+        "why": "พาดหัวข่าวนี้บ่งบอกว่า Tesla และ Elon Musk ยังคงมั่นใจในตำแหน่งหรือเทคโนโลยีของตน แม้จะมีการประกาศจากคู่แข่งสำคัญ ซึ่งบ่งบอกถึงความยืดหยุ่นหรือความได้เปรียบในการแข่งขันที่แข็งแกร่ง"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 85,
+      "note": "จากพาดหัวข่าวที่เลือกมา มีแนวโน้มโดยรวมของความสงสัยเกี่ยวกับมูลค่าของ Tesla และความเสี่ยงในการดำเนินงาน แม้ว่าจะมีความมั่นใจในตำแหน่งการแข่งขันบางส่วนก็ตาม"
+    }
+  }
+}
