@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-14",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8425,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 28.6674 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2025 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0442 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0382 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0355 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "(TSLA.O) | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVlA5X1VtZkpsMHdqSUN2bm1IWm1lcmFLVjZqaWFMOEd1X2FpRVoxQ05WOUc2VWV0QVZONE5aazJuLWZSTHNNcHlDSHJKcnhtS3dmaUZhU2tGY29JNWc?oc=5",
+      "published": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "How to buy Tesla stock (TSLA) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmM2d2VDRFNLYVpWZDVZM0ZyTmhUXzgxdERNWTVDbmxMRFBuWS1FYm0zbVF4dW9vVUt2MU5wQkk3d2NDd0xKelZoVTUxMWRIelBtQzItRzBrZ1didXlXWjF5aDB3U2hpSFE?oc=5",
+      "published": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Tesla: Gap Between Dream And Reality Never Been Bigger (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWZUeHJhUGxtd2hmNEN4a0RnMDRxYVh4UldjU0pndGNpWnpRTVFUejFQYU9QTFY3SVJLemJiTUFZSUNobUJrZFdhbENtSXpoT3VuYlczZVJlRExQc3dHZmU4MkE2WlZwMUI3YnBQSVhyV2ZlQ1hCNGVpa0haV1FWSWM0MHZCeDZqaU1DeEs3NTFXRHdGMDl0ZEJR?oc=5",
+      "published": "Mon, 12 Jan 2026 14:30:55 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "The Tesla Bear Case That Few Are Talking About - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3J0U1h1N2FDR21wcTR3U1RIZk55am0wWmNURWRlaHRBUDVTNXhSWVpQWU5SSFZJMkNmbFk5QjlKLVJPV3U2NV9MLTB0VWZ5dGRNMjVCMlpLRVduSXB1ckFhNmNURDJ6T1dkOUctdFo0cmRsWjVWX2hlN3JqSTRmVHdPMVQ5Smg3MFhVdkZiTjZmU3c?oc=5",
+      "published": "Thu, 08 Jan 2026 19:03:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Wall Street Price Prediction: Tesla’s Share Price Forecast for 2026 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeklBS2xWcVdTcTl1N1lsczBiMjZoNGloVmZEZlh0a3ItV01qY1ZLY3hMNlYxaE1LZGpHWjNhNThRVTNoZDBlMFU3Rm92R3JOb1pwRUZoN1FaT010SUt4U05icnhvcWZ6VUtzTkNmc0FPRFRIQzNmWlR1eUlSX0ZmcGcxeTdHRDhMZDh1bFJGX2lfenVEUm1qYXhSTHV0NTVFZ1NvYWtjQV83aG5tX3c?oc=5",
+      "published": "Tue, 13 Jan 2026 12:10:03 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Can Tesla Stock Fall To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTBxUkVZemQ3RFJleWdGamlxZm1PUE5GSFY2ZHNvWGtGN0cxdXNYd3ZkTjlfM0JIR185d0dyUWZoanNTOEN2V1ItNlVVRjlOTjhuSWQyN2Myak1mRmZkaGRxS1hPWHMta3EyanZqT2lpSmo0Ynd6aTh4SFZrMnFmWjlWM00yU3M3ZDAydmx1TQ?oc=5",
+      "published": "Wed, 14 Jan 2026 16:16:05 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Why Evercore Expects Tesla (TSLA) Shares to Trade Sideways in the Near Term - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbW5LTTE0cG9QbTRpT3FHS1QyZUdLWklfbGFPeXNiVkZ6UmxKSVJ6WWdkLXE4cHBwUmo1dkhERUtuRngzWGFsdEtPc3BtdmdzZlJHX0dSc3hkWWY3MGNnYXJoX2FRUUh5SE82Nkdsb2xkc2F4QjdReDdjR0Y1aW8wQURRMA?oc=5",
+      "published": "Sat, 10 Jan 2026 08:18:52 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "“The Math Doesn’t Add Up Anymore”: Tesla Stock (NASDAQ:TSLA) Gains, the Berlin Gigafactory at Risk? - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0w5a0U3UnBpRks1QjZCeF9NdzZ5cmJmRlFzSEtndEJZQ1EwYnplNHlMZ2hENG9XTFoxU2ZtUUtTTWNBWFNfeDJJMmpHVGRLaExFYjc4X2V0UjNBTmlNYWVJNERHVnFET2daY0ZETVJ0dng2cTBCbjU3V3EwdGFBU0xfODUwVG9wb0ptN2VaaEJpUFRkTmFRYWs3WXZMWEF3cHRMc0cwRGkwVnhDMWh1bmV3elFqUExKSmU2VA?oc=5",
+      "published": "Fri, 09 Jan 2026 18:03:45 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวนี้ชี้ให้เห็นว่ามีความไม่สอดคล้องกันอย่างมากระหว่างความคาดหวังกับความเป็นจริงของ Tesla",
+        "why": "วลี 'Gap Between Dream And Reality Never Been Bigger' (ช่องว่างระหว่างความฝันและความจริงไม่เคยมีมากขนาดนี้) บ่งชี้ถึงมุมมองเชิงลบต่อสถานะปัจจุบันของบริษัทเมื่อเทียบกับศักยภาพที่คาดหวังไว้ ซึ่งอาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "พาดหัวข่าวนี้พูดถึงมุมมองเชิงลบต่อ Tesla ที่ไม่ค่อยมีคนพูดถึง",
+        "why": "คำว่า 'Bear Case' (กรณีขาลง) แสดงถึงมุมมองที่มองว่าราคาหุ้นจะลดลงหรือมีปัจจัยเสี่ยง ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวนี้เกี่ยวกับบทวิเคราะห์และการคาดการณ์ราคาหุ้น Tesla โดย Wall Street สำหรับปี 2026",
+        "why": "พาดหัวข่าวระบุถึง 'การคาดการณ์ราคา' (Price Prediction) ซึ่งเป็นข้อมูลเกี่ยวกับแนวโน้มในอนาคต โดยไม่ได้ระบุว่าการคาดการณ์นั้นเป็นเชิงบวก เชิงลบ หรือคงที่ จึงจัดเป็นกลาง"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวนี้ตั้งคำถามถึงความเป็นไปได้ที่ราคาหุ้น Tesla อาจลดลงไปถึง 300 ดอลลาร์",
+        "why": "การตั้งคำถามเกี่ยวกับการที่ราคาหุ้นจะ 'ตกลงไป' (Fall To) ระดับราคาที่ต่ำกว่า บ่งบอกถึงความเป็นไปได้ในทางลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "พาดหัวข่าวนี้ระบุว่า Evercore คาดการณ์ว่าราคาหุ้น Tesla จะเคลื่อนไหวในกรอบแคบๆ ในระยะใกล้",
+        "why": "คำว่า 'Trade Sideways' (เคลื่อนไหวในกรอบแคบๆ) หมายถึงการคาดการณ์ว่าราคาหุ้นจะไม่มีการเปลี่ยนแปลงที่สำคัญ ไม่ว่าจะขึ้นหรือลง จึงถือเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 85,
+      "note": "โดยรวมแล้ว พาดหัวข่าวที่เลือกมาส่วนใหญ่บ่งชี้ถึงมุมมองเชิงลบหรือความกังวลเกี่ยวกับราคาหุ้น Tesla โดยมีบางส่วนที่คาดการณ์ว่าราคาจะคงที่"
+    }
+  }
+}

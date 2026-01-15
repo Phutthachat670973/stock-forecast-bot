@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-14",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8471,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 19.0619 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0304 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0480 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0791 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0181 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Predictions: What Investors Should Expect in 2026 and Beyond - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOC1MZVFhZHQzbFRqOXpvb2FRcWc1ZGxuWkYxUENEZndyZ2hweUtWNVlZWFFRSVpwTC1VbUFUYjBxcU1obm1qYnZncWZxRU9IdU5JS3ZHblNKaGVPcHhtR1RvLWhtSHNNQm5wYlVhRm53M3RuSGxUdDZpaWdudw?oc=5",
+      "published": "Tue, 13 Jan 2026 04:00:49 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Will AAPL Stock Rally Again in 2026 to Help Apple Regain the Throne as the Biggest Company? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NSUJQU2s3akdpZUFhOENZSllab0czaW55ZmphbE81MENabEJZZ1dXZXNhdUplcFZPbzBmZjkwYTlHNVBzZTNSV25OWjdOY3ZqeXZLMUlpY2NqWEkyeXA3RlFuYXgyVU9tb3FWYnBNNXdsekRCMXVzUEl1blJ6Zw?oc=5",
+      "published": "Mon, 12 Jan 2026 17:07:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock: Time To Get Out (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1VUtkSkNTNFpxS05LSEhpMFVtbW12YTYxQmxUYnBLd3NHWHE5ZHFxVjlhaEh6SExneW1MQkRMQXVJdml5dGs5eE1GeVlyenRuSFA1N2kycUQydnFuMTBPWnZYcUpGRTdfS2ZQeTZRTQ?oc=5",
+      "published": "Fri, 09 Jan 2026 00:16:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock Set to Break Brutal Losing Streak. Why It Remains Evercore’s ‘Top Pick.’ - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQMFRpeXlOV3cwZTdZTmZ3UEpkQWlsYmdwX0szNUlkU1BrLWVEMEFEVGZxRG1uaElGbWh6VHh4b3A5akJ0d0dPX194SC1LbTBJVW9MR2NuYTc2dzZQQ2Rrd1hHcnpkLS1BVkxXc093REJXTHlQeUdyYmNPRlhOTlM1MldwQmlZaDBlMUFBeU13bWZQN3BMNDlib0pJUVJWQjUtaVJRVEMwckphSno1Sm4yclhnbnlqZ0FINjAyeTEyTjdQZHBURTJqbHh3eG5kaXQ0T2NFU1NONnVFV2x3RkdZRlRtS1pPbUp0QnM4YkRuSS0tbFltVGZ4WnJMYTVhMFN3S3U4elVXOU5JaHIydGdJRm1DSnlhal9JTWVnSG9YaXZNVmxyNDVSZmJJX3lZOUY4cGtUOU40NzdpMUJIekNaRklPM0I2djFfVXJWUlZQblEzbmtjUDYwTFZsOU8yY3o2NDg5YVVzRmJORjAwNjdDMFEwajF4UTZfMFJ2a2NzVWItbzhVbVFwakhjZGFXOE4zR2FqeWoySVpRYUMxblVuZENQbEJTSS0wSXU2Y2tn?oc=5",
+      "published": "Fri, 09 Jan 2026 19:28:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Apple Stock: Why The iPhone Giant Could Fall - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHRrajVpNEk0YUxoZlQwX01fSnR3cEtoWFpxS1lBeWI5SmY3cUUydDJ5T2pWY0YyZ19mZk1BM2ZXMTFOalZKWkdkYThRX3haRU1nNUh5TXFGM0NPZ1puQnBzU0VUY25PV0NidFJjX1dhNGo3dnlNR1ZrRTVjY01fbXhnakZ0R3NLdHA1c010Z0dRZVUwYllSd0kwM2IwWWk3bUVDSg?oc=5",
+      "published": "Wed, 14 Jan 2026 14:16:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Bank of America delivers sharp take on Apple stock after major shift - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXhxN2lfYllGNW10RWo1MUkzYjJHM0xmTWVSamRmUkVwU2ZEZzY4Y3JJLU1qSXpYRlNwU2ZHbi1YWk5lbkkwTGc0NGFrVWwxTFJBMnJVdkloU3FpY3diSUNuX19scFYtZDljSElvNHRuS0JZeFdZZERORDAwcEkwNnFVa1pTaGM0SVZZdnk2NGNUVjc1NERmZ1AxdjE4cGxJTWFNSW5MaVAxY09sYW9INg?oc=5",
+      "published": "Wed, 14 Jan 2026 13:07:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Apple Stock, Part II: How To Find & Own America's Greatest Opportunities - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY05nWndQVVlNbzNpUl9JbTF5QVNxVlNqOWR1UmVEQ1daZ3E0WGl6eTZXSGRHRkhrWk82ampkUkZ6ck1JTWFjQTdyeE5qaW8ybC1VaXdRbDhfWU42R3kwYzh5d2Z0Y3FaVXFzcmpwTXRFQTJYMHgtNVZtMWtLODBVQ1M5NnNiU2FEa0NPVnBZaWJEQTA?oc=5",
+      "published": "Wed, 14 Jan 2026 13:00:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "How Apple Stock Can Crash? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUhPa19pSHBSZU9mOWNlOExWOGdEMFJZRmN6MGVVMjVJMDYxVVpaaUxiMVZTelZINHZMZmhIYkhULWR3UjV3NjB1ZTh6Mmd2UEVTM3l4ek1PenZqcUltblY1MjQwNFJkWmZUT1RJaDBJaUJwekxUd1hpRHpXRUgxbTdTSlVRa0pnUmdhUTd0MlU5TXpwTVViQ01MNlIzdw?oc=5",
+      "published": "Wed, 14 Jan 2026 09:54:44 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น AAPL จะฟื้นตัวอีกครั้งในปี 2026 เพื่อช่วยให้ Apple กลับมาเป็นบริษัทที่ใหญ่ที่สุดได้หรือไม่",
+        "why": "พาดหัวข่าวใช้คำว่า 'Rally Again' และ 'Regain the Throne' ซึ่งชี้ให้เห็นถึงแนวโน้มเชิงบวกที่อาจเกิดขึ้นกับราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple: ได้เวลาขายแล้ว (NASDAQ:AAPL)",
+        "why": "วลี 'Time To Get Out' แสดงถึงคำแนะนำที่ชัดเจนให้ขายหุ้น ซึ่งเป็นมุมมองเชิงลบ"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple พร้อมที่จะยุติช่วงขาลงที่รุนแรง และยังคงเป็น 'ตัวเลือกอันดับต้นๆ' ของ Evercore",
+        "why": "คำว่า 'Break Brutal Losing Streak' และการเป็น 'Top Pick' เป็นสัญญาณเชิงบวกที่ชัดเจนสำหรับหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple: เหตุใดบริษัทยักษ์ใหญ่ iPhone จึงอาจร่วงลงได้",
+        "why": "วลี 'Could Fall' บ่งชี้ถึงความเป็นไปได้ที่ราคาหุ้นจะลดลง ซึ่งเป็นมุมมองเชิงลบ"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple, ตอนที่ 2: วิธีค้นหาและเป็นเจ้าของโอกาสที่ยิ่งใหญ่ที่สุดของอเมริกา",
+        "why": "วลี 'America's Greatest Opportunities' แสดงถึงมุมมองเชิงบวกอย่างมากเกี่ยวกับศักยภาพของหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "พาดหัวข่าวแสดงมุมมองที่ผสมผสานกันอย่างมีนัยสำคัญ มีทั้งมุมมองเชิงบวกเกี่ยวกับศักยภาพในการฟื้นตัวและการเป็น 'ตัวเลือกอันดับต้นๆ' และมุมมองเชิงลบที่แนะนำให้ 'ขาย' หรือเตือนว่า 'อาจร่วงลงได้' ซึ่งบ่งชี้ถึงความไม่แน่นอนของทิศทางในระยะสั้น"
+    }
+  }
+}

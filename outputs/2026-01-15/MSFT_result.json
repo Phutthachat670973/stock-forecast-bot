@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-14",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8615,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 24.7055 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2575 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0427 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0495 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0573 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Here’s What Hit Microsoft (MSFT) in Q4 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOXdhQW9jMmFPcExta3cyaXFEb0czZ2FSVkl4VzBRVmxpdGFqa2tsV1pDRUlBdUE4ZmZIVG5qLWxIdUZmSjUwZGk5ZmptZ2xkTTlUcW4zWXlIQzcxTkFCdTdwM1lyZ2dSUDNjbThQdVJYMVNjLUE?oc=5",
+      "published": "Wed, 14 Jan 2026 13:06:21 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to Buy Microsoft Stock (MSFT) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeVdKMWdubjZZbVlhMm5GelFqTmNzS0ZqQjd6QmRMcG5VcXhOdElMQ2w1R3d5Y0hhTXdiVmlkcWE1WnRGZjdCOFFrSFY4M2JCUEltLTA3NmZXOWJQOHVNdHE2ck15U21UWkZfV2FxNGc?oc=5",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2026-2030 (Jan 2026) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWVncHR2RDd6QVNxcDNudDNqdWRJTERBWUR4RTB4T0RrWmd0aC1GS1RYazA2dEZYbkFxQUNWeWpYT1VEeGdoTm5WUXNMNFpyZXh5ZDh3TXozM3ZPWjNWTHVtdkJmdTY3TFctb29RRlRmVjVEdjVVY21sTklQRWFhQWVQNUxNMXo4cUZLa2pLZTBBZw?oc=5",
+      "published": "Thu, 08 Jan 2026 12:40:13 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Is Microsoft Stock Getting Risky Now? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbnZRYjVCeS1xUEt3cEF1blA4N2VkQ1pQOTZ3b3FTbEUwZWxfd002TFBWck1KWnFLYmwxcVA2MFloVDhlbWRzdmN1UkxJWEx0N1Y1WENpRHNEVFNvSHdad2VKOEZUSFJwNXYzOFgtRi1OTVFOZHJSaUY0b1gwWS1icGxrdklSSUpJaTJiYzd1dmsydmV4Q3R2cF9FMA?oc=5",
+      "published": "Thu, 08 Jan 2026 13:36:51 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Stock Hits a 7-Month Low. Why Wall Street Analysts Are Backing a Recovery. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPbWJTMkd2NGJlMUM2dHNRRDVQMDBMZTd0d01IZjRUM2FkT0V0Z3lfNXZ6My0zM3hlUUtCVEZEZHlPMGw0ci1OLU1sb1hmRS1rUWlzMldCdkNPTk1fZnJMc3FMeVROU1pXQ2JEOFJSbDRhalZWWV9FWk9ybkxtR0plWTJrdTRrNHRnb2xfc1NtVjVlM1d2X2ktQVRQNTlIdDBGdlRGS0JzYXg4MWdnTVd4UWczSkRsemdDbnRZWmV2Wm5faDJIRkp2R0NBYUlZNVNaTnNhb1NIZFlrN2pTcDdVOEhJcm1uOXg1Q3VCcGpBeVpqcTF0OFNFdzdMdUdxMndYVG9wSEV2emVURS1aQ1N1UkhzV1ExczhHWWI5dGl0QmpHaVVCaDZHejB6c2ZOZ3d5WmVua2tMWXRNaXRrZ1E0SXducDBWdDItZENNNTVvV1Fmay1IX0ZsRXpwTTFkaVBzd2ZxaEswTjNBVmZfR1BFRUxuRDYzMXRuWjNjR19jMnItR3FK?oc=5",
+      "published": "Wed, 14 Jan 2026 21:45:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Microsoft: The Calm Before A 2026 Earnings Reacceleration (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0RUR3pXVjdDWHNRWXJKTjh5Z2cwNGlSQVRnOG52N0t5QXh4SUlpQ3VCWjVJOVBCbmtMaFVSNUdIYjdBbzNUOGxORnJlbzBqTTdsQzZDeTRXakY5SmFJSW0tSWJFUFlNYTVEaTZSb3kzS0R0M0RhR3M5RXNkRGpJMHItU2tLdzZVcVUyaTlJS3RJOGxwazU4QXZ2em16Zw?oc=5",
+      "published": "Thu, 08 Jan 2026 20:51:38 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "“Growing, But Not Fast”: Microsoft Stock (NASDAQ:MSFT) Slips as AI Adoption Rates Examined - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1dJU1pSaGVDTnV2OUpzNVdXSzVVbHlOUmIxRVU3X2ZrVEx3UjEySnFPb1NqbzNURF9VTUxRLXRPVWh2OGJuc0hQWXBEWl9CYk1SdHd3T052QmpjU3RfX2NfdXc3dnJTWUpmV0Q3OURUZ1dJZXJXeVdLeUZoX0RVQ1QzNEgyN3RoRk9lNWxxQnU5bzU3c3lLUDhOZ2dnYXBnOC10VEF0S1BSOHhDdTZQMDQ5Yw?oc=5",
+      "published": "Tue, 13 Jan 2026 19:06:09 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "The Best Trillion-Dollar Stock to Buy for 2026, According to Wall Street - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelhheW1tcUVlNXhxeGJYTVE4N3Z3OEoyb1c0cFNBZ0hxZDBhR0pXUmRQZE5TTFhzUHFHN3FjVEVvQ1BmRU0xN2dXZnEyR25kWHQ0MThjUnJubzhYeTZwWEptajA4Z2drUGxOQ2JicGJFSnJUTmM5Q3pDcVFIbWlhVzdDR2tGT2JfM01nelNQbi1GUQ?oc=5",
+      "published": "Sat, 10 Jan 2026 13:27:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "รายงานข่าวนี้เกี่ยวกับปัจจัยที่ส่งผลกระทบต่อ Microsoft ในไตรมาสที่ 4",
+        "why": "พาดหัวข่าวระบุถึง 'What Hit Microsoft' (สิ่งที่กระทบ Microsoft) ซึ่งบ่งชี้ถึงผลกระทบเชิงลบหรือความท้าทาย"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "บทความนี้ตั้งคำถามว่าหุ้น Microsoft กำลังมีความเสี่ยงเพิ่มขึ้นหรือไม่",
+        "why": "การตั้งคำถามว่า 'Is Microsoft Stock Getting Risky Now?' (หุ้น Microsoft กำลังมีความเสี่ยงเพิ่มขึ้นหรือไม่) บ่งชี้ถึงความเป็นไปได้ของปัจจัยลบหรือความเสี่ยงที่เพิ่มขึ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "หุ้น Microsoft ทำจุดต่ำสุดในรอบ 7 เดือน แต่บทความชี้ว่านักวิเคราะห์ใน Wall Street สนับสนุนการฟื้นตัว",
+        "why": "แม้ว่าหุ้นจะทำจุดต่ำสุด แต่ส่วนท้ายของพาดหัวข่าวที่ว่า 'Wall Street Analysts Are Backing a Recovery' (นักวิเคราะห์ใน Wall Street สนับสนุนการฟื้นตัว) แสดงถึงมุมมองเชิงบวกในอนาคต"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความนี้คาดการณ์ว่า Microsoft จะมีการเร่งตัวของผลประกอบการในปี 2026",
+        "why": "วลี '2026 Earnings Reacceleration' (การเร่งตัวของผลประกอบการในปี 2026) บ่งชี้ถึงแนวโน้มการเติบโตและผลประกอบการที่ดีขึ้นในอนาคต"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft ปรับตัวลดลงเนื่องจากอัตราการนำ AI ไปใช้ยังไม่รวดเร็วเท่าที่ควร",
+        "why": "พาดหัวข่าวระบุว่าหุ้น 'Slips' (ปรับตัวลดลง) และ 'Growing, But Not Fast' (เติบโตแต่ไม่เร็ว) ซึ่งบ่งชี้ถึงผลการดำเนินงานที่ไม่เป็นไปตามคาดและแรงกดดันต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "พาดหัวข่าวมีการบ่งชี้ถึงความท้าทายและความเสี่ยงในปัจจุบันสำหรับ Microsoft (เช่น หุ้นปรับตัวลดลง มีความเสี่ยง ปัจจัยลบใน Q4) ควบคู่ไปกับสัญญาณเชิงบวกที่คาดการณ์การฟื้นตัวและการเติบโตของผลประกอบการในอนาคต (เช่น นักวิเคราะห์สนับสนุนการฟื้นตัว การเร่งตัวของผลประกอบการในปี 2026) ซึ่งสะท้อนถึงมุมมองที่ผสมผสานกัน"
+    }
+  }
+}
