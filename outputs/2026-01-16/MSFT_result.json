@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-15",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8377,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 21.8492 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0467 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0449 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0557 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0128 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Here’s What Hit Microsoft (MSFT) in Q4 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOXdhQW9jMmFPcExta3cyaXFEb0czZ2FSVkl4VzBRVmxpdGFqa2tsV1pDRUlBdUE4ZmZIVG5qLWxIdUZmSjUwZGk5ZmptZ2xkTTlUcW4zWXlIQzcxTkFCdTdwM1lyZ2dSUDNjbThQdVJYMVNjLUE?oc=5",
+      "published": "Wed, 14 Jan 2026 13:06:21 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to Buy Microsoft Stock (MSFT) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeVdKMWdubjZZbVlhMm5GelFqTmNzS0ZqQjd6QmRMcG5VcXhOdElMQ2w1R3d5Y0hhTXdiVmlkcWE1WnRGZjdCOFFrSFY4M2JCUEltLTA3NmZXOWJQOHVNdHE2ck15U21UWkZfV2FxNGc?oc=5",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Microsoft Hits Lows But Cloud Spending To Boost Stock, Analysts Say; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODYxSnBIVkZPWDdyRWgtUXVxSHlPaWlrYWRhMzVkMjVPSlJhRGpyZ21IVE4zVk43dnRzTC15SEZ3djlVRTFWMmZYYUI4Uk5pOVJ4OUhCVUtEV01SS0NKQU5Ja3BwNFVMYmZWNHlJTmZZc3BUTW1rMGlvZWJnaDF2TWNmMm5vcXM?oc=5",
+      "published": "Thu, 15 Jan 2026 00:36:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft Stock Hits a 7-Month Low. Why Wall Street Analysts Are Backing a Recovery. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPUm1xVF9mWmprSk1FTVB0dURkaF9WQlNwN3lodS1LeEtIUVZibjlUQXpCREJvRmhRbFlIb1BwbERlWThOQXVvZkNjRmhzUzRtdmV1eGxEdzgzZU9lVi1mVlNfMndRcWNOSjlZNGs0bjhLWUxIcDJRMUhKbkstSFdNaGEyQ203alFXeVhidUZwSS1tUk1BWm5aclJMOWNHcDdwT25ESk9MdmQ4WXM3NklLVkhaLUpHQkhueHhUWkJOUjE4dWpjRWY4OVhOcm02dUNGa29qR1p0SE5ETTB5WTJ3N210R3U5QlJrbU93NWp4X2JnV1VRWGdMQTNGaU9DV0RDc2VLSi0zNGJjZzVCZjRMRmFjS0ZNenk1cFpRRFd2M1QycjVaWGRtVWhyYzh5eVRldXdZQTEzVzZIQzF5TlZYUXNoSEJ1TTZqVVYxVXVTZlYzTy1jZERJb0xPYXNhVm1YRE1NNVVuQWt5SHJFTHY4emtlaFUwSk5RWXA4Wk9LWDQwZ0N5?oc=5",
+      "published": "Wed, 14 Jan 2026 21:45:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "How Microsoft Stock Can Jump To $600? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVE2MklZbVVib2k3ODhoWUJMTTg1cHMtS2RMX210NjZnQUEwbWFiWkhEU3I5Z2ZvX3JRUXlkekZET0hIZHdYTEhfOWV1OU5yb3FBOTZqblBJWDhMelVHelQtcmE5TFJ5SDYxYlBXTGh4Tnk3Q0otQU9VT3p1QkZnZ0c0VFVsSGxfdHhWYkUtZkVXSkpyREV0dGlR?oc=5",
+      "published": "Thu, 15 Jan 2026 14:19:22 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Why Jan. 28 Could Be a Very Big Day for Microsoft Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlY4bVVIUGZzR1JXbzlkUVlzZEhHVjdLUVZzdC05MUZsV1k1a3VNb2NRWVc3ZFVNeVhtS0lSOHJTTnN3dUhYYy1MeXE2QlJpRVctYnBOaDR4WEY2Q3BHeTl4NmJZUUZvalFuUHdjWXR3NDlzYmxmcmxCeGJvUDhnaWxZNW1WYzh3aG85Z2RaQ1Q5RC1WT1ZZ?oc=5",
+      "published": "Thu, 15 Jan 2026 10:32:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Hits Six-Month Low as AI Trade Loses Steam - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnhmM0xKWlV1M1pwVTVESjRKbk1fZjdmd0xEdWEwQmFEY2lqa0pkMFZPZUVEbkIzX3lpOHVObmNNV1lFdk1odDdUMEFWZ195dTJZSzFpTGdLeTBRdHotcU1hS0o1ZHYtTklRQUZlNnRyb1lucVpTeE4zVXprb2tIbkt4WktVOE9veW9hdVBuYTNNUHRjUENMZQ?oc=5",
+      "published": "Wed, 14 Jan 2026 15:04:53 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft: Super-Investors Are Trimming Their Top Position (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3RQcVAwT0d3dGRyMEZDeEVkN045d2pmbTNxYzdzaERqa1YtQTRMcmRON1Vab1NxaDMxT2IzRDFJd3h6eGZpQ05lSVJYX2RQRV9WbTFkVmNsbXdpdFBaTzM3aEFQeHB1bHB4NnhpRXllSU93VExkMnRySjl0Y2lsNnN6Uk1BMzFqMDBnSlAwRVpHU3lEeWkwNGl3?oc=5",
+      "published": "Fri, 09 Jan 2026 18:06:37 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft ทำจุดต่ำสุด แต่การใช้จ่ายด้านคลาวด์จะหนุนหุ้นขึ้นตามที่นักวิเคราะห์กล่าว และตั้งคำถามว่าควรซื้อตอนนี้หรือไม่.",
+        "why": "พาดหัวระบุว่า 'Cloud Spending To Boost Stock' และตั้งคำถาม 'Is Microsoft A Buy Now?' ซึ่งบ่งชี้ถึงศักยภาพขาขึ้น."
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft ทำจุดต่ำสุดในรอบ 7 เดือน แต่บรรดานักวิเคราะห์ใน Wall Street สนับสนุนการฟื้นตัว.",
+        "why": "พาดหัวเน้นว่า 'Wall Street Analysts Are Backing a Recovery' ซึ่งเป็นสัญญาณเชิงบวก."
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft สามารถพุ่งขึ้นไปถึง 600 ดอลลาร์ได้อย่างไร.",
+        "why": "พาดหัวระบุถึงศักยภาพที่หุ้นจะ 'Jump To $600' ซึ่งเป็นสัญญาณเชิงบวกอย่างชัดเจน."
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft ทำจุดต่ำสุดในรอบหกเดือน เนื่องจากกระแสการลงทุนใน AI ลดลง.",
+        "why": "พาดหัวระบุว่าหุ้น 'Hits Six-Month Low' และ 'AI Trade Loses Steam' ซึ่งเป็นสัญญาณขาลง."
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "นักลงทุนรายใหญ่กำลังลดสัดส่วนการลงทุนใน Microsoft.",
+        "why": "พาดหัวระบุว่า 'Super-Investors Are Trimming Their Top Position' ซึ่งมักเป็นสัญญาณเชิงลบ."
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "แม้ว่าหุ้นจะทำจุดต่ำสุดและมีนักลงทุนรายใหญ่ลดสัดส่วนการลงทุน แต่พาดหัวข่าวหลายฉบับชี้ไปที่การฟื้นตัว ศักยภาพการเติบโต และการสนับสนุนจากนักวิเคราะห์ ซึ่งบ่งชี้ถึงแนวโน้มเชิงบวกที่โดดเด่นกว่า."
+    }
+  }
+}

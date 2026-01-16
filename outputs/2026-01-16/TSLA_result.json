@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-15",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8333,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 28.5439 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2814 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0403 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0352 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0311 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "TESLA, INC. (TSLA) - MSN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxemFWUHlQUGgxR2tvYXNiV1VuRzE4RE5ZWmhtVElwam5RcldvMlFjWEVkWk9yS1JteXBRYzU0R2dRUFZub1ZYQmVNVG9CeWRaLUMyTWE5UkFManhlT0pMb1RwNHozdTBEYWZLZE1VX01sUWVFZWQ0?oc=5",
+      "published": "Thu, 15 Jan 2026 13:29:42 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Jan 15) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWFKakNHNDFUbmczdFlQeVFoN1pteC0yaTcwb1RUSVZYQXV2WXdOdzR0dldLWFQ1eDExWTRJYXJTVlUxTks5V1F5VmZKOXZwRU9uU3VyRzkxWDdNWTlqazhhQWtfaDEzRmpxdG1nZGROanFuQ0FXZU90akNTWnE4bEdUNDlOVS14RDREcQ?oc=5",
+      "published": "Thu, 15 Jan 2026 13:50:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Can Tesla Stock Fall To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTBxUkVZemQ3RFJleWdGamlxZm1PUE5GSFY2ZHNvWGtGN0cxdXNYd3ZkTjlfM0JIR185d0dyUWZoanNTOEN2V1ItNlVVRjlOTjhuSWQyN2Myak1mRmZkaGRxS1hPWHMta3EyanZqT2lpSmo0Ynd6aTh4SFZrMnFmWjlWM00yU3M3ZDAydmx1TQ?oc=5",
+      "published": "Wed, 14 Jan 2026 16:16:05 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "How to buy Tesla stock (TSLA) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oQmM2d2VDRFNLYVpWZDVZM0ZyTmhUXzgxdERNWTVDbmxMRFBuWS1FYm0zbVF4dW9vVUt2MU5wQkk3d2NDd0xKelZoVTUxMWRIelBtQzItRzBrZ1didXlXWjF5aDB3U2hpSFE?oc=5",
+      "published": "Fri, 09 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Nvidia Just Delivered Very Bad News for Tesla Stock Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWtGNVlESVNYUURCTVVBdXd1VjhhYjM2TF9WOF9qRUg5U2lfd0xqdG5vZmJIX2xiM2pvNEo2WE0tOXpmTGE2eEZTRVFTSXVIc01jbV9tMXBiQ0U0N3lIOWRsb3UzcW15UEhwS0FUak1oUnFOZ1A0dE1YS2VXSUU1d2o3Z1hYWHdTemlHbDBxYldkd3Zm?oc=5",
+      "published": "Wed, 14 Jan 2026 10:31:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla: Gap Between Dream And Reality Never Been Bigger (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWZUeHJhUGxtd2hmNEN4a0RnMDRxYVh4UldjU0pndGNpWnpRTVFUejFQYU9QTFY3SVJLemJiTUFZSUNobUJrZFdhbENtSXpoT3VuYlczZVJlRExQc3dHZmU4MkE2WlZwMUI3YnBQSVhyV2ZlQ1hCNGVpa0haV1FWSWM0MHZCeDZqaU1DeEs3NTFXRHdGMDl0ZEJR?oc=5",
+      "published": "Mon, 12 Jan 2026 14:30:55 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Cathie Wood Dumps Tesla Again -- Loads Up $50 Million in Broadcom Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ01qbi1IVk5sTUdRSGg4M05mdE40M2ZmaUR2cTcwaHNZR1BLRlZkczU1MGhXa1dtWHd5ZXh4cE9ackNEeUdWUHNlNkppTklaZE5sLUtpYWUyamgxeVRFVEtEUE5aUWJYbnJaNm01N1Y2NWRlM2c3R29GZGNLNHVRWA?oc=5",
+      "published": "Thu, 15 Jan 2026 15:39:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Robotaxi Delays and Price Drop - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRC1FSDNhLW9Ya1kxOVVpSkNVV0RVb3hFZ3p3Zm12N3BSUW5mYTF0SkJtVDNPaWVQUEZyaFBPUWowb0VydlVKX1h5VFI4YzctbjcwdmxrWXdfbTJIVzliMnBTdUdDa1VuaWhuTk1pSk1XTDlLeDc5N2RWM2pQdFN6QWtVNTJsdjU5aTRtT2VDRGlXR1lRZTVzbWtjZGgycW8?oc=5",
+      "published": "Thu, 15 Jan 2026 14:08:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Cathie Wood ได้ขายหุ้น Tesla อีกครั้ง และซื้อหุ้น Broadcom มูลค่า 50 ล้านดอลลาร์",
+        "why": "การที่นักลงทุนรายใหญ่เทขายหุ้น TSLA โดยเฉพาะอย่างยิ่งเพื่อไปลงทุนในหุ้นอื่น ถือเป็นสัญญาณเชิงลบที่ชัดเจนต่อราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Nvidia ได้ส่งมอบข่าวร้ายมากสำหรับนักลงทุนหุ้น Tesla",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่ามี 'ข่าวร้ายมาก' สำหรับนักลงทุนหุ้น Tesla ซึ่งบ่งบอกถึงผลกระทบเชิงลบที่อาจเกิดขึ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "มีการตั้งคำถามถึงความเป็นไปได้ที่หุ้น Tesla จะลดลงไปถึง 300 ดอลลาร์",
+        "why": "การตั้งคำถามเกี่ยวกับศักยภาพที่หุ้นจะลดลงอย่างมีนัยสำคัญ บ่งชี้ถึงความกังวลและแนวโน้มเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "มีความเห็นว่าช่องว่างระหว่างความฝันและความเป็นจริงของ Tesla ไม่เคยห่างกันมากขนาดนี้",
+        "why": "วลี 'ช่องว่างระหว่างความฝันและความเป็นจริงไม่เคยห่างกันมากขนาดนี้' บ่งบอกถึงความผิดหวังหรือการประเมินค่าที่สูงเกินไป ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "มีความคิดเห็นเกี่ยวกับหุ้น Tesla เกี่ยวกับการล่าช้าของ Robotaxi และการลดลงของราคา",
+        "why": "พาดหัวข่าวระบุถึงปัจจัยลบโดยตรงที่ส่งผลต่อความคิดเห็นเกี่ยวกับหุ้น Tesla ได้แก่ 'การล่าช้าของ Robotaxi' และ 'การลดลงของราคา'"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "พาดหัวข่าวที่เลือกส่วนใหญ่แสดงถึงความกังวลหรือปัจจัยเชิงลบที่อาจส่งผลกระทบต่อหุ้น Tesla เช่น การเทขายหุ้นโดยนักลงทุนรายใหญ่ ข่าวร้ายจากอุตสาหกรรม คำถามเกี่ยวกับราคาที่ลดลง และความล่าช้าของโครงการสำคัญ ซึ่งบ่งชี้ถึงแนวโน้มโดยรวมที่เป็นขาลง"
+    }
+  }
+}

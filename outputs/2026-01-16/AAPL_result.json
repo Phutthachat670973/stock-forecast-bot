@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-15",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.842,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 11.6519 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0340 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0955 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0502 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0202 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Predictions for 2026 and Beyond - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOC1MZVFhZHQzbFRqOXpvb2FRcWc1ZGxuWkYxUENEZndyZ2hweUtWNVlZWFFRSVpwTC1VbUFUYjBxcU1obm1qYnZncWZxRU9IdU5JS3ZHblNKaGVPcHhtR1RvLWhtSHNNQm5wYlVhRm53M3RuSGxUdDZpaWdudw?oc=5",
+      "published": "Tue, 13 Jan 2026 04:00:49 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Will AAPL Stock Rally Again in 2026 to Help Apple Regain the Throne as the Biggest Company? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NSUJQU2s3akdpZUFhOENZSllab0czaW55ZmphbE81MENabEJZZ1dXZXNhdUplcFZPbzBmZjkwYTlHNVBzZTNSV25OWjdOY3ZqeXZLMUlpY2NqWEkyeXA3RlFuYXgyVU9tb3FWYnBNNXdsekRCMXVzUEl1blJ6Zw?oc=5",
+      "published": "Mon, 12 Jan 2026 17:07:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock: Why The iPhone Giant Could Fall - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHRrajVpNEk0YUxoZlQwX01fSnR3cEtoWFpxS1lBeWI5SmY3cUUydDJ5T2pWY0YyZ19mZk1BM2ZXMTFOalZKWkdkYThRX3haRU1nNUh5TXFGM0NPZ1puQnBzU0VUY25PV0NidFJjX1dhNGo3dnlNR1ZrRTVjY01fbXhnakZ0R3NLdHA1c010Z0dRZVUwYllSd0kwM2IwWWk3bUVDSg?oc=5",
+      "published": "Wed, 14 Jan 2026 14:16:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple Stock Set to Break Brutal Losing Streak. Why It Remains Evercore’s ‘Top Pick.’ - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQb0VySFJxNWJSMXpwejVndER1YjhtUTdNTkZnQ1V1VTkyS0Y4NzJYTHRhS2dJUFZYXzVpaXVsVHU1bzNiYVhkcGhKdHc1Mlo1S3I3c0JCWmJxZzlmNjd3YXBnYnZYemdSQkN5X2wzLXJXbGItNXdxbmtiNElLZ2ZpQ2lYRmJUZGhLWVVkVnpaaHp4Z2ZIaUNORExsR09ESzJCZnpzS01wa2RFbHY2MFBqLWV1VHNkXzA2NUV2SXJBV3lNN3BzUS1xMnlQSUh2c1k0QVVyaE5ic2wyQno0SVdFNHpwU3RJNVdWazhiLVlCS3VBaUxHUEcteUpPZjJadFpmeXBKb1pKV1pGVnJWZmdkVDF2R3h1VE5FMXVkTjRaanh5YS1LRmlyTGM3UWpMVnltLVJZRjZqaFZkZl95WkJqRVRBT1NWS2I2dWY0eWVSb21UUWxFWk00MFRVRFlRZE1ZRTluX3pGZmZDd2JiWFFLZFEyS0U5S0dPRVJxcWJjMWtVYmx2cTBrZ2NrcXZIYWc2dG5uTklZWlVobk0xZjF2Qkt3dXZ3bU81c2FacDh3?oc=5",
+      "published": "Fri, 09 Jan 2026 19:28:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Bank of America delivers sharp take on Apple stock after major shift - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXhxN2lfYllGNW10RWo1MUkzYjJHM0xmTWVSamRmUkVwU2ZEZzY4Y3JJLU1qSXpYRlNwU2ZHbi1YWk5lbkkwTGc0NGFrVWwxTFJBMnJVdkloU3FpY3diSUNuX19scFYtZDljSElvNHRuS0JZeFdZZERORDAwcEkwNnFVa1pTaGM0SVZZdnk2NGNUVjc1NERmZ1AxdjE4cGxJTWFNSW5MaVAxY09sYW9INg?oc=5",
+      "published": "Wed, 14 Jan 2026 13:07:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Apple: Setting Up For An Earnings Surprise (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDJfVTRHMzRUQWZvT3V1blh0TUVSZ1ZFbWNQUmtMWWVadnBzNFJiUnpQS01fSVo1MnlMYmlUMzZGZWZDR3J2ZFFZUXpYdGQ1SWp5bnRTRk01MnVpU0lvOWZQWDMyaDBObk1HVkhWcW9LOExidWFjLUJXbFgwUVNCWVE2ZjhRZy03WUE?oc=5",
+      "published": "Thu, 15 Jan 2026 13:00:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "How Apple Stock Can Crash? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUhPa19pSHBSZU9mOWNlOExWOGdEMFJZRmN6MGVVMjVJMDYxVVpaaUxiMVZTelZINHZMZmhIYkhULWR3UjV3NjB1ZTh6Mmd2UEVTM3l4ek1PenZqcUltblY1MjQwNFJkWmZUT1RJaDBJaUJwekxUd1hpRHpXRUgxbTdTSlVRa0pnUmdhUTd0MlU5TXpwTVViQ01MNlIzdw?oc=5",
+      "published": "Wed, 14 Jan 2026 09:54:44 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Can Apple Stock Reach $350 This Year? Here’s What Daniel Ives Expects - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFIwRnl3Ty1wRkFQLWhRWnFsVFNfak5nTTdFNEQzVGFmUlJXcTlBdHpIUnR3VnBxTGxRdTYyMWFtc09DQVRXNDNhUUp2RWd2azFDRXBkTVJBdXlScTdTSTh3eXFRWnRmM1BMc2ZtbmEtNUlxUWRXNFJkZzNvX081di05Nmk3TlBmMU1ZajRCRmIxX0pNaXhSYnRodko?oc=5",
+      "published": "Wed, 14 Jan 2026 01:03:12 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความนี้จาก Forbes อธิบายถึงสาเหตุที่ยักษ์ใหญ่ iPhone อย่าง Apple อาจเผชิญกับการลดลงของราคาหุ้น",
+        "why": "หัวข้อระบุอย่างชัดเจนว่าหุ้น Apple 'อาจตก' ซึ่งเป็นสัญญาณเชิงลบที่ชัดเจนสำหรับแนวโน้มราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple เตรียมหลุดพ้นจากช่วงขาลง และยังคงเป็น 'หุ้นยอดนิยม' ของ Evercore",
+        "why": "หัวข้อบ่งชี้ถึงการสิ้นสุดของช่วงขาลงที่รุนแรง และการที่ Evercore จัดให้เป็น 'Top Pick' ซึ่งเป็นสัญญาณเชิงบวกอย่างมาก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple กำลังเตรียมพร้อมสำหรับผลประกอบการที่น่าประหลาดใจ",
+        "why": "คำว่า 'Earnings Surprise' โดยทั่วไปมักหมายถึงผลประกอบการที่ดีกว่าที่คาดการณ์ไว้ ซึ่งเป็นปัจจัยบวกต่อราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความนี้สำรวจว่าหุ้น Apple สามารถร่วงลงอย่างรุนแรงได้อย่างไร",
+        "why": "หัวข้อตั้งคำถามถึงวิธีที่หุ้น Apple 'อาจร่วงลงอย่างหนัก' ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบอย่างชัดเจน"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "คำถามเกี่ยวกับความเป็นไปได้ที่หุ้น Apple จะแตะ 350 ดอลลาร์ในปีนี้ พร้อมความคาดหวังจาก Daniel Ives",
+        "why": "การพูดถึงเป้าหมายราคาที่ 350 ดอลลาร์ ซึ่งเป็นระดับที่สูง บ่งชี้ถึงศักยภาพการเติบโตเชิงบวกของหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 65,
+      "note": "จากหัวข้อข่าวที่เลือก มีสัญญาณเชิงบวกมากกว่าเล็กน้อยที่บ่งชี้ถึงแนวโน้มราคาหุ้น AAPL ที่อาจเพิ่มขึ้น โดยเฉพาะที่เกี่ยวกับผลประกอบการที่ดีกว่าคาด การสิ้นสุดช่วงขาลง และเป้าหมายราคาที่สูง อย่างไรก็ตาม ยังมีหัวข้อที่เตือนถึงความเป็นไปได้ในการร่วงลงของหุ้นที่ต้องพิจารณา"
+    }
+  }
+}
