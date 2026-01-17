@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.888,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 26.2331 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.4708 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0384 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0405 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0277 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Here's Why Microsoft (MSFT) Fell More Than Broader Market - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzBwWlA3a25qWmhaTGsxQkVVaEI2VFMySi1PMTB6TlBZdWVsTXBZUDdLV0R5LVNwUEYycVZnTnAtR3E2cFdkNFVvSnQ5SGpvVlBsVURhMGY5c3JwSHRNU2I1NmNzTk53M1A0Z2ZoQUVidS1jNUlmVm5XeFgwY1dJTw?oc=5",
+      "published": "Wed, 14 Jan 2026 22:45:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to Buy Microsoft Stock (MSFT) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeVdKMWdubjZZbVlhMm5GelFqTmNzS0ZqQjd6QmRMcG5VcXhOdElMQ2w1R3d5Y0hhTXdiVmlkcWE1WnRGZjdCOFFrSFY4M2JCUEltLTA3NmZXOWJQOHVNdHE2ck15U21UWkZfV2FxNGc?oc=5",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Microsoft Hits Lows But Cloud Spending To Boost Stock, Analysts Say; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODYxSnBIVkZPWDdyRWgtUXVxSHlPaWlrYWRhMzVkMjVPSlJhRGpyZ21IVE4zVk43dnRzTC15SEZ3djlVRTFWMmZYYUI4Uk5pOVJ4OUhCVUtEV01SS0NKQU5Ja3BwNFVMYmZWNHlJTmZZc3BUTW1rMGlvZWJnaDF2TWNmMm5vcXM?oc=5",
+      "published": "Thu, 15 Jan 2026 00:36:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "How Microsoft Stock Can Jump To $600? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVE2MklZbVVib2k3ODhoWUJMTTg1cHMtS2RMX210NjZnQUEwbWFiWkhEU3I5Z2ZvX3JRUXlkekZET0hIZHdYTEhfOWV1OU5yb3FBOTZqblBJWDhMelVHelQtcmE5TFJ5SDYxYlBXTGh4Tnk3Q0otQU9VT3p1QkZnZ0c0VFVsSGxfdHhWYkUtZkVXSkpyREV0dGlR?oc=5",
+      "published": "Thu, 15 Jan 2026 14:19:22 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Why Jan. 28 Could Be a Very Big Day for Microsoft Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlY4bVVIUGZzR1JXbzlkUVlzZEhHVjdLUVZzdC05MUZsV1k1a3VNb2NRWVc3ZFVNeVhtS0lSOHJTTnN3dUhYYy1MeXE2QlJpRVctYnBOaDR4WEY2Q3BHeTl4NmJZUUZvalFuUHdjWXR3NDlzYmxmcmxCeGJvUDhnaWxZNW1WYzh3aG85Z2RaQ1Q5RC1WT1ZZ?oc=5",
+      "published": "Thu, 15 Jan 2026 10:32:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Hits Six-Month Low as AI Trade Loses Steam - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnhmM0xKWlV1M1pwVTVESjRKbk1fZjdmd0xEdWEwQmFEY2lqa0pkMFZPZUVEbkIzX3lpOHVObmNNV1lFdk1odDdUMEFWZ195dTJZSzFpTGdLeTBRdHotcU1hS0o1ZHYtTklRQUZlNnRyb1lucVpTeE4zVXprb2tIbkt4WktVOE9veW9hdVBuYTNNUHRjUENMZQ?oc=5",
+      "published": "Wed, 14 Jan 2026 15:04:53 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft: The Ride Couldn't Last Forever (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWVUck1TNGo4Y3dQakE2RHNOZk5KLWwyZ0k2VmhKQWxhVWlzX1p5MHpEemwxZGY2Q0N0cmtYNjh5bDZ3RXE1eUV5RkQ4N29vOEo2Qkh3cU81MGYwUmFKM0JSVVVXVXVIVmlXUUdKeENuVXVoUlFmdkZSTFlhQlBEZTFuSWVOdnc?oc=5",
+      "published": "Thu, 15 Jan 2026 22:50:54 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (NASDAQ:MSFT) Shares Down 2.4% - Here's What Happened - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDhwMkYtUEVCTGFJSXZ6ZDdfa0NrM1otRzREYk8xbDRYZ0U3d1o5TzBPRHZNMldFRTBGQUhlNjFkNVRpdmQwXzN4Slk3NExjUFNqVlpyOW9aYy1ScXJJamROX1pneVJEYjZOZVNSUXBXZ2ZZRGxBTTV6VTZ3UjhTdjlUT2VTUVMzVmV0ZG5fb2xXZnVHVXdjLUFaU3NDaVhFazNtTGhfMHRwNjh6U3c?oc=5",
+      "published": "Wed, 14 Jan 2026 23:47:44 GMT",
+      "source": "MarketBeat"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "รายงานสาเหตุที่หุ้น Microsoft (MSFT) ปรับตัวลดลงมากกว่าตลาดในวงกว้าง",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าหุ้น Microsoft ปรับตัวลดลงและมีประสิทธิภาพต่ำกว่าตลาดโดยรวม"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "แม้หุ้น Microsoft จะทำจุดต่ำสุด แต่มีการคาดการณ์จากนักวิเคราะห์ว่าการใช้จ่ายด้านคลาวด์จะช่วยหนุนราคาหุ้น และพิจารณาว่าเป็นโอกาสในการซื้อ",
+        "why": "พาดหัวข่าวกล่าวถึงการคาดการณ์เชิงบวกจากนักวิเคราะห์ว่าการใช้จ่ายด้านคลาวด์จะช่วยหนุนราคาหุ้นในอนาคต แม้จะทำจุดต่ำสุดไปแล้ว"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความที่สำรวจศักยภาพของหุ้น Microsoft ในการปรับตัวขึ้นไปถึง 600 ดอลลาร์",
+        "why": "พาดหัวข่าวตั้งคำถามที่บ่งชี้ถึงโอกาสที่ราคาหุ้นจะเพิ่มขึ้นอย่างมีนัยสำคัญและระบุเป้าหมายราคาที่สูง"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "รายงานว่าหุ้น Microsoft (MSFT) แตะระดับต่ำสุดในรอบหกเดือน เนื่องจากกระแสการลงทุนใน AI แผ่วลง",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าราคาหุ้นลดลงและทำจุดต่ำสุดในรอบหกเดือน พร้อมระบุสาเหตุของการลดลง"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "บทความที่เสนอว่าการเติบโตของ Microsoft อาจไม่ยั่งยืนตลอดไป ซึ่งบ่งชี้ถึงแนวโน้มขาลงหลังช่วงเวลาแห่งการเติบโต",
+        "why": "พาดหัวข่าวมีความหมายเชิงเปรียบเทียบว่าช่วงขาขึ้นของหุ้นอาจสิ้นสุดลงแล้ว ซึ่งเป็นสัญญาณเชิงลบ"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "แม้จะมีข่าวเชิงลบเกี่ยวกับการปรับตัวลดลงและแตะจุดต่ำสุด แต่ก็มีบทวิเคราะห์และพาดหัวข่าวที่ชี้ให้เห็นถึงศักยภาพการเติบโตในอนาคต โดยเฉพาะอย่างยิ่งจากกลุ่มคลาวด์และเป้าหมายราคาที่สูงขึ้น ทำให้ภาพรวมจากพาดหัวข่าวที่เลือกมายังคงเป็นกลาง"
+    }
+  }
+}

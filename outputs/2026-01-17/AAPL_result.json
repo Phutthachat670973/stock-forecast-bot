@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8977,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 10.4761 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.6146 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0411 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0572 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0230 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Will AAPL Stock Rally Again in 2026 to Help Apple Regain the Throne as the Biggest Company? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NSUJQU2s3akdpZUFhOENZSllab0czaW55ZmphbE81MENabEJZZ1dXZXNhdUplcFZPbzBmZjkwYTlHNVBzZTNSV25OWjdOY3ZqeXZLMUlpY2NqWEkyeXA3RlFuYXgyVU9tb3FWYnBNNXdsekRCMXVzUEl1blJ6Zw?oc=5",
+      "published": "Mon, 12 Jan 2026 17:07:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock: Why The iPhone Giant Could Fall - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHRrajVpNEk0YUxoZlQwX01fSnR3cEtoWFpxS1lBeWI5SmY3cUUydDJ5T2pWY0YyZ19mZk1BM2ZXMTFOalZKWkdkYThRX3haRU1nNUh5TXFGM0NPZ1puQnBzU0VUY25PV0NidFJjX1dhNGo3dnlNR1ZrRTVjY01fbXhnakZ0R3NLdHA1c010Z0dRZVUwYllSd0kwM2IwWWk3bUVDSg?oc=5",
+      "published": "Wed, 14 Jan 2026 14:16:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Is Apple Stock a Buy for 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yanRkZFZ3ZVJ6QWJSb1pkUVhYOXJmSmpwb2lVSVJwalUzR2trVkNLMzhrb1JyRFZ2Y21yZG9DZkpyVmk0N05XVkZmZmhaV2pZekpVUVJtRUx3VUVBRXp6ZW91dGtpTHU4bjA3R2k4MENrbkxmeFJQTHlYRDQ?oc=5",
+      "published": "Mon, 12 Jan 2026 10:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "How Apple Stock Can Crash? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUhPa19pSHBSZU9mOWNlOExWOGdEMFJZRmN6MGVVMjVJMDYxVVpaaUxiMVZTelZINHZMZmhIYkhULWR3UjV3NjB1ZTh6Mmd2UEVTM3l4ek1PenZqcUltblY1MjQwNFJkWmZUT1RJaDBJaUJwekxUd1hpRHpXRUgxbTdTSlVRa0pnUmdhUTd0MlU5TXpwTVViQ01MNlIzdw?oc=5",
+      "published": "Wed, 14 Jan 2026 09:54:44 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "How Apple Stock Could Add $100 Per Share in 2026 and Beyond - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlVmZFFLbjVFYWxwMjF5QTlNa2c1emY0UnBOQTNiNy1DNkg2OWhnQURuSTNpbEszd2tubkJPNG40aUFEdldoZWQ0b0ZzWnlsSnhHRTlSbmJ2dm9TVXhVMnBWT0lzSl9hYzRNVFk0cVpDdkYwSUFPdEZPbUVQN3hraFotR0pDOURyN1V1QnJTN1kwSEdmQTRHejB2M1VCeC1vQ2pMVjFn?oc=5",
+      "published": "Thu, 15 Jan 2026 19:39:33 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Bank of America delivers sharp take on Apple stock after major shift - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXhxN2lfYllGNW10RWo1MUkzYjJHM0xmTWVSamRmUkVwU2ZEZzY4Y3JJLU1qSXpYRlNwU2ZHbi1YWk5lbkkwTGc0NGFrVWwxTFJBMnJVdkloU3FpY3diSUNuX19scFYtZDljSElvNHRuS0JZeFdZZERORDAwcEkwNnFVa1pTaGM0SVZZdnk2NGNUVjc1NERmZ1AxdjE4cGxJTWFNSW5MaVAxY09sYW9INg?oc=5",
+      "published": "Wed, 14 Jan 2026 13:07:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Apple: Setting Up For An Earnings Surprise (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDJfVTRHMzRUQWZvT3V1blh0TUVSZ1ZFbWNQUmtMWWVadnBzNFJiUnpQS01fSVo1MnlMYmlUMzZGZWZDR3J2ZFFZUXpYdGQ1SWp5bnRTRk01MnVpU0lvOWZQWDMyaDBObk1HVkhWcW9LOExidWFjLUJXbFgwUVNCWVE2ZjhRZy03WUE?oc=5",
+      "published": "Thu, 15 Jan 2026 13:00:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Can Apple Stock Reach $350 This Year? Here’s What Daniel Ives Expects - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFIwRnl3Ty1wRkFQLWhRWnFsVFNfak5nTTdFNEQzVGFmUlJXcTlBdHpIUnR3VnBxTGxRdTYyMWFtc09DQVRXNDNhUUp2RWd2azFDRXBkTVJBdXlScTdTSTh3eXFRWnRmM1BMc2ZtbmEtNUlxUWRXNFJkZzNvX081di05Nmk3TlBmMU1ZajRCRmIxX0pNaXhSYnRodko?oc=5",
+      "published": "Wed, 14 Jan 2026 01:03:12 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความนี้จะอธิบายเหตุผลที่หุ้น Apple ซึ่งเป็นบริษัทยักษ์ใหญ่ด้าน iPhone อาจจะตกลง",
+        "why": "หัวข้อข่าวระบุชัดเจนถึงความเป็นไปได้ที่หุ้น Apple จะ 'ตกลง' (Fall) ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบ"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความนี้จะวิเคราะห์ว่าหุ้น Apple สามารถประสบภาวะราคาตกฮวบได้อย่างไร",
+        "why": "คำว่า 'Can Crash' (สามารถตกฮวบ) แสดงถึงความเป็นไปได้ที่จะเกิดการลดลงของราคาอย่างรุนแรง ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความนี้จะสำรวจว่าหุ้น Apple สามารถเพิ่มมูลค่าได้ 100 ดอลลาร์ต่อหุ้นในปี 2026 และหลังจากนั้นได้อย่างไร",
+        "why": "หัวข้อข่าวระบุถึงศักยภาพในการ 'เพิ่มมูลค่า 100 ดอลลาร์ต่อหุ้น' ซึ่งบ่งชี้ถึงแนวโน้มราคาที่สูงขึ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple กำลังเตรียมพร้อมสำหรับผลประกอบการที่น่าประหลาดใจ",
+        "why": "'Earnings Surprise' โดยทั่วไปมักจะหมายถึงผลประกอบการที่ดีกว่าที่คาดการณ์ไว้ ซึ่งเป็นปัจจัยเชิงบวกสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บทความนี้จะนำเสนอความคาดหวังของ Daniel Ives เกี่ยวกับความเป็นไปได้ที่หุ้น Apple จะถึง 350 ดอลลาร์ในปีนี้",
+        "why": "การคาดการณ์ราคาเป้าหมายที่สูงอย่าง 350 ดอลลาร์โดยนักวิเคราะห์ชื่อดังบ่งชี้ถึงมุมมองที่เป็นบวกต่อหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "หัวข้อข่าวที่เลือกแสดงให้เห็นถึงมุมมองที่หลากหลายต่อหุ้น AAPL โดยมีมุมมองเชิงบวก (3 รายการ) ที่คาดว่าราคาจะเพิ่มขึ้นและมีโอกาสเกิดผลประกอบการที่น่าประหลาดใจ และมุมมองเชิงลบ (2 รายการ) ที่คาดว่าราคาอาจลดลงหรือตกฮวบ แต่มีแนวโน้มเชิงบวกเล็กน้อยโดยรวม"
+    }
+  }
+}
