@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4356,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0395 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0926 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0322 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0169 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0280 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Why I’m A Tesla Bull Through And Through: Earnings Preview (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1R0aEtibDFnT015eVUxTDBXNTNXMWFTRkI5SG5Dd1NEOUZSdkhtUkpGNEl3MC1VbUptRkp3MlZVMFZSeGRhekxCZXE3amhaeXc5Y0NRU0lZN056OWdmVWkxaENIZDBwZXFuUS0xSC1BZFpHRkRkYXZBMkt4XzJNZDAtQW5lOW11ZEZQVnlibXplVXhiY29MeDdYdVZVZw?oc=5",
+      "published": "Wed, 14 Jan 2026 18:40:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Can Tesla Stock Fall To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTBxUkVZemQ3RFJleWdGamlxZm1PUE5GSFY2ZHNvWGtGN0cxdXNYd3ZkTjlfM0JIR185d0dyUWZoanNTOEN2V1ItNlVVRjlOTjhuSWQyN2Myak1mRmZkaGRxS1hPWHMta3EyanZqT2lpSmo0Ynd6aTh4SFZrMnFmWjlWM00yU3M3ZDAydmx1TQ?oc=5",
+      "published": "Wed, 14 Jan 2026 16:16:05 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla stock forecast: Third-party price targets - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JemJielFqSlJtYjJuc0IzV3Q2Q2pkZVBsQjVXSmlTaENqZHJyUUxaQU1HV3l6UHFYd1B4SnBKUFJxYkhKRUdDTVl1dVRSbXlkczg0MWp3YkVLbE1lQS04NFhPMDFuM19kc3VmQXU1dVE?oc=5",
+      "published": "Thu, 15 Jan 2026 14:37:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Is Tesla Stock a Buy Before Jan. 28? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG9kRDhhX3cxR0RJeEdBUUNGOFhmcThiMkRiMnpENDZVWkdxXzJTUkh4Qll2RjdsTzhmUTlMNy1SVkRJMnJOdGh4a0NHNnl2eU5WWjJxZF9fWTMxQ2xQS204cHdhVTEtZXRxb21aS3dWbXJhblFuZjBPZXdiUU5Mc3FlNA?oc=5",
+      "published": "Fri, 16 Jan 2026 13:47:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Drops Amid Report Musk’s SpaceX Is Looking For Bankers. Why That Matters. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPMlNQRElIZVdkdFl5N1pVZFRsMFl1MEpFelhMMlJfX29DWDRLeHhsZVFLdE5FejYtYi0xQnkxTkRMZGZUSExXdGw0LXZPdF8tQ0trZ2N6MkV2QWtNMEFyaXNkU3VrU0trZklyNHJiX0Y0ZUltTnB2d0RlQmVVUXdpa29GQjhZSlVYZi1JbzlNYkhmWEJRaGFyd3doc0dSRDZPMWJFcmItMnpjc3VCOUowQXU2Yko5T1JjdVY2MkNad2o3ck41NzNpa091eFhDRng1VFRpa3JfdmdZWnJBRzVuX2dybHdrX2VqQTNETTdQZWVCT1FSMWlUNlVvUWgtUHhQMDN0S1BkTElkMlIxSHJ0TENieGRzOUtXelNDSVIyZVVQYVhBZUV0WnRYYmtJQzROYnowNTBfQmUwbUtMTERiSVhrenhVVkdpeWRpUFEwckFLdXpsdm11VHhNYzR4QlNJb25OelVKMG9zN2hhZnVhOW1NbjVUSzlqanNMelJHUEp5T05tZ3c?oc=5",
+      "published": "Thu, 15 Jan 2026 21:26:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Wall Street Price Prediction: Tesla’s Share Price Forecast for 2026 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeklBS2xWcVdTcTl1N1lsczBiMjZoNGloVmZEZlh0a3ItV01qY1ZLY3hMNlYxaE1LZGpHWjNhNThRVTNoZDBlMFU3Rm92R3JOb1pwRUZoN1FaT010SUt4U05icnhvcWZ6VUtzTkNmc0FPRFRIQzNmWlR1eUlSX0ZmcGcxeTdHRDhMZDh1bFJGX2lfenVEUm1qYXhSTHV0NTVFZ1NvYWtjQV83aG5tX3c?oc=5",
+      "published": "Tue, 13 Jan 2026 12:10:03 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Cathie Wood Dumps Tesla Again -- Loads Up $50 Million in Broadcom Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ01qbi1IVk5sTUdRSGg4M05mdE40M2ZmaUR2cTcwaHNZR1BLRlZkczU1MGhXa1dtWHd5ZXh4cE9ackNEeUdWUHNlNkppTklaZE5sLUtpYWUyamgxeVRFVEtEUE5aUWJYbnJaNm01N1Y2NWRlM2c3R29GZGNLNHVRWA?oc=5",
+      "published": "Thu, 15 Jan 2026 15:39:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Hidden Dangers Facing Tesla Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY01nRTB1XzlTN051OTlIMlNTX2NXMUhpNlF0VlB1a0pycS1ycWI2QUdCX1czVFFnak5GMzhubENsbXh3LUM2SmpDX3h0bWxVZ2NsWkhkUGhZYVlMdzlxMXV0RzU3bzNGRnBDTEhWNmtXY195T2dvRkdHM3dkdHJvQlF0UElJa2s2RVhYQk94V1owejN6YVFGelFwMEtpVnNj?oc=5",
+      "published": "Sat, 17 Jan 2026 10:38:43 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความแสดงมุมมองที่เป็นบวกต่อ Tesla โดยมองในแง่ดีก่อนการรายงานผลประกอบการ",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'Tesla Bull' (กระทิง Tesla) ซึ่งแสดงถึงมุมมองเชิงบวกต่อราคาหุ้น TSLA"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "บทความตั้งคำถามว่าราคาหุ้น Tesla อาจลดลงไปถึง 300 ดอลลาร์ได้หรือไม่",
+        "why": "การตั้งคำถามถึงความเป็นไปได้ที่หุ้นจะร่วงลงไปที่ระดับราคา 300 ดอลลาร์ บ่งชี้ถึงความกังวลหรือแรงกดดันขาลงต่อราคาหุ้น TSLA"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Tesla ลดลงท่ามกลางรายงานว่า SpaceX ของ Musk กำลังมองหาธนาคาร และอธิบายถึงสาเหตุที่เรื่องนี้มีความสำคัญ",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'Tesla Stock Drops' (ราคาหุ้น Tesla ลดลง) ซึ่งแสดงถึงแรงกดดันขาลงต่อราคาหุ้น TSLA"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Cathie Wood ขายหุ้น Tesla อีกครั้ง และเข้าซื้อหุ้น Broadcom มูลค่า 50 ล้านดอลลาร์",
+        "why": "การที่นักลงทุนที่มีชื่อเสียงอย่าง Cathie Wood เทขายหุ้น Tesla เป็นสัญญาณเชิงลบที่อาจสร้างแรงกดดันขาลงต่อราคาหุ้น TSLA"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "บทความเกี่ยวกับอันตรายที่ซ่อนอยู่ซึ่งอาจส่งผลกระทบต่อหุ้น Tesla",
+        "why": "พาดหัวข่าวระบุถึง 'Hidden Dangers' (อันตรายที่ซ่อนอยู่) ซึ่งแสดงถึงความเสี่ยงและแรงกดดันขาลงต่อราคาหุ้น TSLA"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "จากพาดหัวข่าวที่เลือกมา 5 รายการ มี 1 รายการที่เป็นมุมมองเชิงบวก และ 4 รายการที่เป็นมุมมองเชิงลบ ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบโดยรวม"
+    }
+  }
+}
