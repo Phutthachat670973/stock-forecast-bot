@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8894,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 26.2331 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.4890 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0384 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0405 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0277 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Down 5.6% in 4 Weeks, Here's Why Microsoft (MSFT) Looks Ripe for a Turnaround - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SRzFVM3BUMDZQMi1GUkxYQ0ppRVVHVUtXazExUjZ3enhCc3U1R0YzQ0p6d1JSQjI5cHFoMW5VbVdtLVlDWk1zY1M4RGM0QUNXTjZLSmtwYmFYei0ta0k4MktXVWtUUzM5UHdsVlhjdw?oc=5",
+      "published": "Fri, 16 Jan 2026 14:35:03 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to Buy Microsoft Stock (MSFT) - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeVdKMWdubjZZbVlhMm5GelFqTmNzS0ZqQjd6QmRMcG5VcXhOdElMQ2w1R3d5Y0hhTXdiVmlkcWE1WnRGZjdCOFFrSFY4M2JCUEltLTA3NmZXOWJQOHVNdHE2ck15U21UWkZfV2FxNGc?oc=5",
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "source": "NerdWallet"
+    },
+    {
+      "title": "Microsoft Hits Lows But Cloud Spending To Boost Stock, Analysts Say; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODYxSnBIVkZPWDdyRWgtUXVxSHlPaWlrYWRhMzVkMjVPSlJhRGpyZ21IVE4zVk43dnRzTC15SEZ3djlVRTFWMmZYYUI4Uk5pOVJ4OUhCVUtEV01SS0NKQU5Ja3BwNFVMYmZWNHlJTmZZc3BUTW1rMGlvZWJnaDF2TWNmMm5vcXM?oc=5",
+      "published": "Thu, 15 Jan 2026 00:36:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Goldman Sachs revamps Microsoft stock price target before earnings - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQW5ZZXJWZmtBTVhpRHk0TVRxaGlQcGR3b0pKSmRRU20wQU5fOEw3Vl9SN3E1WVJNdWdyUDh1SDFObm1NSGtmTWU0YUNoWUktRi03WGc3RjFtZ1pwUlhGcDJoUHhxb0xmUHFlcDdUSXNVd1pZTFVramNOenRoTEhtNXphZ1IwdnNGRjZiRnBvNXB0Y2I5dlZodE9GX2I0dS1BMlNNbG1oaV9fcEtvVHc?oc=5",
+      "published": "Sat, 17 Jan 2026 16:17:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "How Microsoft Stock Can Jump To $600? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVE2MklZbVVib2k3ODhoWUJMTTg1cHMtS2RMX210NjZnQUEwbWFiWkhEU3I5Z2ZvX3JRUXlkekZET0hIZHdYTEhfOWV1OU5yb3FBOTZqblBJWDhMelVHelQtcmE5TFJ5SDYxYlBXTGh4Tnk3Q0otQU9VT3p1QkZnZ0c0VFVsSGxfdHhWYkUtZkVXSkpyREV0dGlR?oc=5",
+      "published": "Thu, 15 Jan 2026 14:19:22 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft’s stock may be an AI winner — but it’s not acting like one - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQLUFJLVZoX01MXzY2ZWxhblZRY3FFU2lRUHEzNjUwZEtuYUJfdVBfb21paEpXNXJ3UjlBX1lLRmVBYlR5eld2SXgxb2VUb215eWR4a1dSblJiUE5nb2lfUkhHLXdEVHE5QjV0akI1b2FLUGZvWnVwYnJoLTF5cXNqUjlYV1Y2RXZyakFIYU8zNjlLbm9pcW9IYWVrVUtrbEZBTFdZc3VoZUZxMkpYb3FTdThyTlhVYzBFUHpDeW9TbjFjOUJ4QnNqZ2I2aVR0UXF2Q2t6WkZYMkw3LTBXa0Q3Wk1KWXRXTjdreXhqcWRJZERvU3hlOG9Lak5XdHMtWmlydFFobWxZRDljUXp2VUNORzJHd3Jocjc3QXgxV3JvUGotdUtqa1NvUEN6bnNVRUVkVE1pN1F1eFpwU19peFlkbmpOTE1CVlRySktCUmtyQjZIcE1pWG1WWGo3TUROZ2ZKNzAyaFBCU2NuOUVadmhheVRMNWFzQVVxb1RxU1EydHZTYW9BLUZfalJFVVZ3eHFnUmN6V2dlMnZSYXYzeTRyangwY2JhVnZVcnRZYXVUTTg?oc=5",
+      "published": "Wed, 14 Jan 2026 20:32:00 GMT",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Hits Six-Month Low as AI Trade Loses Steam - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnhmM0xKWlV1M1pwVTVESjRKbk1fZjdmd0xEdWEwQmFEY2lqa0pkMFZPZUVEbkIzX3lpOHVObmNNV1lFdk1odDdUMEFWZ195dTJZSzFpTGdLeTBRdHotcU1hS0o1ZHYtTklRQUZlNnRyb1lucVpTeE4zVXprb2tIbkt4WktVOE9veW9hdVBuYTNNUHRjUENMZQ?oc=5",
+      "published": "Wed, 14 Jan 2026 15:04:53 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Why Jan. 28 Could Be a Very Big Day for Microsoft Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlY4bVVIUGZzR1JXbzlkUVlzZEhHVjdLUVZzdC05MUZsV1k1a3VNb2NRWVc3ZFVNeVhtS0lSOHJTTnN3dUhYYy1MeXE2QlJpRVctYnBOaDR4WEY2Q3BHeTl4NmJZUUZvalFuUHdjWXR3NDlzYmxmcmxCeGJvUDhnaWxZNW1WYzh3aG85Z2RaQ1Q5RC1WT1ZZ?oc=5",
+      "published": "Thu, 15 Jan 2026 10:32:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ไมโครซอฟท์ (MSFT) ลดลง 5.6% ใน 4 สัปดาห์ แต่ดูเหมือนพร้อมสำหรับการฟื้นตัว",
+        "why": "หัวข้อข่าวระบุถึงการลดลงของราคาหุ้นในช่วงที่ผ่านมา แต่ชี้ให้เห็นถึงศักยภาพในการ 'ฟื้นตัว' ซึ่งบ่งชี้ถึงมุมมองเชิงบวกในอนาคต"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "ไมโครซอฟท์ทำจุดต่ำสุด แต่การใช้จ่ายด้านคลาวด์จะหนุนราคาหุ้น นักวิเคราะห์กล่าวว่า 'ตอนนี้เป็นเวลาที่ควรซื้อหรือไม่?'",
+        "why": "แม้ว่าหุ้นจะทำจุดต่ำสุด แต่หัวข้อข่าวเน้นย้ำว่านักวิเคราะห์คาดว่า 'การใช้จ่ายด้านคลาวด์จะหนุนราคาหุ้น' ซึ่งบ่งชี้ถึงปัจจัยบวกที่จะขับเคลื่อนราคาในอนาคต"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้นไมโครซอฟท์จะพุ่งไปที่ 600 ดอลลาร์ได้อย่างไร?",
+        "why": "หัวข้อข่าวนี้ตั้งคำถามถึงวิธีการที่หุ้นไมโครซอฟท์จะ 'พุ่งไปที่ 600 ดอลลาร์' ซึ่งบ่งชี้ถึงศักยภาพการเติบโตของราคาที่สำคัญและมีนัยยะเชิงบวกอย่างชัดเจน"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้นไมโครซอฟท์ (MSFT) ทำจุดต่ำสุดในรอบหกเดือน เนื่องจากการซื้อขายหุ้น AI แผ่วลง",
+        "why": "หัวข้อข่าวระบุอย่างชัดเจนว่าหุ้นไมโครซอฟท์ 'ทำจุดต่ำสุดในรอบหกเดือน' และให้เหตุผลว่าเป็นเพราะ 'การซื้อขายหุ้น AI แผ่วลง' ซึ่งบ่งชี้ถึงประสิทธิภาพเชิงลบของราคา"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ทำไมวันที่ 28 ม.ค. อาจเป็นวันสำคัญมากสำหรับนักลงทุนไมโครซอฟท์",
+        "why": "หัวข้อข่าวนี้ระบุถึง 'วันสำคัญมาก' สำหรับนักลงทุนไมโครซอฟท์ในอนาคต แต่ไม่ได้ระบุว่าเหตุการณ์นั้นจะเป็นผลดีหรือผลเสียต่อราคาหุ้น จึงถือเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 75,
+      "note": "แม้ว่าหุ้นไมโครซอฟท์จะทำจุดต่ำสุดและมีข้อบ่งชี้ว่าการซื้อขาย AI แผ่วลง แต่มีหัวข้อข่าวหลายรายการที่เน้นย้ำถึงศักยภาพการฟื้นตัว การหนุนจากค่าใช้จ่ายด้านคลาวด์ และโอกาสที่ราคาจะพุ่งขึ้นในอนาคต นอกจากนี้ยังมีวันสำคัญที่นักลงทุนควรจับตาดู"
+    }
+  }
+}

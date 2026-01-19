@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8979,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 10.4821 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.6172 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0411 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0571 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0230 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Will AAPL Stock Rally Again in 2026 to Help Apple Regain the Throne as the Biggest Company? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NSUJQU2s3akdpZUFhOENZSllab0czaW55ZmphbE81MENabEJZZ1dXZXNhdUplcFZPbzBmZjkwYTlHNVBzZTNSV25OWjdOY3ZqeXZLMUlpY2NqWEkyeXA3RlFuYXgyVU9tb3FWYnBNNXdsekRCMXVzUEl1blJ6Zw?oc=5",
+      "published": "Mon, 12 Jan 2026 17:07:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock: Why The iPhone Giant Could Fall - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHRrajVpNEk0YUxoZlQwX01fSnR3cEtoWFpxS1lBeWI5SmY3cUUydDJ5T2pWY0YyZ19mZk1BM2ZXMTFOalZKWkdkYThRX3haRU1nNUh5TXFGM0NPZ1puQnBzU0VUY25PV0NidFJjX1dhNGo3dnlNR1ZrRTVjY01fbXhnakZ0R3NLdHA1c010Z0dRZVUwYllSd0kwM2IwWWk3bUVDSg?oc=5",
+      "published": "Wed, 14 Jan 2026 14:16:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Is Apple Stock a Buy for 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yanRkZFZ3ZVJ6QWJSb1pkUVhYOXJmSmpwb2lVSVJwalUzR2trVkNLMzhrb1JyRFZ2Y21yZG9DZkpyVmk0N05XVkZmZmhaV2pZekpVUVJtRUx3VUVBRXp6ZW91dGtpTHU4bjA3R2k4MENrbkxmeFJQTHlYRDQ?oc=5",
+      "published": "Mon, 12 Jan 2026 10:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "AAPL - Apple Inc Stock Price and Quote - Finviz",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VVpTazYwR3NVeGVVRURfbU43Mm53dVE1ZHZhMkozOTF3TS15a09Pb0twZm44NlBBRFdFR1NCalVIcS1DcjVXWGhsOGk?oc=5",
+      "published": "Fri, 16 Jan 2026 21:00:00 GMT",
+      "source": "Finviz"
+    },
+    {
+      "title": "Apple Inc (AAPL-Q) Stock Price and News - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zNUthQUdiVFRtTDA4VmU4cjZETk5WRFBvcEtVbHNhNWNwYnNFYzBhZC11ejg3QkNkdVpXbk5EUjlfRVROdzc5RFdtTDVhYTV1cFlpUEoxb2hKU2Z1RHVOTXVILWVoNFVFZGozMXNVTi1FUQ?oc=5",
+      "published": "Thu, 15 Jan 2026 11:58:21 GMT",
+      "source": "The Globe and Mail"
+    },
+    {
+      "title": "Apple Stock Forecast - Price Target & Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ETXd1b1RiVy1QbGptNkYxdWNBQUJUaXBLTUowd2RKRFJPNDJ6XzNoelNXNHI0TjhQRmhhUF9VRWlBNENUUzRQbGg0TEtNeFotZGFzQjNWWG5mWm9iaEFnbVVJaXhCNlFWUDNNX1hNaEdMX3c?oc=5",
+      "published": "Wed, 14 Jan 2026 12:23:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "How Apple Stock Can Crash? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUhPa19pSHBSZU9mOWNlOExWOGdEMFJZRmN6MGVVMjVJMDYxVVpaaUxiMVZTelZINHZMZmhIYkhULWR3UjV3NjB1ZTh6Mmd2UEVTM3l4ek1PenZqcUltblY1MjQwNFJkWmZUT1RJaDBJaUJwekxUd1hpRHpXRUgxbTdTSlVRa0pnUmdhUTd0MlU5TXpwTVViQ01MNlIzdw?oc=5",
+      "published": "Wed, 14 Jan 2026 09:54:44 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Bank of America delivers sharp take on Apple stock after major shift - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMXhxN2lfYllGNW10RWo1MUkzYjJHM0xmTWVSamRmUkVwU2ZEZzY4Y3JJLU1qSXpYRlNwU2ZHbi1YWk5lbkkwTGc0NGFrVWwxTFJBMnJVdkloU3FpY3diSUNuX19scFYtZDljSElvNHRuS0JZeFdZZERORDAwcEkwNnFVa1pTaGM0SVZZdnk2NGNUVjc1NERmZ1AxdjE4cGxJTWFNSW5MaVAxY09sYW9INg?oc=5",
+      "published": "Wed, 14 Jan 2026 13:07:00 GMT",
+      "source": "thestreet.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "หัวข้อข่าวนี้ตั้งคำถามถึงความเป็นไปได้ที่หุ้น AAPL จะปรับตัวขึ้นอีกครั้งในปี 2026 เพื่อช่วยให้ Apple กลับมาเป็นบริษัทที่มีมูลค่าสูงสุด.",
+        "why": "พาดหัวข่าวตั้งคำถามถึงศักยภาพในการ 'ปรับตัวขึ้น' (Rally) และ 'กลับมาครองบัลลังก์' (Regain the Throne) ซึ่งเป็นการชี้ไปในทิศทางเชิงบวกต่อราคาหุ้น."
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หัวข้อข่าวนี้ระบุถึงสาเหตุที่หุ้นของ Apple บริษัทผู้ผลิต iPhone ยักษ์ใหญ่อาจจะตกลง.",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น 'อาจจะตกลง' (Could Fall) ซึ่งเป็นการบ่งชี้ถึงแรงกดดันเชิงลบต่อราคาหุ้น."
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวนี้ตั้งคำถามว่าหุ้น Apple เป็นหุ้นที่น่าซื้อสำหรับปี 2026 หรือไม่.",
+        "why": "พาดหัวข่าวเป็นการตั้งคำถามว่า 'น่าซื้อ' (a Buy) หรือไม่ ซึ่งไม่ได้ให้คำตอบที่ชัดเจนว่าเป็นบวกหรือลบ แต่เป็นการเชิญชวนให้พิจารณา."
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หัวข้อข่าวนี้อธิบายถึงวิธีการที่หุ้น Apple อาจจะร่วงลงอย่างรุนแรง.",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น 'สามารถร่วงลงอย่างรุนแรง' (Can Crash) ซึ่งเป็นการบ่งชี้ถึงแรงกดดันเชิงลบอย่างมากต่อราคาหุ้น."
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวนี้ระบุว่า Bank of America ได้ให้ความเห็นที่เฉียบคมเกี่ยวกับหุ้น Apple หลังจากการเปลี่ยนแปลงครั้งสำคัญ.",
+        "why": "พาดหัวข่าวใช้คำว่า 'ความเห็นที่เฉียบคม' (sharp take) และ 'การเปลี่ยนแปลงครั้งสำคัญ' (major shift) ซึ่งไม่ได้ระบุทิศทางที่ชัดเจนว่าเป็นบวกหรือลบต่อราคาหุ้น."
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 60,
+      "note": "พาดหัวข่าวที่เลือกมีทั้งที่ตั้งคำถามถึงศักยภาพการขึ้นของหุ้น (bullish) และที่เตือนถึงความเป็นไปได้ของการร่วงลงอย่างชัดเจน (bearish) ทำให้ภาพรวมมีความไม่แน่นอนและผสมผสาน"
+    }
+  }
+}

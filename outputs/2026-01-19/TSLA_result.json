@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4356,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0395 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0926 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0322 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0169 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0280 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Prediction: in 2026 red-hot Tesla stock could turn £10,000 into… - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW1RZjViT2NKWXN0ZGhKSjgxXzFGSnVIN1lsNklWTnVBRnZQaU9XYWZsbUdoSE5UZEdQd0pFN2lGQkNpUmYtNjNFRVdMWmY5cVg0T1hxQ0tRdnRLZWFnWU94MkhkbnBpS0FMb21yUGJjcXhLZmJwRXhybVFfdUNfZjFjUW8?oc=5",
+      "published": "Sat, 17 Jan 2026 06:45:00 GMT",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "Why I’m A Tesla Bull Through And Through: Earnings Preview (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1R0aEtibDFnT015eVUxTDBXNTNXMWFTRkI5SG5Dd1NEOUZSdkhtUkpGNEl3MC1VbUptRkp3MlZVMFZSeGRhekxCZXE3amhaeXc5Y0NRU0lZN056OWdmVWkxaENIZDBwZXFuUS0xSC1BZFpHRkRkYXZBMkt4XzJNZDAtQW5lOW11ZEZQVnlibXplVXhiY29MeDdYdVZVZw?oc=5",
+      "published": "Wed, 14 Jan 2026 18:40:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Can Tesla Stock Fall To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTBxUkVZemQ3RFJleWdGamlxZm1PUE5GSFY2ZHNvWGtGN0cxdXNYd3ZkTjlfM0JIR185d0dyUWZoanNTOEN2V1ItNlVVRjlOTjhuSWQyN2Myak1mRmZkaGRxS1hPWHMta3EyanZqT2lpSmo0Ynd6aTh4SFZrMnFmWjlWM00yU3M3ZDAydmx1TQ?oc=5",
+      "published": "Wed, 14 Jan 2026 16:16:05 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla stock forecast: Third-party price targets - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JemJielFqSlJtYjJuc0IzV3Q2Q2pkZVBsQjVXSmlTaENqZHJyUUxaQU1HV3l6UHFYd1B4SnBKUFJxYkhKRUdDTVl1dVRSbXlkczg0MWp3YkVLbE1lQS04NFhPMDFuM19kc3VmQXU1dVE?oc=5",
+      "published": "Thu, 15 Jan 2026 14:37:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Is Tesla Stock a Buy Before Jan. 28? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcG9kRDhhX3cxR0RJeEdBUUNGOFhmcThiMkRiMnpENDZVWkdxXzJTUkh4Qll2RjdsTzhmUTlMNy1SVkRJMnJOdGh4a0NHNnl2eU5WWjJxZF9fWTMxQ2xQS204cHdhVTEtZXRxb21aS3dWbXJhblFuZjBPZXdiUU5Mc3FlNA?oc=5",
+      "published": "Fri, 16 Jan 2026 13:47:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Drops Amid Report Musk’s SpaceX Is Looking For Bankers. Why That Matters. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNc2xsSGM2TXRHd3VZZk5YN1l1UkFRdDY2eThEMEJ5dHlzVnhmVG1teUFRX1ZxeDVOanZwWjMxcXoxMDhEZEZBY2E0WjE3MkZSWk1vaUVhSVNwOTYzUFlrektGa1pMNmVCWG12RUhBcFE4M3I5NnpyM1A0MlZCX3BkRWFxTG1xS1hNSzNHSmpfdlpuaDRtLVhGS0xDNDFKdEhncjYtTHFRSVRJeHJWUTBMSlJzd0V5NDM1YXJMeE1PUllHSjRuUkZWdTdXVm14YmRTVk1vUUU4ZUd5NlRUZzRLOGJWbm9UMzhDdHNXWkdPRE10RC12ellmdXVTWFJtWlVWX0p0bEU3QlVYQVhyRk5zZ2lIUFdhSE9WUXY3QmpkWEJrSkRXQ1ltYk1WNm5HWGFkaXdHel9wOHZjdTl1QjBuRndNTGk0YmVEanRXbkNhUFNXTWtuNFB6NlE1MGNSOUpKbndGOUo3NGdrc1RqVlE1UHJPQlFZUmNQRkVZamliNTJLNmhDRFE?oc=5",
+      "published": "Thu, 15 Jan 2026 21:26:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Wall Street Price Prediction: Tesla’s Share Price Forecast for 2026 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeklBS2xWcVdTcTl1N1lsczBiMjZoNGloVmZEZlh0a3ItV01qY1ZLY3hMNlYxaE1LZGpHWjNhNThRVTNoZDBlMFU3Rm92R3JOb1pwRUZoN1FaT010SUt4U05icnhvcWZ6VUtzTkNmc0FPRFRIQzNmWlR1eUlSX0ZmcGcxeTdHRDhMZDh1bFJGX2lfenVEUm1qYXhSTHV0NTVFZ1NvYWtjQV83aG5tX3c?oc=5",
+      "published": "Tue, 13 Jan 2026 12:10:03 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Opinion: I refused to invest in Tesla for years — but now’s the time to bet on Elon Musk - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPS0I5QzRGdGFDUEpSWTVETklDX3hWTmhXajNLdUFKU3VDSzBVQ2dlT2stUFVtbEh6X1MwNHNuNmw2cTluWHlrRkVJWHVXRDNMTS1RV19zRjBlLTdNTWlDaHQtYnJOU3lMQ2hQU1VNaHptaGZRUkRpR0tHMkUycGxMQVozSUxLZGZkSDNuUzd6ZjhFQ2hUZHRHWVZtSm81Z3VzX282WlJUYnVLaF9tNENNajMtdW1qclloZXdzSXNKQjNiSkxaV0dHVHJPbTlFYUpINWpFMThPaXNPNmxyRjdna2gzV1pqTE90UlVjU0E1WE0xRUVvMkEzVWhmM3pyMHAxLVhla0duNWR0OUt4OUdrM1duMDFMOHV0Q3pCdVNOY2xNT3dyU2I3c3ctOFBFZW0wU3dmMlNyVWVwTndqRzU0YXNaaS1McFhlQlcyTW5PNG0tb2VJb1lJa1Jhc1NUaUJFVnc2aU9nLVdFOGVHRDg4Y2dLMi0wdURyYmM5VmREQmlRM3VyTFRCWjNHWnBMVEpvdER0bHlQbmNYbTlIZENtdFRhVF9lZ3JTQ1NVNE1CTGluelotTVBjSGdNaDMxUk1W?oc=5",
+      "published": "Thu, 15 Jan 2026 12:45:00 GMT",
+      "source": "MarketWatch"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "การคาดการณ์ระบุว่าหุ้น Tesla ที่ร้อนแรงอาจเปลี่ยนเงิน 10,000 ปอนด์ให้เป็นจำนวนมากในปี 2026",
+        "why": "พาดหัวข่าวกล่าวถึง 'หุ้น Tesla ที่ร้อนแรง' และศักยภาพในการ 'เปลี่ยน 10,000 ปอนด์ให้เป็น...' ซึ่งบ่งชี้ถึงโอกาสในการเติบโตของราคา"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "บทความนี้อธิบายว่าทำไมผู้เขียนจึงเป็นนักลงทุนกระทิงใน Tesla อย่างแท้จริง ก่อนการเปิดเผยผลประกอบการ",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'Why I’m A Tesla Bull Through And Through' ซึ่งเป็นการแสดงจุดยืนเชิงบวกอย่างชัดเจน"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "คำถามว่าหุ้น Tesla สามารถลดลงไปที่ 300 ดอลลาร์ได้หรือไม่",
+        "why": "พาดหัวข่าวตั้งคำถามถึงความเป็นไปได้ที่ 'หุ้น Tesla จะลดลงไปที่ $300' ซึ่งชี้ให้เห็นถึงความกังวลเกี่ยวกับราคาที่อาจลดลง"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla ลดลงท่ามกลางรายงานว่า SpaceX ของ Musk กำลังมองหาธนาคาร",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'หุ้น Tesla ลดลง' ซึ่งเป็นการบ่งชี้เชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ความเห็นว่าหลายปีที่ผ่านมาปฏิเสธที่จะลงทุนใน Tesla แต่ตอนนี้เป็นเวลาที่เหมาะสมที่จะเดิมพันกับ Elon Musk",
+        "why": "พาดหัวข่าวระบุว่า 'แต่ตอนนี้เป็นเวลาที่จะเดิมพันกับ Elon Musk' ซึ่งโดยนัยคือการเดิมพันกับ Tesla และเป็นมุมมองเชิงบวกต่อการลงทุนในหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "จากพาดหัวข่าวที่เลือกมา มีข่าวที่ชี้ให้เห็นถึงศักยภาพการเติบโตและมุมมองเชิงบวกต่อหุ้น Tesla มากกว่าข่าวเชิงลบโดยตรง"
+    }
+  }
+}
