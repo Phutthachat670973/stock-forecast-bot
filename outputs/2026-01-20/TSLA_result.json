@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4356,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0395 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0926 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0322 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0169 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0280 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla (TSLA) Earnings Preview: Q4 Margins in Focus - FOREX.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMm4yQTk0YXN2N0hjenVrS1ByYTd6TDVPUFV2SHNHV1F2ZmVvc0xmS2RJQlhOWEQyRlpRWUlKUzEtMkRjUWl0UFFvZ0FCOGlieDV1cF9rVjRTSkl6RWZCS0xJUVVuYV9hRWRGeXZGaXJMZFVOaGFBaGtLaDkxcmhpMzBpZ2VzTW9YakpnT3diUWtndW9Ic1FQeWRn?oc=5",
+      "published": "Thu, 15 Jan 2026 02:32:50 GMT",
+      "source": "FOREX.com"
+    },
+    {
+      "title": "Prediction: in 2026 red-hot Tesla stock could turn £10,000 into… - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW1RZjViT2NKWXN0ZGhKSjgxXzFGSnVIN1lsNklWTnVBRnZQaU9XYWZsbUdoSE5UZEdQd0pFN2lGQkNpUmYtNjNFRVdMWmY5cVg0T1hxQ0tRdnRLZWFnWU94MkhkbnBpS0FMb21yUGJjcXhLZmJwRXhybVFfdUNfZjFjUW8?oc=5",
+      "published": "Sat, 17 Jan 2026 06:45:00 GMT",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nVGNCVTd6aUtQRGVXdjFVMmg0ODhQel9GY01aTTdLd01PU1Y1SUFOaGN0MWhieXVuX3YzZkdxTFg1TXYwM1JlaVhvaTV0NjJDaUlmbjFoMWN6NWRaY0hDYnRseWxlaVJuVFEydUhieUhrZw?oc=5",
+      "published": "Thu, 15 Jan 2026 14:34:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 16 Jan 2026 17:28:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why I’m A Tesla Bull Through And Through: Earnings Preview (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1R0aEtibDFnT015eVUxTDBXNTNXMWFTRkI5SG5Dd1NEOUZSdkhtUkpGNEl3MC1VbUptRkp3MlZVMFZSeGRhekxCZXE3amhaeXc5Y0NRU0lZN056OWdmVWkxaENIZDBwZXFuUS0xSC1BZFpHRkRkYXZBMkt4XzJNZDAtQW5lOW11ZEZQVnlibXplVXhiY29MeDdYdVZVZw?oc=5",
+      "published": "Wed, 14 Jan 2026 18:40:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Can Tesla Stock Fall To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTBxUkVZemQ3RFJleWdGamlxZm1PUE5GSFY2ZHNvWGtGN0cxdXNYd3ZkTjlfM0JIR185d0dyUWZoanNTOEN2V1ItNlVVRjlOTjhuSWQyN2Myak1mRmZkaGRxS1hPWHMta3EyanZqT2lpSmo0Ynd6aTh4SFZrMnFmWjlWM00yU3M3ZDAydmx1TQ?oc=5",
+      "published": "Wed, 14 Jan 2026 16:16:05 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Nvidia Just Delivered Very Bad News for Tesla Stock Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWtGNVlESVNYUURCTVVBdXd1VjhhYjM2TF9WOF9qRUg5U2lfd0xqdG5vZmJIX2xiM2pvNEo2WE0tOXpmTGE2eEZTRVFTSXVIc01jbV9tMXBiQ0U0N3lIOWRsb3UzcW15UEhwS0FUak1oUnFOZ1A0dE1YS2VXSUU1d2o3Z1hYWHdTemlHbDBxYldkd3Zm?oc=5",
+      "published": "Wed, 14 Jan 2026 10:31:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Drops Amid Report Musk’s SpaceX Is Looking For Bankers. Why That Matters. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQSEZLVzMzTEVSczZscHNQV1RxSUM2dXo1aURvQ2dXMEVaVkZmMl9kQmdyQ0ZJOWFxWnlDSzA5U1FUUmpjTlFKNWxibVptNlNOWDBTWkpPS0ZjckRWeTlLRGFhNi1VekN1OUxVVE0zR1VpV2NEYlE0clZNdlBNZlV4S3l2ZnpXVVpVM1hxUlBFWldORllieGd4cDJ3Rmx2MU9ZbGxWcEwtVEkydHVHTnVpa2E2Rjg0dFEzbjEyU3ZxQ3BOYVdfa2FyeXFiYlFKeU5UWkZWbTQ1dHY3VVJGNmh4QURQR3BFVHQ5TmRyREFYUjByXzQ5cHRQUFhxYUJaOGVBdHpyR2VOaHRIdzBkLWY0X2JmRUJnQWhXa1o5VFZTSllraVI4TWZhdWIyZ3QyTkJuQ0ozS2JXR05qemxlQWlfNXBmNUFzSjFCWDhrZUxOX2IzU2ZBbGxROU92QlIzM3F2cFBuMFNSOFk4Rk5mdEJneEZCM1c3Z0FFVzFWSmdZQlRIcGZSN1E?oc=5",
+      "published": "Thu, 15 Jan 2026 21:26:00 GMT",
+      "source": "Barron's"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ข่าวนี้ระบุว่า Nvidia ได้นำเสนอข่าวร้ายอย่างมากสำหรับนักลงทุนหุ้น Tesla",
+        "why": "พาดหัวข่าวระบุชัดเจนว่ามี 'ข่าวร้ายอย่างมาก' สำหรับนักลงทุนหุ้น Tesla ซึ่งบ่งชี้ถึงผลกระทบเชิงลบ"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความนี้แสดงเหตุผลว่าทำไมผู้เขียนจึงมีมุมมองเชิงบวกอย่างมากต่อหุ้น Tesla โดยมีการพรีวิวผลประกอบการ",
+        "why": "พาดหัวข่าวแสดงความเชื่อมั่นอย่างชัดเจนในทิศทางเชิงบวกของ Tesla โดยใช้คำว่า 'Tesla Bull Through And Through'"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Tesla ปรับตัวลดลงหลังจากมีรายงานว่า SpaceX ของ Musk กำลังมองหาธนาคาร ซึ่งพาดหัวข่าวจะอธิบายถึงความสำคัญของเรื่องนี้",
+        "why": "พาดหัวข่าวรายงานว่า 'Tesla Stock Drops' ซึ่งเป็นสัญญาณเชิงลบ และเชื่อมโยงกับการกระทำของบริษัทที่เกี่ยวข้องกับ Elon Musk"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวนี้มีการคาดการณ์ว่าหุ้น Tesla ที่ร้อนแรงอาจสร้างผลตอบแทนจำนวนมากในปี 2026",
+        "why": "วลี 'red-hot Tesla stock' และแนวคิดเรื่องการเปลี่ยนเงินจำนวนหนึ่งให้กลายเป็นจำนวนที่มากขึ้น บ่งชี้ถึงการคาดการณ์เชิงบวกสำหรับหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "พาดหัวข่าวตั้งคำถามว่าหุ้น Tesla สามารถตกลงไปที่ 300 ดอลลาร์ได้หรือไม่ ซึ่งเป็นการพิจารณาถึงสถานการณ์ขาลง",
+        "why": "การตั้งคำถามถึงความเป็นไปได้ที่หุ้นจะ 'ตกลงไปที่ $300' ซึ่งเป็นราคาที่ต่ำลง บ่งชี้ถึงการพิจารณาถึงความเป็นไปได้ในเชิงลบหรือสถานการณ์ขาลง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "พาดหัวข่าวที่เลือกมีทั้งที่แสดงมุมมองเชิงบวกที่แข็งแกร่งและเชิงลบที่ชัดเจน ทำให้ภาพรวมของข่าวสารมีความหลากหลายและขัดแย้งกัน"
+    }
+  }
+}

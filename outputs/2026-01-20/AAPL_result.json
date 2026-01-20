@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-16",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8979,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 10.4821 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.6172 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0411 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0571 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0230 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Predictions for 2026 and Beyond - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOC1MZVFhZHQzbFRqOXpvb2FRcWc1ZGxuWkYxUENEZndyZ2hweUtWNVlZWFFRSVpwTC1VbUFUYjBxcU1obm1qYnZncWZxRU9IdU5JS3ZHblNKaGVPcHhtR1RvLWhtSHNNQm5wYlVhRm53M3RuSGxUdDZpaWdudw?oc=5",
+      "published": "Tue, 13 Jan 2026 04:00:49 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock: Why The iPhone Giant Could Fall - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHRrajVpNEk0YUxoZlQwX01fSnR3cEtoWFpxS1lBeWI5SmY3cUUydDJ5T2pWY0YyZ19mZk1BM2ZXMTFOalZKWkdkYThRX3haRU1nNUh5TXFGM0NPZ1puQnBzU0VUY25PV0NidFJjX1dhNGo3dnlNR1ZrRTVjY01fbXhnakZ0R3NLdHA1c010Z0dRZVUwYllSd0kwM2IwWWk3bUVDSg?oc=5",
+      "published": "Wed, 14 Jan 2026 14:16:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 16 Jan 2026 17:28:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Jim Cramer on Apple: “It Worries Me That the Buyers Haven’t Figured Out to Buy It Yet” - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEF1TnFZUER4MjNsaW9XQS00UDhPSFdCTEozYXlGOFZpUzE3WFJ0cUNLSUhmWnIyajdtQnNsVDVncEl3aDZqZFBKOEhOYmkwU2ZzZVJOWnIzVGZhTDA3WXBxMFdhM0tBN3ZUR2tDVWwtOEhWUERpX3BUWFp5LU1ST3AtQQ?oc=5",
+      "published": "Mon, 19 Jan 2026 13:29:45 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AAPL - Apple Inc Stock Price and Quote - Finviz",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VVpTazYwR3NVeGVVRURfbU43Mm53dVE1ZHZhMkozOTF3TS15a09Pb0twZm44NlBBRFdFR1NCalVIcS1DcjVXWGhsOGk?oc=5",
+      "published": "Fri, 16 Jan 2026 21:00:00 GMT",
+      "source": "Finviz"
+    },
+    {
+      "title": "Dear Apple Stock Fans, Mark Your Calendars for January 27 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0I2WHA0YnRMV3pScGp1N0J2d0VBZjBKUVdvTkdIVnhwbnREc3BIYmRYb3laaERLMHZTX2YtX2w0aFIweUl1WEdFazJYZHpPRTNzUVE4QTVQQkEzaVdtX244bTVzd0R0aUxwMGU0M1MzUzNJaHpEVVRTQnl0TFNCMmNHOUFwSGllbGF4QUdoOHNvaGN1VkZYQnBOa2kteUVndVhr?oc=5",
+      "published": "Mon, 19 Jan 2026 14:00:02 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple Stock Forecast - Price Target & Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ETXd1b1RiVy1QbGptNkYxdWNBQUJUaXBLTUowd2RKRFJPNDJ6XzNoelNXNHI0TjhQRmhhUF9VRWlBNENUUzRQbGg0TEtNeFotZGFzQjNWWG5mWm9iaEFnbVVJaXhCNlFWUDNNX1hNaEdMX3c?oc=5",
+      "published": "Wed, 14 Jan 2026 12:23:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "How Apple Stock Can Crash? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUhPa19pSHBSZU9mOWNlOExWOGdEMFJZRmN6MGVVMjVJMDYxVVpaaUxiMVZTelZINHZMZmhIYkhULWR3UjV3NjB1ZTh6Mmd2UEVTM3l4ek1PenZqcUltblY1MjQwNFJkWmZUT1RJaDBJaUJwekxUd1hpRHpXRUgxbTdTSlVRa0pnUmdhUTd0MlU5TXpwTVViQ01MNlIzdw?oc=5",
+      "published": "Wed, 14 Jan 2026 09:54:44 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "การคาดการณ์ราคาหุ้น Apple (AAPL) สำหรับปี 2026 และหลังจากนั้น",
+        "why": "หัวข้อกล่าวถึงการคาดการณ์หุ้น AAPL โดยตรง แต่ไม่ได้ระบุทิศทางที่ชัดเจนว่าเป็นบวกหรือลบ"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "เหตุผลที่หุ้น Apple ซึ่งเป็นยักษ์ใหญ่ด้าน iPhone อาจร่วงลง",
+        "why": "หัวข้อบ่งชี้อย่างชัดเจนถึงความเป็นไปได้ที่หุ้น Apple จะตกลงมา ('Could Fall')"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "จิม เครเมอร์ แสดงความกังวลเกี่ยวกับหุ้น Apple โดยกล่าวว่า 'กังวลว่าผู้ซื้อยังไม่เข้าใจที่จะซื้อหุ้นตัวนี้'",
+        "why": "คำพูดของ Jim Cramer บ่งบอกถึงความกังวลและการขาดความน่าสนใจในการซื้อหุ้น ซึ่งอาจส่งผลเชิงลบต่อราคา"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "ถึงแฟนหุ้น Apple เตรียมปฏิทินของคุณสำหรับวันที่ 27 มกราคม",
+        "why": "หัวข้อแจ้งเตือนถึงวันสำคัญที่เกี่ยวข้องกับหุ้น Apple (เช่น การประกาศผลประกอบการ) แต่ไม่ได้ระบุว่าเหตุการณ์นั้นจะเป็นผลดีหรือผลเสียต่อราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Apple จะตกฮวบได้อย่างไร?",
+        "why": "หัวข้อบ่งชี้ถึงความเป็นไปได้ที่หุ้น Apple จะร่วงลงอย่างรุนแรง ('Can Crash') ซึ่งเป็นมุมมองเชิงลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 85,
+      "note": "จากหัวข้อข่าวที่เลือกมา มี 3 รายการที่มีแนวโน้มเชิงลบ (bearish) และ 2 รายการเป็นกลาง (neutral) ซึ่งแสดงให้เห็นถึงความกังวลที่โดดเด่นเกี่ยวกับศักยภาพด้านลบของหุ้น Apple"
+    }
+  }
+}
