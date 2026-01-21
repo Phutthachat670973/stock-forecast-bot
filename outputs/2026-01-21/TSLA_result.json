@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3667,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0730 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0662 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0718 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0325 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0228 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Assessing Tesla (TSLA) Valuation After Recent Share Price Pullback And AI Growth Ambitions - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFI4X3FrU08ydXk0QmxNTTdreU1mQXJpd3RJMFNoRlpJT1JSQ3NFa05sWXpkbndyN0FPMkh6dEh4bWFPd1JjemY1endjX3VtcnFuVjRZTXJ4V3pwSTN4X0FoVndoXzhveERiS0ZDdFlZM2dncXFtdXdtSjF5UWVMMTlBVGdCYUNUTmZZ?oc=5",
+      "published": "Mon, 19 Jan 2026 01:41:36 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Could Buying Tesla Stock Today Set You Up for Life? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzZPVjZLaXZFRy00RW81NEladjBnVDJ6NkRSanVLcUZzd2FFdFk3Z3ByYnFXWWMzWjVVTXpuV2FFOUZyUzMyWU5VTW5zejFsUXhhNWJEY1JOS0tuYnVfc2p5OWMtTEJtZlRDNkNqY1FSa0FHa3B0ZTI0ME9MMllQbGo0U25jWlFrZmpNRXkxc1l4V3lCUzhuSg?oc=5",
+      "published": "Tue, 20 Jan 2026 20:32:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nVGNCVTd6aUtQRGVXdjFVMmg0ODhQel9GY01aTTdLd01PU1Y1SUFOaGN0MWhieXVuX3YzZkdxTFg1TXYwM1JlaVhvaTV0NjJDaUlmbjFoMWN6NWRaY0hDYnRseWxlaVJuVFEydUhieUhrZw?oc=5",
+      "published": "Thu, 15 Jan 2026 14:34:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Tesla Stock to $600 or $300? Here’s What’s Most Likely to Happen in 2026 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalA2emppaDljRkctd0ExRURjM2liTTJ4bjJOWDdpa0ZUZ0NLR2NfT3IzT21CT3U3OTZ3SF9qcXVVV1hTc0VBR3hCYnFlVzM0R0loNEM1SkpubGItN0xDOERpb1ktYVcydlV2aVJZNmlJWkVKdUVGd0JmRmNmd1lzYnZURnpnUzl2cEIxNGVjd3BLWmNuUE1lX240MjMzOWlreDhnWmZHSUJaVWQzcEI5Sw?oc=5",
+      "published": "Tue, 20 Jan 2026 13:40:14 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 16 Jan 2026 17:28:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why I’m A Tesla Bull Through And Through: Earnings Preview (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1R0aEtibDFnT015eVUxTDBXNTNXMWFTRkI5SG5Dd1NEOUZSdkhtUkpGNEl3MC1VbUptRkp3MlZVMFZSeGRhekxCZXE3amhaeXc5Y0NRU0lZN056OWdmVWkxaENIZDBwZXFuUS0xSC1BZFpHRkRkYXZBMkt4XzJNZDAtQW5lOW11ZEZQVnlibXplVXhiY29MeDdYdVZVZw?oc=5",
+      "published": "Wed, 14 Jan 2026 18:40:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Can Tesla Stock Fall To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTBxUkVZemQ3RFJleWdGamlxZm1PUE5GSFY2ZHNvWGtGN0cxdXNYd3ZkTjlfM0JIR185d0dyUWZoanNTOEN2V1ItNlVVRjlOTjhuSWQyN2Myak1mRmZkaGRxS1hPWHMta3EyanZqT2lpSmo0Ynd6aTh4SFZrMnFmWjlWM00yU3M3ZDAydmx1TQ?oc=5",
+      "published": "Wed, 14 Jan 2026 16:16:05 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "The Hidden Dangers Facing Tesla Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY01nRTB1XzlTN051OTlIMlNTX2NXMUhpNlF0VlB1a0pycS1ycWI2QUdCX1czVFFnak5GMzhubENsbXh3LUM2SmpDX3h0bWxVZ2NsWkhkUGhZYVlMdzlxMXV0RzU3bzNGRnBDTEhWNmtXY195T2dvRkdHM3dkdHJvQlF0UElJa2s2RVhYQk94V1owejN6YVFGelFwMEtpVnNj?oc=5",
+      "published": "Sat, 17 Jan 2026 10:38:43 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "การประเมินมูลค่าหุ้น Tesla (TSLA) หลังราคาหุ้นปรับตัวลดลง และความทะเยอทะยานในการเติบโตด้าน AI",
+        "why": "พาดหัวข่าวกล่าวถึงทั้งปัจจัยเชิงลบ (ราคาหุ้นปรับตัวลดลง) และเชิงบวก (ความทะเยอทะยานด้าน AI) โดยมีจุดประสงค์เพื่อประเมิน จึงเป็นกลาง"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "การซื้อหุ้น Tesla วันนี้อาจทำให้คุณมีชีวิตที่ดีตลอดไปได้หรือไม่?",
+        "why": "การตั้งคำถามเชิงชี้นำว่าการลงทุนในหุ้น Tesla อาจนำไปสู่ผลตอบแทนที่ดีมหาศาลตลอดชีวิต แสดงถึงมุมมองที่เป็นบวกอย่างมาก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "เหตุผลที่ฉันเป็นผู้ที่เชื่อมั่นในหุ้น Tesla อย่างแท้จริง: การพรีวิวผลประกอบการ (NASDAQ:TSLA)",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าผู้เขียนเป็น 'Tesla Bull Through And Through' ซึ่งแสดงถึงมุมมองที่เป็นบวกอย่างมากต่อหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "หุ้น Tesla สามารถตกลงไปที่ 300 ดอลลาร์ได้หรือไม่?",
+        "why": "การตั้งคำถามที่เน้นถึงความเป็นไปได้ที่ราคาหุ้นจะลดลงอย่างมีนัยสำคัญ ($300) ชี้ให้เห็นถึงความกังวลหรือมุมมองเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "อันตรายที่ซ่อนอยู่ซึ่งกำลังเผชิญหน้ากับหุ้น Tesla",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนถึง 'Hidden Dangers' (อันตรายที่ซ่อนอยู่) ซึ่งแสดงถึงมุมมองเชิงลบอย่างมากต่อหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 80,
+      "note": "พาดหัวข่าวที่เลือกนำเสนอทั้งมุมมองที่เป็นบวกอย่างแข็งแกร่งและคำเตือนที่ชัดเจนเกี่ยวกับอันตรายที่อาจเกิดขึ้นหรือการลดลงของราคาหุ้น Tesla ซึ่งแสดงให้เห็นถึงภาพรวมที่หลากหลาย"
+    }
+  }
+}
