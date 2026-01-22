@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-21",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8932,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 20.4363 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.7827 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0644 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0564 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0719 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Traded Lower as Its Reported Azure Cloud Growth and Forward Guidance Fell Short of Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMU9aa25yNGNNUEJITXZwWVV6RFNXZy11dFNJT05KUTVkeEFXanpaLWx6Mzd2ekFCbXpkQktnWWhpVnI4N2d3S1ZkejV3by11RlJ6WkkxRDJ1VUkyRldjRDZSNnBham45UWRIcjJCckZ0NndQaGNlQXhrVnkwQm51YUlSNG5tZGcyWHc?oc=5",
+      "published": "Tue, 20 Jan 2026 14:15:28 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Assessing Whether Microsoft (MSFT) Is Undervalued After Recent Share Price Weakness - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmt1NGNGQkY4LWxCTDgxRU01MzdHQ1VKcHBvWHllZXAyWGVSWENqOTg1WWFFelVCcXROZDFqWFFOTHg4RmFaanFMYXA1bFlwd091eU9jcXBobF83OHpRQWhDM3hxTnFiNGt0aEM3bm94cTB3ZHRldlBDOFZoSm5EbXd6TE15bEw2QWNaVkhPb3Ruc3YtZjhxV3BPa25CRHp6dnNYS0VZcHJHQllCUDFWcmlJUV9JQ1pWb3M1aTNGSlg1Z2NvNVBV0gHMAUFVX3lxTE52VTc3d1czVk1sUVhiRWlzS0xuVnVNNFN4OV9ySUM5T0xHdjdlLU5ncGtLYjNQNV85cExJdVNNTHljNm0yLXRUY3lsOUNFYUkwRVQ5dzZJV1J5cGlRRzI2bEF3cmM0UGI5SVBUVE55Vi1kbFNIcDI2LVVDVUJJMW9BdFZrSVNBeGk4eUU3bW1nLUZlN1Q5bU5LaHBLejJCZVNNeWt3YktNTWN4d1VVTkw2X2V3c2MxbkJDV0tRZlN6Vm8zaDdsUWNjclRkVA?oc=5",
+      "published": "Wed, 21 Jan 2026 13:32:45 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "This Could Be One of the Best Tech Stocks to Hold for the Next 10 Years - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYldTNVlFT19FZWFBQ3Q4Y2l6NFgyZ3huSGQ4X0RkM3dVNHJ3X1dBQXB5c2xGNjR1V3QxZDA0aUJzc0NXYW5INW5sYWVTZ0VMdkdmMlZTNk9PUk85cXJNQ09zUC12aHVmc3R2STVtdzhlejl1ek1KbTMwb1Y0R3VnSldDeGl4cXM3RzJ3YjZn?oc=5",
+      "published": "Tue, 20 Jan 2026 17:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWhxeXNoQ3Riem4wdDhaZzA0SjA4bU1IVllkcEV4Y1V1eUFpTTV4Vllfb1VnSnBQV3k4VnBuUzlWb0dURDZ3V2pyQm83cUtuWU9FaFpSZEd0T1FQczZlNllPSFJVcUFKb1EyYUZVRW43UE9aMk1iOUtuOGc2UTk1QjA2QkFhXzh1YWhTSEF0ZW82LTdickFSY2ROeGIwelVjRHJqRA?oc=5",
+      "published": "Thu, 15 Jan 2026 16:34:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft Stock at $600 or $400? Here’s What You Should Bet On - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaml6Z1BUbGxwSWVDbDA0b0FrSmFzNXVtTlBMcnFmbklSRHZDdTQxYmVrdktZSWdVVW4taUItQVFkMzJTYm9jWHVRY1pvbnZkTWU2NzgtQUlWWmlGdG52Yk1lUzFJVm5BVml2Sy16Q1hHVGlQWjJyMGNsUnZpWmR0VDk1ZHcxbjZvVnhDRWsxeHBSc1FTVTRISHJ0dTNJNl9hcUhZVg?oc=5",
+      "published": "Tue, 20 Jan 2026 16:48:18 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Moves -1.10%: What You Should Know - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHlCb0F4ZWx6YzZCRk5tTW5iNzFNNVE3VmJISExPSHJQamlSeE5KUF9kUGVpcXc1QlFSdlZVZktrTVZyUHVDWDVCMWYyWGlTQzByT1JfTDkwVzhHaE01d0Y5SjNUcDJWZjJNaDVwMEJkeFhSV0tQU0FjQlNxZkFnb0NERkZIdVJTTGhR?oc=5",
+      "published": "Tue, 20 Jan 2026 22:55:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Microsoft: The $134 Billion Misunderstanding (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFNMTzEyTlhrVXQzS19XRVZ5ZU5lTTNQcjF5anJ3M0NEZXRHeTkyNTlwMlRlazlCbGVQbGhPYTRGdWlyUGhPQXkxVXhTUWlOQVYwNkx6bkptcWh0OHhQNjRtUG15ZjgyQnFOSG9Fb3pfMk5HMTJaWXdKRXRqeVA4SFhlc0hIZkFCWGJV?oc=5",
+      "published": "Tue, 20 Jan 2026 14:15:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Goldman Sachs revamps Microsoft stock price target before earnings - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQW5ZZXJWZmtBTVhpRHk0TVRxaGlQcGR3b0pKSmRRU20wQU5fOEw3Vl9SN3E1WVJNdWdyUDh1SDFObm1NSGtmTWU0YUNoWUktRi03WGc3RjFtZ1pwUlhGcDJoUHhxb0xmUHFlcDdUSXNVd1pZTFVramNOenRoTEhtNXphZ1IwdnNGRjZiRnBvNXB0Y2I5dlZodE9GX2I0dS1BMlNNbG1oaV9fcEtvVHc?oc=5",
+      "published": "Sat, 17 Jan 2026 16:17:00 GMT",
+      "source": "thestreet.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Microsoft (MSFT) ปรับตัวลดลงเนื่องจากรายงานการเติบโตของ Azure Cloud และประมาณการคาดการณ์ในอนาคตต่ำกว่าที่คาดการณ์ไว้",
+        "why": "พาดหัวระบุว่าหุ้น 'Traded Lower' และ 'Fell Short of Expectations' ซึ่งบ่งชี้ถึงผลลัพธ์เชิงลบและแรงกดดันต่อราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "การประเมินว่า Microsoft (MSFT) มีมูลค่าต่ำกว่าความเป็นจริงหรือไม่หลังจากราคาหุ้นอ่อนตัวลงเมื่อเร็วๆ นี้",
+        "why": "แม้จะกล่าวถึง 'Recent Share Price Weakness' แต่ประเด็นหลักคือการ 'Assessing Whether Microsoft (MSFT) Is Undervalued' ซึ่งมักจะบ่งชี้ถึงโอกาสในการฟื้นตัวหรือการเติบโตหากพบว่ามีมูลค่าต่ำกว่าที่ควรจะเป็น"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "ราคาหุ้น Microsoft (MSFT), ข่าวบริษัท และการวิเคราะห์กราฟ",
+        "why": "พาดหัวนี้เป็นเพียงการแจ้งถึงเนื้อหาข้อมูลทั่วไปเกี่ยวกับหุ้นและบริษัท ไม่ได้บ่งบอกถึงทิศทางราคาหรือมุมมองเชิงบวก/ลบใดๆ"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft จะอยู่ที่ $600 หรือ $400? นี่คือสิ่งที่คุณควรเดิมพัน",
+        "why": "พาดหัวนำเสนอสถานการณ์ที่เป็นไปได้สองทางสำหรับราคาหุ้น ($600 หรือ $400) โดยไม่ได้ชี้ชัดว่าทิศทางใดมีความเป็นไปได้มากกว่า จึงเป็นกลางในแง่ของจุดยืน"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft (MSFT) เคลื่อนไหวลดลง -1.10%: สิ่งที่คุณควรรู้",
+        "why": "พาดหัวระบุการเคลื่อนไหวของราคาหุ้นที่ลดลงอย่างชัดเจนถึง '-1.10%' ซึ่งบ่งชี้ถึงแรงกดดันเชิงลบต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "พาดหัวข่าวที่เลือกมีทั้งที่ระบุถึงการเคลื่อนไหวของราคาหุ้นที่ลดลงและผลประกอบการที่ต่ำกว่าคาด ซึ่งเป็นปัจจัยเชิงลบ แต่ก็มีพาดหัวที่ตั้งคำถามถึงมูลค่าที่แท้จริงของหุ้นหลังจากความอ่อนแอของราคา ซึ่งอาจบ่งชี้ถึงศักยภาพในการฟื้นตัว"
+    }
+  }
+}

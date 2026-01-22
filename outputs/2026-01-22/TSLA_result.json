@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-21",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4543,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0407 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0351 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0746 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0275 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0178 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla (TSLA) Earnings Preview: Q4 Margins in Focus - FOREX.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMm4yQTk0YXN2N0hjenVrS1ByYTd6TDVPUFV2SHNHV1F2ZmVvc0xmS2RJQlhOWEQyRlpRWUlKUzEtMkRjUWl0UFFvZ0FCOGlieDV1cF9rVjRTSkl6RWZCS0xJUVVuYV9hRWRGeXZGaXJMZFVOaGFBaGtLaDkxcmhpMzBpZ2VzTW9YakpnT3diUWtndW9Ic1FQeWRn?oc=5",
+      "published": "Thu, 15 Jan 2026 02:32:50 GMT",
+      "source": "FOREX.com"
+    },
+    {
+      "title": "Could Buying Tesla Stock Today Set You Up for Life? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzZPVjZLaXZFRy00RW81NEladjBnVDJ6NkRSanVLcUZzd2FFdFk3Z3ByYnFXWWMzWjVVTXpuV2FFOUZyUzMyWU5VTW5zejFsUXhhNWJEY1JOS0tuYnVfc2p5OWMtTEJtZlRDNkNqY1FSa0FHa3B0ZTI0ME9MMllQbGo0U25jWlFrZmpNRXkxc1l4V3lCUzhuSg?oc=5",
+      "published": "Tue, 20 Jan 2026 20:32:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock to $600 or $300? Here’s What’s Most Likely to Happen in 2026 - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalA2emppaDljRkctd0ExRURjM2liTTJ4bjJOWDdpa0ZUZ0NLR2NfT3IzT21CT3U3OTZ3SF9qcXVVV1hTc0VBR3hCYnFlVzM0R0loNEM1SkpubGItN0xDOERpb1ktYVcydlV2aVJZNmlJWkVKdUVGd0JmRmNmd1lzYnZURnpnUzl2cEIxNGVjd3BLWmNuUE1lX240MjMzOWlreDhnWmZHSUJaVWQzcEI5Sw?oc=5",
+      "published": "Tue, 20 Jan 2026 13:40:14 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JemJielFqSlJtYjJuc0IzV3Q2Q2pkZVBsQjVXSmlTaENqZHJyUUxaQU1HV3l6UHFYd1B4SnBKUFJxYkhKRUdDTVl1dVRSbXlkczg0MWp3YkVLbE1lQS04NFhPMDFuM19kc3VmQXU1dVE?oc=5",
+      "published": "Thu, 15 Jan 2026 14:37:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Tesla's Earnings Could Be Much Better Than Expected (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzYxT3d3U3RJd0wtV0RpVy1pOU0yZ2VIaTRCeHBMUXlJekVUb0lhVW1lWXU2akF0bkxWTmpfOTF0d2IzVU9sOTZkanZSclFVbGNqemVFc0NWdnlMMkQyM09xU3IyRC1pcE5QTmFCZUJpdHB4V0w3SXg1eTN4NWJMTmRzcTJXMV9WbE5XdlpSZkpMQ2NC?oc=5",
+      "published": "Wed, 21 Jan 2026 17:41:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Assessing Tesla (TSLA) Valuation After Recent Share Price Pullback And AI Growth Ambitions - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFI4X3FrU08ydXk0QmxNTTdreU1mQXJpd3RJMFNoRlpJT1JSQ3NFa05sWXpkbndyN0FPMkh6dEh4bWFPd1JjemY1endjX3VtcnFuVjRZTXJ4V3pwSTN4X0FoVndoXzhveERiS0ZDdFlZM2dncXFtdXdtSjF5UWVMMTlBVGdCYUNUTmZZ?oc=5",
+      "published": "Mon, 19 Jan 2026 01:41:36 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Elon Musk Lowering Q4 Conference Call Expectations With This Cybercab Comment? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVVrVGRfWGRENnhqQzdJV182bUs4TlRRQzM1NDBXNVlPNU9BTU5TX1lDZURsYVpmNEUyQ1g2UzdQWDFaTWxfMDNzdEk4VjFERUxQV2dWT19zT3ViLTU3cWNRZDVFbmU4Z1U4THIzcHczSzcxV1dDU3pwUlhlSldnVEZCLU43aV94SUFtUWJmemNfalNFUHNvbmw5WThudk5h?oc=5",
+      "published": "Wed, 21 Jan 2026 22:32:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "The Hidden Dangers Facing Tesla Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY01nRTB1XzlTN051OTlIMlNTX2NXMUhpNlF0VlB1a0pycS1ycWI2QUdCX1czVFFnak5GMzhubENsbXh3LUM2SmpDX3h0bWxVZ2NsWkhkUGhZYVlMdzlxMXV0RzU3bzNGRnBDTEhWNmtXY195T2dvRkdHM3dkdHJvQlF0UElJa2s2RVhYQk94V1owejN6YVFGelFwMEtpVnNj?oc=5",
+      "published": "Sat, 17 Jan 2026 10:38:43 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "บทความเกี่ยวกับพรีวิวผลประกอบการไตรมาส 4 ของ Tesla โดยเน้นเรื่องอัตรากำไร.",
+        "why": "หัวข้อนี้เป็นการพรีวิวผลประกอบการที่จะเกิดขึ้น โดยระบุเพียงว่า 'อัตรากำไร' จะเป็นจุดสนใจ ไม่ได้ระบุว่าดีหรือไม่ดีต่อราคาหุ้น."
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "รายงานว่าผลประกอบการของ Tesla อาจดีกว่าที่คาดการณ์ไว้มาก.",
+        "why": "วลี 'อาจดีกว่าที่คาดการณ์ไว้มาก' ชี้ให้เห็นถึงความเป็นไปได้ของผลประกอบการที่แข็งแกร่ง ซึ่งมักจะเป็นปัจจัยหนุนราคาหุ้น."
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "คำถามว่า Elon Musk กำลังลดความคาดหวังสำหรับการประชุมทางโทรศัพท์ไตรมาส 4 ด้วยความคิดเห็นเกี่ยวกับ Cybercab หรือไม่.",
+        "why": "การตั้งคำถามว่าซีอีโอ 'กำลังลดความคาดหวัง' สำหรับการประชุมที่กำลังจะมาถึง ชี้ให้เห็นถึงความเป็นไปได้ที่ข่าวสารจะไม่เป็นบวก ซึ่งอาจส่งผลให้ราคาหุ้นถูกกดดัน."
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "คำถามว่าการซื้อหุ้น Tesla วันนี้จะทำให้คุณประสบความสำเร็จไปตลอดชีวิตหรือไม่.",
+        "why": "การตั้งคำถามเชิงวาทศิลป์นี้สื่อถึงความเป็นไปได้สูงที่การลงทุนในหุ้น Tesla จะให้ผลตอบแทนที่ดีเยี่ยมในระยะยาว ซึ่งเป็นการส่งสัญญาณเชิงบวก."
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "อันตรายที่ซ่อนอยู่ซึ่งกำลังเผชิญกับหุ้น Tesla.",
+        "why": "คำว่า 'อันตรายที่ซ่อนอยู่' ชี้ให้เห็นถึงปัจจัยลบที่อาจส่งผลกระทบต่อราคาหุ้นอย่างชัดเจน."
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 90,
+      "note": "จากหัวข้อข่าวที่เลือกมา มีสัญญาณเชิงบวก (bullish) 2 รายการ และสัญญาณเชิงลบ (bearish) 2 รายการ และเป็นกลาง 1 รายการ ซึ่งบ่งชี้ถึงมุมมองที่หลากหลายและขัดแย้งกัน จึงทำให้ภาพรวมเป็นกลาง."
+    }
+  }
+}
