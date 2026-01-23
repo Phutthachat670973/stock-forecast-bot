@@ -1,0 +1,66 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-22",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8198,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 11.7857 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0550 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0448 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0461 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0272 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "How investors should play Apple stock as it looks to break 7-week losing streak - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGRnTHN0a1gycTJqbEEyVlVKYlRSazRwZlo5WmxqT3h5NURZaXRheklhejlkbjZlX090amJUVHUyNDVfSGR1NFNOa1NNR1NManphd3BTLXVSQndjcGlPSTIyZkZmQ0p6UjdsNEcxVlhhVmZjaXBwZ3U2c2tIYkRSQmNIMFB6cC13SzNzMXNBams3TzFzbWhZR04zZU5GWkQ0OWtoTTVjZEJfeVZNeHRmU1pvcGNGTkU?oc=5",
+      "published": "Tue, 20 Jan 2026 19:45:51 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Should You Buy Apple Stock Before Earnings on January 29? This Analyst Says ‘Yes.’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3Mydl8zUXRzZlVXM1hoWUhJa3hBMFoxODFnbHd5bklEZFNXNV9zMFVUZzF6d0k2S2NyNFEzSHg3ZW1yVmxoWTR1cXBmVDVQNktHQVpyZk9rY3BoamxmNW1md1lKTzk0Zl9uWEtlZHNsRmoxTE1vemNXT0ZySzNBRlB5ckU?oc=5",
+      "published": "Wed, 21 Jan 2026 18:59:41 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple's weakness is a 'buying opportunity' into earnings: Goldman (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGttWTJPNGhQZWxTVm1HRW1NdE1PejY0MjVxa3RZazZVQmVmU3BwVS1KOGpkSW5WZl9BUDlIUUZzOWU3cENJVVNmZno5eXRScUhJU2JOZ0FxTDZ6Wlo0ZklfcVFmYTlQQzJnYU9PQnliSWhVNW1sUGRPSnhLZVZoSlo3TnVUcGVQbENKbGM5RUJFRUMyMGNvRklvNkxMZkhw?oc=5",
+      "published": "Wed, 21 Jan 2026 19:39:10 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock Has Upside Ahead of Earnings. IPhones Flew Off the Shelves, Analysts Say. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQaVRkNDlqVFJhUTZoNXVfUkdOamhHYzVmMTk5ckxNdkhIeVMweWZrX0RqSTBKQTBYT1FWd2xoM2tQUmlhQUZwOHIyZW5uWTVYcFpyWmtLaVVIWmFSTk5mbGVRU0MzbXpJakxTb21Cc3hMMWJkaFFpOUR3TWNzSjNQclZOOF9BMk5xZ1VBUlRpb0dyOHRaa1JGUnhOYjFrcF9LRzdMVGhYMmd1UE1zWGpXd0dUaWlnYVpTdHd5Wng1U3NPQVd2aU5oMDRsN2JGVHF6aDNGSGY1OUNZeVVLSmwzcjB2WUJMNkMxekpsb25hN2ota2Iwd1Nhc0g0WWVvQzI3SUFsMHBGdDlRemZsb1lObXpqWm4tTi1SNHozTmpFQ2M4ZFdFc08wdzJna19jRDBUMV91QTh3dFFTdDdEVC14bVc4ZGVqRVl0a0FzY05ySHpMbm4xTEVqbFdGbUs0SVBjdzBWckIyNGZKaFo3bl9TcV9WcVFNbzRwaDBIZ3Ywc2owRzdrOEE?oc=5",
+      "published": "Tue, 20 Jan 2026 15:52:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPamp6aVpZaWp0Rkl0WlNJbGd2SlYydnpjSUlqUXFYZTdKd25xN1JOcnhNY3NCN2hFVDdvdDhOdEo2M21HOEwyb0NrT3hYSFkzdTZpcjJncmRMTWhzZnczTllndndBN2NhOVBCUFZXY2tMcXo5TTdkbTBDOXhMUHdwOU54bkJxZ0dVRmctZDRSTQ?oc=5",
+      "published": "Tue, 20 Jan 2026 09:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple stock tumbles nearly 3% despite analyst upgrade: here’s why - TradingView — Track All Markets",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzY2WUFCV2xKelpnQ1V5V3kwdnBhQW9ocXpkNWF2ZlU1enFPckZlZW55Qlo3LXZaendNMkgzUnYtdWNzTmZETURVa2ZvT29jc3p1clQ2ZEdjUm5qYUZFa0hXNmFGZTlkbjBSblpTaFBDbGJyLV9rcWxRb3N5WDJXUG1tMERlLXB6dlJuSFpEOU1UV21OZUdnQWozRXlSeEktRzFJOVlMMmRCZVRmNTRXMGVvVkYxZE5sN0pOQg?oc=5",
+      "published": "Tue, 20 Jan 2026 19:45:51 GMT",
+      "source": "TradingView — Track All Markets"
+    },
+    {
+      "title": "Apple Stock Hands $847 Bil Back – Worth a Look? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenV5QlV3T2g4ZkNja3YtSW9zek9uWjl1UURGRE5jc3FxcHhDQ3Vnc2ZFNE1GRlFtMUtHeXEtZG9sd2lTYVZvbnV0OGZNRFpILWJwZHA5VXdYMzY4T1BnMXB4WU14Y0hDNGFVb2YyMmdPSjBmdElJMmdwMHRqZjQybC1XN0JnMWNjaW1NNjM5b2dMZFY4SUFuN1I1Qmx4OXZlTUduelRKTHk?oc=5",
+      "published": "Wed, 21 Jan 2026 09:41:49 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "‘Apple Stock Headed for $300’: Top Analyst Sees AAPL Rising Despite Tariffs, Regulation, and Macro Uncertainty - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXdZUmVMY1VFMm5SV0dvbTJDdy1pSFpwT0pBNm9wWmxtSVFqNzJBeTBNUDNuYXI5V0JfTTFZMlV0MnpLcFNMalZhN1lBM1dkTWw0ejhFM01KbWExWlJVeE9XMHBvMWRWa0dVQ3FXU0ROZ2ljenhwUHBqOVM5STNRZnVHanRYR2E1R2dKb3piLUlPNmJJTTJySTJDZi1abWxfalhLX0hfOHJSei1Eb3ZNRV9vckMya0hpMkhHNDNJWTE5b0xWMGo0VFJpalVKX28?oc=5",
+      "published": "Thu, 22 Jan 2026 00:25:22 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": null
+}
