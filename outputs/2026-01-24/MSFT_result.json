@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.607,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.6634 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0203 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0213 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0254 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0127 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Is Up, What You Need To Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5",
+      "published": "Fri, 23 Jan 2026 19:55:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock Hands Over $350 Billion To Shareholders - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUdvNXJPWG5ibkNybm1jN3lzemlsOFhiMDdMNDc0RzdzQTdibjVqbU5NRG4yMjlaemdoUTNUNjBoajdkejZMek0zZTB0WExxM0lqZEV1TEtjeU9Za0ZOSVMtZ2k0cmJEWDlpZi1fTnVEOTduNkFxbndreV9sLXVMcDRXdy1WOUhnWUVySVFKaUxVdVFoOUNZdnUyT3pKaW1URmZ1ZVJUZlgwQXV4WDBlaXFHMA?oc=5",
+      "published": "Fri, 23 Jan 2026 14:46:09 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Assessing Whether Microsoft (MSFT) Is Undervalued After Recent Share Price Weakness - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmt1NGNGQkY4LWxCTDgxRU01MzdHQ1VKcHBvWHllZXAyWGVSWENqOTg1WWFFelVCcXROZDFqWFFOTHg4RmFaanFMYXA1bFlwd091eU9jcXBobF83OHpRQWhDM3hxTnFiNGt0aEM3bm94cTB3ZHRldlBDOFZoSm5EbXd6TE15bEw2QWNaVkhPb3Ruc3YtZjhxV3BPa25CRHp6dnNYS0VZcHJHQllCUDFWcmlJUV9JQ1pWb3M1aTNGSlg1Z2NvNVBV0gHMAUFVX3lxTE52VTc3d1czVk1sUVhiRWlzS0xuVnVNNFN4OV9ySUM5T0xHdjdlLU5ncGtLYjNQNV85cExJdVNNTHljNm0yLXRUY3lsOUNFYUkwRVQ5dzZJV1J5cGlRRzI2bEF3cmM0UGI5SVBUVE55Vi1kbFNIcDI2LVVDVUJJMW9BdFZrSVNBeGk4eUU3bW1nLUZlN1Q5bU5LaHBLejJCZVNNeWt3YktNTWN4d1VVTkw2X2V3c2MxbkJDV0tRZlN6Vm8zaDdsUWNjclRkVA?oc=5",
+      "published": "Wed, 21 Jan 2026 13:32:45 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft: The $134 Billion Misunderstanding (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFNMTzEyTlhrVXQzS19XRVZ5ZU5lTTNQcjF5anJ3M0NEZXRHeTkyNTlwMlRlazlCbGVQbGhPYTRGdWlyUGhPQXkxVXhTUWlOQVYwNkx6bkptcWh0OHhQNjRtUG15ZjgyQnFOSG9Fb3pfMk5HMTJaWXdKRXRqeVA4SFhlc0hIZkFCWGJV?oc=5",
+      "published": "Tue, 20 Jan 2026 14:15:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Why Microsoft Stock Popped Friday - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEJIX0ZqTk5lZmxYMDZzRDZKbTNKX0VweG1UOEFXTjk2Vmd4RHNsa01ySDY0eUM0cTZYdmhaZUhCXzNTa0VCd1l1djFuUlBBbV8yWi1GZTY5b210czZCc3NLZmRTUGtkeVBCUzNZdzVORnVnVUh1anA2bnJOT2EzNW1R?oc=5",
+      "published": "Fri, 23 Jan 2026 18:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock at $600 or $400? Here’s What You Should Bet On - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaml6Z1BUbGxwSWVDbDA0b0FrSmFzNXVtTlBMcnFmbklSRHZDdTQxYmVrdktZSWdVVW4taUItQVFkMzJTYm9jWHVRY1pvbnZkTWU2NzgtQUlWWmlGdG52Yk1lUzFJVm5BVml2Sy16Q1hHVGlQWjJyMGNsUnZpWmR0VDk1ZHcxbjZvVnhDRWsxeHBSc1FTVTRISHJ0dTNJNl9hcUhZVg?oc=5",
+      "published": "Tue, 20 Jan 2026 16:48:18 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Moves -1.10%: What You Should Know - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHlCb0F4ZWx6YzZCRk5tTW5iNzFNNVE3VmJISExPSHJQamlSeE5KUF9kUGVpcXc1QlFSdlZVZktrTVZyUHVDWDVCMWYyWGlTQzByT1JfTDkwVzhHaE01d0Y5SjNUcDJWZjJNaDVwMEJkeFhSV0tQU0FjQlNxZkFnb0NERkZIdVJTTGhR?oc=5",
+      "published": "Tue, 20 Jan 2026 22:55:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Dear Microsoft Stock Fans, Mark Your Calendars for January 28 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcFRMelFla1BqYlA3d1RSU21fdUxBU0d4d3I0bFlVYjdxQ3M4WkNlTTg5M0dXbDdHWDBwaHhPMkhpVmRaSUNGblp3V25CVnl0bGJRRmdWak96aWhhX29QdURCYXdkVE9NeVVTYzlqZHJrV09iZzlqNnA3TnNXWDUzVEdHdl9kc0c4d2Y4UHd3NEFiaHdOS1RsVU8zbU13TDdHN1NoOE1UQTI?oc=5",
+      "published": "Tue, 20 Jan 2026 15:33:28 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้น Microsoft (MSFT) ปรับตัวขึ้น",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าราคาหุ้น Microsoft ปรับตัวขึ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Microsoft คืนเงิน 3.5 แสนล้านดอลลาร์ให้กับผู้ถือหุ้น",
+        "why": "การที่บริษัทคืนเงินจำนวนมหาศาลให้ผู้ถือหุ้นมักแสดงถึงความแข็งแกร่งทางการเงินและมักเป็นปัจจัยบวกต่อความเชื่อมั่นของนักลงทุน"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ประเมินว่า Microsoft (MSFT) มีมูลค่าต่ำกว่าความเป็นจริงหรือไม่หลังจากราคาหุ้นอ่อนตัวลงล่าสุด",
+        "why": "พาดหัวข่าวเป็นการประเมินสถานะของหุ้นหลังจากการอ่อนตัว ซึ่งไม่ได้ระบุทิศทางราคาในอนาคตที่ชัดเจนในตัวมันเอง"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "สาเหตุที่หุ้น Microsoft พุ่งขึ้นเมื่อวันศุกร์",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าราคาหุ้น Microsoft พุ่งขึ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Microsoft (MSFT) เปลี่ยนแปลง -1.10%: สิ่งที่คุณควรรู้",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าราคาหุ้น Microsoft ปรับตัวลดลง 1.10%"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "มีพาดหัวข่าวหลายชิ้นที่ระบุว่าราคาหุ้นปรับตัวขึ้นและมีการคืนเงินให้ผู้ถือหุ้นจำนวนมาก อย่างไรก็ตาม มีข่าวที่ระบุว่าหุ้นปรับตัวลงเล็กน้อยในวันหนึ่งและการประเมินสถานะ"
+    }
+  }
+}
