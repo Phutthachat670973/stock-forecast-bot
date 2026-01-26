@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-01-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.828,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 12.0832 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0517 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0394 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0425 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0269 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Jim Cramer Reveals Why Apple (AAPL) Stock is Struggling - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SdFVoRUQ3WjRST21saXpCVkF0QzRuaHFXWE4tdy1KSTdIWWI1aHJLSE56WjljblA4ejJmQXpEQXRBS0JoazFKUmFNVlJaN1V1aUlTaXZRQUF4bFpYOFc4N2txRFFtUFlyelZET3BOVkY4UTBkdzFzRERDRmlZVDg?oc=5",
+      "published": "Sat, 24 Jan 2026 15:59:44 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ahead of Earnings, Is Apple Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPem5mQjl1UVlkYXduNXU5ZnpYaHlSX2F0S1BPLTNVemJpVVRtTlc1V0xOMzc2WGdwbDJlaS1LNG5QbDNlZW13V0JfLUs0c1VHRGtrZXZBN2llQXlMX1pRcFg3clFZZnBnN1k3c2h5dFJMckFkVXRRRkRqUzZ4S1IzaUJLX3R1T0t1MV9XOUVoQUphTHA4c3B5THVxOFNtY0lu?oc=5",
+      "published": "Fri, 23 Jan 2026 14:25:43 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "How investors should play Apple stock as it looks to break 7-week losing streak - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGRnTHN0a1gycTJqbEEyVlVKYlRSazRwZlo5WmxqT3h5NURZaXRheklhejlkbjZlX090amJUVHUyNDVfSGR1NFNOa1NNR1NManphd3BTLXVSQndjcGlPSTIyZkZmQ0p6UjdsNEcxVlhhVmZjaXBwZ3U2c2tIYkRSQmNIMFB6cC13SzNzMXNBams3TzFzbWhZR04zZU5GWkQ0OWtoTTVjZEJfeVZNeHRmU1pvcGNGTkU?oc=5",
+      "published": "Tue, 20 Jan 2026 19:45:51 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Where Will Apple Stock Be in 1 Year? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzY5Sll5QUlvOHluTkxES056ZEVOdzE4ZkdVTGVwck5jd0ZidjNfczNXVnhaRmJKTTJmRURrb2ptaW8wTGxCdERvaEZXa2M5aGtmVVFfcmZvVl9zZ2RCNl9DQUZERW04eTN6QXlWUVdHb3VUVUhoRF9FNmhOSFpXYmdDbzU?oc=5",
+      "published": "Fri, 23 Jan 2026 16:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple | AAPL Stock Price, Company Overview & News - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rWDNjOGl0aWxxdkhOMjkwZHdyR0ptVVhFaVJOUDVtZW9XYlk2b3RtTkdoWmY0ajMyUE16Wm5WN0VlUkVsa24zYmhJcHdMNmZF?oc=5",
+      "published": "Tue, 20 Jan 2026 14:00:00 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Why Apple’s Sell-Off May Be Overdone Right Before Earnings - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYU0zQVRWalJkNXdiX29rQW1sWlE5Sk01eW9Mc0xTXzNac0hMZDJhY0lxX0RSUVBmYnNKdlNCLVU4M21hZmZZU2k1dmxIWXU2eHFRNkdXZjJURUZZemNIUm4zVmQ2WDN0XzV3US1WVlVfWFJZT1h0MnU0V05aV1N3SEsyaThvcEZCQzlJb3BUR25nZU9ncHc3WmUtVQ?oc=5",
+      "published": "Thu, 22 Jan 2026 21:47:48 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple's weakness is a 'buying opportunity' into earnings: Goldman (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGttWTJPNGhQZWxTVm1HRW1NdE1PejY0MjVxa3RZazZVQmVmU3BwVS1KOGpkSW5WZl9BUDlIUUZzOWU3cENJVVNmZno5eXRScUhJU2JOZ0FxTDZ6Wlo0ZklfcVFmYTlQQzJnYU9PQnliSWhVNW1sUGRPSnhLZVZoSlo3TnVUcGVQbENKbGM5RUJFRUMyMGNvRklvNkxMZkhw?oc=5",
+      "published": "Wed, 21 Jan 2026 19:39:10 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "AAPL - Apple Inc Stock Price and Quote - Finviz",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VVpTazYwR3NVeGVVRURfbU43Mm53dVE1ZHZhMkozOTF3TS15a09Pb0twZm44NlBBRFdFR1NCalVIcS1DcjVXWGhsOGk?oc=5",
+      "published": "Fri, 23 Jan 2026 21:00:00 GMT",
+      "source": "Finviz"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "เฮดไลน์ระบุว่าหุ้น Apple กำลังประสบปัญหาตามที่ Jim Cramer เปิดเผย",
+        "why": "คำว่า 'Struggling' (ประสบปัญหา) บ่งชี้ถึงแรงกดดันเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "เฮดไลน์ตั้งคำถามเกี่ยวกับการประเมินมูลค่าหุ้น Apple ว่าควรซื้อ ขาย หรือมีมูลค่าที่เหมาะสมก่อนการประกาศผลประกอบการ",
+        "why": "เป็นการตั้งคำถามเชิงวิเคราะห์ที่ยังไม่มีข้อสรุปชัดเจนว่าเป็นบวกหรือลบ แต่เน้นการพิจารณาก่อนผลประกอบการ"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 75,
+        "summary": "เฮดไลน์กล่าวถึงวิธีที่นักลงทุนควรรับมือกับหุ้น Apple ขณะที่พยายามจะหลุดพ้นจากช่วงที่ราคาตกติดต่อกัน 7 สัปดาห์",
+        "why": "แม้จะมีการกล่าวถึง 'losing streak' (ราคาตกติดต่อกัน) ซึ่งเป็นสัญญาณเชิงลบ แต่ก็ระบุว่า 'looks to break' (พยายามจะหลุดพ้น) ซึ่งบ่งชี้ถึงความเป็นไปได้ในการเปลี่ยนแปลง ทำให้โดยรวมแล้วเป็นกลางเนื่องจากยังไม่มีทิศทางที่ชัดเจน"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "เฮดไลน์แนะนำว่าการเทขายหุ้น Apple อาจจะมากเกินไปแล้วก่อนการประกาศผลประกอบการ",
+        "why": "คำว่า 'May Be Overdone' (อาจจะมากเกินไปแล้ว) บ่งชี้ว่าราคาอาจจะถูกกดดันลงมามากเกินจริงและอาจมีการฟื้นตัวได้"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "เฮดไลน์ระบุว่าความอ่อนแอของ Apple เป็น 'โอกาสในการซื้อ' ตามความเห็นของ Goldman Sachs ก่อนการประกาศผลประกอบการ",
+        "why": "วลี 'buying opportunity' (โอกาสในการซื้อ) เป็นสัญญาณเชิงบวกที่ชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีสัญญาณที่ขัดแย้งกันโดยบางส่วนบ่งชี้ถึงปัญหาและราคาที่ตกต่ำ แต่ก็มีบางส่วนที่มองว่าเป็นการเทขายที่มากเกินไปและเป็นโอกาสในการซื้อก่อนการประกาศผลประกอบการ ทำให้ภาพรวมยังเป็นกลาง"
+    }
+  }
+}

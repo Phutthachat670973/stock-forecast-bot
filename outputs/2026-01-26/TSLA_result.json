@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5111,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0868 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0239 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0304 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0122 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0069 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock Can Drop, And Here Is How - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalppdFJkb01RZTRQMmh0My1JRl91eVk5V1FiRU9HcTNpVGFaTDJXSUo0d09JaGFZbHA3b3pMdURLRkx2czg5QkxBbmRLYmJKdHp2MXZMOWZzcjV5cHVnM2JWam9HdkVZdVBrYlVicGFQb2E2bG9FSExjcjBWVC1zZHJlcV82OWRZS1ZPOW5IQkZlb3ZkZkYxdVdMNA?oc=5",
+      "published": "Thu, 22 Jan 2026 14:34:04 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla Stock Drops With Market. Musk Focuses On AI Chips. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPNHoxVzd6ay12d1E4ZF94dDltblhKbF9LZko1VFVocWpTREdIYXhoTVpYd21yZlE2VXhUOUFqOVhILVJuQW5QV3F6d0xmTmtpN1hJc1BTbl9WQkcyMjJFdE1Sc3lVWHpXdXFwMFVRU2RtUnVPakVxNk84Y2ZtaTFoOGtWN2RiYVRKT0JZdjQ5cWc2dFB5aDVmb212Y0lReGhfWVV6R0pYLUFkSHVnMXY1SkthMUFrTVJRb2E0Vi1RbXZDNlBUNkpPU3k5OXloRGVxZ3RpbXh4SEFmN2JhcFY3ZTJDOGlnQ3dnN3c3LXZ3RndaY1E2S3E5QzdRSFhfWG01ZDQzSndOanZST1NEdm9pV2IzTlVvNlAyMDY2dkFRRVF0YUYzRTAxaVJld0pYbHlBR2xRek1LckZnVloyYnRvU2ZkTDYyS2hjVU9UZnlXRWpyRlpqOUQ5UUVTcGNtTmFwMDROTVVLUk5JX2N1V3hpRjZoMkw3d3RpM3BxbUpZNngxRGc?oc=5",
+      "published": "Tue, 20 Jan 2026 21:41:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Tesla's Earnings Could Be Much Better Than Expected (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzYxT3d3U3RJd0wtV0RpVy1pOU0yZ2VIaTRCeHBMUXlJekVUb0lhVW1lWXU2akF0bkxWTmpfOTF0d2IzVU9sOTZkanZSclFVbGNqemVFc0NWdnlMMkQyM09xU3IyRC1pcE5QTmFCZUJpdHB4V0w3SXg1eTN4NWJMTmRzcTJXMV9WbE5XdlpSZkpMQ2NC?oc=5",
+      "published": "Wed, 21 Jan 2026 17:41:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Jan 22) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjNKMU9fN0RPTTZmWHBRZzE1TGFWeFo5V2NvRFNtNTBiMFc2azE4REZtSnVFMkcwWjNOcFlmYy16MWZ1UXpjRjhmaG8xZmlfN3V1WTc3bVR6ekpYWWZlbG5SQ3FMLXRmczZDY3R2WnAzTnlfMDJ5WUtuYVA4cFMzQjJwVzZHUU1QdEUyMg?oc=5",
+      "published": "Thu, 22 Jan 2026 14:05:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 23 Jan 2026 17:05:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Could Buying Tesla Stock Today Set You Up for Life? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzZPVjZLaXZFRy00RW81NEladjBnVDJ6NkRSanVLcUZzd2FFdFk3Z3ByYnFXWWMzWjVVTXpuV2FFOUZyUzMyWU5VTW5zejFsUXhhNWJEY1JOS0tuYnVfc2p5OWMtTEJtZlRDNkNqY1FSa0FHa3B0ZTI0ME9MMllQbGo0U25jWlFrZmpNRXkxc1l4V3lCUzhuSg?oc=5",
+      "published": "Tue, 20 Jan 2026 20:32:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "TSLA: Tesla Stock Slides as Robotaxi Autonomy Faces Scrutiny - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObDRwZFVCSzltTFVaRndLbDlQTDAzOGJiNmQ4LW55WFVKdmFqb1JKUmVqNjdvcEJIZzN0bnBfOTJWSFdpLU1vd3hqU1JuMEdxLXA0ekp5aHRWZ0JtYmpoY2tTOGQxODZDUjRDOEVuWjRwOE9PZ3hTUUhmYXVmWVlPSVhpWGg?oc=5",
+      "published": "Fri, 23 Jan 2026 18:14:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Bulls vs. Bears Are Getting Loud Ahead of Earnings - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHM5MGwtUkxMNWEyaDVhRU1nTkY1c3hEbF9vNDY5c3ZCeTNqMTZ5aTdISmJMZUpTcnBEUmRmRTV1VUJHOVFTOFFrTVJJdUR4VmlZUE83aVptMFk2SEgxbDJMNVBKODlSRklOM1NmTU9ONTFremQwWjM5TmZiRjJ4eGtuUHFLb1lJbDhHb3JJSnpDOFBwYTQ0bQ?oc=5",
+      "published": "Wed, 21 Jan 2026 14:34:10 GMT",
+      "source": "MarketBeat"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวระบุถึงความเป็นไปได้ที่หุ้น Tesla จะปรับตัวลดลง และอธิบายถึงวิธีการที่อาจเกิดขึ้น",
+        "why": "คำว่า 'Can Drop' (สามารถลดลงได้) บ่งชี้ถึงแนวโน้มเชิงลบและแรงกดดันขาลงต่อราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "หัวข้อข่าวระบุว่าหุ้น Tesla ปรับตัวลดลงพร้อมกับตลาด และ Elon Musk กำลังมุ่งเน้นไปที่ชิป AI",
+        "why": "ประโยค 'Tesla Stock Drops With Market' (หุ้น Tesla ปรับตัวลดลงพร้อมกับตลาด) บ่งชี้ถึงผลการดำเนินงานของหุ้นที่ไม่ดีในปัจจุบัน"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวชี้ว่าผลประกอบการของ Tesla อาจจะดีกว่าที่คาดการณ์ไว้มาก",
+        "why": "คำว่า 'Could Be Much Better Than Expected' (อาจดีกว่าที่คาดการณ์ไว้มาก) บ่งชี้ถึงแนวโน้มเชิงบวกที่ชัดเจนสำหรับผลประกอบการ ซึ่งอาจสนับสนุนราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวระบุว่าหุ้น Tesla ปรับตัวลดลงเนื่องจากระบบขับเคลื่อนอัตโนมัติของ Robotaxi เผชิญกับการตรวจสอบ",
+        "why": "คำว่า 'Stock Slides' (หุ้นปรับตัวลดลง) และ 'Faces Scrutiny' (เผชิญกับการตรวจสอบ) บ่งชี้ถึงแรงกดดันขาลงต่อราคาหุ้นจากประเด็นปัญหาที่สำคัญ"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวระบุถึงการถกเถียงที่เข้มข้นระหว่างกลุ่มกระทิงและกลุ่มหมีสำหรับหุ้น Tesla ก่อนการประกาศผลประกอบการ",
+        "why": "คำว่า 'Bulls vs. Bears' (กลุ่มกระทิงกับกลุ่มหมี) ชี้ให้เห็นถึงความเห็นที่แตกต่างกันในตลาดโดยไม่มีทิศทางที่ชัดเจนจากหัวข้อข่าวเพียงอย่างเดียว"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 80,
+      "note": "หัวข้อข่าวส่วนใหญ่ที่เลือกไว้บ่งชี้ถึงแรงกดดันขาลงต่อราคาหุ้นในปัจจุบันและอนาคตอันใกล้ แม้จะมีสัญญาณเชิงบวกเกี่ยวกับผลประกอบการที่อาจดีกว่าคาดก็ตาม"
+    }
+  }
+}
