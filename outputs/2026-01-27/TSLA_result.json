@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4288,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2138 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0187 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0220 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0088 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0053 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock Can Drop, And Here Is How - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalppdFJkb01RZTRQMmh0My1JRl91eVk5V1FiRU9HcTNpVGFaTDJXSUo0d09JaGFZbHA3b3pMdURLRkx2czg5QkxBbmRLYmJKdHp2MXZMOWZzcjV5cHVnM2JWam9HdkVZdVBrYlVicGFQb2E2bG9FSExjcjBWVC1zZHJlcV82OWRZS1ZPOW5IQkZlb3ZkZkYxdVdMNA?oc=5",
+      "published": "Thu, 22 Jan 2026 14:34:04 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla's Earnings Could Be Much Better Than Expected (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzYxT3d3U3RJd0wtV0RpVy1pOU0yZ2VIaTRCeHBMUXlJekVUb0lhVW1lWXU2akF0bkxWTmpfOTF0d2IzVU9sOTZkanZSclFVbGNqemVFc0NWdnlMMkQyM09xU3IyRC1pcE5QTmFCZUJpdHB4V0w3SXg1eTN4NWJMTmRzcTJXMV9WbE5XdlpSZkpMQ2NC?oc=5",
+      "published": "Wed, 21 Jan 2026 17:41:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla (NASDAQ: TSLA) Stock Price Prediction and Forecast 2026-2030 (Jan 22) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjNKMU9fN0RPTTZmWHBRZzE1TGFWeFo5V2NvRFNtNTBiMFc2azE4REZtSnVFMkcwWjNOcFlmYy16MWZ1UXpjRjhmaG8xZmlfN3V1WTc3bVR6ekpYWWZlbG5SQ3FMLXRmczZDY3R2WnAzTnlfMDJ5WUtuYVA4cFMzQjJwVzZHUU1QdEUyMg?oc=5",
+      "published": "Thu, 22 Jan 2026 14:05:09 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Removes Safety Monitors From Some Austin Robotaxis. The Stock Is Rising. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2tfZ1dLLXdqV3RrZlVvckJUY09BdVZkSk9QRl9xa3k2NlhBVFJTTWx1SVFVQkdMOHhRbkVRd05XQ0hVVXlnVmg4bmdFcmRrWDNhbzFNUVlGd1lSc1RhZ3pjUGoyUmh0OHV2SXMzUVVwd1QzTUxEc2wtSTdrNWt2NV83S18yRXVmSjM1OGFGVTA4T0pVaXhMUzN3?oc=5",
+      "published": "Thu, 22 Jan 2026 22:30:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Could Buying Tesla Stock Today Set You Up for Life? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzZPVjZLaXZFRy00RW81NEladjBnVDJ6NkRSanVLcUZzd2FFdFk3Z3ByYnFXWWMzWjVVTXpuV2FFOUZyUzMyWU5VTW5zejFsUXhhNWJEY1JOS0tuYnVfc2p5OWMtTEJtZlRDNkNqY1FSa0FHa3B0ZTI0ME9MMllQbGo0U25jWlFrZmpNRXkxc1l4V3lCUzhuSg?oc=5",
+      "published": "Tue, 20 Jan 2026 20:32:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Earnings Preview: Tesla (TSLA) Q4 Earnings Expected to Decline - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajRSYXlSQWdtRVpHelRrOVFrS3NqMGM4ZHg2MUhzeF9aX2xCcUlINy1UaFRwdEVSRFo5dWlCcnlpWmVwcGpidXNtZFVvUjN5M0tGa0FwaW1pNEdtOUlidTVWcW9YWnJtTTgyd0xjbHBOZE5NMWw3eVBKNkd2WlBJdE5n?oc=5",
+      "published": "Wed, 21 Jan 2026 15:00:11 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Buy, Sell or Hold TSLA Stock? Key Tips Ahead of Q4 Earnings - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkoxVVZScW5JQk9MdVNjS0N0VkZDM3RQLW5aNld2ZUt5dGN5ZGtNdUptTFplQXdEdWVLbjlVN1YtdGw3Rmo4VjlPcXVhV2RFTHdBYzY2MGtUNzNZaUJHZ1ZKa25RczBWZnF6VTUtd25pZ1QwcmdoSjlMWjZwengteUJ3bmg4dGFGdmRVR0FBN2lqVUdDLVBTaWNZNU8xNHM?oc=5",
+      "published": "Wed, 21 Jan 2026 12:32:03 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "“Biggest Bubble…in Stock Market History”: Tesla Stock (NASDAQ:TSLA) Drops With Another Director Lost - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRF8ycGZfYmx2ODRkNzhCNVNvaFBGRGdoZmpLY2lHTTcyMFRvLWQ5b29FdTljYmNqN3IwdXlBT0xWYU5wSFJYNFdJb3BuSWl1RnhyaVM3cE0zUlQzWjFhb3g5R21yUzFaeVUyUnRLV0VSZ2RLbmJqNWpjUWpvYTBCdUtOTlltZEl4c3pGYmtZR3dwRktxRDZFSTFKZlFuY3ZEeHlXSGN3bnhwbVNkaUp5anlvdUhiZ1ZaWnVLN2dCT1ZkUQ?oc=5",
+      "published": "Mon, 26 Jan 2026 18:01:42 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla มีโอกาสปรับตัวลง และนี่คือเหตุผล",
+        "why": "พาดหัวข่าวระบุว่าหุ้น Tesla สามารถปรับตัวลงได้"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ผลประกอบการของ Tesla อาจดีกว่าที่คาดการณ์ไว้มาก (NASDAQ:TSLA)",
+        "why": "พาดหัวข่าวระบุว่าผลประกอบการของ Tesla อาจดีกว่าที่คาดการณ์ไว้มาก"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Tesla ถอดจอภาพความปลอดภัยออกจาก Robotaxis บางส่วนในออสติน และหุ้นกำลังปรับตัวขึ้น",
+        "why": "พาดหัวข่าวระบุว่าหุ้นกำลังปรับตัวขึ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ภาพรวมผลประกอบการ: ผลประกอบการไตรมาส 4 ของ Tesla (TSLA) คาดว่าจะลดลง",
+        "why": "พาดหัวข่าวระบุว่าผลประกอบการไตรมาส 4 คาดว่าจะลดลง"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "“ฟองสบู่ที่ใหญ่ที่สุด...ในประวัติศาสตร์ตลาดหุ้น”: หุ้น Tesla (NASDAQ:TSLA) ปรับตัวลงพร้อมกับการสูญเสียกรรมการอีกราย",
+        "why": "พาดหัวข่าวระบุว่าหุ้น Tesla ปรับตัวลง และมีการสูญเสียกรรมการ ซึ่งเป็นสัญญาณเชิงลบที่ชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 80,
+      "note": "โดยรวมแล้ว มีพาดหัวข่าวเชิงหมี (bearish) มากกว่าพาดหัวข่าวเชิงกระทิง (bullish) และบางข่าวเชิงหมีมีการใช้คำที่สื่อถึงแนวโน้มเชิงลบที่รุนแรงกว่า"
+    }
+  }
+}

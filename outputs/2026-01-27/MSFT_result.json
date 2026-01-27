@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5312,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2160 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0227 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0214 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0192 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0188 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Is Up, What You Need To Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5",
+      "published": "Fri, 23 Jan 2026 19:55:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ahead of Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkNCWVhnMXZmWFFtZjd5M2tZcTBRTDFWOHlYOGJTTWlXS3BPd2Y5V1doSzVIVzlwOXJUbDhwSnFOMTdSckh6Wmx0Tm43N2FtNmI0SVRwbXZNX2pTejhBTEh5XzFKWWU0TjJkeXVZNXRqMzJUNHVXNXRuQnFGajZvVTFDNWlEMVA5a1hWcU0wTHVYT1hrUThmREtyWVRvbFFOblBSeGtB?oc=5",
+      "published": "Thu, 22 Jan 2026 09:52:15 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Should You Buy Microsoft Stock Before Earnings? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanhHTkRDY0d2UDZWWFlIRzV5bVJneTNldDFBWUdwSV9ISjczVm1UVGVKTTdzODJwTXRLdGE4aXQxTm8zejRlX0YwbXcxT1ZOMEc1THZyQkxrd0Z3QVUwZ3ZNS0tIR3VxNEZVMjhSLVZ5NlNLa2hwYm1namV6cDV4NkE0MlE0N2JlR1RkVmFLWXJDakU?oc=5",
+      "published": "Sun, 25 Jan 2026 04:49:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Assessing Whether Microsoft (MSFT) Is Undervalued After Recent Share Price Weakness - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmt1NGNGQkY4LWxCTDgxRU01MzdHQ1VKcHBvWHllZXAyWGVSWENqOTg1WWFFelVCcXROZDFqWFFOTHg4RmFaanFMYXA1bFlwd091eU9jcXBobF83OHpRQWhDM3hxTnFiNGt0aEM3bm94cTB3ZHRldlBDOFZoSm5EbXd6TE15bEw2QWNaVkhPb3Ruc3YtZjhxV3BPa25CRHp6dnNYS0VZcHJHQllCUDFWcmlJUV9JQ1pWb3M1aTNGSlg1Z2NvNVBV0gHMAUFVX3lxTE52VTc3d1czVk1sUVhiRWlzS0xuVnVNNFN4OV9ySUM5T0xHdjdlLU5ncGtLYjNQNV85cExJdVNNTHljNm0yLXRUY3lsOUNFYUkwRVQ5dzZJV1J5cGlRRzI2bEF3cmM0UGI5SVBUVE55Vi1kbFNIcDI2LVVDVUJJMW9BdFZrSVNBeGk4eUU3bW1nLUZlN1Q5bU5LaHBLejJCZVNNeWt3YktNTWN4d1VVTkw2X2V3c2MxbkJDV0tRZlN6Vm8zaDdsUWNjclRkVA?oc=5",
+      "published": "Wed, 21 Jan 2026 13:32:45 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft: The $134 Billion Misunderstanding (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFNMTzEyTlhrVXQzS19XRVZ5ZU5lTTNQcjF5anJ3M0NEZXRHeTkyNTlwMlRlazlCbGVQbGhPYTRGdWlyUGhPQXkxVXhTUWlOQVYwNkx6bkptcWh0OHhQNjRtUG15ZjgyQnFOSG9Fb3pfMk5HMTJaWXdKRXRqeVA4SFhlc0hIZkFCWGJV?oc=5",
+      "published": "Tue, 20 Jan 2026 14:15:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWhxeXNoQ3Riem4wdDhaZzA0SjA4bU1IVllkcEV4Y1V1eUFpTTV4Vllfb1VnSnBQV3k4VnBuUzlWb0dURDZ3V2pyQm83cUtuWU9FaFpSZEd0T1FQczZlNllPSFJVcUFKb1EyYUZVRW43UE9aMk1iOUtuOGc2UTk1QjA2QkFhXzh1YWhTSEF0ZW82LTdickFSY2ROeGIwelVjRHJqRA?oc=5",
+      "published": "Fri, 23 Jan 2026 17:08:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft Stock Before Q2 Earnings: Buy Now or Wait for Results? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0h5dmxTNV9tck9iN01JS0pINlVLWEtaWWRWNS1KNWx0ZFlmcU9DMUhycE1xUWtyZnF0N0FuaW1RSUFGT1d5RGg2LVdmTk1NaGZBWjlhUC1PelNDNDJmRlVJOGdtZG45TmdJVGgyc3kzRExlc0o5bGJzQWwxM2E0Rkk5UDdHSnJpUDhaQVU3MF85eVU4dV9TM2RoSmhJS3pqZ19pX093?oc=5",
+      "published": "Mon, 26 Jan 2026 13:23:23 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Microsoft Stock at $600 or $400? Here’s What You Should Bet On - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaml6Z1BUbGxwSWVDbDA0b0FrSmFzNXVtTlBMcnFmbklSRHZDdTQxYmVrdktZSWdVVW4taUItQVFkMzJTYm9jWHVRY1pvbnZkTWU2NzgtQUlWWmlGdG52Yk1lUzFJVm5BVml2Sy16Q1hHVGlQWjJyMGNsUnZpWmR0VDk1ZHcxbjZvVnhDRWsxeHBSc1FTVTRISHJ0dTNJNl9hcUhZVg?oc=5",
+      "published": "Tue, 20 Jan 2026 16:48:18 GMT",
+      "source": "24/7 Wall St."
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft (MSFT) มีราคาเพิ่มขึ้น",
+        "why": "หัวข้อข่าวระบุโดยตรงว่าราคาหุ้น MSFT กำลังเพิ่มขึ้น ซึ่งเป็นสัญญาณเชิงบวกในปัจจุบัน"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ก่อนประกาศผลประกอบการ หุ้น Microsoft ควรซื้อ ขาย หรือมีมูลค่าที่เหมาะสม?",
+        "why": "หัวข้อข่าวเป็นคำถามที่เปิดกว้างเกี่ยวกับสถานะการลงทุนของหุ้น Microsoft ก่อนการประกาศผลประกอบการ โดยไม่มีการชี้นำทิศทางใดเป็นพิเศษ"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "การประเมินว่า Microsoft (MSFT) มีมูลค่าต่ำกว่าที่ควรจะเป็นหรือไม่ หลังจากราคาหุ้นอ่อนตัวลงเมื่อเร็วๆ นี้",
+        "why": "หัวข้อข่าวกล่าวถึง 'ราคาหุ้นที่อ่อนตัวลง' (bearish) แต่ตั้งคำถามถึงความเป็นไปได้ที่จะ 'มีมูลค่าต่ำกว่าที่ควรจะเป็น' (potential bullish opportunity) ทำให้ภาพรวมของการประเมินเป็นกลาง"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 70,
+        "summary": "Microsoft: ความเข้าใจผิดมูลค่า 1.34 แสนล้านดอลลาร์",
+        "why": "คำว่า 'ความเข้าใจผิด' ไม่ได้ระบุทิศทางที่ชัดเจนว่าเป็นเชิงบวกหรือลบต่อราคาหุ้น ทำให้เป็นกลางและต้องอ่านรายละเอียดเพิ่มเติม"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft จะไปที่ 600 หรือ 400 ดอลลาร์? นี่คือสิ่งที่คุณควรเดิมพัน",
+        "why": "หัวข้อข่าวเสนอเป้าหมายราคาที่เป็นไปได้สองทางที่แตกต่างกันมาก ซึ่งสะท้อนถึงความไม่แน่นอนของทิศทางราคาในอนาคต"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 75,
+      "note": "หัวข้อข่าวส่วนใหญ่มีลักษณะเป็นคำถามเกี่ยวกับการตัดสินใจลงทุน การประเมินมูลค่า หรือการนำเสนอช่วงราคาที่เป็นไปได้ ซึ่งแสดงถึงความไม่แน่นอนหรือการนำเสนอข้อมูลเพื่อประกอบการตัดสินใจ มากกว่าการชี้นำทิศทางที่ชัดเจน มีเพียงหนึ่งหัวข้อข่าวที่ระบุถึงราคาหุ้นที่เพิ่มขึ้นในปัจจุบัน"
+    }
+  }
+}
