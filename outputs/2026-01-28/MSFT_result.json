@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-27",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.57,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 5 วัน = 0.0573 → หนุนขึ้น",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1657 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0210 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0199 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0186 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Is Up, What You Need To Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5",
+      "published": "Fri, 23 Jan 2026 19:55:50 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Should You Buy Microsoft Stock Before Earnings? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPanhHTkRDY0d2UDZWWFlIRzV5bVJneTNldDFBWUdwSV9ISjczVm1UVGVKTTdzODJwTXRLdGE4aXQxTm8zejRlX0YwbXcxT1ZOMEc1THZyQkxrd0Z3QVUwZ3ZNS0tIR3VxNEZVMjhSLVZ5NlNLa2hwYm1namV6cDV4NkE0MlE0N2JlR1RkVmFLWXJDakU?oc=5",
+      "published": "Sun, 25 Jan 2026 04:49:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Here's How Much Traders Expect Microsoft Stock to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTFOQlI3SGpaV3BrYUlXbFR2Y05ic0ZPVk1peU8zMDRUYlFFQXhzRWxXTy1jeGRDSUstS3NUUUNpLUNROVY2cFBEbkxpYTNTeFJnWEZUclpKVENnQ1h3SGNKRWRaa21qTEJLb2k1clM5NVVaNXJIbVNoLUdkaTl6YTdjRi14SXNBbXJvU2t4eDAtUDliRHNEN3hOYVFMNlpaRjAwR3BBNzdyb2JtT2NFWlFaVQ?oc=5",
+      "published": "Wed, 28 Jan 2026 00:15:44 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Assessing Whether Microsoft (MSFT) Is Undervalued After Recent Share Price Weakness - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQmt1NGNGQkY4LWxCTDgxRU01MzdHQ1VKcHBvWHllZXAyWGVSWENqOTg1WWFFelVCcXROZDFqWFFOTHg4RmFaanFMYXA1bFlwd091eU9jcXBobF83OHpRQWhDM3hxTnFiNGt0aEM3bm94cTB3ZHRldlBDOFZoSm5EbXd6TE15bEw2QWNaVkhPb3Ruc3YtZjhxV3BPa25CRHp6dnNYS0VZcHJHQllCUDFWcmlJUV9JQ1pWb3M1aTNGSlg1Z2NvNVBV0gHMAUFVX3lxTE52VTc3d1czVk1sUVhiRWlzS0xuVnVNNFN4OV9ySUM5T0xHdjdlLU5ncGtLYjNQNV85cExJdVNNTHljNm0yLXRUY3lsOUNFYUkwRVQ5dzZJV1J5cGlRRzI2bEF3cmM0UGI5SVBUVE55Vi1kbFNIcDI2LVVDVUJJMW9BdFZrSVNBeGk4eUU3bW1nLUZlN1Q5bU5LaHBLejJCZVNNeWt3YktNTWN4d1VVTkw2X2V3c2MxbkJDV0tRZlN6Vm8zaDdsUWNjclRkVA?oc=5",
+      "published": "Wed, 21 Jan 2026 13:32:45 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft: Deep Discount Before Earnings (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGRSMU1hY0poTV9IMzZETW9malUwLWR3OVZ2eEV5MVpMU3RSc3YwZVl0dk03UnRoZDRBRHJsNlloOEU4SU01YkVtbW1JeGlsaFRsR3czMDZ6WlMyWVNheDgxVGZhMy02NS1NMUlKeHRSQVJiQldtd3RNREVkQUtwZGQwXzZKZlk?oc=5",
+      "published": "Fri, 23 Jan 2026 16:47:03 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Stock Before Q2 Earnings: Buy Now or Wait for Results? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0h5dmxTNV9tck9iN01JS0pINlVLWEtaWWRWNS1KNWx0ZFlmcU9DMUhycE1xUWtyZnF0N0FuaW1RSUFGT1d5RGg2LVdmTk1NaGZBWjlhUC1PelNDNDJmRlVJOGdtZG45TmdJVGgyc3kzRExlc0o5bGJzQWwxM2E0Rkk5UDdHSnJpUDhaQVU3MF85eVU4dV9TM2RoSmhJS3pqZ19pX093?oc=5",
+      "published": "Mon, 26 Jan 2026 13:23:23 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Microsoft Stock Hands Over $350 Billion To Shareholders - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUdvNXJPWG5ibkNybm1jN3lzemlsOFhiMDdMNDc0RzdzQTdibjVqbU5NRG4yMjlaemdoUTNUNjBoajdkejZMek0zZTB0WExxM0lqZEV1TEtjeU9Za0ZOSVMtZ2k0cmJEWDlpZi1fTnVEOTduNkFxbndreV9sLXVMcDRXdy1WOUhnWUVySVFKaUxVdVFoOUNZdnUyT3pKaW1URmZ1ZVJUZlgwQXV4WDBlaXFHMA?oc=5",
+      "published": "Fri, 23 Jan 2026 14:46:09 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Retakes Key Level Amid New AI Chip Launch, With Earnings On Tap. Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sTHBOTWE4VEpfLUl1dnc4MUREQXZZOXJlVGRIa1RqTHRNXzZLRzFNUWRxc2hYSzhSRThrZ2EweHFYalpwVGRrREo3d2J5Q1NhX1VFZE1zNnFzc0N4ZDUzX1dNMGk1cV9uNTdkUXZfU0JSS2hEYUFMa1VSVDBzdw?oc=5",
+      "published": "Tue, 27 Jan 2026 20:09:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้นของ Microsoft (MSFT) ปรับตัวขึ้น",
+        "why": "พาดหัวระบุว่า 'Stock Is Up' ซึ่งบ่งชี้ถึงผลการดำเนินงานที่เป็นบวกในปัจจุบัน"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "คำถามว่าควรซื้อหุ้น Microsoft ก่อนประกาศผลประกอบการหรือไม่",
+        "why": "พาดหัวเป็นคำถามเกี่ยวกับการตัดสินใจลงทุนก่อนการประกาศผลประกอบการ ไม่ได้ระบุทิศทางที่ชัดเจน"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "การประเมินว่าหุ้น Microsoft (MSFT) มีมูลค่าต่ำกว่าความเป็นจริงหรือไม่ หลังราคาหุ้นอ่อนตัวลงเมื่อเร็วๆ นี้",
+        "why": "แม้จะกล่าวถึง 'Share Price Weakness' (ราคาหุ้นอ่อนตัวลง) แต่การประเมินว่า 'Is Undervalued' (มีมูลค่าต่ำกว่าความเป็นจริง) ชี้ให้เห็นถึงศักยภาพในการปรับขึ้นของราคาหุ้นในอนาคต"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft คืนเงิน 350 พันล้านดอลลาร์ให้กับผู้ถือหุ้น",
+        "why": "การคืนเงินจำนวนมหาศาลให้กับผู้ถือหุ้นแสดงถึงความแข็งแกร่งทางการเงินและความมุ่งมั่นในการสร้างมูลค่า ซึ่งมักจะเป็นปัจจัยหนุนราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Microsoft กลับสู่ระดับสำคัญ ท่ามกลางการเปิดตัวชิป AI ใหม่ และกำลังจะประกาศผลประกอบการ มีคำถามว่าตอนนี้ควรซื้อหุ้น Microsoft หรือไม่",
+        "why": "การที่ราคาหุ้น 'Retakes Key Level' (กลับสู่ระดับสำคัญ) และ 'New AI Chip Launch' (การเปิดตัวชิป AI ใหม่) เป็นสัญญาณเชิงบวกที่ชัดเจน ส่วนคำถามท้ายประโยคถูกตั้งขึ้นในบริบทของข่าวดีเหล่านี้"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "หัวข้อข่าวส่วนใหญ่ชี้ไปที่สัญญาณเชิงบวกสำหรับ Microsoft ไม่ว่าจะเป็นราคาหุ้นที่ปรับตัวขึ้น การคืนมูลค่าให้ผู้ถือหุ้น การประเมินว่าหุ้นมีมูลค่าต่ำกว่าความเป็นจริง และการเคลื่อนไหวเชิงกลยุทธ์ในด้าน AI ก่อนการประกาศผลประกอบการ"
+    }
+  }
+}
