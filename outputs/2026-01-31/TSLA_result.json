@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-30",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.5045,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2938 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0415 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0151 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0186 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0148 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla tops estimates for quarter, but wraps up first annual revenue drop on record - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcmNFZHZuaU5TbzVFaTJFSXBadWI1WUhtWXo2ck9jdnVFVmFQaFRnNHJlMVo2SUQ4MGcyMGg0V1Z2RDhLUnlqY3ppQ2N6SDF4RGhGOVhHaWtxSVFpNlI3dW8xTTBTZHBoV0xqaU9GRTBtZ9IBd0FVX3lxTE5feGdQZmdrcFdZWFRHZE9wY3dwd0p2dzNreGViMWtzTW5BMmRYM2lLWFFIX1BjaFRtdmdxZjhXX0NhaXhudlRTS0pfYkdWa0FEOEt5dXljbXVmM013a21scDgxc2VNN01FeTVPQTZWTUVjSDlhVUJZ?oc=5",
+      "published": "Wed, 28 Jan 2026 17:00:02 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Tesla (TSLA) Earnings Preview: Battery Demand in Focus - tastylive",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2V0Sk56VDJGa1ZWbFpUbElxMXNBdW42aUt3Ui1KTGNQbHlaTGdQemoxVnpZX2tENUNqZTZYMExBd3EzbGVBa0RfSW9mS1kxcFFfZnVPSXlYelRIeHhCbFQ0MmRvdTk0aWZObGYyQktqdEJ0TFB5azdpVGVCNllud0FYcm8zamhINDBtVmx2a1F6M1VMS2c?oc=5",
+      "published": "Tue, 27 Jan 2026 20:21:21 GMT",
+      "source": "tastylive"
+    },
+    {
+      "title": "Tesla Q4 2025 Earnings Preview: Should You Buy or Dump TSLA Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGR2WnY1TmlJT3loY1ZkRk5fcmdpbG0wNy1RWUl1RDJVaVE4dzlPMndRajZQNjlfb3VLVDBOc1E0c1VoQTZHelBMLXpmZFpIc01MNm1GYlAtMmJVOThWWE1uSkNDX0xfVFg1VE1zczJEcDVLOEtCbWJ4dG9BWUJLQnJB?oc=5",
+      "published": "Tue, 27 Jan 2026 15:42:09 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla (TSLA) Q4 2025 earnings preview: another year of decline in the books - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDNVQnpxS29XbGRsYmkyMUVFRHp0Yk1OWW9HUXNrTlpOekExVVYwQXBuLUVSWE1JWjZwWlN6amtJS1ZQOEZnMlBqU28zVmFQc2NGeXpWLXRIOHAwQVl6U0ZMdzRNZjZEcDBMc25HNHNaN2xfLS13RlhCdWt1aUY5REowSG5IT1hOVEc5REV5LThXZw?oc=5",
+      "published": "Tue, 27 Jan 2026 14:32:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Here's How Much Traders Expect Tesla Stock to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzgzZjNMOWhvOXM0WU1oZmRRN0xwbDc4X0V3NUFsa1l0M1lQdFVZUkJJc19pY0diRlhVWmRvY0p0OXdEQ0FLajNFNVlzT1hPdGwtZklkb1ZvaUVMY2hvWURscnc2TWJUbXo0TzRPQnR0SHF0ajNGMzh3VFltbTM5ay1lRDM3MnR6RVlmb3NsU0RBOHJYNjk0M1dzWElrd3drSktmNVBOOE5DWjBrVlBiOXA1ZkEyY2dU?oc=5",
+      "published": "Wed, 28 Jan 2026 17:58:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla Stock Falls As The Market Mulls Tesla's Shift To 'Transportation-As-A-Service,' Massive Capital Spending - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzR4LUg3UGFEQmZXOGFlZXE3WFkwZWx6ekJCckt0QWw2aEVmVjZTYnpoNlZKQXR6ZmNod0dDUHdrT29rUEswYndGQUI4R3VJd1pjSUl1ZDdpVzZFZ2VTUGhEX2l1aDZhWGgzbUwydkJEejhEQUZlRUF1NlpVejVmcDg5dUw3dlRQdHNHRzZiSVM3UQ?oc=5",
+      "published": "Thu, 29 Jan 2026 21:04:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla (TSLA) Q4 2025 Earnings Preview: A High-Stakes Test of Patience and Promise - marketpulse.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVy05S0V3VU1HMUYzQ0ZqNlZwNkNvU2xyWmtfdnNHV0M3WnNIWkdPRFFNNUtBWDA3bE55ZzdwWEZERXJaOVVNd0ZJMVlmb1U1R2YwZ2pmMnBqdGd2OFRac1R6aUxmb1BwUXg4NUZERFdSbUxpWjNMNFJVMVllaUVackc2eUt3d2ZVQ200SGYyTkticTNsTWt3ZERDQUF2UjIyb3JRZV9fQmYyZ1VqLTkyaDFlN0ZoZw?oc=5",
+      "published": "Wed, 28 Jan 2026 00:44:00 GMT",
+      "source": "marketpulse.com"
+    },
+    {
+      "title": "Tesla Stock Falls. Why Its Earnings Will Be ‘Ugly.’ - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPTU1WZ25fVmhvN2RtZzNwakVseEYxWjlUR0pqeDg3NXBNUEhYY2d1dVVnblJsQU04anU1QjJsMkZVRWE0Y0VhWXRRcm1Pcm9RSjFwbFg0T05LdkdWMUtkOFUxR21OUWhzSGpNMTVoZ1VaZEROclB2d1J3MmNEbWZ4V3BTS2d2M2oyUW9PM2hRRk52dHJOampjRFNMTDZWeURBRDBzRkJQamp1MDVzTS1yckR4TTVNSkdEMWIxUzJxaGxyZHhUdkVwU2R0WWpoOExjUXpLMUJTX08zT0xaeVFDVVljcmNaQXJ5VjI0b2w5Q3V4MHZTRDJydmxzMWxKbzVUSkpuTUxMeHNDbUttOHpvekZ1OVdfNElST3ZodEdCNVZPblNiT1JzUm95amkzeWEtRWN1a1Q3T2RUWW9ISUVEOXpxX1RYd2JzcXJVVHpfbW1wWERjaFhXOHZ2MVZVUHZfUk5nMEFKd2hpSW5ab2poZDloT1VfcE9JaVBmRXJISnF3LVE?oc=5",
+      "published": "Tue, 27 Jan 2026 21:28:00 GMT",
+      "source": "Barron's"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Tesla เกินประมาณการสำหรับไตรมาสนี้ แต่ปิดฉากการลดลงของรายได้ประจำปีครั้งแรกเป็นประวัติการณ์",
+        "why": "แม้จะเกินประมาณการรายไตรมาส แต่การลดลงของรายได้ประจำปีครั้งแรกเป็นประวัติการณ์บ่งชี้ถึงปัญหาพื้นฐานที่สำคัญ ซึ่งอาจส่งผลลบต่อราคาหุ้นในระยะยาว"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ตัวอย่างผลประกอบการไตรมาส 4 ปี 2025 ของ Tesla (TSLA): อีกหนึ่งปีของการลดลง",
+        "why": "วลี 'อีกหนึ่งปีของการลดลง' ชี้ให้เห็นถึงแนวโน้มเชิงลบอย่างต่อเนื่องสำหรับบริษัท ซึ่งอาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla ร่วงลงเนื่องจากตลาดกำลังพิจารณาการเปลี่ยนแปลงของ Tesla ไปสู่ 'บริการขนส่ง' และการใช้จ่ายด้านทุนจำนวนมาก",
+        "why": "การที่หุ้นร่วงลงโดยตรงเป็นสัญญาณเชิงลบที่ชัดเจน และปัจจัยที่ตลาดพิจารณาก็มีผลกระทบด้านลบในปัจจุบัน"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla ร่วงลง ทำไมผลประกอบการถึง 'น่าเกลียด'",
+        "why": "การที่หุ้นร่วงลงและการคาดการณ์ผลประกอบการที่ 'น่าเกลียด' เป็นสัญญาณเชิงลบที่ชัดเจนและแข็งแกร่ง"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ตัวอย่างผลประกอบการของ Tesla (TSLA): ความต้องการแบตเตอรี่อยู่ในความสนใจ",
+        "why": "เป็นเพียงการเกริ่นนำถึงผลประกอบการที่กำลังจะมาถึงและจุดที่น่าสนใจ ไม่ได้ระบุผลลัพธ์ที่เป็นบวกหรือลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "จากหัวข้อข่าวที่เลือกมา ส่วนใหญ่บ่งชี้ถึงแนวโน้มเชิงลบสำหรับ Tesla โดยเฉพาะอย่างยิ่งการลดลงของรายได้ประจำปีและราคาหุ้นที่ร่วงลง"
+    }
+  }
+}
