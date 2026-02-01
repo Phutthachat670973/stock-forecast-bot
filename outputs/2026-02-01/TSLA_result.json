@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-01-30",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.505,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2961 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0415 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0151 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0186 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0148 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla tops estimates for quarter, but wraps up first annual revenue drop on record - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIcmNFZHZuaU5TbzVFaTJFSXBadWI1WUhtWXo2ck9jdnVFVmFQaFRnNHJlMVo2SUQ4MGcyMGg0V1Z2RDhLUnlqY3ppQ2N6SDF4RGhGOVhHaWtxSVFpNlI3dW8xTTBTZHBoV0xqaU9GRTBtZw?oc=5",
+      "published": "Wed, 28 Jan 2026 17:00:02 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Tesla (TSLA) Earnings Preview: Battery Demand in Focus - tastylive",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2V0Sk56VDJGa1ZWbFpUbElxMXNBdW42aUt3Ui1KTGNQbHlaTGdQemoxVnpZX2tENUNqZTZYMExBd3EzbGVBa0RfSW9mS1kxcFFfZnVPSXlYelRIeHhCbFQ0MmRvdTk0aWZObGYyQktqdEJ0TFB5azdpVGVCNllud0FYcm8zamhINDBtVmx2a1F6M1VMS2c?oc=5",
+      "published": "Tue, 27 Jan 2026 20:21:21 GMT",
+      "source": "tastylive"
+    },
+    {
+      "title": "Here's How Much Traders Expect Tesla Stock to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzgzZjNMOWhvOXM0WU1oZmRRN0xwbDc4X0V3NUFsa1l0M1lQdFVZUkJJc19pY0diRlhVWmRvY0p0OXdEQ0FLajNFNVlzT1hPdGwtZklkb1ZvaUVMY2hvWURscnc2TWJUbXo0TzRPQnR0SHF0ajNGMzh3VFltbTM5ay1lRDM3MnR6RVlmb3NsU0RBOHJYNjk0M1dzWElrd3drSktmNVBOOE5DWjBrVlBiOXA1ZkEyY2dU?oc=5",
+      "published": "Wed, 28 Jan 2026 17:58:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla (TSLA) Q4 2025 Earnings Preview: A High-Stakes Test of Patience and Promise - marketpulse.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVy05S0V3VU1HMUYzQ0ZqNlZwNkNvU2xyWmtfdnNHV0M3WnNIWkdPRFFNNUtBWDA3bE55ZzdwWEZERXJaOVVNd0ZJMVlmb1U1R2YwZ2pmMnBqdGd2OFRac1R6aUxmb1BwUXg4NUZERFdSbUxpWjNMNFJVMVllaUVackc2eUt3d2ZVQ200SGYyTkticTNsTWt3ZERDQUF2UjIyb3JRZV9fQmYyZ1VqLTkyaDFlN0ZoZw?oc=5",
+      "published": "Wed, 28 Jan 2026 00:44:00 GMT",
+      "source": "marketpulse.com"
+    },
+    {
+      "title": "Tesla (TSLA) Q4 2025 earnings preview: another year of decline in the books - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDNVQnpxS29XbGRsYmkyMUVFRHp0Yk1OWW9HUXNrTlpOekExVVYwQXBuLUVSWE1JWjZwWlN6amtJS1ZQOEZnMlBqU28zVmFQc2NGeXpWLXRIOHAwQVl6U0ZMdzRNZjZEcDBMc25HNHNaN2xfLS13RlhCdWt1aUY5REowSG5IT1hOVEc5REV5LThXZw?oc=5",
+      "published": "Tue, 27 Jan 2026 14:32:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Tesla Stock Falls As The Market Mulls Tesla's Shift To 'Transportation-As-A-Service,' Massive Capital Spending - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzR4LUg3UGFEQmZXOGFlZXE3WFkwZWx6ekJCckt0QWw2aEVmVjZTYnpoNlZKQXR6ZmNod0dDUHdrT29rUEswYndGQUI4R3VJd1pjSUl1ZDdpVzZFZ2VTUGhEX2l1aDZhWGgzbUwydkJEejhEQUZlRUF1NlpVejVmcDg5dUw3dlRQdHNHRzZiSVM3UQ?oc=5",
+      "published": "Thu, 29 Jan 2026 21:04:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla Stock: Buy, Sell, or Hold in 2026?​ - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUtqUXNUTXZFbFhya2JoT2lWVHFuenR4TGs4R1JubmZEVEVadkxfQXBIYkExc0ZTOE50RVZpbjFNZjN4cUJ6ZUYzTm9DSG5ETVFDWnVYak10RlBybzBqc2ZOdEl3WGxvbnAyUVhlODB1SzhmbmdCblE5eWxrcGd4dGF0WVZwZw?oc=5",
+      "published": "Sun, 25 Jan 2026 07:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock: Three Catalysts Nobody Is Seeing - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnNZYThVYWhYVmFSV3dTLUY2VWJvY1dsal9wZXRUbnUzQXFReHBFdVFWZ1ZnUGJVRnctbHBpd2dmMi1YVVlRYkdGdDlTWk0xVExfbjg5TmxYYlJSWHY4dnhCa05PLV9VbXB0bVpxQ3huam5HWklHUXV0TFBScGU1ZmswQlhEYlRweFMzXzVrZEtfNGE5TGw5dlAwTGxlN1o5dTY2TGpB?oc=5",
+      "published": "Fri, 30 Jan 2026 16:08:29 GMT",
+      "source": "Forbes"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "เทสลาทำผลงานได้ดีกว่าประมาณการสำหรับไตรมาสนี้ แต่สรุปผลประกอบการรายปีลดลงเป็นครั้งแรกเป็นประวัติการณ์",
+        "why": "พาดหัวข่าวมีทั้งข่าวดีที่ทำได้ดีกว่าประมาณการในไตรมาส และข่าวร้ายที่รายได้ประจำปีลดลงเป็นครั้งแรก จึงมีทั้งปัจจัยหนุนและกดดันราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้นเทสลาลดลงเนื่องจากตลาดพิจารณาการเปลี่ยนแปลงของเทสลาไปสู่ 'Transportation-As-A-Service' และการใช้จ่ายด้านทุนจำนวนมาก",
+        "why": "พาดหัวข่าวระบุว่าราคาหุ้นเทสลาลดลงอย่างชัดเจน ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "การพรีวิวผลประกอบการไตรมาส 4 ปี 2025 ของเทสลา (TSLA) ชี้ให้เห็นถึงอีกปีที่รายได้ลดลง",
+        "why": "พาดหัวข่าวนี้คาดการณ์ถึง 'อีกปีที่รายได้ลดลง' ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบต่อผลประกอบการ"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "นี่คือจำนวนที่นักลงทุนคาดการณ์ว่าหุ้นเทสลาจะเคลื่อนไหวหลังการประกาศผลประกอบการ",
+        "why": "พาดหัวข่าวนี้เพียงแค่รายงานการคาดการณ์การเคลื่อนไหวของหุ้น โดยไม่ได้ระบุทิศทางที่ชัดเจนว่าเป็นบวกหรือลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 70,
+        "summary": "มีปัจจัยกระตุ้นสามประการสำหรับหุ้นเทสลาที่ยังไม่มีใครมองเห็น",
+        "why": "คำว่า 'Catalysts' (ปัจจัยกระตุ้น) โดยทั่วไปหมายถึงปัจจัยที่อาจผลักดันราคาหุ้นให้สูงขึ้น ซึ่งเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 75,
+      "note": "แม้จะมีข่าวดีบางส่วนและปัจจัยกระตุ้นที่อาจเกิดขึ้น แต่ข้อมูลที่รายงานเกี่ยวกับการลดลงของรายได้ประจำปีเป็นประวัติการณ์ การปรับตัวลดลงของราคาหุ้น และการคาดการณ์แนวโน้มเชิงลบในอนาคตมีน้ำหนักมากกว่า ทำให้ภาพรวมเป็นเชิงลบ"
+    }
+  }
+}
