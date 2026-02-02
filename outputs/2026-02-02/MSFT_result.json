@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-01-30",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4998,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.7123 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0747 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0765 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0577 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0233 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft stock is flat the day after sinking 10%. Here's why - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONk1GSmh5QV8zcVpxMmgyX0MzRjVlV0xaa0J4VTM3VlB5NkxTazNXOFc4YmxnM29sc003b1c1TEs3ek9uM2FEdW91b3I2ckxmWkt0LVRCbHZjdXk3OHNrU1hURjIxWlQtRzY0WnFsOU9KMWJpcHJtbk1tU2RsMFA1OUtKaXNYU1I3NDU4RVpBTU9CbEXSAZgBQVVfeXFMUEFoMmlkdDc1Tm9zMEZwZ0VHbFNkTU9yRXI1VkM4dDJNMmdfOWc2bi1kYjFjb1JJU2t0Q0ZXRG0tMDBhY2hWbEYxTXM1bXphQzBDb3ZwZF82MmgxN3Y5TnJCRC1YMGV3ZFdRNGI1OWZDRUdmaVdJTzRXMmg4ZU81NERITmpiQ3ZzdjhjZ0FoVEtVQ0FsUHp4QjQ?oc=5",
+      "published": "Fri, 30 Jan 2026 11:47:36 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft Q2 earnings beat, but stock plummets as investors fret on AI spend, cloud growth - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3NOcWYxcjMyT1JKUHB3MkJsc3NWazJDaWlFdDQzYVVVbmhEcHRfT1p2SXVmX2tpaG44Y0ZmY3VTa2hwNUIzM1g2TVZsUlU0b1g1dkROc0tYdElpMmV6TUdBb09RUVVWMjBOSWwwajFjbWZEUkl2LWVWSUllaW5rbURmSEZzTE0yQ1Fibk1JZDE1OXJkQTdKazdiYXE2eTlxMExiOHc4SWVJMzVLQWtfN1A3X2VRZEtTQWRwdElTd0h1bHd1bDRsNXVrMHNYb00?oc=5",
+      "published": "Thu, 29 Jan 2026 15:50:57 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Earnings: Good Quarter With AI Demand Ramping and Azure Good - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0dwQnFLb1FnTHN1T19EVlVTOHZVcXlseXkzVFdLb0xRSjQ0MHhWSElHR3UwTnVuT0Voc09fUFpDY0E1bHp3czVXclIwMnIzMkxKSEFWcFFNZDM0Sm9pRkR0Y0FDdlBCT0RoYWRGZ1ZXR0xNV1QyeWR5a0pIUm1CNjlhRXBROG1nM292bDZ0RElmU2FiQW4wYU55R2E2UkNId0xNdmhENGM4b3I2b2c?oc=5",
+      "published": "Thu, 29 Jan 2026 09:30:27 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Microsoft Shares Plunge 10%, Wiping Out Nearly $360 Billion in Market Value - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXFldGpnSFdfZUlMQk1IUjc3UjAzcldRYVVYQ0pGcDM1dVpGZ0J4OUs1QWNBdE9aWVhMT3N5VlVOLXFFVW5fOFNJSThmYTlRbXpLVWxiUFExdGlOU1NmV1Fmd1BnVkRXZ0tMbkFRX216ZFNjYlh1T1hoM1dWY0UzNi0zOXp4WVVwUXhF?oc=5",
+      "published": "Thu, 29 Jan 2026 16:51:15 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Microsoft Shares Slide Despite Strong Cloud Growth. Is It Time to Buy the Dip? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVk9CbkxBc1NjTkZXdGl5eEk3SjlWNzZheTd1NWNIX2s1TlhURjEyLXhqVzAyOGN3T2w1Yk93czZrbURLQ0ZwTUN0ZV8tT0xvQkRoc0VXX2dhdVNITFVTWE9CSE01RlNRVTA3bGNiMVdWUHd0b1dfUGFITmFYNUlPbXR3MU5rNTdMbDdjdkFjQzJFT0tlSmx3Nw?oc=5",
+      "published": "Sat, 31 Jan 2026 17:25:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "How Low Can Microsoft Stock Go? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbF94UUE4R2w0UXA3b3RGM1NiY1NpWlNIVmhaaVVGdUl6YlJsZkQ0bGM3TlVJZnNCbG5ubDc1cjlpRTg0aW50WVYxNkJfVmMzdUw3R1lNcFNoYWhJV3Z0eV93MzE5MjdRT1Vxc1hibWRDbkVaNU1yaTBZTDV5c1RtOFY3S3BmeTM4MS1obTQydTRhTGM?oc=5",
+      "published": "Fri, 30 Jan 2026 14:28:43 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft stock plunges 10% as its worst day in years sees a $357 billion market cap wipeout - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wdndYNm5QWTFiM2pJOURzNjNPdkdQLVNxOVctd2kxN3QwNGJRTWp5UWN5N3Vud1ZzSmlSdHU5Z2hkekZ0ZTlTSFBPMGFnd1JoRHVoNXV5NW5PbjhZcXExVXpkbUt1aXRUbkFjZA?oc=5",
+      "published": "Thu, 29 Jan 2026 21:57:32 GMT",
+      "source": "qz.com"
+    },
+    {
+      "title": "Microsoft Stock Falls 6% as Record AI Spending Overshadows Earnings Beat - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc01XQ0dId3FscEg1a0U0bjBnR2FBNU9lYlAxZ1VzaHdqcnhPUExKTjBSOEZkZVRleXFUbUpiSEh1WldOWDB0YmhKWk1zeHh0aC1yWDZhWWVIVHRuUDNDT1Y0VG5Tb0MxRHppLXZSSUQxN19pSkFDVUZlcHVsb0JpV0NiZ1RPU0xiOEJMNjBpbFpSbVQxTHRZ?oc=5",
+      "published": "Thu, 29 Jan 2026 10:04:44 GMT",
+      "source": "TIKR.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ผลประกอบการไตรมาส 2 ของ Microsoft ดีเกินคาดการณ์ แต่ราคาหุ้นกลับร่วงลงอย่างหนัก เนื่องจากนักลงทุนกังวลเกี่ยวกับการใช้จ่ายด้าน AI และการเติบโตของคลาวด์",
+        "why": "พาดหัวระบุชัดเจนว่า 'หุ้นร่วงลงอย่างหนัก' แม้ผลประกอบการจะดีเกินคาด ซึ่งบ่งชี้ถึงผลกระทบเชิงลบต่อราคาหุ้นโดยรวม"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ผลประกอบการของ Microsoft ถือว่าดีในไตรมาสนี้ โดยมีความต้องการ AI ที่เพิ่มขึ้น และ Azure มีประสิทธิภาพที่ดี",
+        "why": "พาดหัวเน้นย้ำถึง 'ไตรมาสที่ดี' และปัจจัยบวกต่างๆ เช่น 'ความต้องการ AI เพิ่มขึ้น' และ 'Azure ดี' ซึ่งสนับสนุนมุมมองเชิงบวก"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft ร่วงลง 10% ทำให้มูลค่าตลาดหายไปเกือบ 360 พันล้านดอลลาร์",
+        "why": "พาดหัวระบุอย่างชัดเจนว่า 'หุ้นร่วงลง 10%' และมีการ 'ล้างมูลค่าตลาด' ซึ่งเป็นสัญญาณเชิงลบอย่างมากต่อราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "หุ้น Microsoft ปรับตัวลงแม้มีการเติบโตของคลาวด์ที่แข็งแกร่ง ถึงเวลาเข้าซื้อช่วงราคาตกต่ำแล้วหรือยัง?",
+        "why": "พาดหัวแสดงข้อมูลทั้งเชิงลบ (หุ้นร่วง) และเชิงบวก (การเติบโตของคลาวด์ที่แข็งแกร่ง) และตั้งคำถามเกี่ยวกับการ 'ซื้อช่วงราคาตกต่ำ' ซึ่งบ่งชี้ถึงความไม่แน่นอนและมุมมองที่หลากหลาย"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft ทรงตัวในวันถัดจากที่ร่วงลง 10% นี่คือเหตุผล",
+        "why": "พาดหัวระบุชัดเจนว่า 'หุ้นทรงตัว' ในวันนั้น ซึ่งหมายถึงไม่มีการเคลื่อนไหวขึ้นหรือลงอย่างมีนัยสำคัญ แม้จะเกิดหลังจากที่ราคาหุ้นร่วงลงอย่างหนักก่อนหน้านี้"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 85,
+      "note": "แม้ว่าผลประกอบการของ Microsoft จะมีการเติบโตของ AI และคลาวด์ที่ดีในบางส่วน แต่หุ้นของบริษัทได้ร่วงลงอย่างหนักหลังจากนักลงทุนแสดงความกังวลเกี่ยวกับการใช้จ่าย AI และอัตราการเติบโตของคลาวด์ โดยมูลค่าตลาดลดลงหลายแสนล้านดอลลาร์ในวันเดียว"
+    }
+  }
+}
