@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.368,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0850 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.1000 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2019 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0797 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0195 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft stock is flat the day after sinking 10%. Here's why - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONk1GSmh5QV8zcVpxMmgyX0MzRjVlV0xaa0J4VTM3VlB5NkxTazNXOFc4YmxnM29sc003b1c1TEs3ek9uM2FEdW91b3I2ckxmWkt0LVRCbHZjdXk3OHNrU1hURjIxWlQtRzY0WnFsOU9KMWJpcHJtbk1tU2RsMFA1OUtKaXNYU1I3NDU4RVpBTU9CbEXSAZgBQVVfeXFMUEFoMmlkdDc1Tm9zMEZwZ0VHbFNkTU9yRXI1VkM4dDJNMmdfOWc2bi1kYjFjb1JJU2t0Q0ZXRG0tMDBhY2hWbEYxTXM1bXphQzBDb3ZwZF82MmgxN3Y5TnJCRC1YMGV3ZFdRNGI1OWZDRUdmaVdJTzRXMmg4ZU81NERITmpiQ3ZzdjhjZ0FoVEtVQ0FsUHp4QjQ?oc=5",
+      "published": "Fri, 30 Jan 2026 11:47:36 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft Q2 earnings beat, but stock plummets as investors fret on AI spend, cloud growth - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3NOcWYxcjMyT1JKUHB3MkJsc3NWazJDaWlFdDQzYVVVbmhEcHRfT1p2SXVmX2tpaG44Y0ZmY3VTa2hwNUIzM1g2TVZsUlU0b1g1dkROc0tYdElpMmV6TUdBb09RUVVWMjBOSWwwajFjbWZEUkl2LWVWSUllaW5rbURmSEZzTE0yQ1Fibk1JZDE1OXJkQTdKazdiYXE2eTlxMExiOHc4SWVJMzVLQWtfN1A3X2VRZEtTQWRwdElTd0h1bHd1bDRsNXVrMHNYb00?oc=5",
+      "published": "Thu, 29 Jan 2026 15:50:57 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "2 Monster Stocks to Hold for the Next 20 Years -- Including Microsoft (MSFT) Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1dCMmNpZUphSDRMcGNRbHpIQUgwZ2I5dUxId2FWUU0wNG1WU0JMeUxmUkY4VjlVMzd1MF9lVmN3NEhJazRJamV4Nl9KV2RDU1hhNW1ZVDB2TUUxUEpJVjVURUQ4cWhyb0oyTkd3SGU2OWtOcWdMc19US0dWR2NwU1hHTEY5clNITjhSWFVZc1RTTnp1?oc=5",
+      "published": "Sun, 01 Feb 2026 18:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Markets Brief: Microsoft Stock Under Pressure, Pharma Earnings and Jobs Report on Deck - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0RBQVhDZGVvc29IMHM4YnBwZ3dXSUplWXBWeEMweDdwWnY2WWNSSW1TbWcxcmp3VjZZT2M1R2RJQzBjbndwcFhGY2ZUckgzS1I4UGdpSmd5NEluWFBzZEVZS1hXY1dnQUdjdFQ0OW5YbzJWRzZ3RG5WRkoxOVJudEc4dzNQTVZwSXVsNFJVZHVSaUdYMzFvcXpnWGx6Nm51ck1BeWljQzR1dzBkeDJXbzg5b3R3cktFdWxRTUVhNA?oc=5",
+      "published": "Mon, 02 Feb 2026 09:55:37 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Microsoft stock plunges 10% as its worst day in years sees a $357 billion market cap wipeout - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wdndYNm5QWTFiM2pJOURzNjNPdkdQLVNxOVctd2kxN3QwNGJRTWp5UWN5N3Vud1ZzSmlSdHU5Z2hkekZ0ZTlTSFBPMGFnd1JoRHVoNXV5NW5PbjhZcXExVXpkbUt1aXRUbkFjZA?oc=5",
+      "published": "Thu, 29 Jan 2026 21:54:33 GMT",
+      "source": "qz.com"
+    },
+    {
+      "title": "Shorting Microsoft Puts Looks Very Attractive to Value Investors in MSFT Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXpZci1heEM2TjJreVRBZ2R1VE44b0JBU0xTRVlDUmZYWG53RVFuV0pQX0JDbmhqYjZJQ2dmUkVNUEUzdHc2MlIzUEtyaXlOdkRuNE5VWmtsTGlvUWotVjNWYXdtVFVKamFDczR6dGxmNTJWUU10bkJ3aGlGekFPNWxXM2UtRzBQNm14c1BrSGRmbHBNeDJNTklSMFpMOE5aYlJ5NWFySVRvUjEwVjJkNjBiQ1pSSUt5XzBzcGhhUTE?oc=5",
+      "published": "Mon, 02 Feb 2026 17:54:00 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "How Low Can Microsoft Stock Go? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbF94UUE4R2w0UXA3b3RGM1NiY1NpWlNIVmhaaVVGdUl6YlJsZkQ0bGM3TlVJZnNCbG5ubDc1cjlpRTg0aW50WVYxNkJfVmMzdUw3R1lNcFNoYWhJV3Z0eV93MzE5MjdRT1Vxc1hibWRDbkVaNU1yaTBZTDV5c1RtOFY3S3BmeTM4MS1obTQydTRhTGM?oc=5",
+      "published": "Fri, 30 Jan 2026 14:28:43 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Beats December-Quarter Targets, But Stock Falls Late - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDlXVXBQMU02bHFXZXk4cHYwQWcySXhMVm5RZ0lkR0R5V3R5cnU4a08tdFhtUWJuYk52X3FTTXVDa0RNckU3emlHdEljaVNHNVVLakdObll3cjdTek9DUW91QXZ3MjQzZ1ltUThkVU8wbmpoWjZEZmxEUHBGMC1hQmdMMTlwS3AzMHpLbTlVc3Y?oc=5",
+      "published": "Wed, 28 Jan 2026 23:21:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ผลประกอบการไตรมาส 2 ของ Microsoft ดีเกินคาด แต่ราคาหุ้นกลับร่วงลงอย่างหนัก เนื่องจากนักลงทุนกังวลเกี่ยวกับการใช้จ่ายด้าน AI และการเติบโตของคลาวด์",
+        "why": "แม้ผลประกอบการจะดี แต่ราคาหุ้นกลับลดลงอย่างมากจากความกังวลของนักลงทุน ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้นในระยะสั้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ราคาหุ้น Microsoft ดิ่งลง 10% ซึ่งเป็นวันที่แย่ที่สุดในรอบหลายปี ทำให้มูลค่าตลาดหายไป 3.57 แสนล้านดอลลาร์",
+        "why": "การที่ราคาหุ้นดิ่งลงอย่างรุนแรงถึง 10% และสูญเสียวูลค่าตลาดมหาศาลบ่งชี้ถึงแรงกดดันเชิงลบต่อราคาหุ้นอย่างชัดเจน"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ราคาหุ้น Microsoft ทรงตัวในวันถัดมา หลังจากที่ตกลง 10%",
+        "why": "แม้จะกล่าวถึงการร่วงลงอย่างรุนแรงก่อนหน้า แต่สถานะ 'ทรงตัว' ในวันถัดมาบ่งชี้ถึงการหยุดนิ่ง ไม่ใช่การฟื้นตัวหรือการลดลงเพิ่มเติม จึงเป็นกลางในสถานการณ์ปัจจุบัน"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "รายงานตลาดระบุว่าหุ้น Microsoft กำลังอยู่ภายใต้แรงกดดัน",
+        "why": "ถ้อยคำว่า 'อยู่ภายใต้แรงกดดัน' ชี้ให้เห็นถึงปัจจัยเชิงลบที่ส่งผลต่อราคาหุ้น Microsoft"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความแนะนำให้ถือหุ้น Microsoft (MSFT) เป็นหนึ่งในสองหุ้นขนาดใหญ่ที่น่าลงทุนระยะยาว 20 ปี",
+        "why": "การแนะนำให้ถือหุ้นในระยะยาว 20 ปีบ่งชี้ถึงความเชื่อมั่นในศักยภาพการเติบโตและมูลค่าของบริษัทในอนาคต"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 85,
+      "note": "ข่าวส่วนใหญ่ที่เกี่ยวข้องกับ Microsoft ในช่วงนี้ชี้ให้เห็นถึงการลดลงของราคาหุ้นอย่างรุนแรง และความกังวลของนักลงทุน แม้จะมีมุมมองเชิงบวกในระยะยาว แต่ในระยะสั้น แรงกดดันเชิงลบยังคงโดดเด่น"
+    }
+  }
+}

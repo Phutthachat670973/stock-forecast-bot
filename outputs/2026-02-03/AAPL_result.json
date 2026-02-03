@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.6427,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.3717 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0480 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0569 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0565 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0401 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple sales surge 16% on ‘staggering’ iPhone demand - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EaDg5cjd2YUVaa1h2X1BSSld6V09DQkM2eWhUQ1ZheWFmNF94X1N0TnRJT01UQzRFSmZPTjZxYVVNZXJla1phbThEcHp2NXM3NjNpaXV0OWFtdVhnMjB4bFVNLWRpYUVLOUttbEhrTFp0ZDQ1VWtpQUR1SdIBgAFBVV95cUxQclM4dnVVR3BfUnR1UHFjNWtOY0gyd3lKUkQtWk5xa2VCVkpENlE2RURIMTY2X0dJdlZzMDgzMG1rRzBtUHZGMGlaWlU5VDQybTdxaTkzb0d1dllfTS1ITFMyamtFeEUxdGxCYTdad3dVQzd6QVh2MjZ3LUJXbkZKVA?oc=5",
+      "published": "Thu, 29 Jan 2026 17:00:02 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple Is the Second-Worst-Performing Dow Jones Stock So Far in 2026. Is the Sell-Off a Buying Opportunity? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbW9RU2hRcklCbEV6TVcxX1hfZXFSWUo2dldYNzk1Y1BpdnoycFA5NTgyNXZSUE5YTHlmak56dUFoc3hOV0hCQlA4anlQVkJjdlR2OXhHRGdHekRNVFhvMEM2bnJUanhtbXVqaGwtU3dtZVhpaFluVXBrQXN2YzVmLXotSQ?oc=5",
+      "published": "Thu, 29 Jan 2026 10:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is Apple Stock A Buy Ahead of Q1 Earnings on Jan. 29? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iN292WEFETTNrQUcxMEJ2NVl5dVN4UXZGSDQ2RmJYbW5vdnhpSEFZTlpVUHUwM0h2Y2VndW5pSDNydUdwMUhGbmVyS29Uelo0SW1iTlg4V2NWMFlhdklxcEZGbXN3S0dhWm84Tm5XOHk0czZfT2FHT2ZB?oc=5",
+      "published": "Wed, 28 Jan 2026 19:12:38 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Posts Blowout iPhone Sales, but Investors Focus on Higher Costs - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQYVJQZkthYzgySjJmbkxhTDVuN1ByTWx0M0JPbTZKNmRNR2t5TlFqcXZNdXl0QkJ5NnBraWljT2JzMzB1VGJuandJVmg2X0dFVFZsNF9IeDctbExRcW5Ic0FvRjhFZk53eUdCYTRUM0g0TFlyYUp5T2Q5ZTBIT2ZXeFdfeG9jYzhZM20wUUdxTl94M0I0Zk5vXzNCVVQtQ2c1bmtJQl9MbTJvQl8yNEo1eXZqbldOeUo2VGhhLXlOMjE5ekVyWGt2Mkw3WjROektuM3hiNEd3aXRFdERlUDNPLW5pLW9iNWp2WDRKbjV3Qjgwbm1XSEtDVDJ3RkhobnVVcV9sWWU2Vi16MEVMeEtOZ0lTY1g5cDJuOE1lRWZjTmFCa3lnLTVNRGpvdlhKME5jZDJiTDNyWVQzb05SclVaVzRZUmY2MVFmN2pyRE1NUkxrQWhXcVNDUHJINmdYZkRYVHRTaDA5ekVyUVc4N0JqLUNRN2lRZ2lhYnBz?oc=5",
+      "published": "Thu, 29 Jan 2026 23:35:00 GMT",
+      "source": "The Wall Street Journal"
+    },
+    {
+      "title": "What Could Send Apple Stock To New All-Time Highs? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZC1VcGR5eFFobGxYZURUY2pEQVFlWE1QdVFoU3JEdDVGdU10VWdCdTkzZWF5MDJLNEl1WWlDenR6MndzT0NMZUNnUXQyM1l3MUtDNEZ2TGxoMk5OcW1PODFMZjZkMFVjV05vakNidFZnb1FrRWprc1g5dENPX1ZLRVlOOHpGSmRhMEEtWC1TSlNoZzdOOF84V1B2dVdPWGh1MUlmRkpkbXRyVEhB?oc=5",
+      "published": "Thu, 29 Jan 2026 14:53:25 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Here's How Much Traders Expect Apple Stock to Move After Earnings Thursday - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN29SWEYyZ0s1XzVpendiWERMbWhqVGVEMGZCRFVZWUl2V19xTGN6Z2dIRmRjaXBBTDgxdFcwRG9tLWxyeHo2c24zQkxLeTNPaGpRLVlJZk5pRmtfaUpQYXdfbnM1aWozMjk3Wnd6ZFczQTNZazdIYVpkRG11c0YxS1NNRXVPN1dDWDlnTGh0MlNrWFhCbXE4UDhjellfVk5jRm54bjlrRXl0VzNOOGJacnE3OWRGOGJjMVE?oc=5",
+      "published": "Wed, 28 Jan 2026 23:55:28 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Buy, Sell or Hold the Apple Stock? Key Tips Ahead of Q1 Earnings - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSV81dW5xdVVNUXVZTEpBWEVCWEswaXFCNTRndXA5VHE4VzVGTnF3OXk5ajNnX2EwUGJpM3Z0SC1zem1IRV9RNnFqQzdzdldkbk84ZWVCLVNGV1I5V184OUl1RmRYWWRrV2JNMVdxM2lEMXBlQzhvcWFKX0VNVXpRTVB4ckNvajUxRGQtazFNRGdVTlBrUmtlVnJhV2NZRDhDVTdLb2tB?oc=5",
+      "published": "Tue, 27 Jan 2026 17:00:38 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Apple Handily Beats Holiday-Quarter Goals On Record iPhone Sales - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFdHQlVBMm5hcVZCUWxYc3B6SWRwZmNnaTVZeC11aVh2cGZ2dlM3LTRXSVVDYzNDZEF0SVUzcURBdzVBblE2a00weFh1UUM0Wkp6SXR4YW56WVZlckxPcVZqUkljU0VJQ2Vpdmc1bnZ2VWl1VVVGWVFpQ2Y1NEZRZGxwNXVpNEJUSllr?oc=5",
+      "published": "Thu, 29 Jan 2026 22:39:00 GMT",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ยอดขาย Apple พุ่งขึ้น 16% จากความต้องการ iPhone ที่น่าทึ่ง",
+        "why": "พาดหัวข่าวระบุถึงการเติบโตของยอดขายที่แข็งแกร่งถึง 16% และความต้องการผลิตภัณฑ์หลักอย่าง iPhone ที่สูงมาก ซึ่งเป็นสัญญาณเชิงบวกอย่างชัดเจน"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "Apple เป็นหุ้น Dow Jones ที่มีผลงานแย่เป็นอันดับสองในปี 2026 การเทขายครั้งนี้เป็นโอกาสในการซื้อหรือไม่?",
+        "why": "พาดหัวข่าวชี้ให้เห็นถึงผลงานของหุ้นที่ไม่ดีนักในอดีต (แย่เป็นอันดับสอง) ซึ่งเป็นปัจจัยขาลง แต่ก็ตั้งคำถามถึงโอกาสในการเข้าซื้อ ซึ่งบ่งบอกถึงศักยภาพในการฟื้นตัวหรือราคาที่น่าสนใจ ทำให้มุมมองโดยรวมเป็นกลาง"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "Apple รายงานยอดขาย iPhone พุ่งสูง แต่ผู้ลงทุนมุ่งความสนใจไปที่ต้นทุนที่สูงขึ้น",
+        "why": "พาดหัวข่าวแสดงให้เห็นผลประกอบการที่ดีเยี่ยมจากยอดขาย iPhone ที่พุ่งสูง ซึ่งเป็นบวก แต่ก็ระบุถึงความกังวลของผู้ลงทุนเกี่ยวกับต้นทุนที่สูงขึ้น ซึ่งเป็นลบ ทำให้มุมมองโดยรวมเป็นกลาง"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "อะไรที่สามารถผลักดันให้หุ้น Apple ขึ้นสู่จุดสูงสุดใหม่ตลอดกาลได้?",
+        "why": "พาดหัวข่าวตั้งคำถามถึงปัจจัยที่อาจส่งผลให้ราคาหุ้นเพิ่มขึ้นอย่างมีนัยสำคัญจนถึงจุดสูงสุดใหม่ตลอดกาล ซึ่งบ่งบอกถึงศักยภาพการเติบโตและแนวโน้มที่เป็นบวก"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Apple ทำผลงานเกินเป้าหมายในไตรมาสวันหยุดได้อย่างง่ายดาย ด้วยยอดขาย iPhone ที่เป็นประวัติการณ์",
+        "why": "พาดหัวข่าวระบุว่า Apple ทำผลงานได้ดีกว่าเป้าหมายอย่างชัดเจนและมียอดขาย iPhone ทำสถิติใหม่ ซึ่งเป็นข่าวดีต่อบริษัทและเป็นสัญญาณเชิงบวกที่แข็งแกร่ง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "ภาพรวมแสดงให้เห็นผลประกอบการที่แข็งแกร่งจากยอดขาย iPhone ที่ดีเยี่ยมและการทำลายสถิติ แม้จะมีข้อควรพิจารณาเกี่ยวกับต้นทุนที่สูงขึ้นและผลงานของหุ้นในอดีต แต่ก็มีข่าวเกี่ยวกับโอกาสในการเข้าซื้อและศักยภาพในการเติบโตสู่จุดสูงสุดใหม่ในอนาคต ทำให้ภาพรวมโน้มเอียงไปทางขาขึ้นเล็กน้อย"
+    }
+  }
+}
