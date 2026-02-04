@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-03",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4392,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0296 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0828 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0210 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0217 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0067 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Why Tesla Stock Popped Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUWUZSV3pLNVl6ZWpwUEFFeUtpblhmQTB6NXpVWGpqeHZXRm1kUFAwaUxPeHBsaEFGRTFvNmd5ZGFEbHpaRGZnS2N0QjlHUGxQRVQwX1pVM2kxQWVYb1ptUUtGMFNlSENBRVYyWEpHX0g2MTVhcmc0NnItZw?oc=5",
+      "published": "Fri, 30 Jan 2026 17:29:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Here's How Much Traders Expect Tesla Stock to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzgzZjNMOWhvOXM0WU1oZmRRN0xwbDc4X0V3NUFsa1l0M1lQdFVZUkJJc19pY0diRlhVWmRvY0p0OXdEQ0FLajNFNVlzT1hPdGwtZklkb1ZvaUVMY2hvWURscnc2TWJUbXo0TzRPQnR0SHF0ajNGMzh3VFltbTM5ay1lRDM3MnR6RVlmb3NsU0RBOHJYNjk0M1dzWElrd3drSktmNVBOOE5DWjBrVlBiOXA1ZkEyY2dU?oc=5",
+      "published": "Wed, 28 Jan 2026 17:58:00 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla’s Next Move: Why Analysts See Either $500 or $350 Ahead - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S2RmSTlkZ2RFeTVPVVdqa19zbXE4R1hScjJlb0NCVTJiMFhsRnZ4VFp0ZVpBUThlZll0a3owM1drQk5wTEZ3MHI4UTc0QlBRUF81ODZ4bkcxeDlFeC00cms1clU1dlpxR05yZElLdzdkMVdYMk9GZ21SM0hGeDQ?oc=5",
+      "published": "Mon, 02 Feb 2026 17:35:31 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock Falls As The Market Mulls Tesla's Shift To 'Transportation-As-A-Service,' Massive Capital Spending - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzR4LUg3UGFEQmZXOGFlZXE3WFkwZWx6ekJCckt0QWw2aEVmVjZTYnpoNlZKQXR6ZmNod0dDUHdrT29rUEswYndGQUI4R3VJd1pjSUl1ZDdpVzZFZ2VTUGhEX2l1aDZhWGgzbUwydkJEejhEQUZlRUF1NlpVejVmcDg5dUw3dlRQdHNHRzZiSVM3UQ?oc=5",
+      "published": "Thu, 29 Jan 2026 21:04:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla (TSLA) releases Q4 2025 financial results: slight beat on earnings - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0ZKRlI1T2tSMHpFRWV4UDBaZmszVThHR05qVVExN3cwZnRYc3JXVzBybk5kVmY4WnRnelotS3RMZUQ5WkpwT09OUlpjclFoTUVvZGNyT3JpbzRZSkRjaWtVcUNDQ0VCbzVPN19IcTFOOXQybTZOcFJlM0VjNTBsN0Vldk5Ob3c2ZVZRSkZ3TldrcXBicEM0aTluM0JCQjlZZ1E4?oc=5",
+      "published": "Wed, 28 Jan 2026 21:14:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Tesla Stock: Three Catalysts Nobody Is Seeing - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnNZYThVYWhYVmFSV3dTLUY2VWJvY1dsal9wZXRUbnUzQXFReHBFdVFWZ1ZnUGJVRnctbHBpd2dmMi1YVVlRYkdGdDlTWk0xVExfbjg5TmxYYlJSWHY4dnhCa05PLV9VbXB0bVpxQ3huam5HWklHUXV0TFBScGU1ZmswQlhEYlRweFMzXzVrZEtfNGE5TGw5dlAwTGxlN1o5dTY2TGpB?oc=5",
+      "published": "Fri, 30 Jan 2026 16:08:29 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla Stock: Pie In The Sky Valuations And Falling Sales - But Don’t Sell It Short (TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnUySzNUYndhbGEwRmNtR05oSzdKeHVaRkJ2ZG4wT2RCV2l3cXhPQVZRSTFac1BqcUt5WDBPdFA2cm1OTXI2OVMwMUgtYVZZT1dtZ0NzMkNranVKWGhxWC1oWnJ2UEJfdFBkSVFfbmcxYWN4ZjcwdzRlb0VKQ21IRU9NWEdiU2NIQ0RibDlfaGdsaS1CeEtlMkZfZExZQjdabUIta2Z3Y1RFd2t3Z0FTM2hZR3pwbElQZjNz?oc=5",
+      "published": "Wed, 28 Jan 2026 23:20:47 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla Shares Erase Post-Earnings Gains: Here’s What 11 Wall Street Analysts Say - eletric-vehicles.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0pSR01KVUNCM1ZHQjZhRlQyS2hlQWFONFhfc2ZMcmdxSWRQUWprQWJZdUJiSUE5ajRMaTF0Nk5IaW9fTS1HSENrYVlTaFI1RFBSb2Fhc0FOTHRKaEVVTE9oZ003eXVKSXYxVFg4SFotN1dKX0pZR3RFLTJuS0FNdlFyQlI3bTBvYm9xcWFBV0VEMEx1Z1ZJTnpLX3h0N0dSUDAxNVV3LW5ZWURPQW5mWHFZUQ?oc=5",
+      "published": "Thu, 29 Jan 2026 15:49:58 GMT",
+      "source": "eletric-vehicles.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่าหุ้น Tesla มีการปรับตัวขึ้นในวันนี้ ซึ่งเป็นสัญญาณเชิงบวก",
+        "why": "เนื้อหาในพาดหัวข่าวบอกอย่างชัดเจนว่าหุ้น Tesla 'พุ่งขึ้น' (Popped) ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาที่เป็นบวก"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่าหุ้น Tesla ตกลง ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'หุ้น Tesla ตกลง' (Tesla Stock Falls) ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาที่เป็นลบ"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Tesla รายงานผลประกอบการไตรมาส 4 ปี 2025 ที่ดีกว่าคาดเล็กน้อย ซึ่งมักจะเป็นปัจจัยบวกต่อราคาหุ้น",
+        "why": "การที่บริษัททำผลงาน 'ดีกว่าคาดเล็กน้อย' (slight beat on earnings) ในผลประกอบการมักจะเป็นปัจจัยเชิงบวกที่สนับสนุนราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "พาดหัวข่าวพูดถึงปัจจัยกระตุ้นสามประการที่อาจส่งผลดีต่อหุ้น Tesla ซึ่งยังไม่มีใครเห็น",
+        "why": "คำว่า 'Catalysts' (ปัจจัยกระตุ้น) มักหมายถึงปัจจัยที่ขับเคลื่อนการเติบโตหรือการเปลี่ยนแปลงเชิงบวก และการที่ 'ไม่มีใครเห็น' (Nobody Is Seeing) บ่งชี้ถึงศักยภาพที่ยังไม่ถูกสะท้อนในราคาปัจจุบัน"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla สูญเสียกำไรที่ได้มาหลังจากการประกาศผลประกอบการ ซึ่งเป็นการเคลื่อนไหวเชิงลบ",
+        "why": "การที่หุ้น 'ลบกำไรหลังประกาศผลประกอบการ' (Erase Post-Earnings Gains) แสดงให้เห็นถึงการถอยกลับของราคาหลังจากที่มีการปรับขึ้น ซึ่งเป็นสัญญาณเชิงลบ"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีทั้งข่าวดีที่หุ้นปรับตัวขึ้นและผลประกอบการดีกว่าคาดเล็กน้อย และข่าวลบที่หุ้นปรับตัวลงและสูญเสียกำไรหลังประกาศผลประกอบการ ทำให้ภาพรวมมีความไม่แน่นอน"
+    }
+  }
+}

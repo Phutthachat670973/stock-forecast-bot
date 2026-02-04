@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-03",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.6131,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1749 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0924 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0457 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0434 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0397 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple sales surge 16% on ‘staggering’ iPhone demand - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EaDg5cjd2YUVaa1h2X1BSSld6V09DQkM2eWhUQ1ZheWFmNF94X1N0TnRJT01UQzRFSmZPTjZxYVVNZXJla1phbThEcHp2NXM3NjNpaXV0OWFtdVhnMjB4bFVNLWRpYUVLOUttbEhrTFp0ZDQ1VWtpQUR1SdIBgAFBVV95cUxQclM4dnVVR3BfUnR1UHFjNWtOY0gyd3lKUkQtWk5xa2VCVkpENlE2RURIMTY2X0dJdlZzMDgzMG1rRzBtUHZGMGlaWlU5VDQybTdxaTkzb0d1dllfTS1ITFMyamtFeEUxdGxCYTdad3dVQzd6QVh2MjZ3LUJXbkZKVA?oc=5",
+      "published": "Thu, 29 Jan 2026 17:00:02 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple Stock Could Surge to $300: Here’s What Needs to Happen - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmdmTE5sLVFvZkY2T1BsUmY3Ty1fUlJNc01aQmdnbkdLb2FvbEliTzctaGpoQlRGMlBqQ2RSYklGc0QxeWhUZWoxa20zcUViT0h3R0hCRXpNUVRsckZVUEh0Qm1ibmxvRk1PNnVXYnh2QUxWcXhaQzA4UmQtOS1zcjlXenRxTkptbHVTSERQOXFrVXVNWnlwZE00X25OaEwteVFz?oc=5",
+      "published": "Tue, 03 Feb 2026 14:25:51 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Apple Is the Second-Worst-Performing Dow Jones Stock So Far in 2026. Is the Sell-Off a Buying Opportunity? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbW9RU2hRcklCbEV6TVcxX1hfZXFSWUo2dldYNzk1Y1BpdnoycFA5NTgyNXZSUE5YTHlmak56dUFoc3hOV0hCQlA4anlQVkJjdlR2OXhHRGdHekRNVFhvMEM2bnJUanhtbXVqaGwtU3dtZVhpaFluVXBrQXN2YzVmLXotSQ?oc=5",
+      "published": "Thu, 29 Jan 2026 10:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is Apple Stock A Buy Ahead of Q1 Earnings on Jan. 29? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iN292WEFETTNrQUcxMEJ2NVl5dVN4UXZGSDQ2RmJYbW5vdnhpSEFZTlpVUHUwM0h2Y2VndW5pSDNydUdwMUhGbmVyS29Uelo0SW1iTlg4V2NWMFlhdklxcEZGbXN3S0dhWm84Tm5XOHk0czZfT2FHT2ZB?oc=5",
+      "published": "Wed, 28 Jan 2026 19:12:38 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Could Send Apple Stock To New All-Time Highs? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZC1VcGR5eFFobGxYZURUY2pEQVFlWE1QdVFoU3JEdDVGdU10VWdCdTkzZWF5MDJLNEl1WWlDenR6MndzT0NMZUNnUXQyM1l3MUtDNEZ2TGxoMk5OcW1PODFMZjZkMFVjV05vakNidFZnb1FrRWprc1g5dENPX1ZLRVlOOHpGSmRhMEEtWC1TSlNoZzdOOF84V1B2dVdPWGh1MUlmRkpkbXRyVEhB?oc=5",
+      "published": "Thu, 29 Jan 2026 14:53:25 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Here's How Much Traders Expect Apple Stock to Move After Earnings Thursday - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN29SWEYyZ0s1XzVpendiWERMbWhqVGVEMGZCRFVZWUl2V19xTGN6Z2dIRmRjaXBBTDgxdFcwRG9tLWxyeHo2c24zQkxLeTNPaGpRLVlJZk5pRmtfaUpQYXdfbnM1aWozMjk3Wnd6ZFczQTNZazdIYVpkRG11c0YxS1NNRXVPN1dDWDlnTGh0MlNrWFhCbXE4UDhjellfVk5jRm54bjlrRXl0VzNOOGJacnE3OWRGOGJjMVE?oc=5",
+      "published": "Wed, 28 Jan 2026 23:55:28 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Apple Handily Beats Holiday-Quarter Goals On Record iPhone Sales - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFdHQlVBMm5hcVZCUWxYc3B6SWRwZmNnaTVZeC11aVh2cGZ2dlM3LTRXSVVDYzNDZEF0SVUzcURBdzVBblE2a00weFh1UUM0Wkp6SXR4YW56WVZlckxPcVZqUkljU0VJQ2Vpdmc1bnZ2VWl1VVVGWVFpQ2Y1NEZRZGxwNXVpNEJUSllr?oc=5",
+      "published": "Thu, 29 Jan 2026 22:39:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple Q1: Don't Buy These Earnings, Limited Upside (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3YzMGxudWR2WUd0a3laTFpYMEZTRVdaaDVxSWg0eVZKWm1JWTV0ekRsc0F2WWpTME0xNkozaDVNellNNVQxekRoNjU0OERpN1YwQnhFX2tVN0ZDRjNZV0ZCZUZiTHdpSDFBNFRMSmgyVjB4MXhYOG9leUJ5ZWk3UE1yTUhLOWRlVkVRd1BXdDNndw?oc=5",
+      "published": "Thu, 29 Jan 2026 23:15:50 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ยอดขาย Apple เพิ่มขึ้น 16% จากความต้องการ iPhone ที่น่าทึ่ง",
+        "why": "พาดหัวข่าวระบุถึงการเติบโตของยอดขายและอุปสงค์ที่แข็งแกร่งสำหรับ iPhone ซึ่งเป็นปัจจัยบวกโดยตรงต่อ Apple"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ไตรมาส 1 ของ Apple: อย่าซื้อผลประกอบการเหล่านี้ มีโอกาสขาขึ้นจำกัด (NASDAQ:AAPL)",
+        "why": "พาดหัวข่าวให้คำแนะนำเชิงลบเกี่ยวกับการลงทุนในหุ้น Apple โดยระบุว่าไม่ควรซื้อผลประกอบการและมีโอกาสขาขึ้นจำกัด"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "Apple เป็นหุ้น Dow Jones ที่มีผลงานแย่ที่สุดเป็นอันดับสองในปี 2026 การเทขายครั้งนี้เป็นโอกาสในการซื้อหรือไม่?",
+        "why": "พาดหัวข่าวระบุถึงผลงานที่ย่ำแย่ของหุ้นในอดีต (เชิงลบ) แต่ก็ตั้งคำถามว่าอาจเป็นโอกาสในการซื้อ (เชิงบวก) ทำให้ภาพรวมเป็นกลาง"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Apple อาจพุ่งขึ้นไปถึง 300 ดอลลาร์: นี่คือสิ่งที่ต้องเกิดขึ้น",
+        "why": "พาดหัวข่าวคาดการณ์ถึงศักยภาพการเติบโตที่สำคัญของหุ้น Apple โดยมีเป้าหมายราคาที่สูงขึ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 95,
+        "summary": "หุ้น Apple น่าซื้อหรือไม่ก่อนประกาศผลประกอบการไตรมาส 1 ในวันที่ 29 ม.ค.?",
+        "why": "พาดหัวข่าวเป็นคำถามเกี่ยวกับการตัดสินใจซื้อหุ้นก่อนประกาศผลประกอบการ ซึ่งไม่ได้บ่งชี้ถึงทิศทางราคาที่ชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "ข่าวที่เลือกมาแสดงให้เห็นถึงทั้งปัจจัยบวกจากยอดขายที่แข็งแกร่งและศักยภาพการเติบโตของหุ้น ควบคู่ไปกับมุมมองเชิงลบต่อผลประกอบการบางส่วนและผลงานที่ผ่านมาที่ยังไม่ดีนัก รวมถึงคำถามเกี่ยวกับการตัดสินใจลงทุน ทำให้ภาพรวมของสถานะยังเป็นกลาง"
+    }
+  }
+}
