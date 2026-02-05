@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-04",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3375,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 5 วัน = -0.1396 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0918 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1803 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0669 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0331 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "2 Monster Stocks to Hold for the Next 20 Years -- Including Microsoft (MSFT) Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1dCMmNpZUphSDRMcGNRbHpIQUgwZ2I5dUxId2FWUU0wNG1WU0JMeUxmUkY4VjlVMzd1MF9lVmN3NEhJazRJamV4Nl9KV2RDU1hhNW1ZVDB2TUUxUEpJVjVURUQ4cWhyb0oyTkd3SGU2OWtOcWdMc19US0dWR2NwU1hHTEY5clNITjhSWFVZc1RTTnp1?oc=5",
+      "published": "Sun, 01 Feb 2026 18:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Markets Brief: Microsoft Stock Under Pressure, Pharma Earnings and Jobs Report on Deck - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0RBQVhDZGVvc29IMHM4YnBwZ3dXSUplWXBWeEMweDdwWnY2WWNSSW1TbWcxcmp3VjZZT2M1R2RJQzBjbndwcFhGY2ZUckgzS1I4UGdpSmd5NEluWFBzZEVZS1hXY1dnQUdjdFQ0OW5YbzJWRzZ3RG5WRkoxOVJudEc4dzNQTVZwSXVsNFJVZHVSaUdYMzFvcXpnWGx6Nm51ck1BeWljQzR1dzBkeDJXbzg5b3R3cktFdWxRTUVhNA?oc=5",
+      "published": "Mon, 02 Feb 2026 09:55:37 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Why Microsoft (MSFT) Shares Are Falling Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjZzblNkUkZnblc2a0t4ZTNHZDNFNHJDRHFOMVZfR3djSFBQVU5IbW1wNG9kRlNtbDZCM2dma3Y0RnpkSTlKNFh5LWU3dklwamtZOHV1dVNJS0FMdlFpZndxSjRMblRMNEw0SnQ5WnNRX0xtNXRIbUpFZ3JPdk5uUzJ6S1pYQQ?oc=5",
+      "published": "Thu, 29 Jan 2026 17:30:40 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Shares Plunge 10%, Wiping Out Nearly $360 Billion in Market Value - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXFldGpnSFdfZUlMQk1IUjc3UjAzcldRYVVYQ0pGcDM1dVpGZ0J4OUs1QWNBdE9aWVhMT3N5VlVOLXFFVW5fOFNJSThmYTlRbXpLVWxiUFExdGlOU1NmV1Fmd1BnVkRXZ0tMbkFRX216ZFNjYlh1T1hoM1dWY0UzNi0zOXp4WVVwUXhF?oc=5",
+      "published": "Thu, 29 Jan 2026 16:51:15 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Microsoft lost $357 billion in market cap as stock plunged most since 2020 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LS01nLUZ6WHlXMTI1Qm9TdUdRV0xFdnZvcW9IQ3o2aXNuZlc0RndYNnoxd0s0RUZGU0JfWFM2OHpLSUNvLTlrcDBlT2ptYVMwbVFTSm9VUDBfcENIZllIczE0aVkwekxsaFU3bTR0VEpfSTlL0gF6QVVfeXFMUFZ5RU5oQ2VTUEc4dWxVdFZYVE44R1dvLUxzM2x6X1d0aGpDakt4elpIR1ZxZ3JGb1FldllDWmczTGxkNHVVOTRuenJqYjhoRnR3Vk9oZnpXeHpvY1prVFl2dEg2THBza3RSeGhUMmI4MXRjeTFtbENlRGc?oc=5",
+      "published": "Thu, 29 Jan 2026 21:13:41 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft leads software stocks lower; suffers 7th largest drop in company history (MSFT:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVVqYVlqSVVZZHVKUWlsZi1JbmVhLUJMZUNYLVF4SFdZOUh0b2diNXA3Q2tybTh4czlJZDdCRlJjeU9taF82U1RRdnpKOVVqMXF1ZXlfcGhKOEJfeVlFZmNQSlhSbnpBRGJwV1R5b0ZoRE9sdkJpNXIzaHpSRFZzWXNTVGFFSWRFYmtCUVp4Q2VOMUNRVVpPRG5oUk5vUWFDbWZaLUdOUy1Ydjg5SEp0MGJmLVB6ZFdoRC1V?oc=5",
+      "published": "Thu, 29 Jan 2026 17:54:27 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft stock plunges 10% as its worst day in years sees a $357 billion market cap wipeout - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wdndYNm5QWTFiM2pJOURzNjNPdkdQLVNxOVctd2kxN3QwNGJRTWp5UWN5N3Vud1ZzSmlSdHU5Z2hkekZ0ZTlTSFBPMGFnd1JoRHVoNXV5NW5PbjhZcXExVXpkbUt1aXRUbkFjZA?oc=5",
+      "published": "Thu, 29 Jan 2026 21:57:32 GMT",
+      "source": "qz.com"
+    },
+    {
+      "title": "Shorting Microsoft Puts Looks Very Attractive to Value Investors in MSFT Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXpZci1heEM2TjJreVRBZ2R1VE44b0JBU0xTRVlDUmZYWG53RVFuV0pQX0JDbmhqYjZJQ2dmUkVNUEUzdHc2MlIzUEtyaXlOdkRuNE5VWmtsTGlvUWotVjNWYXdtVFVKamFDczR6dGxmNTJWUU10bkJ3aGlGekFPNWxXM2UtRzBQNm14c1BrSGRmbHBNeDJNTklSMFpMOE5aYlJ5NWFySVRvUjEwVjJkNjBiQ1pSSUt5XzBzcGhhUTE?oc=5",
+      "published": "Mon, 02 Feb 2026 17:54:00 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "แนะนำให้ถือหุ้น Microsoft ในระยะยาวถึง 20 ปี",
+        "why": "พาดหัวข่าวแนะนำให้ถือหุ้น Microsoft (MSFT) ในระยะยาวถึง 20 ปี ซึ่งบ่งชี้ถึงมุมมองเชิงบวกอย่างมากต่อศักยภาพการเติบโตในอนาคต"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft กำลังอยู่ภายใต้ความกดดัน",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น Microsoft กำลังอยู่ภายใต้ความกดดัน ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft กำลังร่วงลงในวันนี้",
+        "why": "พาดหัวข่าวระบุว่าหุ้น Microsoft (MSFT) กำลังร่วงลงในวันนี้ ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาที่เป็นลบ"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Microsoft ดิ่งลง 10% ทำให้มูลค่าตลาดหายไปเกือบ 360 พันล้านดอลลาร์",
+        "why": "พาดหัวข่าวระบุถึงการดิ่งลงอย่างรุนแรงของหุ้น Microsoft ถึง 10% และมูลค่าตลาดที่หายไปเกือบ 360 พันล้านดอลลาร์ ซึ่งเป็นข่าวเชิงลบที่ชัดเจนและรุนแรง"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 75,
+        "summary": "การขายสัญญา Put Option ของ Microsoft ดูน่าสนใจสำหรับนักลงทุนที่มองคุณค่า",
+        "why": "การขายสัญญา Put Option (Shorting Puts) เป็นกลยุทธ์ที่ใช้โดยนักลงทุนที่คาดว่าราคาหุ้นจะไม่ลดลงต่ำกว่าราคาใช้สิทธิ หรือจะเพิ่มขึ้น ซึ่งสำหรับนักลงทุนที่มองคุณค่ามองว่าน่าสนใจ บ่งบอกถึงมุมมองที่ไม่เป็นลบโดยตรงต่อราคาหุ้น แต่ก็ไม่ได้เป็นบวกอย่างชัดเจนถึงการขึ้นของราคา"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "แม้จะมีคำแนะนำให้ถือหุ้นในระยะยาวและกลยุทธ์การลงทุนบางอย่างที่ดูน่าสนใจ แต่พาดหัวข่าวส่วนใหญ่ที่เลือกมาแสดงให้เห็นถึงแรงกดดัน การร่วงลงอย่างมีนัยสำคัญ และมูลค่าตลาดที่หายไปของหุ้น Microsoft ในช่วงไม่กี่วันที่ผ่านมา ซึ่งบ่งชี้ถึงภาวะเชิงลบในระยะสั้น"
+    }
+  }
+}
