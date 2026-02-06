@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-05",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3838,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0798 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.1161 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1689 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0465 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0293 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued? - morningstar.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1Znb205Z0VNbGpBa05PWUlnMkhfbXhNRjI5TFpiVDBJLWVNS2cxNmxVQXhvbUNleVM4ampHYm83dEY0dDd4UVNpc2I2cE5zTWFtRXBoTUt1RnVVZ2xyQVBydjV2MUhzcFlSTGJCU2RXeXk5ZWVjbVl5WEx0NDVQbVItU3F2b0gxWGJaS2lWd0N2OXo3clVkcQ?oc=5",
+      "published": "Thu, 05 Feb 2026 11:03:45 GMT",
+      "source": "morningstar.com"
+    },
+    {
+      "title": "Tesla’s Next Move: Why Analysts See Either $500 or $350 Ahead - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S2RmSTlkZ2RFeTVPVVdqa19zbXE4R1hScjJlb0NCVTJiMFhsRnZ4VFp0ZVpBUThlZll0a3owM1drQk5wTEZ3MHI4UTc0QlBRUF81ODZ4bkcxeDlFeC00cms1clU1dlpxR05yZElLdzdkMVdYMk9GZ21SM0hGeDQ?oc=5",
+      "published": "Mon, 02 Feb 2026 17:35:31 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Tesla Stock Popped Today - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUWUZSV3pLNVl6ZWpwUEFFeUtpblhmQTB6NXpVWGpqeHZXRm1kUFAwaUxPeHBsaEFGRTFvNmd5ZGFEbHpaRGZnS2N0QjlHUGxQRVQwX1pVM2kxQWVYb1ptUUtGMFNlSENBRVYyWEpHX0g2MTVhcmc0NnItZw?oc=5",
+      "published": "Fri, 30 Jan 2026 17:29:00 GMT",
+      "source": "fool.com"
+    },
+    {
+      "title": "Tesla Stock: Three Catalysts Nobody Is Seeing - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnNZYThVYWhYVmFSV3dTLUY2VWJvY1dsal9wZXRUbnUzQXFReHBFdVFWZ1ZnUGJVRnctbHBpd2dmMi1YVVlRYkdGdDlTWk0xVExfbjg5TmxYYlJSWHY4dnhCa05PLV9VbXB0bVpxQ3huam5HWklHUXV0TFBScGU1ZmswQlhEYlRweFMzXzVrZEtfNGE5TGw5dlAwTGxlN1o5dTY2TGpB?oc=5",
+      "published": "Fri, 30 Jan 2026 16:08:29 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla: The Valuation Makes No Sense (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVFCeVhGVEJSWUNJaEpzZF92bzlYMEtBcGpBOFJsVWljZllOZjZaTnBOVWZxUHFZNzQzaTBJN2lId21KR1I3cS12MmpqcEJ5QmdSdTZCY3VuQW9kcXRXcGxpbEtUUWdnUm1pNDRndzN6eUxRVzY3cVhreGRZS1g4Ng?oc=5",
+      "published": "Sun, 01 Feb 2026 13:16:28 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Why Is Tesla Stock (TSLA) Falling Today? - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xU1dvMVVCeGN6V0VJd09YRk1KOWZYUXl2a3pTUzg2ZnRJOTJJVG5XR0I2RG1zSVFBbVBKeUlFSklvak5veGlHakFwR3pfdEJScUZJUWJzcGpLVmw0SWpxLUFKWlVNOU5rM21IX1ExcFd4UkQxMVE?oc=5",
+      "published": "Mon, 02 Feb 2026 15:14:16 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla Profit Forecasts Slashed Amid Musk's Spending Spree - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVNWQTNyMEtvRGNvMExfV3R0TkM3ZmpRTm1qUEZ2U0FxckxfUWtoWWJEZnAzY2l1Qjg5UUs3VVkzVktSQnBBdXlBaUZjN29JdFV0VDFNTnhBMFBOSk92X0hnQTBna21VTnBjX2tiZnlZdjQ4QUNBOVA3bG42bnlsMDEta1UxSGFpNU9GM0F1eEctOFZKbzB4ZDJ4Z0x0VGxDenlnUktn?oc=5",
+      "published": "Mon, 02 Feb 2026 22:53:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Waymo Raises Another Red Flag for Tesla. Should You Sell TSLA Stock in February 2026? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVZraWpYZnJGbEtiNWFmbThydUt5MUVlZWJmMllmSXJwWm5EVEF3eS1PMnpqQmtnYmo5aDhaVzJhaXhoMmdyOGx4OGJNUjhYQ0w3TG9uUzN5WW54YTVLRmtHbDNPUDZXNUVoaGNSVmxtN0dYa3NyYW9JQV85bkpTMzFtSnFMWDBVVTdLZUVueUNMa3o3UmZFMG52UWdxSnVnVkFURTU1ckpIdDZGSmt3OWU1dXI2QjBLdEg0cjBzbzZKaW8?oc=5",
+      "published": "Wed, 04 Feb 2026 19:13:19 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "บทความนี้ตั้งคำถามเกี่ยวกับการประเมินมูลค่าหุ้นของ Tesla (TSLA) หลังจากประกาศผลประกอบการ ว่าควรซื้อ ขาย หรือมีมูลค่าที่เหมาะสมแล้ว",
+        "why": "พาดหัวข่าวเป็นการตั้งคำถามเกี่ยวกับการประเมินมูลค่าหุ้นของ Tesla หลังจากการประกาศผลประกอบการ ซึ่งแสดงถึงการพิจารณาถึงหลายแง่มุม ไม่ได้บ่งชี้ไปในทางบวกหรือลบอย่างชัดเจน"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุถึงเหตุผลที่หุ้น Tesla มีราคาพุ่งขึ้นอย่างรวดเร็วในวันนี้",
+        "why": "คำว่า 'Popped' บ่งชี้ถึงการเพิ่มขึ้นของราคาหุ้นอย่างรวดเร็วและมีนัยสำคัญ ซึ่งเป็นสัญญาณเชิงบวกหรือกระทิงสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความนี้ระบุว่าการประเมินมูลค่าของ Tesla (TSLA) ไม่มีเหตุผลที่สมควร",
+        "why": "วลี 'The Valuation Makes No Sense' บ่งชี้ถึงการประเมินมูลค่าที่อาจสูงเกินไปหรือไม่สมเหตุสมผล ซึ่งมักจะเป็นสัญญาณเชิงลบหรือหมีสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวสอบถามถึงสาเหตุที่หุ้น Tesla (TSLA) มีราคาลดลงในวันนี้",
+        "why": "คำว่า 'Falling Today' บ่งบอกอย่างชัดเจนถึงการลดลงของราคาหุ้น ซึ่งเป็นสัญญาณเชิงลบหรือหมี"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 98,
+        "summary": "พาดหัวข่าวระบุว่าการคาดการณ์ผลกำไรของ Tesla ถูกปรับลดลงอย่างมากท่ามกลางการใช้จ่ายจำนวนมากของ Musk",
+        "why": "วลี 'Profit Forecasts Slashed' บ่งชี้ถึงการลดลงของการคาดการณ์ผลกำไร ซึ่งเป็นสัญญาณเชิงลบอย่างมากต่อสุขภาพทางการเงินและแนวโน้มของบริษัท"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 75,
+      "note": "โดยรวมแล้ว ตลาดมีการพิจารณาหุ้น TSLA อย่างหลากหลาย โดยมีทั้งข่าวเชิงบวกระยะสั้นและข้อกังวลที่สำคัญเกี่ยวกับมูลค่าและแนวโน้มผลกำไรในอนาคต"
+    }
+  }
+}
