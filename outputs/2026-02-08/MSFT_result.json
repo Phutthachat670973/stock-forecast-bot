@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3555,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.1045 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2819 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.1391 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0677 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0447 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "2 Monster Stocks to Hold for the Next 20 Years -- Including Microsoft (MSFT) Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1dCMmNpZUphSDRMcGNRbHpIQUgwZ2I5dUxId2FWUU0wNG1WU0JMeUxmUkY4VjlVMzd1MF9lVmN3NEhJazRJamV4Nl9KV2RDU1hhNW1ZVDB2TUUxUEpJVjVURUQ4cWhyb0oyTkd3SGU2OWtOcWdMc19US0dWR2NwU1hHTEY5clNITjhSWFVZc1RTTnp1?oc=5",
+      "published": "Sun, 01 Feb 2026 18:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWtYTThZcEJURWZtSU5Wam9EajRFNHdWejZQNERzM3V0dTFOZ0NNelA2TEVpMl9UNnBibHR0blY5MFlkR1VZTW1VSGtlQURHWUc2ZF9sZlRWX2tFMDNCcHk0bzVwNXAtNktpYVE3TVFtTFczUmpQZk9aaU5jSVJDR1RuR2ljVTZhbnp1UWktcEUzZEF6ZEJEeVBoXzlaZmU4SjdBQ0tIclA?oc=5",
+      "published": "Fri, 06 Feb 2026 10:05:07 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Microsoft Stock Looks For Relief After Brutal Software Sector Sell-Off - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhBU2lLS2ZtdEZKQkNKalNYc2JnN05fNVJFTTNrNmk4X01kUEdjaW9NTVJwUzU5SFRDb1VtX1dMSmVSTm1Oa0JlNE5tbkJPTk1DMlRoT3lNM1JPcmpyY3ZNWEVBcGxNdm9DR3E0enFMWGNFVW42ZS0yc2FuUWYxTzVnR0c2T3g0UDZwd2tzNVF6Zw?oc=5",
+      "published": "Fri, 06 Feb 2026 21:06:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Assessing Microsoft (MSFT) Valuation After Recent Share Price Pullback - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkVHY2c2bmNRT2c2czJyQkhBWWlJbVhjMjdaZmhKQ3VhQnh0M3hiRmZUME5XSUZKMGRidUd2S3VNYWNWbFdzSG5kRWQ4dWtsYkdiSEZxZ3RkblVuMV9KWWFXWS16amJUMGZTdW9HaEwzWXhTc2pWajJEdUZhby1MdGIyNldQNUtEdE51NTc4QVlZZFU4cEo5dzlTV1JzQWlFM3R2d3dCTGxlcFIxdVZaWXlXbmtpZGR3OWxiYkJQaUtNdjNfMnc?oc=5",
+      "published": "Thu, 05 Feb 2026 14:42:47 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft Just Showed Why It’s Still a Must-Own Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXNzMXpQWDBGS2Z0aDBWUG9Lb0JTOVRwN2ZZUV9CZExFZE5PY3VKUFJKdmYzaW1SLUM2c3FGMjlyMnBXaGxGWFpvZnlRS2JpOGpDbEV6ajI2aGM4RzlpVWlTWnZ6STgwVVplOXEyLXlwVG15QWp5Z2hPcmlYX0owLTNPTQ?oc=5",
+      "published": "Wed, 04 Feb 2026 19:22:37 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Could Drag Microsoft Stock Even Lower? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTdpT2ZjeTZJY0JJc1VPN2taZkgzR0VrTC15TENWS25iMDNFWVFSZmlmV0tKVkFDdXdlTHhYOUV1ajFJby1lM3l1X0NCaG9tbVlldHRjM1o5UVdXcy1ZZFlvSlV4YzdGVVh4YzcyYzV2SXAtNV9IM21uVWNvSFBaRHN2REhlTkxyV1dXZjVhRmVWTDVyVGFWOXdoNXZrQUNRQ0h3?oc=5",
+      "published": "Thu, 05 Feb 2026 19:20:16 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Shorting Microsoft Puts Looks Very Attractive to Value Investors in MSFT Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXpZci1heEM2TjJreVRBZ2R1VE44b0JBU0xTRVlDUmZYWG53RVFuV0pQX0JDbmhqYjZJQ2dmUkVNUEUzdHc2MlIzUEtyaXlOdkRuNE5VWmtsTGlvUWotVjNWYXdtVFVKamFDczR6dGxmNTJWUU10bkJ3aGlGekFPNWxXM2UtRzBQNm14c1BrSGRmbHBNeDJNTklSMFpMOE5aYlJ5NWFySVRvUjEwVjJkNjBiQ1pSSUt5XzBzcGhhUTE?oc=5",
+      "published": "Mon, 02 Feb 2026 17:54:00 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "A $357B Slap in the Face: Why It’s Time to Buy Microsoft Now - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGtiSWVwQUpuMGVMQ082em5ReXFwSXdDOW1VTDc4bE9FUWpUdFJJS05HSW1PeTJSQkhxWDc2QjRuQTNRbWdXNnF5YWlIcDhrWnVMZ1NZQ0ZFaFlIU0Y0N0ZZQ19yc2VUN1MxazhuUTUwZUJZYk12Tlh1VEZVdTYyNUZvZzhHdkpSVWRnWWc0dkhFa0Eyd285c3RqQWxZNjhJZTZr?oc=5",
+      "published": "Mon, 02 Feb 2026 13:01:02 GMT",
+      "source": "24/7 Wall St."
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้น Microsoft (MSFT) ถูกจัดว่าเป็นหนึ่งในหุ้นยักษ์ใหญ่ 2 ตัวที่ควรค่าแก่การถือครองในอีก 20 ปีข้างหน้า",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า Microsoft เป็น 'Monster Stock' ที่ควร 'Hold for the Next 20 Years' ซึ่งบ่งชี้ถึงมุมมองเชิงบวกอย่างมากในระยะยาว"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft กำลังมองหาการบรรเทาหลังจากที่ภาคซอฟต์แวร์ประสบกับการเทขายอย่างรุนแรง",
+        "why": "พาดหัวข่าวกล่าวถึง 'Brutal Software Sector Sell-Off' ซึ่งบ่งชี้ว่าหุ้น Microsoft ได้รับผลกระทบในทางลบและกำลังอยู่ในสถานะที่ต้องการการฟื้นตัว"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "Microsoft เพิ่งแสดงให้เห็นว่าทำไมจึงยังคงเป็นหุ้นที่ 'ต้องมี' การถือครอง",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า Microsoft เป็น 'Must-Own Stock' ซึ่งแสดงถึงมุมมองเชิงบวกที่แข็งแกร่ง"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "มีอะไรบ้างที่อาจฉุดหุ้น Microsoft ให้ต่ำลงได้อีก",
+        "why": "พาดหัวข่าวตั้งคำถามเกี่ยวกับปัจจัยที่อาจ 'Drag Microsoft Stock Even Lower' ซึ่งบ่งชี้ถึงความกังวลต่อแนวโน้มขาลงของราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "ด้วยมูลค่า 357B ดอลลาร์ที่อาจบ่งชี้ถึงความผันผวนบางอย่าง ทำไมถึงเป็นเวลาที่ควรซื้อ Microsoft ในตอนนี้",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'It’s Time to Buy Microsoft Now' ซึ่งเป็นคำแนะนำในการซื้อที่ตรงไปตรงมา"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 75,
+      "note": "โดยรวมแล้ว มีพาดหัวข่าว 3 รายการที่ให้มุมมองเชิงบวกและ 2 รายการที่ให้มุมมองเชิงลบสำหรับ MSFT แม้ว่าจะมีการกล่าวถึงความกังวลเรื่องการเทขาย แต่คำแนะนำ 'ซื้อ' และการเป็น 'หุ้นที่ต้องมี' ที่ชัดเจนในหลายหัวข้อ ทำให้ภาพรวมเอนเอียงไปทางกระทิงเล็กน้อย"
+    }
+  }
+}

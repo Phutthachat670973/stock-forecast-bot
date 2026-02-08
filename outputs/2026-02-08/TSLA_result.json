@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3869,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0448 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0845 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0448 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0318 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0236 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm53NW9oWm9hSktXNFBRR1VLcE54YzUzMU1hVDNHbG00MEYzczlFdVVWY0U0cDR0aGhBQUFEMktURjlDVVB2S19fNjkwSWlRLWVNck9xN1d4cV9DanlxSG13ME1mdUxKQmFRTjB0UUM3aS1NOHNCVDNERXVNcTVoS1NDRG9XRVBaS3FqVWlsR3dXTndhZXFZN1d2QlJLeFctdXY4?oc=5",
+      "published": "Fri, 06 Feb 2026 10:05:07 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Does Tesla (TSLA) Share Price Reflect Its Role In The Electric Vehicle Shift? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nVkI1WmhLemZlNVZVV0c3QVdFbHhkRFlEZEtTN1VqWnBYMXBfODR3OEpqRjE2S2xXeXF3WS15cmNCRlFBRmVzVVBPU0lCejhFS1hhZ1R3cWswVTBOd3FnaUVNOTR2MFhWM0lnRWg4M2dyY1Q2Vi1BZER6Q25UUQ?oc=5",
+      "published": "Thu, 05 Feb 2026 01:10:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla: The Valuation Makes No Sense (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVFCeVhGVEJSWUNJaEpzZF92bzlYMEtBcGpBOFJsVWljZllOZjZaTnBOVWZxUHFZNzQzaTBJN2lId21KR1I3cS12MmpqcEJ5QmdSdTZCY3VuQW9kcXRXcGxpbEtUUWdnUm1pNDRndzN6eUxRVzY3cVhreGRZS1g4Ng?oc=5",
+      "published": "Sun, 01 Feb 2026 13:16:28 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla’s Next Move: Why Analysts See Either $500 or $350 Ahead - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV0UtZlVZMnl1d0hQQnFhZF9aYmJEYVcxMW5LZkdTT3RZSndiMWtGVHFUaTg3UGRZdm1Id3dOdjJGUV9ISl9YdjFMa3R5dHR4MkhYME44XzZiRDJ4cW1Cek1MSlVrY0I3S09McTdzcmMxN3cxZFBsb3pia3VRSFFFOG1Qalg2Z0l2MUZLV0lTekVfS2ViSk91ZUFXeVdMaXNfSkVz?oc=5",
+      "published": "Mon, 02 Feb 2026 17:35:31 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Here's Why I'm Still Not Buying Tesla Stock, Despite It Falling 9% This Year - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR21va3AweWZ1LVNzNzk5YTFlZ2VJUGpPcXFxeUF0RzU5QXJfVXl0TWdUalBXQUlJNTBmYmZ2Tk5zd2t6a0ZEbFVuU3piRXQzN1BLb21xQnlMTTY2MHBJc1VOalFKTHRSWDViT2czTFV3OFpleDFDSkNKTXVLTXBia0g3dDRHd1lVQ294czNWZXhoOWZYQ0NF?oc=5",
+      "published": "Thu, 05 Feb 2026 01:31:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Why Is Tesla Stock (TSLA) Falling Today? - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xU1dvMVVCeGN6V0VJd09YRk1KOWZYUXl2a3pTUzg2ZnRJOTJJVG5XR0I2RG1zSVFBbVBKeUlFSklvak5veGlHakFwR3pfdEJScUZJUWJzcGpLVmw0SWpxLUFKWlVNOU5rM21IX1ExcFd4UkQxMVE?oc=5",
+      "published": "Mon, 02 Feb 2026 15:14:59 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla Profit Forecasts Slashed Amid Musk's Spending Spree - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVNWQTNyMEtvRGNvMExfV3R0TkM3ZmpRTm1qUEZ2U0FxckxfUWtoWWJEZnAzY2l1Qjg5UUs3VVkzVktSQnBBdXlBaUZjN29JdFV0VDFNTnhBMFBOSk92X0hnQTBna21VTnBjX2tiZnlZdjQ4QUNBOVA3bG42bnlsMDEta1UxSGFpNU9GM0F1eEctOFZKbzB4ZDJ4Z0x0VGxDenlnUktn?oc=5",
+      "published": "Mon, 02 Feb 2026 22:53:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Waymo Raises Another Red Flag for Tesla. Should You Sell TSLA Stock in February 2026? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVZraWpYZnJGbEtiNWFmbThydUt5MUVlZWJmMllmSXJwWm5EVEF3eS1PMnpqQmtnYmo5aDhaVzJhaXhoMmdyOGx4OGJNUjhYQ0w3TG9uUzN5WW54YTVLRmtHbDNPUDZXNUVoaGNSVmxtN0dYa3NyYW9JQV85bkpTMzFtSnFMWDBVVTdLZUVueUNMa3o3UmZFMG52UWdxSnVnVkFURTU1ckpIdDZGSmt3OWU1dXI2QjBLdEg0cjBzbzZKaW8?oc=5",
+      "published": "Wed, 04 Feb 2026 19:13:19 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวตั้งคำถามเกี่ยวกับมูลค่าหุ้น Tesla หลังการประกาศผลประกอบการ ว่าควรซื้อ ขาย หรือมีมูลค่าเหมาะสม",
+        "why": "พาดหัวข่าวตั้งคำถามเชิงวิเคราะห์เกี่ยวกับการประเมินมูลค่าหุ้นของ Tesla ซึ่งเป็นการวิเคราะห์ที่เป็นกลางโดยไม่มีการชี้นำทิศทางราคาที่ชัดเจน"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์คาดการณ์ทิศทางราคาหุ้น Tesla โดยมีทั้งเป้าหมายที่ $500 และ $350",
+        "why": "พาดหัวข่าวแสดงการคาดการณ์ราคาหุ้นของนักวิเคราะห์ที่มีทั้งขาขึ้นและขาลง ซึ่งสะท้อนมุมมองที่หลากหลายและเป็นกลาง"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การคาดการณ์ผลกำไรของ Tesla ถูกปรับลดลงอย่างมากท่ามกลางการใช้จ่ายจำนวนมากของ Musk",
+        "why": "การคาดการณ์ผลกำไรที่ถูกปรับลดลงเป็นสัญญาณเชิงลบที่ชัดเจนต่อแนวโน้มทางการเงินของบริษัทในอนาคต"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความอธิบายเหตุผลที่ผู้เขียนยังคงไม่ซื้อหุ้น Tesla แม้ราคาจะลดลง 9% ในปีนี้",
+        "why": "ผู้เขียนระบุอย่างชัดเจนว่ายังคงไม่ซื้อหุ้น Tesla ซึ่งบ่งชี้ถึงมุมมองเชิงลบต่อศักยภาพการลงทุนของหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Waymo สร้างความกังวลเพิ่มเติมให้กับ Tesla และตั้งคำถามว่าควรขายหุ้น TSLA ในเดือนกุมภาพันธ์ 2026 หรือไม่",
+        "why": "การกล่าวถึง 'Red Flag' จากคู่แข่งอย่าง Waymo และคำถามที่แนะนำให้พิจารณาขายหุ้น เป็นสัญญาณเชิงลบอย่างชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "จากพาดหัวข่าวที่เลือกมา ส่วนใหญ่บ่งชี้ถึงมุมมองเชิงลบเกี่ยวกับหุ้น TSLA ทั้งด้านผลกำไร คู่แข่ง และคำแนะนำการลงทุน"
+    }
+  }
+}
