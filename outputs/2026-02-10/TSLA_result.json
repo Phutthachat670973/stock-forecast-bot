@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-09",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4094,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1155 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0276 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0414 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0348 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0246 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm53NW9oWm9hSktXNFBRR1VLcE54YzUzMU1hVDNHbG00MEYzczlFdVVWY0U0cDR0aGhBQUFEMktURjlDVVB2S19fNjkwSWlRLWVNck9xN1d4cV9DanlxSG13ME1mdUxKQmFRTjB0UUM3aS1NOHNCVDNERXVNcTVoS1NDRG9XRVBaS3FqVWlsR3dXTndhZXFZN1d2QlJLeFctdXY4?oc=5",
+      "published": "Fri, 06 Feb 2026 10:05:07 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Does Tesla (TSLA) Share Price Reflect Its Role In The Electric Vehicle Shift? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nVkI1WmhLemZlNVZVV0c3QVdFbHhkRFlEZEtTN1VqWnBYMXBfODR3OEpqRjE2S2xXeXF3WS15cmNCRlFBRmVzVVBPU0lCejhFS1hhZ1R3cWswVTBOd3FnaUVNOTR2MFhWM0lnRWg4M2dyY1Q2Vi1BZER6Q25UUQ?oc=5",
+      "published": "Thu, 05 Feb 2026 01:10:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Early 2026 Decline | TSLA Stock News - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREY1UVBjY0JqODVOb1AyV2licmQwcDY1MC1WdGlWM016WTNlVk9TZDZKTk5mQ2wwWUVSV3AyU3Jmdm5TcmV3a2praGxTMEhCQ0VHTklfaUdYRThCaEZfWjRlV1NBM2ZUd0NoVUlKY2Z2elZySDg0QUVvTHFwcTdhN3dQTnhha1lmYTJTRG80OA?oc=5",
+      "published": "Mon, 09 Feb 2026 14:03:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Here's Why I'm Still Not Buying Tesla Stock, Despite It Falling 9% This Year - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR21va3AweWZ1LVNzNzk5YTFlZ2VJUGpPcXFxeUF0RzU5QXJfVXl0TWdUalBXQUlJNTBmYmZ2Tk5zd2t6a0ZEbFVuU3piRXQzN1BLb21xQnlMTTY2MHBJc1VOalFKTHRSWDViT2czTFV3OFpleDFDSkNKTXVLTXBia0g3dDRHd1lVQ294czNWZXhoOWZYQ0NF?oc=5",
+      "published": "Thu, 05 Feb 2026 01:31:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "'Growing Chance' Of Tesla Merger To Create Musk Trinity With SpaceX And xAI - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0ttRkhUXzZObEQtWHVfbFJwRHJIeklNSDdUeXJWMlhMSHJzU21NZmNwU0FNYmtaRnIybmo2clF5TUtCMmpxcmgwRmNvQlFEcVNEaDNEUEtpRVdLMjVtclVJbGlVVF95S21hZ1dfVE9DRDZGVXg1UWp1YlJEbDB3WnVfZVVYY1Z6RzFWMzYxVDEwZHpqMEx1UTN0SQ?oc=5",
+      "published": "Wed, 04 Feb 2026 21:02:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Waymo Raises Another Red Flag for Tesla. Should You Sell TSLA Stock in February 2026? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVZraWpYZnJGbEtiNWFmbThydUt5MUVlZWJmMllmSXJwWm5EVEF3eS1PMnpqQmtnYmo5aDhaVzJhaXhoMmdyOGx4OGJNUjhYQ0w3TG9uUzN5WW54YTVLRmtHbDNPUDZXNUVoaGNSVmxtN0dYa3NyYW9JQV85bkpTMzFtSnFMWDBVVTdLZUVueUNMa3o3UmZFMG52UWdxSnVnVkFURTU1ckpIdDZGSmt3OWU1dXI2QjBLdEg0cjBzbzZKaW8?oc=5",
+      "published": "Wed, 04 Feb 2026 19:13:19 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "New Congressional Support For Robotaxis Gives Tesla Stock (NASDAQ:TSLA) No Help, Shares Plunge - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVNWMXlJMEltMElDNlN0eXJMQWdLZGlIb1d0enZJR0dtLW5mNEhRa0dyQlZmT3dwZ19YcXdlY3FVazVtNERQV0RxdW9Nc3dwNHk4UUFEbGFQbnRXajJsLUxJUk03OEFJZDZRYWV4cXRENFRUeDlWWHRJel9ZX25aNk11aWZSV1VycktYcm9kZkw2b1U2RFlFT2RacjhZSklfbHpvVlJyMWxCeFhXcHZ4XzNydnVqel9QTjZJNA?oc=5",
+      "published": "Wed, 04 Feb 2026 18:04:30 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla stock today: TSLA edges higher after $41,990 Model Y AWD launch as Europe sales signals split - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckNCNm1yM2g4NHZvVDkxd0pISkh0Qkc1NXEzM2p1RDlQekw4RHpZd0pKTHNPS2Uya1pReHo0WG04bmdGM1VNLWtKTUlVUTFCWnNEYkVrN0VRd2JRd29OU3FWS2VCc1FSdkNRMlRpMVVEWnBwdmVqRU9Oei1IemdCbTlQZENNX0hsakxYMVA1WDY2Z1ViUGF3cDlaMGJPd2h4TGFQMmJ5cmItQlZ0TVYtamVKMDU5X1RE?oc=5",
+      "published": "Tue, 03 Feb 2026 15:47:00 GMT",
+      "source": "TechStock²"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ข่าวพาดหัวนี้สอบถามว่าหุ้น Tesla ควรซื้อ ขาย หรือมีมูลค่าที่เหมาะสมหลังจากการรายงานผลประกอบการ",
+        "why": "ข่าวพาดหัวนี้เป็นคำถามเกี่ยวกับการประเมินค่าหุ้นหลังผลประกอบการ ซึ่งไม่ได้บ่งชี้ถึงทิศทางราคาที่ชัดเจน แต่เป็นการเชิญชวนให้พิจารณาข้อมูลเพิ่มเติม"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ข่าวพาดหัวนี้กล่าวถึงความคิดเห็นเกี่ยวกับการลดลงของราคาหุ้น Tesla ในช่วงต้นปี 2026",
+        "why": "คำว่า 'Decline' (ลดลง) บ่งชี้ถึงแนวโน้มเชิงลบต่อราคาหุ้น Tesla อย่างชัดเจน"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 70,
+        "summary": "ข่าวพาดหัวนี้ชี้ให้เห็นถึงโอกาสที่เพิ่มขึ้นของการควบรวมกิจการของ Tesla เพื่อสร้าง 'Musk Trinity' ร่วมกับ SpaceX และ xAI",
+        "why": "การควบรวมกิจการขนาดใหญ่ โดยเฉพาะกับบริษัทในเครือเดียวกัน อาจถูกมองว่าเป็นปัจจัยบวกที่อาจเพิ่มมูลค่าและศักยภาพในระยะยาวของ Tesla แม้จะยังเป็นเพียง 'โอกาสที่เพิ่มขึ้น'"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ข่าวพาดหัวนี้ระบุว่าการสนับสนุนรถยนต์ไร้คนขับจากรัฐสภาครั้งใหม่ไม่ได้ช่วยหนุนหุ้น Tesla และราคาหุ้นกลับดิ่งลง",
+        "why": "คำว่า 'Shares Plunge' (หุ้นดิ่งลง) และ 'No Help' (ไม่ช่วย) บ่งชี้ถึงผลกระทบเชิงลบโดยตรงและรุนแรงต่อราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "ข่าวพาดหัวนี้รายงานว่าหุ้น Tesla ปรับตัวสูงขึ้นเล็กน้อยหลังจากการเปิดตัว Model Y AWD ราคา $41,990 แม้จะมีสัญญาณยอดขายในยุโรปที่แตกต่างกัน",
+        "why": "ประโยคที่ว่า 'TSLA edges higher' (TSLA ปรับตัวสูงขึ้นเล็กน้อย) บ่งบอกถึงการเคลื่อนไหวของราคาในเชิงบวกหลังการเปิดตัวผลิตภัณฑ์ใหม่"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 65,
+      "note": "ข่าวพาดหัวที่เลือกมาบ่งชี้ถึงแรงกดดันเชิงลบที่ชัดเจนต่อราคาหุ้น Tesla จากการกล่าวถึงการลดลงและการดิ่งลงของหุ้น แม้จะมีปัจจัยบวกจากการเปิดตัวผลิตภัณฑ์ใหม่และการพิจารณาโอกาสในการควบรวมกิจการ แต่ผลกระทบเชิงลบที่เกิดขึ้นจริงและชัดเจนกว่าทำให้ภาพรวมมีแนวโน้มเชิงลบเล็กน้อย"
+    }
+  }
+}
