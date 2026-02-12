@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-11",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4949,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 5 วัน = 0.0557 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0395 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0733 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0218 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0040 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "TSLA Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qejEtbzhHOHJnMXJRWUVEbUxyUFF0RnJuNEtEN0U4Mk4wTlIycHNTejNyYTJYQlRDMFRCMllMcGJtNV81S0RNME9IZFBSZkRJ?oc=5",
+      "published": "Mon, 09 Feb 2026 20:57:39 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "After Earnings, Is Tesla Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm53NW9oWm9hSktXNFBRR1VLcE54YzUzMU1hVDNHbG00MEYzczlFdVVWY0U0cDR0aGhBQUFEMktURjlDVVB2S19fNjkwSWlRLWVNck9xN1d4cV9DanlxSG13ME1mdUxKQmFRTjB0UUM3aS1NOHNCVDNERXVNcTVoS1NDRG9XRVBaS3FqVWlsR3dXTndhZXFZN1d2QlJLeFctdXY4?oc=5",
+      "published": "Fri, 06 Feb 2026 10:05:07 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Can Tesla stock really keep on rising? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmRmdWYteWhzUzFVcEY2bVNGSWZTSk13NmNPcG42ZWF6dl84S0dwQ2d5NWIyRTRxWWVyWEZZNUJSMlhLeE1FdVpiU1dsVFFQQi1wZ2gxbVNjNXAtNEdVMXZIVkppN2NHa2V0SHRYbWR3ZGR1SDQxT05xdFl5c3FXcHNRRXZjQQ?oc=5",
+      "published": "Mon, 09 Feb 2026 16:54:00 GMT",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Early 2026 Decline | TSLA Stock News - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREY1UVBjY0JqODVOb1AyV2licmQwcDY1MC1WdGlWM016WTNlVk9TZDZKTk5mQ2wwWUVSV3AyU3Jmdm5TcmV3a2praGxTMEhCQ0VHTklfaUdYRThCaEZfWjRlV1NBM2ZUd0NoVUlKY2Z2elZySDg0QUVvTHFwcTdhN3dQTnhha1lmYTJTRG80OA?oc=5",
+      "published": "Mon, 09 Feb 2026 14:03:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Tesla (TSLA) was fabulous, says Jim Cramer - MSN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTURJQWk5V1g4MFJ5T3VXYkNDUklRSjZuUGQ2b2hkdng4M2hYWHJNd2RWUDQtRXcxSl9oUVJJYnpUZkVLYk1NeEZ6RXVVTy1IUkN2Wnl3cEdGQ01VbHY1bTN6TW1aVjcybERPNjBOVUtvZmtWSWpJVkM4bW5rQkJ5eTMzYWQ5SGZFQVdRbEVZZDlZUQ?oc=5",
+      "published": "Fri, 06 Feb 2026 14:08:41 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3dZdHpqUzkyY1FobThRVVFnSWtPRXkxaTNqZ3A3eGNfU1FfNlRpb3JjMUd4Qkg0eGduRk5Zd3RnWkpZZFVTdXFNaDdDMUV1aVlHZU5QX0dGYVhFdm1vbjM1b2N1eV9iWDZQcF80MGJEaC1uajkyZjhGYlVOYU5UU012MWszckw2eGRPOW54di00RWxlN0pMOGc5QVExbjdxdzhTV28yVVhDV25DZFAwbUpHNG56bWVsSW9oVjhWQnlkMjA?oc=5",
+      "published": "Wed, 11 Feb 2026 14:30:02 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Tesla Stock 2026 Forecast: Analysts Claim the ‘Car Business Is Falling Apart,’ Others Say Its the Biggest Leader ‘in Physical AI’ - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVEt2dC12RzF1OUtURXlNSUlfVzBSZl9KaEZXU2hLelBCTzVnOFVGYTFqZDVsclRtTEwzZnBmOTJqcUY3bXBNN3IzSGRVNXhqODhUcV92WE81RzhkZkZPM2t6Q0NZZE5XVTNfajhYMjlmVnIxX19Oc2JpRHdPcDdEVmozVkJubkIzblFmb3RSSGpoZFp4SlNBWGN6bXgtQ3dKd210NkJCd2I1SUVna25vNGZlb0pFc0UzY2UzYWdCRXhxQnA1eWNkX3JOYjc1ZFBlUnRPYjRkVWdlcGNlcnJCVURmRnd5THpQ?oc=5",
+      "published": "Thu, 05 Feb 2026 14:56:12 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Elon Musk Makes a Bold Claim for Tesla in 2026. It Could Make the Stock a Scorching-Hot Buy. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFpkSzR6WktwNnRvLXQ3ckxiazIzSk8wemwxVXZGaVlXN2V6RXBVSDk0VHpYOUZNOTNPM0ZNWGVqYWVBSWREOUoxcUtmaDVEQVJUMHY0dTVkLWFjaFd2aWRKQVhmX2NoUEUwWW8taTZ6M3ZzS1dQR0dLMTdkLVByeGd5ZWdhaE16UTlER015SmJlYVpqTzdz?oc=5",
+      "published": "Fri, 06 Feb 2026 05:15:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ข่าวเกี่ยวกับความเห็นต่อราคาหุ้น TSLA ที่ลดลงในช่วงต้นปี 2026",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนถึง 'การลดลง' ของราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Jim Cramer กล่าวว่า Tesla (TSLA) 'ยอดเยี่ยม'",
+        "why": "พาดหัวข่าวแสดงความคิดเห็นเชิงบวกอย่างมากจาก Jim Cramer ที่ว่า 'ยอดเยี่ยม'"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Elon Musk คาดการณ์ที่กล้าหาญสำหรับ Tesla ในปี 2026 ซึ่งอาจทำให้หุ้นเป็น 'หุ้นร้อนแรงน่าซื้อ'",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้นอาจเป็น 'หุ้นร้อนแรงน่าซื้อ' จากคำกล่าวของ Elon Musk"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "Tesla ประสบความสูญเสียในยุโรป และสิ่งที่นักลงทุนต้องรู้เพื่อให้หุ้น TSLA ประสบความสำเร็จในปี 2026",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'Tesla สูญเสียในยุโรป' ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "การคาดการณ์หุ้น Tesla ปี 2026 โดยมีนักวิเคราะห์บางคนมองว่า 'ธุรกิจรถยนต์กำลังแย่' ขณะที่คนอื่นมองว่าเป็นผู้นำที่ยิ่งใหญ่ที่สุด 'ใน AI ทางกายภาพ'",
+        "why": "พาดหัวข่าวแสดงมุมมองที่ขัดแย้งกันอย่างชัดเจน ทั้งเชิงลบ ('ธุรกิจรถยนต์กำลังแย่') และเชิงบวก ('ผู้นำที่ยิ่งใหญ่ที่สุดใน AI ทางกายภาพ') ทำให้เป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "พาดหัวข่าวที่เลือกมีทั้งมุมมองที่เป็นเชิงบวกและเชิงลบเกี่ยวกับ TSLA ที่สมดุลกัน ทำให้ภาพรวมเป็นกลาง"
+    }
+  }
+}
