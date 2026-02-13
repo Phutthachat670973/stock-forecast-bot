@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-12",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8063,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 27.3211 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0767 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0564 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0729 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0593 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0NHVXdDczUxeWMyUGhnVjFVZlNYbm04VmduQUY1MzJFOHdTT3QycTlDYktIWDN4Y0FVWVVKaFloS0pSTVYzWkE2YUQtSXFJWm9pSnR2VlE4M1JzM0VYUmJ5aFl4anpXU0lqTE12b2p2MUtyNjdLV0poZ1Zqc2UySlhOSQ?oc=5",
+      "published": "Mon, 09 Feb 2026 20:45:51 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWtYTThZcEJURWZtSU5Wam9EajRFNHdWejZQNERzM3V0dTFOZ0NNelA2TEVpMl9UNnBibHR0blY5MFlkR1VZTW1VSGtlQURHWUc2ZF9sZlRWX2tFMDNCcHk0bzVwNXAtNktpYVE3TVFtTFczUmpQZk9aaU5jSVJDR1RuR2ljVTZhbnp1UWktcEUzZEF6ZEJEeVBoXzlaZmU4SjdBQ0tIclA?oc=5",
+      "published": "Fri, 06 Feb 2026 10:05:07 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Microsoft Stock Looks For Relief After Brutal Software Sector Sell-Off - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhBU2lLS2ZtdEZKQkNKalNYc2JnN05fNVJFTTNrNmk4X01kUEdjaW9NTVJwUzU5SFRDb1VtX1dMSmVSTm1Oa0JlNE5tbkJPTk1DMlRoT3lNM1JPcmpyY3ZNWEVBcGxNdm9DR3E0enFMWGNFVW42ZS0yc2FuUWYxTzVnR0c2T3g0UDZwd2tzNVF6Zw?oc=5",
+      "published": "Fri, 06 Feb 2026 21:06:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "1 Reason Microsoft Stock Could Outperform the Market in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVpVc2owVWI1cTVweThfRXhxWjRUNndoUVJZQnliSktibmhGQVgwbTM1cHV0cU9IWnZGVzl4OC0tRVhOR3VBWTRMRFd3RWRXTjhEX1JmTnh5bjNCVVdROTFoQjRXT2hxYXYxbTUzMmdDaG40R01FUjJPVkFqSW9hajF2ZFNNNUItZUFhQnJiQWIxclhBT3J6eA?oc=5",
+      "published": "Sun, 08 Feb 2026 12:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "If Software Is Dead, Microsoft Wins - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5",
+      "published": "Thu, 12 Feb 2026 06:33:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Stock vs. Google And Amazon - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHpVNmFTODVxM2dzQ0gwTklCTS1IVHltTWdoLUdEc25ZNjhPUV9vOU1NYVVaNEZxUmVfRXBSWW9yaXJ4RnJ0M0xaY0laNnU1Y3QyTW5VUE14My1TNFAwOVV5NmhTUGp2MFYzN1dSZVB6bk1RQ19EbU1jN2I1THQ1Sk5MaGxWbXM4Y0FBczFNa2ZrMDNDOU5oQ184bw?oc=5",
+      "published": "Mon, 09 Feb 2026 10:30:37 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Here’s the Reason Microsoft Is Crashing, but Why You Shouldn’t Sell - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0ZjWllHU1BfQ0ZHTnFjQXgwWmF1T2lPbmhZclkzTXJZVGYtYU9ZY1M2S2p4TmFRdXdiLUNWX0Z3SUN5NG9HbU1PU0xYb0d6ekhTcV9pWFFtRE55Wld1MlA5am40eVVpdDl3czB2dXJTcVg2ZFdZeVlpODJ3WnEwS08yRU9tRDlXb0lrMEN1eVNTQUNfSmNia3U4TndoTlIwTEc5emdIczJPTDg5?oc=5",
+      "published": "Mon, 09 Feb 2026 15:23:05 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft is Bouncing Back from Its Post-Earnings Price Crash, But Watch This Before You Buy MSFT Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaXlremVXRTR6YUZNUWttOHFvcU9qU0V5dkYwb0J5b2pVa0ZvWmJmT0duaTBoNGhqTTRDX2JwdzFuLWZzd2dYbzJSSVpiZGJJUDBORDhXMGQtRF9LTURjWFZFMVlaQ1JkbU1XemtkT1NBaG9tbmE4T3FWLU5NeWdvcVpNRXZQY1VMc3EwaDVfbkxaRTlheWZCOEJTTDBPNzJ0S19MOFVwVkRDWVdqWXNNSzBRM1E1TmprSXhjazFsc2ttRlBKbmg5UGdZSmJnRGdSU2VBYnQzaE5ueUVCWWc?oc=5",
+      "published": "Tue, 10 Feb 2026 16:39:49 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้นของ Microsoft (MSFT) มีการซื้อขายที่เพิ่มขึ้น",
+        "why": "พาดหัวข่าวระบุโดยตรงว่า 'หุ้นของ Microsoft (MSFT) มีการซื้อขายที่เพิ่มขึ้น' ซึ่งบ่งชี้ถึงการเคลื่อนไหวของราคาในเชิงบวก"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft กำลังมองหาการบรรเทาหลังจากภาวะเทขายอย่างรุนแรงในภาคซอฟต์แวร์",
+        "why": "พาดหัวข่าวกล่าวถึง 'ภาวะเทขายอย่างรุนแรงในภาคซอฟต์แวร์' ซึ่งบ่งชี้ถึงแรงกดดันเชิงลบที่ส่งผลกระทบต่อหุ้น Microsoft ในปัจจุบัน"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "มีเหตุผลหนึ่งที่หุ้น Microsoft อาจทำผลงานได้ดีกว่าตลาดในปี 2026",
+        "why": "พาดหัวข่าวระบุว่าหุ้น Microsoft 'อาจทำผลงานได้ดีกว่าตลาด' ซึ่งเป็นมุมมองเชิงบวกสำหรับประสิทธิภาพในอนาคต"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "นี่คือเหตุผลที่ Microsoft กำลังร่วงลง แต่ทำไมคุณไม่ควรขาย",
+        "why": "พาดหัวข่าวระบุโดยตรงว่า 'Microsoft กำลังร่วงลง' ซึ่งเป็นสัญญาณเชิงลบที่ชัดเจน แม้ว่าจะมีคำแนะนำเพิ่มเติมว่าจะไม่ควรขายก็ตาม"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Microsoft กำลังฟื้นตัวจากการร่วงลงของราคาหลังประกาศผลประกอบการ แต่ให้จับตาดูสิ่งนี้ก่อนที่คุณจะซื้อหุ้น MSFT",
+        "why": "พาดหัวข่าวระบุว่า 'Microsoft กำลังฟื้นตัว' ซึ่งบ่งชี้ถึงการเคลื่อนไหวเชิงบวกและการกลับตัวขึ้นของราคาหลังจากที่เคยลดลง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "ภาพรวมของข่าวเกี่ยวกับ Microsoft มีทั้งสัญญาณเชิงบวกและเชิงลบ โดยมีพาดหัวข่าวที่ระบุถึงการซื้อขายที่เพิ่มขึ้นและการฟื้นตัวของราคา ควบคู่ไปกับข่าวเกี่ยวกับการร่วงลงของราคาและภาวะเทขายในภาคซอฟต์แวร์ แสดงให้เห็นถึงมุมมองที่หลากหลายและผันผวนสำหรับหุ้น MSFT"
+    }
+  }
+}
