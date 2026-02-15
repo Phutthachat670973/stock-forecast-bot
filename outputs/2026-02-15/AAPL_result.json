@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4244,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 5 วัน = -0.0803 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0248 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0338 → หนุนขึ้น",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0584 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0194 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Here's Why Apple (AAPL) is a Great Momentum Stock to Buy - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcURrVExmM1Q4VUdMbGtXOTJDQzFRQzduV1lRNk0tMTMtQzhiekhtUENaSEdvc0VWa0JDUFhPV0xIUlBTY3V3VDhyTzFqcVdSaHozUnk5bHNPUzZvRExyVUJ6WFpVVnpVWml3bUdCTkhmeG9FM2Ytbm5qWkkyVTE5bG55UQ?oc=5",
+      "published": "Thu, 12 Feb 2026 17:00:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KOC14WVk4REFPRll5WE9DbmRsN1o5bUZKSUZyaDdCdnRBOU45bmVudEp3ekJLMUpYeDI1ZUhjQ0VBaFJyLW4tcEFmM1hLZTJHWXRSYXQwNEE3RzBRbThybHpqWGVfc0xFNGQxYkZkNTF2VWtRV2fSAXtBVV95cUxPSzNoMldrMjluS3RJeEhHZlRqZXRsR0ZhMXh4aVlwaC14Z0RTTmJPTjYzMGhvM3BsNFg4cE9Bb0NpYUN0RjZuVndXWXhtSVJSeHY0ZGR4RkMwRG5QcHpFTzJRQXRNM0JrYWVYZm1rRW5EcTFXQ1BydmlucGM?oc=5",
+      "published": "Thu, 12 Feb 2026 21:48:02 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Here's Why Apple’s Stock Dropped 5% Today - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkpwcldzdEpEbG51M1o2eGRFZE1pRi1XSVFKWVhkaUZjVGkyM3VZVGtibU1sWWNOUmNRTEVkY3h3cGl2TURRTXdvTDZWLWNDcXlweEVZSUR2M0h3Ni1IXy1ud3ZOMGhaZFZwNHFEV2lGU3RxTzhNbU9Fb29qNXhRTnJYalJXVWU4am5V?oc=5",
+      "published": "Thu, 12 Feb 2026 23:40:10 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzRnNElMbHdlQy1ZNm5CazQwSjZ1MHRLVDVQTHBQX3R3N0trNE9sZU5ldWI0ZDM1Sm9YWHBJem43dmI5bkpLb2N1UlcwMWo4LWpOLXViM1VVTEdyMTB2N1N0dlFBZ2dRQ01zLUZXRTJVQ2p1SUxkOUlXbHFMRURPa184SUFDekxWX04xNURLWQ?oc=5",
+      "published": "Thu, 12 Feb 2026 22:08:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Top analyst revamps Apple stock price target - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0FEM0tkem9mS2s4Qmd1TzBfT3BxY0NXcW94MHNkVDFWaXVfTTVNekF0RHcwM1Y2V2Myem5Nd1oxMFBOcDVFMElobzc1QWtIcDBNLXhULXdVMFdOSk9ScF9KTFhZb3pyTGpaZnZfNHVjYkZxUVN3NjU4aUN1eE00SC01OHNDX2R3MHY2WVhJZTg?oc=5",
+      "published": "Fri, 13 Feb 2026 01:10:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Jim Cramer on Apple (AAPL): “Doesn’t Hurt That They’ve Avoided Spending Hundreds of Billions of Dollars on Data Centers” - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCNG5NWjBNTkZndWNuRlltTkI4bUxncS1yaDUxYTlLQ3RYVGhDTzZqY2hrMEZueU5yZlJ3bFBubWlpX1lvMXlDaXVtcllKMXdDYmJ1WWlYTWdYVUVwX3FFeE92V1gxNWhyM05lQWhSMV8tMUxFUTNfbXpTclZmdw?oc=5",
+      "published": "Tue, 10 Feb 2026 14:53:29 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock (AAPL) Gets a Price Target Boost on ‘Strong iPhone Cycle’ - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFN1NlQtbWgyaFY2NEl0MWpXMnNQTEliTWJTMkZXak1NNF9nWkQ0SXBwZlg4ZFlBVTNVak1HNmhPeGcxa1d5T3dab01WRndUVkJ5OHRKdGoxSUtOZWhTRXFlWE55cU9qRGE1Vi1UTHBaWkhfMzRHX2tIQktSV1VjalVsWWF5aWlRcGE0RkM3UTFRZ0x3MHhwZWM2TQ?oc=5",
+      "published": "Tue, 10 Feb 2026 19:12:27 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Here’s why Apple stock is plunging on Thursday - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWt5VExCR3BUQzlEaG9oYTlick03aXNXS2d2RURhb1VOWFlrTVFVaEI0WFlhUXppTW5KQjZ2RF9kOGNmd2tsWmtUSkJJY3hUQkJOYUxnQkVPZk5QYXJEX0h2NUxlRVlkUTU4TFNiQ0ttbHpaLUloRWFhQXBUZ2JTQ1lkMVQ4S0xjTmlpdFM0XzBJZjFScFdOa0tMNzRuX3l6dkpyVHFn?oc=5",
+      "published": "Thu, 12 Feb 2026 17:03:17 GMT",
+      "source": "TradingView"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่า Apple (AAPL) เป็นหุ้นที่มีโมเมนตัมที่ดีและน่าซื้อ",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าเป็น 'Great Momentum Stock to Buy' ซึ่งบ่งชี้ถึงแนวโน้มเชิงบวกและการแนะนำให้ซื้อ"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้นของ Apple มีผลงานแย่ที่สุดนับตั้งแต่เดือนเมษายน เนื่องจากผู้ผลิต iPhone เผชิญกับการตรวจสอบจาก FTC และมีรายงานความล่าช้าของ Siri",
+        "why": "พาดหัวข่าวระบุถึง 'worst day since April' และปัจจัยเชิงลบหลายอย่าง เช่น 'FTC scrutiny' และ 'reports of Siri delay' ซึ่งกดดันราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวอธิบายเหตุผลที่หุ้นของ Apple ลดลง 5% ในวันนี้",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'Stock Dropped 5% Today' ซึ่งเป็นการลดลงอย่างมีนัยสำคัญและเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ความหวังในการเปิดตัว Apple Siri ในช่วงต้นปี 2026 เริ่มจางหายไป ส่งผลให้หุ้น Apple ลดลง",
+        "why": "พาดหัวข่าวระบุถึง 'Hopes Fade For Early 2026 Apple Siri Release' ซึ่งบ่งบอกถึงความล่าช้าของผลิตภัณฑ์ และ 'Apple Stock Drops' ซึ่งเป็นผลกระทบเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple (AAPL) ได้รับการปรับเพิ่มเป้าหมายราคาเนื่องจาก 'Strong iPhone Cycle'",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'Gets a Price Target Boost' ซึ่งเป็นการปรับเพิ่มเป้าหมายราคา และให้เหตุผลเชิงบวกคือ 'Strong iPhone Cycle'"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีการเลือกข่าวเชิงบวก 2 รายการและเชิงลบ 3 รายการ ข่าวเชิงลบเน้นไปที่การลดลงของหุ้นอย่างมีนัยสำคัญ การเผชิญหน้ากับการตรวจสอบด้านกฎระเบียบ และความล่าช้าของผลิตภัณฑ์ ในขณะที่ข่าวเชิงบวกกล่าวถึงคำแนะนำในการซื้อและเป้าหมายราคาที่เพิ่มขึ้น ทำให้ภาพรวมของสถานะหุ้น Apple อยู่ในสภาวะที่หลากหลายและค่อนข้างเป็นกลาง"
+    }
+  }
+}

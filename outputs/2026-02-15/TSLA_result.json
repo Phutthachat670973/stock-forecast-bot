@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4256,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1714 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0433 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0172 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0301 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0197 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Tesla Stock Headed To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjRtajJYS3lUQTZiX1VpWEthd3IyOFpoNDFPRldCaGxSdDdLOVJzemMzNnN3RFpBeElhR2E2elFOTlBzZ25KTFJhU19GQWdDYTNGYTBwUHRmMjVnSTlucFdMLXAyTXJNa0Y2bW1EQ0prVmFNREVwdFY3RTRncmI4WUlLZkVIdjlDUzBCcjgzLUs?oc=5",
+      "published": "Thu, 12 Feb 2026 12:30:59 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "I Predicted Tesla Would Be Unprofitable. I Was Dead Wrong. Here's How Elon Musk Surprised Me. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblF2ZEpzNVgySWZyTVYwS01oX0JyMHU3VWtwRk54MVMwX1VFUHdETEw2TTdtaGR3bGszWVRFVi1lTTRjRHhmWGtUcUZHWjdOUldIX2NhTEUwMElKaFJSaUdFRlhoS3pjcWV1cHRjTWlNcEdQR2JtblNzeDYzWWYxUXFoZnFqUFAxRVFDNWRCc1JXUFN1T3FGZA?oc=5",
+      "published": "Wed, 11 Feb 2026 10:44:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla (TSLA) Remains a Battleground Stock as Analysts Weigh AI Optionality - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEEyMHJQWnRwbFVhUzBoQzNsYzZzcTV0VjQweWt5cDRnR3VSZ29laWJ6UWdtSHAycWMyMW5NMk9vT2lGeXZpXzBGdlFTb3lUcXZja0tPZE5WQU9HUzBZV2pLcmJ3Wkx0ZGpna2RTZmJuQWlKbUtJUDZPOGRwdjRoSGpsZmNwLW56eEJJ?oc=5",
+      "published": "Tue, 10 Feb 2026 11:37:11 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock To $299? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFpMRWtyd05pR1FLMklRUGF5TDZFc0FEV01Pbk9MbE85RVZuYkJKVFlSM2VNSEJoQ0JoRGhOLWNRNGVob0hkenR5ZU10TmdZdjFpdlU1OVhwbTRpcW1yVnBVTTVCSjNva1JselIxc2l0VUtSeGN0N29BMHNwemRVbWFnWGVLRFE?oc=5",
+      "published": "Thu, 12 Feb 2026 07:12:06 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3dZdHpqUzkyY1FobThRVVFnSWtPRXkxaTNqZ3A3eGNfU1FfNlRpb3JjMUd4Qkg0eGduRk5Zd3RnWkpZZFVTdXFNaDdDMUV1aVlHZU5QX0dGYVhFdm1vbjM1b2N1eV9iWDZQcF80MGJEaC1uajkyZjhGYlVOYU5UU012MWszckw2eGRPOW54di00RWxlN0pMOGc5QVExbjdxdzhTV28yVVhDV25DZFAwbUpHNG56bWVsSW9oVjhWQnlkMjA?oc=5",
+      "published": "Wed, 11 Feb 2026 14:30:02 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Tesla's U.S. auto market share improves even as sales drop by double digits again (TSLA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRobWpuZVVBT2FlbUNCbzZHYTd0WXJOQWZqbk8xTDNvN2pwZjZWNkFmaHhzcUlBRl9iNDMxVE1UVVA4M2h2dTFiYUgwRzdOeDBQU0E1N3NQMUxDLVV1SWRoU1lYX1hPRmM5VFptN1ZvVnJrYlBqT3RMZDVxazlBLTc1ZzN6RmNZOUpzald6ODAxdVdmNU1rbzlaajFfZjJpemRPemlSdXdqVWVCTEhEMUtWbXFfV2c?oc=5",
+      "published": "Fri, 13 Feb 2026 19:32:56 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla Stock (NASDAQ:TSLA) Sinks With 30-Day Extension to Take on Trademark Issues - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzRUVFpwWVZoaXVHT2VxYTV2RzVMYktvRldzM0dJZjVBeDdFdWltakltV2JHdUR0cTdCWGJ4MlJhTUNIdUgtX0tUZldmN2VERy1MU3V6WnBreFdrZEhQbEp2bEhtNUJWVFpmNVpHS3F0NkJfUzB4RTNNallGNTE1YkVBVlFvN1VCdnVnTy1ESEJwS011bEQxQ3BKSW9NN1c4T1V1enBsWmZYSkNt?oc=5",
+      "published": "Thu, 12 Feb 2026 18:06:49 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Early 2026 Decline - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREY1UVBjY0JqODVOb1AyV2licmQwcDY1MC1WdGlWM016WTNlVk9TZDZKTk5mQ2wwWUVSV3AyU3Jmdm5TcmV3a2praGxTMEhCQ0VHTklfaUdYRThCaEZfWjRlV1NBM2ZUd0NoVUlKY2Z2elZySDg0QUVvTHFwcTdhN3dQTnhha1lmYTJTRG80OA?oc=5",
+      "published": "Mon, 09 Feb 2026 14:03:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "หัวข้อข่าวนี้ตั้งคำถามถึงความเป็นไปได้ที่หุ้น Tesla จะไปถึงราคา 300 ดอลลาร์",
+        "why": "การตั้งคำถามถึงเป้าหมายราคาที่สูงขึ้นเช่น 300 ดอลลาร์ บ่งชี้ถึงการมองเห็นศักยภาพในการเติบโตของราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวนี้ระบุว่าผู้เขียนเคยคาดการณ์ว่า Tesla จะไม่ทำกำไร แต่ผิดพลาดไป และประหลาดใจกับผลงานของ Elon Musk",
+        "why": "การยอมรับว่าการคาดการณ์เรื่องการขาดทุนผิดพลาดไป และถูกเซอร์ไพรส์ แสดงถึงผลประกอบการที่ดีเกินคาดของ Tesla ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "หัวข้อข่าวนี้กล่าวถึงการที่ Tesla ประสบปัญหาในยุโรป และสิ่งที่นักลงทุนต้องพิจารณาเพื่อให้หุ้น TSLA ประสบความสำเร็จในปี 2026",
+        "why": "หัวข้อข่าวระบุถึงประเด็นเชิงลบในปัจจุบัน (การสูญเสียในยุโรป) แต่ก็มีการนำเสนอถึงแนวทางสำหรับความสำเร็จในอนาคต ทำให้ภาพรวมเป็นกลาง"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวนี้ระบุว่าส่วนแบ่งตลาดรถยนต์ของ Tesla ในสหรัฐฯ ดีขึ้น แม้ว่ายอดขายจะลดลงเป็นตัวเลขสองหลักอีกครั้ง",
+        "why": "ข่าวแสดงข้อมูลทั้งเชิงบวก (ส่วนแบ่งตลาดดีขึ้น) และเชิงลบ (ยอดขายลดลง) ในประโยคเดียวกัน ทำให้ภาพรวมของข่าวเป็นกลาง"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวนี้ระบุว่าหุ้น Tesla (NASDAQ:TSLA) ดิ่งลงจากประเด็นปัญหาเครื่องหมายการค้าที่ขยายเวลาออกไปอีก 30 วัน",
+        "why": "การใช้คำว่า 'Sinks' ชี้ให้เห็นถึงการลดลงของราคาหุ้นอย่างชัดเจน ซึ่งเป็นสัญญาณเชิงลบสำหรับ TSLA"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "จากหัวข้อข่าวที่เลือกมา มีทั้งประเด็นที่บ่งชี้ถึงศักยภาพเชิงบวก (ราคาเป้าหมายสูงขึ้น, ผลกำไรดีเกินคาด) และประเด็นเชิงลบ (หุ้นดิ่งลงจากปัญหาเครื่องหมายการค้า) รวมถึงข่าวที่เป็นกลางซึ่งมีทั้งปัจจัยบวกและลบ ทำให้ภาพรวมของสถานการณ์หุ้น Tesla ในขณะนี้เป็นกลาง"
+    }
+  }
+}
