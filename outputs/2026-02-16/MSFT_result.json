@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.7807,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 24.9200 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0721 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2594 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0571 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0673 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0NHVXdDczUxeWMyUGhnVjFVZlNYbm04VmduQUY1MzJFOHdTT3QycTlDYktIWDN4Y0FVWVVKaFloS0pSTVYzWkE2YUQtSXFJWm9pSnR2VlE4M1JzM0VYUmJ5aFl4anpXU0lqTE12b2p2MUtyNjdLV0poZ1Zqc2UySlhOSQ?oc=5",
+      "published": "Mon, 09 Feb 2026 20:45:51 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "If Software Is Dead, Microsoft Wins - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5",
+      "published": "Thu, 12 Feb 2026 06:33:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Prediction: Microsoft Stock Could Rise 65% in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVNqa0JmYnh5YzF3eVdpX2VPLW1jVTlEWDVDZFVwdVV0ZHFsbElnN3NBaS1rbUE0LUU0YlpCalpMSnRlaFFKcTBmdU1CWFJVMV96OXZtSjgxZnJ5eUpGNTBBUVdia0pHc1BFZ3UyTTZBWC1ZZUNyMENxa2pDRS1mREhvdzRyUjM3V2ZEZUkxQThFTzBNV0E?oc=5",
+      "published": "Thu, 12 Feb 2026 00:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock vs. Google And Amazon - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHpVNmFTODVxM2dzQ0gwTklCTS1IVHltTWdoLUdEc25ZNjhPUV9vOU1NYVVaNEZxUmVfRXBSWW9yaXJ4RnJ0M0xaY0laNnU1Y3QyTW5VUE14My1TNFAwOVV5NmhTUGp2MFYzN1dSZVB6bk1RQ19EbU1jN2I1THQ1Sk5MaGxWbXM4Y0FBczFNa2ZrMDNDOU5oQ184bw?oc=5",
+      "published": "Mon, 09 Feb 2026 10:30:37 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft is Bouncing Back from Its Post-Earnings Price Crash, But Watch This Before You Buy MSFT Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaXlremVXRTR6YUZNUWttOHFvcU9qU0V5dkYwb0J5b2pVa0ZvWmJmT0duaTBoNGhqTTRDX2JwdzFuLWZzd2dYbzJSSVpiZGJJUDBORDhXMGQtRF9LTURjWFZFMVlaQ1JkbU1XemtkT1NBaG9tbmE4T3FWLU5NeWdvcVpNRXZQY1VMc3EwaDVfbkxaRTlheWZCOEJTTDBPNzJ0S19MOFVwVkRDWVdqWXNNSzBRM1E1TmprSXhjazFsc2ttRlBKbmg5UGdZSmJnRGdSU2VBYnQzaE5ueUVCWWc?oc=5",
+      "published": "Tue, 10 Feb 2026 16:39:49 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Here’s the Reason Microsoft Is Crashing, but Why You Shouldn’t Sell - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0ZjWllHU1BfQ0ZHTnFjQXgwWmF1T2lPbmhZclkzTXJZVGYtYU9ZY1M2S2p4TmFRdXdiLUNWX0Z3SUN5NG9HbU1PU0xYb0d6ekhTcV9pWFFtRE55Wld1MlA5am40eVVpdDl3czB2dXJTcVg2ZFdZeVlpODJ3WnEwS08yRU9tRDlXb0lrMEN1eVNTQUNfSmNia3U4TndoTlIwTEc5emdIczJPTDg5?oc=5",
+      "published": "Mon, 09 Feb 2026 15:23:05 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Prediction: Microsoft Stock Could Rise 65% in 2026 - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnFfV2kzNk1LVEtKNHFKSjU5MkZ4aFJnQk1wcDQ2OFdGYUxWZXlFVF9vZVFhMWlXcEZIaGpXOGdtNFhiMWVJc2RuUlRzY3lFZEVOeVAwWTd4NUFjYTYxSzZuV2NyWVFlRF9wR0pEQkhSeFY5QVFPTjY0eVp5aXU2Y21BNA?oc=5",
+      "published": "Thu, 12 Feb 2026 00:20:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Microsoft Stock (NASDAQ:MSFT) Gains Thanks in Part to New Hire - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnFVNEZhZC16ckt1NDBtSFFxM25YY3NTWmJWMTZhMHVhYUV6emFKQThPdlJLMWlHT1ZsUWttMFRZYnF5OGloNFpfR1J5R0dNZjlNWGVYVnVmczl0MnJTTFhzQWdveEphc0pMOHBfVi1pbGtRWjN4eGFfaG1fSExfeFEwa2U4YjE3bWNNNERYMFFydDA?oc=5",
+      "published": "Mon, 09 Feb 2026 18:44:49 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้น Microsoft (MSFT) ซื้อขายสูงขึ้น",
+        "why": "หัวข้อข่าวระบุโดยตรงว่าหุ้น MSFT 'Trades Up' (ซื้อขายสูงขึ้น)"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "คาดการณ์ว่าหุ้น Microsoft อาจเพิ่มขึ้น 65% ในปี 2026",
+        "why": "หัวข้อข่าวระบุถึง 'Prediction' (การคาดการณ์) ที่เป็นบวกว่าหุ้นจะ 'Rise 65%' (เพิ่มขึ้น 65%)"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "Microsoft กำลังฟื้นตัวจากการตกต่ำของราคาหลังการรายงานผลประกอบการ แต่ควรพิจารณาสิ่งนี้ก่อนซื้อหุ้น MSFT",
+        "why": "หัวข้อข่าวระบุว่าหุ้นกำลัง 'Bouncing Back' (ฟื้นตัว) ซึ่งเป็นบวก แต่ก็มีคำเตือน 'But Watch This Before You Buy' (แต่ควรพิจารณาสิ่งนี้ก่อนซื้อ) ทำให้ภาพรวมเป็นกลาง"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "นี่คือเหตุผลที่ Microsoft กำลังตกลง แต่ทำไมคุณไม่ควรขาย",
+        "why": "หัวข้อข่าวกล่าวถึง 'Crashing' (การตกต่ำ) ซึ่งเป็นลบ แต่ก็ให้คำแนะนำว่า 'you Shouldn’t Sell' (คุณไม่ควรขาย) ซึ่งเป็นการถ่วงดุลให้เป็นกลาง"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "หุ้น Microsoft (NASDAQ:MSFT) มีกำไรส่วนหนึ่งเนื่องจากการจ้างงานใหม่",
+        "why": "หัวข้อข่าวระบุโดยตรงว่าหุ้น MSFT 'Gains' (มีกำไร)"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "โดยรวมแล้วมีข่าวที่เป็นเชิงบวกเกี่ยวกับการขึ้นของราคาหุ้น การคาดการณ์การเติบโต และการฟื้นตัวจากภาวะตกต่ำ แม้จะมีข่าวที่บ่งชี้ถึงความผันผวนและข้อควรระวังอยู่บ้างก็ตาม"
+    }
+  }
+}
