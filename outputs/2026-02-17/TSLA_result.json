@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4256,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1714 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0433 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0172 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0301 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0197 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Tesla Stock Headed To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjRtajJYS3lUQTZiX1VpWEthd3IyOFpoNDFPRldCaGxSdDdLOVJzemMzNnN3RFpBeElhR2E2elFOTlBzZ25KTFJhU19GQWdDYTNGYTBwUHRmMjVnSTlucFdMLXAyTXJNa0Y2bW1EQ0prVmFNREVwdFY3RTRncmI4WUlLZkVIdjlDUzBCcjgzLUs?oc=5",
+      "published": "Thu, 12 Feb 2026 12:30:59 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla (TSLA) Remains a Battleground Stock as Analysts Weigh AI Optionality - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEEyMHJQWnRwbFVhUzBoQzNsYzZzcTV0VjQweWt5cDRnR3VSZ29laWJ6UWdtSHAycWMyMW5NMk9vT2lGeXZpXzBGdlFTb3lUcXZja0tPZE5WQU9HUzBZV2pLcmJ3Wkx0ZGpna2RTZmJuQWlKbUtJUDZPOGRwdjRoSGpsZmNwLW56eEJJ?oc=5",
+      "published": "Tue, 10 Feb 2026 11:37:11 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock To $299? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFpMRWtyd05pR1FLMklRUGF5TDZFc0FEV01Pbk9MbE85RVZuYkJKVFlSM2VNSEJoQ0JoRGhOLWNRNGVob0hkenR5ZU10TmdZdjFpdlU1OVhwbTRpcW1yVnBVTTVCSjNva1JselIxc2l0VUtSeGN0N29BMHNwemRVbWFnWGVLRFE?oc=5",
+      "published": "Thu, 12 Feb 2026 07:12:06 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 13 Feb 2026 17:51:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "As Tesla Loses in Europe, Here Is What Investors Need for TSLA Stock to Win in 2026 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3dZdHpqUzkyY1FobThRVVFnSWtPRXkxaTNqZ3A3eGNfU1FfNlRpb3JjMUd4Qkg0eGduRk5Zd3RnWkpZZFVTdXFNaDdDMUV1aVlHZU5QX0dGYVhFdm1vbjM1b2N1eV9iWDZQcF80MGJEaC1uajkyZjhGYlVOYU5UU012MWszckw2eGRPOW54di00RWxlN0pMOGc5QVExbjdxdzhTV28yVVhDV25DZFAwbUpHNG56bWVsSW9oVjhWQnlkMjA?oc=5",
+      "published": "Wed, 11 Feb 2026 14:30:02 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQldLU0VKdjl5c0V0R1RpWmV0ZWpGUGQxNVg3TU5qcjNybk8wQUR5UV9kSDNER1hUMEhGZ2VoVXo0b1FTVkRabnVmSmZBbmxqbXFVX1RXN1JyRThTZWg0QUpWX19qWUtfbThWMEQ0SkxEQlFQYm85anRVZzBjUTc2MHJkVkxfXzdM?oc=5",
+      "published": "Mon, 16 Feb 2026 14:32:53 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Tesla's U.S. auto market share improves even as sales drop by double digits again (TSLA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRobWpuZVVBT2FlbUNCbzZHYTd0WXJOQWZqbk8xTDNvN2pwZjZWNkFmaHhzcUlBRl9iNDMxVE1UVVA4M2h2dTFiYUgwRzdOeDBQU0E1N3NQMUxDLVV1SWRoU1lYX1hPRmM5VFptN1ZvVnJrYlBqT3RMZDVxazlBLTc1ZzN6RmNZOUpzald6ODAxdVdmNU1rbzlaajFfZjJpemRPemlSdXdqVWVCTEhEMUtWbXFfV2c?oc=5",
+      "published": "Fri, 13 Feb 2026 19:32:56 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla (TSLA) remains a battleground stock as analysts weigh AI optionality - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzQ2NW5kMmVOUk9UYTZDc2tDUkxPNEJmVXI3RUNway1ZWVpqWEZLQVZDZmtBQjlGMWhrU0hWRV91MFlhajFIVUh6aXliZS1zRTh2OVBqSWhzVVpDMG8wZUhscEpGYnZjaHQ2dGwwM1U4QkZiTU12enhJQnN3YjVrNEZ4RnVlZi14MUk4a1VhVkhVZDlhckU4eFNNSWllT0w3QmhEWGV5Y056a1U0SmRkSUJnd09nVXJvOHNDWkpIOHh3dmkzUDBraXBMdllURUk3UjRyNVV1cHJ0UHhCRUl3b01UVjQxZzQ?oc=5",
+      "published": "Tue, 10 Feb 2026 11:51:41 GMT",
+      "source": "MSN"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บทความนี้ตั้งคำถามถึงความเป็นไปได้ที่หุ้นเทสลาจะไปถึง 300 ดอลลาร์",
+        "why": "การตั้งคำถามถึงราคาเป้าหมายที่เป็นไปได้ที่สูงขึ้นบ่งชี้ถึงแนวโน้มเชิงบวกที่นักลงทุนอาจพิจารณา"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "เทสลากำลังประสบปัญหาในตลาดยุโรป และบทความนี้จะบอกสิ่งที่นักลงทุนต้องรู้เพื่อให้หุ้น TSLA ประสบความสำเร็จในปี 2026",
+        "why": "การรายงานว่าเทสลาประสบความพ่ายแพ้ในยุโรปเป็นข่าวเชิงลบที่อาจส่งผลกระทบต่อผลประกอบการและกดดันราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ส่วนแบ่งตลาดรถยนต์ของเทสลาในสหรัฐฯ ดีขึ้น แต่ยอดขายยังคงลดลงเป็นตัวเลขสองหลักอีกครั้ง",
+        "why": "แม้ส่วนแบ่งตลาดจะดีขึ้น แต่การที่ยอดขายลดลงอย่างมากและต่อเนื่องเป็นตัวเลขสองหลักนั้นเป็นสัญญาณเชิงลบที่ชัดเจนต่อผลประกอบการ"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "หุ้นเทสลา (TSLA) ยังคงเป็นหุ้นที่มีมุมมองหลากหลายจากนักวิเคราะห์ ขณะที่พวกเขากำลังพิจารณาทางเลือกด้าน AI",
+        "why": "หัวข้อนี้บ่งชี้ถึงความไม่แน่นอนและมุมมองที่แตกต่างกันอย่างมากในหมู่นักวิเคราะห์เกี่ยวกับหุ้นเทสลา ทำให้ไม่สามารถระบุทิศทางที่ชัดเจนได้"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บทความนี้ตั้งคำถามว่าหุ้นเทสลาจะไปถึง 299 ดอลลาร์หรือไม่",
+        "why": "การตั้งคำถามถึงราคาเป้าหมายที่เป็นไปได้ที่สูงขึ้นบ่งชี้ถึงแนวโน้มเชิงบวกที่นักลงทุนอาจพิจารณา (คล้ายกับหัวข้อที่ 1)"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 75,
+      "note": "มุมมองโดยรวมเป็นกลาง เนื่องจากมีทั้งข่าวที่บ่งชี้ถึงราคาเป้าหมายที่เป็นไปได้ในเชิงบวก และข่าวที่แสดงถึงปัญหาด้านยอดขายและผลการดำเนินงานในตลาดยุโรป ทำให้นักลงทุนมีมุมมองที่แตกต่างกัน"
+    }
+  }
+}
