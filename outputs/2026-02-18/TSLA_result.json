@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-17",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4235,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0302 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0448 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0161 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0266 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0193 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Tesla Stock Headed To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjRtajJYS3lUQTZiX1VpWEthd3IyOFpoNDFPRldCaGxSdDdLOVJzemMzNnN3RFpBeElhR2E2elFOTlBzZ25KTFJhU19GQWdDYTNGYTBwUHRmMjVnSTlucFdMLXAyTXJNa0Y2bW1EQ0prVmFNREVwdFY3RTRncmI4WUlLZkVIdjlDUzBCcjgzLUs?oc=5",
+      "published": "Thu, 12 Feb 2026 12:30:59 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla Stock To $299? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFpMRWtyd05pR1FLMklRUGF5TDZFc0FEV01Pbk9MbE85RVZuYkJKVFlSM2VNSEJoQ0JoRGhOLWNRNGVob0hkenR5ZU10TmdZdjFpdlU1OVhwbTRpcW1yVnBVTTVCSjNva1JselIxc2l0VUtSeGN0N29BMHNwemRVbWFnWGVLRFE?oc=5",
+      "published": "Thu, 12 Feb 2026 07:12:06 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Prediction: Tesla's Optimus Robot Will Transform the Stock by the End of 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEkzNGhneVNWeWtHYVdTQnIwWWxWajM1V2RRVGQ3RmVBLUE2TGdvVXVXcHV4ZktPRXRCX3lkVDlpLWVHNEFaajBMTzNNS1JlZWI1TUNuM1UxZGx4aUdqWUp4elZLRV94aXUwQmxNZ2JyMnR3VG1TU3dUeDloZ0JKeXpPOW5mVlUwcThQNGdmWFo2ZTJKcnE4dg?oc=5",
+      "published": "Sun, 15 Feb 2026 00:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 13 Feb 2026 17:51:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "As Tesla Gains U.S. Market Share, Should You Buy TSLA Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONk5tRlJ0R2ZUM3lnekYyUnJ3MU5iRE1iQnZOZm55RWlsNWdHRjMwMFJwSWZlUEIydmxBNVp3YnZ4eHJfd2xsMXIwZDAtRjJrSVpEX1hOc2tKbFV3cFRrRFdjaWYwNnhxTWRVNms2OHZUUmhtVjdlUE5BQlNfRS12dzNaZFRyb2Z4ajhrMEJGMEdHaVVneWpnNTFOY0tZWG5aYWc?oc=5",
+      "published": "Tue, 17 Feb 2026 21:21:11 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Tesla (TSLA) Live Share price, Invest From India - INDmoney",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qYnRYb1o3OWxVa1N0ZUp1Zi11LVBHaUNTNGhON1ZxSUM2bzh3VW9jeGpoVWdkd2tQRklodWtpYnQ2aHBNLXR6THNqMm83RlcxY1QtTU02eUd3MDd0RHlTUVpzQmVEYml0X1IzenlB?oc=5",
+      "published": "Fri, 13 Feb 2026 20:59:59 GMT",
+      "source": "INDmoney"
+    },
+    {
+      "title": "Tesla’s (TSLA) ‘Investment Year’ Strategy Is Turning Heads on Wall Street - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmdUandrTW5uNmJvTkd5T0RCWkpUMnpTRXQ5OUJRTUJCNk4zVnJaTWJ0dzMzcVlDSmNvMEJ3TnJxTDdWZ19iUmVzcVhuVm5sM0VzWG9tSEhwNlRHRkRtXy1naWo1ZHdOT3Uza2JnU21tRGFNTnRRRWJPVXVNTTdndkpyNmYyMlp0TXVHSQ?oc=5",
+      "published": "Sat, 14 Feb 2026 14:22:16 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQldLU0VKdjl5c0V0R1RpWmV0ZWpGUGQxNVg3TU5qcjNybk8wQUR5UV9kSDNER1hUMEhGZ2VoVXo0b1FTVkRabnVmSmZBbmxqbXFVX1RXN1JyRThTZWg0QUpWX19qWUtfbThWMEQ0SkxEQlFQYm85anRVZzBjUTc2MHJkVkxfXzdM?oc=5",
+      "published": "Mon, 16 Feb 2026 14:32:53 GMT",
+      "source": "Capital.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "คำถามว่าหุ้น Tesla จะไปถึง $300 หรือไม่",
+        "why": "หัวข้อข่าวเป็นคำถามเกี่ยวกับการคาดการณ์ราคาเป้าหมาย ซึ่งไม่ได้ระบุทิศทางราคาที่แน่นอนว่าจะเป็นขาขึ้นหรือขาลง"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "คำถามว่าหุ้น Tesla จะไปถึง $299 หรือไม่",
+        "why": "เช่นเดียวกับหัวข้อข่าวที่ [1] เป็นคำถามเกี่ยวกับราคาเป้าหมายที่ไม่ได้ระบุทิศทางราคาที่ชัดเจน"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "การคาดการณ์ว่าหุ่นยนต์ Optimus ของ Tesla จะพลิกโฉมหุ้นภายในสิ้นปี 2026",
+        "why": "การคาดการณ์ว่า Optimus จะ 'พลิกโฉมหุ้น' (Transform the Stock) บ่งชี้ถึงผลกระทบเชิงบวกอย่างมีนัยสำคัญต่อราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "เมื่อ Tesla มีส่วนแบ่งการตลาดในสหรัฐฯ เพิ่มขึ้น ควรซื้อหุ้น TSLA หรือไม่",
+        "why": "การที่บริษัทมีส่วนแบ่งการตลาดเพิ่มขึ้นเป็นสัญญาณเชิงบวกต่อพื้นฐานของบริษัท และคำถามเกี่ยวกับการซื้อหุ้นบ่งชี้ถึงโอกาสในการลงทุนที่เป็นไปได้"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "กลยุทธ์ 'ปีแห่งการลงทุน' ของ Tesla (TSLA) กำลังดึงดูดความสนใจบน Wall Street",
+        "why": "กลยุทธ์ 'ปีแห่งการลงทุน' มุ่งเน้นการเติบโตในอนาคตและการ 'ดึงดูดความสนใจ' (Turning Heads) บ่งบอกถึงความสำคัญ แต่หัวข้อข่าวเพียงอย่างเดียวไม่ได้ระบุทิศทางราคาหุ้นที่ชัดเจนว่าเป็นขาขึ้นหรือขาลง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 75,
+      "note": "ภาพรวมจากหัวข้อข่าวที่เลือกเป็นกลาง เนื่องจากมีทั้งสัญญาณเชิงบวก (เช่น การได้ส่วนแบ่งตลาดและศักยภาพจาก Optimus) และหัวข้อข่าวเชิงตั้งคำถามหรือให้ข้อมูลทั่วไปที่ไม่ได้ระบุทิศทางราคาที่ชัดเจน"
+    }
+  }
+}

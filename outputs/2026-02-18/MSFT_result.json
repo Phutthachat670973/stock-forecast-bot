@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-17",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.7544,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 18.1804 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3031 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0760 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0564 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0408 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Melius Research Downgrades Microsoft Corporation (MSFT) Stock to Hold - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXIwbk5OZ3RmbUZ2eEk3TExOTzlTWm1WVkJmYU4wdW03NVJ0SDV3TE55WXBucTRyQU9ETHBhZ2xrMmhLS0xqUUxIWlc5elZibkFxSEF3OTVMTHNXMEpZaFZ0a1JwYzlBemhHYll6QjZLUTlVLUlnUkdoYk0yaW54QnpuXzUxM1l4ZUhyM01xLUtHVzhnOWVVSFhR?oc=5",
+      "published": "Tue, 17 Feb 2026 12:34:39 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Down 22% in 6 Months, Is Microsoft Stock a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2l2RXh4azdvVVRlREVra003Zm85ZEI1eG1SX080MDE4ekpScEZQdHA0bTdZeUFOTUZQLXBDRWpVU2NFcWxyalYtRDJhcExhZy14UGNRMXJldmJ0QmNnVHBHZHhVY05vVHJCM3ZDTTNFTkJtaVJJX1FBczU0Z0NMWXA0WXZYTThhanBNVXd0MTY?oc=5",
+      "published": "Sat, 14 Feb 2026 21:45:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Slopes Down To Lowest Point in Months; Is The Stock A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkFYY3pmQk1wcmVUa0Z5bjVEbWN4Y0xWTTRWNDVHZTNrZllxazZXU1l5RGFDQ0dIbEZqMVlTem9sWVhId3g2U1Fza1pqQTF0SDVlb1VjX1BkTUZhZ0VmSy1SSE9CdC12MmNUbC1VUGY4ODc0S3hoOGxIdkhNWkNwS294eHZSdw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:55:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why Microsoft Stock Is Bracing For A Bull Run - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHV2T3ZBeFlDTHc2Mm5OeDkzUWJ6cEdWckpQYVdpWW82ZjFNXzFjMFgyQnlOMllZQXdHOHhCaUZSRlFtUlppal9JVGxMSFUycXpQcU9GSTcySU1OWVBVSVJFWTI5TERPdzNSeWhlbTZxSnBMSE83QjYwdnBLNVNiVzdsRF9OMXhQVUFNbmRiWWRMVWd2ZE8wUXl3QWY4Z05DUmo4UENVWQ?oc=5",
+      "published": "Tue, 17 Feb 2026 14:33:09 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "If Software Is Dead, Microsoft Wins - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5",
+      "published": "Thu, 12 Feb 2026 06:33:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "‘A Lose-Lose Situation,’ Says Analyst as Microsoft Stock (MSFT) Faces Downgrade - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFlJa2NkSDVOSVRRNkRIQkRjSURHX3Y4Y2lMZXZOMHBTVWhOaTNXNjJ2TTFRaHZja3hOVGVPVkhFMHZ2YmJ0VExBYmg0V3JYT29OM3gwazR0aFM3Qlhmanp4Z0FUeHB2aHJRb0E2SVF4TmZYNDVrMXJDN2xldEd3LVlWMllKSThSeDNiUGg0RTI5MTlicGFuVUtUVmpTcHlUcXBVbkZBaw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:06:31 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Prediction: Microsoft Stock Could Rise 65% in 2026 - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnFfV2kzNk1LVEtKNHFKSjU5MkZ4aFJnQk1wcDQ2OFdGYUxWZXlFVF9vZVFhMWlXcEZIaGpXOGdtNFhiMWVJc2RuUlRzY3lFZEVOeVAwWTd4NUFjYTYxSzZuV2NyWVFlRF9wR0pEQkhSeFY5QVFPTjY0eVp5aXU2Y21BNA?oc=5",
+      "published": "Thu, 12 Feb 2026 00:20:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "As Microsoft Bets on ‘True Self-Sufficiency,’ Should You Bet on MSFT Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUw0RlY4TlZ5alNkb09jQnlIcjVnNldQendvOXAxSWRkenVCTlB6R0JwejV1SWZ0bUQ2ZFlIcy1yM1V3bmNlRVJtTl95Q0l1UjdFcHBfQXM1bkhCbGdPN0hKcWo0V282cF90VTZFVE03MTVKOHV0VmlRT0RLYU5ockJfRExPYmdzc3g4OWdXdGFWRk9yQ3VaZkJxS1VYNkRaZ3p3Qm5TLTNhNThmZmxTeXhHX0Y?oc=5",
+      "published": "Tue, 17 Feb 2026 16:48:06 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "Melius Research ปรับลดอันดับหุ้น Microsoft Corporation (MSFT) เป็น 'ถือ'",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า Melius Research ได้ปรับลดอันดับหุ้น MSFT ซึ่งโดยทั่วไปถือเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Microsoft ตกลงสู่จุดต่ำสุดในรอบหลายเดือน",
+        "why": "พาดหัวข่าวระบุว่าราคาหุ้น Microsoft ได้ลดลงสู่จุดต่ำสุดในรอบหลายเดือน ซึ่งเป็นข้อมูลที่ส่งผลกดดันต่อราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "ทำไมหุ้น Microsoft ถึงเตรียมพร้อมสำหรับการพุ่งขึ้น",
+        "why": "พาดหัวข่าวบ่งชี้อย่างชัดเจนว่าหุ้น Microsoft กำลังเตรียมพร้อมสำหรับช่วงขาขึ้น ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "นักวิเคราะห์ชี้ว่าหุ้น Microsoft (MSFT) เผชิญกับการปรับลดอันดับใน 'สถานการณ์ที่แพ้ทั้งสองฝ่าย'",
+        "why": "พาดหัวข่าวมีคำกล่าวของนักวิเคราะห์ที่ว่าเป็น 'สถานการณ์ที่แพ้ทั้งสองฝ่าย' และระบุว่าหุ้น MSFT กำลังเผชิญกับการปรับลดอันดับ ซึ่งเป็นสัญญาณเชิงลบที่ชัดเจน"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "การคาดการณ์: หุ้น Microsoft อาจเพิ่มขึ้น 65% ในปี 2026",
+        "why": "พาดหัวข่าวเสนอการคาดการณ์ที่แข็งแกร่งว่าหุ้น Microsoft จะปรับตัวสูงขึ้นอย่างมีนัยสำคัญในปี 2026 ซึ่งเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "ภาพรวมแสดงให้เห็นถึงสัญญาณที่ขัดแย้งกันอย่างมีนัยสำคัญ โดยมีข่าวการปรับลดอันดับและราคาหุ้นที่ลดลงควบคู่ไปกับการคาดการณ์เชิงบวกและการเตรียมพร้อมสำหรับช่วงขาขึ้น"
+    }
+  }
+}
