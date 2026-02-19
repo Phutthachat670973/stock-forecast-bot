@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-18",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.7465,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 19.1713 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.4942 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0635 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0530 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0680 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Melius Research Downgrades Microsoft Corporation (MSFT) Stock to Hold - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXIwbk5OZ3RmbUZ2eEk3TExOTzlTWm1WVkJmYU4wdW03NVJ0SDV3TE55WXBucTRyQU9ETHBhZ2xrMmhLS0xqUUxIWlc5elZibkFxSEF3OTVMTHNXMEpZaFZ0a1JwYzlBemhHYll6QjZLUTlVLUlnUkdoYk0yaW54QnpuXzUxM1l4ZUhyM01xLUtHVzhnOWVVSFhR?oc=5",
+      "published": "Tue, 17 Feb 2026 12:34:39 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Down 22% in 6 Months, Is Microsoft Stock a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2l2RXh4azdvVVRlREVra003Zm85ZEI1eG1SX080MDE4ekpScEZQdHA0bTdZeUFOTUZQLXBDRWpVU2NFcWxyalYtRDJhcExhZy14UGNRMXJldmJ0QmNnVHBHZHhVY05vVHJCM3ZDTTNFTkJtaVJJX1FBczU0Z0NMWXA0WXZYTThhanBNVXd0MTY?oc=5",
+      "published": "Sat, 14 Feb 2026 21:45:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Slopes Down To Lowest Point in Months; Is The Stock A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkFYY3pmQk1wcmVUa0Z5bjVEbWN4Y0xWTTRWNDVHZTNrZllxazZXU1l5RGFDQ0dIbEZqMVlTem9sWVhId3g2U1Fza1pqQTF0SDVlb1VjX1BkTUZhZ0VmSy1SSE9CdC12MmNUbC1VUGY4ODc0S3hoOGxIdkhNWkNwS294eHZSdw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:55:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "If Software Is Dead, Microsoft Wins - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5",
+      "published": "Thu, 12 Feb 2026 06:33:14 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "‘A Lose-Lose Situation,’ Says Analyst as Microsoft Stock (MSFT) Faces Downgrade - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFlJa2NkSDVOSVRRNkRIQkRjSURHX3Y4Y2lMZXZOMHBTVWhOaTNXNjJ2TTFRaHZja3hOVGVPVkhFMHZ2YmJ0VExBYmg0V3JYT29OM3gwazR0aFM3Qlhmanp4Z0FUeHB2aHJRb0E2SVF4TmZYNDVrMXJDN2xldEd3LVlWMllKSThSeDNiUGg0RTI5MTlicGFuVUtUVmpTcHlUcXBVbkZBaw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:06:31 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Why Microsoft Stock Is Bracing For A Bull Run - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHV2T3ZBeFlDTHc2Mm5OeDkzUWJ6cEdWckpQYVdpWW82ZjFNXzFjMFgyQnlOMllZQXdHOHhCaUZSRlFtUlppal9JVGxMSFUycXpQcU9GSTcySU1OWVBVSVJFWTI5TERPdzNSeWhlbTZxSnBMSE83QjYwdnBLNVNiVzdsRF9OMXhQVUFNbmRiWWRMVWd2ZE8wUXl3QWY4Z05DUmo4UENVWQ?oc=5",
+      "published": "Tue, 17 Feb 2026 14:33:09 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "As Microsoft Bets on ‘True Self-Sufficiency,’ Should You Bet on MSFT Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUw0RlY4TlZ5alNkb09jQnlIcjVnNldQendvOXAxSWRkenVCTlB6R0JwejV1SWZ0bUQ2ZFlIcy1yM1V3bmNlRVJtTl95Q0l1UjdFcHBfQXM1bkhCbGdPN0hKcWo0V282cF90VTZFVE03MTVKOHV0VmlRT0RLYU5ockJfRExPYmdzc3g4OWdXdGFWRk9yQ3VaZkJxS1VYNkRaZ3p3Qm5TLTNhNThmZmxTeXhHX0Y?oc=5",
+      "published": "Tue, 17 Feb 2026 16:48:06 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Is Microsoft Stock Poised for a Rally? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUXI3dFJ2d3BSODl3MXczLVRZeEcyLV9oX3ZaU0YzS2taODRDRkZ6cHZqSHExQnlrWTd6R1ZqelZRVHBEd1JDZy1qMnRBcVB6dkpVanU2UnQwWjVXYXN3aFhhbjYwakFVekkyZktDZkN2VWg0dU5vUk5QS2NSem9sVEhkWWZFQnVMUGNNSS1pVDAtamdKUkdQVWItMXQ3dXZm?oc=5",
+      "published": "Sat, 14 Feb 2026 09:34:47 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "นักวิเคราะห์ Melius Research ปรับลดคำแนะนำหุ้น Microsoft (MSFT) เป็น \"ถือ\"",
+        "why": "การปรับลดคำแนะนำหุ้นโดยนักวิเคราะห์เป็น \"ถือ\" ถือเป็นสัญญาณเชิงลบที่อาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวระบุว่า Microsoft จะเป็นผู้ชนะในสถานการณ์ที่ซอฟต์แวร์ไม่เป็นที่ต้องการ",
+        "why": "คำว่า \"Microsoft Wins\" บ่งชี้ถึงผลลัพธ์ที่ดีสำหรับบริษัทและเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์กล่าวว่าหุ้น Microsoft (MSFT) กำลังเผชิญกับ \"สถานการณ์ที่แพ้-แพ้\" และถูกปรับลดคำแนะนำ",
+        "why": "วลี \"A Lose-Lose Situation\" และการที่หุ้นถูกปรับลดคำแนะนำ เป็นสัญญาณเชิงลบที่ชัดเจน"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวระบุว่าหุ้น Microsoft กำลังเตรียมพร้อมสำหรับการพุ่งขึ้นของราคา",
+        "why": "การระบุว่าหุ้นกำลัง \"Bracing For A Bull Run\" บ่งชี้ถึงแนวโน้มราคาที่คาดว่าจะสูงขึ้นในอนาคต"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 70,
+        "summary": "หุ้น Microsoft ลดลงสู่จุดต่ำสุดในรอบหลายเดือน พร้อมคำถามว่าควรซื้อหุ้นตอนนี้หรือไม่",
+        "why": "แม้จะระบุว่าราคาหุ้นลดลงสู่จุดต่ำสุดในรอบหลายเดือน ซึ่งเป็นข้อเท็จจริงเชิงลบ แต่การตั้งคำถามว่า \"Is The Stock A Buy Now?\" ทำให้ความหมายโดยรวมไม่ชี้ชัดว่าเป็นขาขึ้นหรือขาลงอย่างแน่นอน เป็นการชวนให้พิจารณา"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "จากพาดหัวข่าวที่เลือกมา มีทั้งข่าวดีและข่าวร้ายเกี่ยวกับหุ้น MSFT ในจำนวนที่ใกล้เคียงกัน ทำให้ภาพรวมไม่เอนเอียงไปทางกระทิงหรือหมีอย่างชัดเจน"
+    }
+  }
+}

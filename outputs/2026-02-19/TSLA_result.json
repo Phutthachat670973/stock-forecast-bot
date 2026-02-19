@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-18",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3751,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2511 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0276 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0327 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0438 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0209 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Tesla Stock Headed To $300? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjRtajJYS3lUQTZiX1VpWEthd3IyOFpoNDFPRldCaGxSdDdLOVJzemMzNnN3RFpBeElhR2E2elFOTlBzZ25KTFJhU19GQWdDYTNGYTBwUHRmMjVnSTlucFdMLXAyTXJNa0Y2bW1EQ0prVmFNREVwdFY3RTRncmI4WUlLZkVIdjlDUzBCcjgzLUs?oc=5",
+      "published": "Thu, 12 Feb 2026 12:30:59 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "As Tesla Gains U.S. Market Share, Should You Buy TSLA Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBheGpUbWpuZjVNU3BhU25zV1VQZHVHc3cxUHRPVHpwLXFkYXNhVThQWjJnQkJfRjFWSnZMR3JEYXctM3duN3Z6ZS1CVHlqVE5SQ2ZtWVdqVWhUQnJ5OEpxelNiZDd4Y0IzZFR1a1Rndk1xZXM1UWQ0cDhYbjg?oc=5",
+      "published": "Tue, 17 Feb 2026 21:21:11 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQldLU0VKdjl5c0V0R1RpWmV0ZWpGUGQxNVg3TU5qcjNybk8wQUR5UV9kSDNER1hUMEhGZ2VoVXo0b1FTVkRabnVmSmZBbmxqbXFVX1RXN1JyRThTZWg0QUpWX19qWUtfbThWMEQ0SkxEQlFQYm85anRVZzBjUTc2MHJkVkxfXzdM?oc=5",
+      "published": "Mon, 16 Feb 2026 14:24:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Prediction: Tesla's Optimus Robot Will Transform the Stock by the End of 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEkzNGhneVNWeWtHYVdTQnIwWWxWajM1V2RRVGQ3RmVBLUE2TGdvVXVXcHV4ZktPRXRCX3lkVDlpLWVHNEFaajBMTzNNS1JlZWI1TUNuM1UxZGx4aUdqWUp4elZLRV94aXUwQmxNZ2JyMnR3VG1TU3dUeDloZ0JKeXpPOW5mVlUwcThQNGdmWFo2ZTJKcnE4dg?oc=5",
+      "published": "Sun, 15 Feb 2026 00:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Tue, 17 Feb 2026 17:17:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla Falters in China Again: How to Play TSLA Stock as Xiaomi Outsells - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGJ4VHA5UWxjaGJXMzcwVXpGUWFLX0xOUmhvdmE0aHZyTllkZXM5Nmd4X2lwOG1zQlMtb1lENjU0NHJtMVA4V1lHUHJ4elFnNEZTbTZPRFdLc2dFQmJIeXdWRHo1X3RHbE9xQ1o5Y0JBUGFOTTVzQUt5cVZiSmxlTU9kTGYyVFdLZEJxLXQtbUFMVXdTQ3cwMXBXQm14bDR1QlktVjRGaHd3MWF1QnFFZGprcw?oc=5",
+      "published": "Wed, 18 Feb 2026 16:32:47 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Five-Year Price Stagnation - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUlQX2tncjJMZ0lCWUNmSXE5TF9tS2pFRk4xZzg0T1o1MWllVVA1QUpiZkR1R2JpLUxJNnpFYkVHNXpoTE91U0ZLUzI4eXBVU0xwZzVQTkhrMG1zNTViNjJIMEc4d0h5a2VkSTlqd0VlYzAtYmZJSktjVVZUYWVhdDBJWEhsS3FCZmY2clVJTnRjOExsSnVONFpR?oc=5",
+      "published": "Sun, 15 Feb 2026 14:03:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Tesla's U.S. auto market share improves even as sales drop by double digits again (TSLA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVRobWpuZVVBT2FlbUNCbzZHYTd0WXJOQWZqbk8xTDNvN2pwZjZWNkFmaHhzcUlBRl9iNDMxVE1UVVA4M2h2dTFiYUgwRzdOeDBQU0E1N3NQMUxDLVV1SWRoU1lYX1hPRmM5VFptN1ZvVnJrYlBqT3RMZDVxazlBLTc1ZzN6RmNZOUpzald6ODAxdVdmNU1rbzlaajFfZjJpemRPemlSdXdqVWVCTEhEMUtWbXFfV2c?oc=5",
+      "published": "Fri, 13 Feb 2026 19:32:56 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "พาดหัวข่าวถามถึงความเป็นไปได้ที่หุ้น Tesla จะพุ่งไปถึง 300 ดอลลาร์",
+        "why": "การตั้งคำถามถึงเป้าหมายราคาที่สูงขึ้นมักจะสร้างความสนใจในทิศทางขาขึ้น แม้จะเป็นคำถามเปิด แต่ก็เน้นไปที่ศักยภาพการเติบโตของราคา"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวระบุว่า Tesla ได้ส่วนแบ่งการตลาดในสหรัฐฯ เพิ่มขึ้น และตั้งคำถามว่าควรซื้อหุ้น TSLA หรือไม่",
+        "why": "การที่บริษัทได้ส่วนแบ่งการตลาดเพิ่มขึ้นในตลาดสำคัญเป็นสัญญาณเชิงบวกที่บ่งชี้ถึงความแข็งแกร่งในการแข่งขัน และมักจะกระตุ้นคำถามเกี่ยวกับการลงทุนในเชิงบวก"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "พาดหัวข่าวคาดการณ์ว่าหุ่นยนต์ Optimus ของ Tesla จะเปลี่ยนแปลงหุ้นอย่างมีนัยสำคัญภายในสิ้นปี 2026",
+        "why": "การคาดการณ์ว่าผลิตภัณฑ์ใหม่จะ 'เปลี่ยนแปลง' หุ้นอย่างมีนัยสำคัญในระยะเวลาที่กำหนด มักจะตีความได้ว่าเป็นการเปลี่ยนแปลงในทิศทางบวกหรือสร้างมูลค่าเพิ่มให้กับบริษัท"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่า Tesla ประสบปัญหาในจีนอีกครั้ง โดยมี Xiaomi ขายได้มากกว่า และนำเสนอแนวทางการลงทุนในหุ้น TSLA",
+        "why": "การ 'สะดุด' หรือ 'ล้มเหลว' ในตลาดสำคัญอย่างจีน และการถูกคู่แข่งขายได้มากกว่า เป็นสัญญาณเชิงลบที่ส่งผลต่อการดำเนินงานและแนวโน้มราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวระบุว่าส่วนแบ่งการตลาดรถยนต์ในสหรัฐฯ ของ Tesla ดีขึ้น แม้ว่ายอดขายจะลดลงอีกครั้งในระดับเลขสองหลัก",
+        "why": "ข่าวนี้มีทั้งแง่บวก (ส่วนแบ่งการตลาดดีขึ้น) และแง่ลบ (ยอดขายลดลงอย่างมาก) ทำให้เกิดภาพที่ผสมผสานกัน"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีทั้งข่าวดีเกี่ยวกับส่วนแบ่งตลาดในสหรัฐฯ และศักยภาพของหุ่นยนต์ Optimus ขณะเดียวกันก็มีข่าวเชิงลบเกี่ยวกับการดำเนินงานในตลาดจีนและยอดขายที่ลดลง ทำให้ภาพรวมยังคงมีความไม่แน่นอน"
+    }
+  }
+}
