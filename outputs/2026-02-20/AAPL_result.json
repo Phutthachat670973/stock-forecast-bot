@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-19",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3535,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.4481 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0544 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0578 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0140 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0159 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) is a Top-Ranked Growth Stock: Should You Buy? - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lwUGNqTEFPZTJPMmN4amJpV0oyaEZueUllX0FWNHpFblIxNFdTNGJLeU91QVd4V0I4V1k3Z2VoSjFEQWw3YUlNSU83TEFZRTRWU3JuRkFsVXBKYjR1YmR1WW9ma2hQekgtcWo0T0pkUC1waXBUOHcwQnBEWWt4d2JNYXhqN2tB?oc=5",
+      "published": "Thu, 19 Feb 2026 14:45:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Should You Buy Apple Stock While It's Under $270? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaU5hOGdaZ21oZG1qckJ3cEhiNTY1TkxuaE5fZnNPM1l0RHR0ZURlaUxQbHg1bWUzdGszVHZmVlBhdUp4VXdXbzMxRW9fQnVaOVFQYkZ0SS1nbHhGSFlmbGlFeEhraVpRcjE2dFB6SmRHQVh4TEdFUlhSZmpCZHZ1UGdZcG9wb1hFZnZ0ZDZSejYwNGs?oc=5",
+      "published": "Mon, 16 Feb 2026 13:30:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock Looked Like It Was Rolling. Now It's on the Back Foot Again - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNZREphVHlLblhUOUJuQ3R0eTQ1OEJFS3JlTk1pdS1OM0VpMDk0azZBcUZxXzJTeWVVY2JPeEdVWFEtNXEtTVRiY1czR2FQaFRjcF9yNDMxUDBERHpMV1c3dy0yNEtXbzFTcWx4REJHT3dKREpTNDRtYXR3cnJaREZfNjZLWnRCX01vMDFRSzZlVXEzRkZXT212b05TbnJVclNoRG00V250QnZLZFpYYmdoZw?oc=5",
+      "published": "Fri, 13 Feb 2026 16:38:08 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Here is What to Know Beyond Why Apple Inc. (AAPL) is a Trending Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DV3NXS0NHZjZGQ251V0lEa2gtNjRVX0xYTkFBSzIwTldjTF8zVDl4UUhfSHU3OVdmckVzSk9iMEN0T1k1MGJKN3d2S3hDT1o3RlJBbThicXJOWnNJOFlMVzl1Z1I1aExVdkcxcndtQkhxN0RDc0ZYbU1GTQ?oc=5",
+      "published": "Mon, 16 Feb 2026 14:00:01 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock’s (AAPL) Bull Case Signals 30%+ Upside in 2026 — Here’s Why - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkl6MEU4clVjdHBHell4UndZM3Z6bmY4XzVnSjY3cVltcHNsbE5NcnVHZUs5X3dUYzV5cHpadHJON1lWZU4xMlBtdk1DcnNsYld5aTJHN0hiWm93ekk0d1o1czNORFpreFVVSjgtX1dRRDBGRTlzcTAzcHNGQmZVVWQwT2o3bWpxOHdPbEQ3d1oxV0N4TFNOcDJyYWVwaEtEd2MzYmhn?oc=5",
+      "published": "Fri, 13 Feb 2026 15:08:01 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGF6bXd0NG9nWTYtQXNFTExmZVQ1Y1UyWmNkU3ZOcHdLU0tCRnNEMktzYUpYbTgzd3VWUDJrU05hczBEdzBOaDZGLTFPWDc0WXdNaE1PZWVydXRkOUs0Tk5QdlRhZDZPejV5TU1SU0FyRnRwbWdjcHdwN21OYXgzMG9kV3hNSzVFWjhDNzVnejJMTE1oaHBZZ1AxQVRrY1hNRFctbG1jcGFCQmFFZExkMW9Md2tyRXRWOEhOWWRHRdIBxAFBVV95cUxONTlUT3RYcDZTMU9ZeFd3N3llbnZpWGRmY3RkcGpGRzZzWkkydG81OWl2WERzdUp0Zm5Jem1ZXzJuTUxoc1FobHROMGQ2MHN0WGRCenpPYkwyanI2d292bGJPdTVuS2hQdzRxeVlIWU1yWWhxOGJQU2xRUk9DNWt1UEpISjllNElnbURERDhMUFdMMzJzZDBVNTVKUkQ0dTk5ajkyc2wwR21VaWRsQXk5NkIxNTVuZy1WVjdZQXZuUENGYnBy?oc=5",
+      "published": "Tue, 17 Feb 2026 22:02:39 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple Decouples From Nasdaq, Offering Alternative to AI-Fueled Volatility - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3NUZDdJaHQ3dnJzVUhoc1UwYmNSVkMtVmF4NUlrenFrMERNa2NMMC0wUEc0RVgxYmpNazRjV2JxQ0RydXBpWWNCOUc2M2lFd2FfelpEUm5QcFVfaTB1UE1hUjhLT3Jqci1GWk5wek9CQnB2SmU4aUJkQjFYQXNISW5FaC1EdkJTNlpCd2w2dlB0ZmJLT191dVR1Tk5aMWYwQkRiUVFFTmFYX0J3M253?oc=5",
+      "published": "Wed, 18 Feb 2026 14:40:17 GMT",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Why Apple Stock May Drop Soon - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNZMmJjdV9meFQ0NnhVWVExRWlObmRUamJKNTVXUko4NkFNaW1rdks5eERHT09WRG0zcXJQRDF1OUl0eW15UmQ0TGRseDgxOVkxZzhUSzd2T3VFNEpFeXVheW5fVHVWSU1NRXd6RFI0S0I0ZGpJWTZVRlBoRkpFN1FNaTlQSTByc0dMcEJrWnpFcFZVUmc?oc=5",
+      "published": "Fri, 13 Feb 2026 10:13:59 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Apple (AAPL) ได้รับการจัดอันดับให้เป็นหุ้นเติบโตชั้นนำ: คุณควรซื้อไหม?",
+        "why": "พาดหัวข่าวนำเสนอ Apple ในฐานะ 'หุ้นเติบโตชั้นนำ' ซึ่งเป็นสัญญาณเชิงบวกและชี้ให้เห็นถึงศักยภาพในการเติบโตในอนาคต"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Apple เคยดูเหมือนจะไปได้ดี แต่ตอนนี้กลับมาเผชิญความท้าทายอีกครั้ง",
+        "why": "วลี 'Now It's on the Back Foot Again' บ่งชี้ถึงการถดถอยหรือสถานการณ์ที่ไม่ดีหลังจากช่วงที่ดี ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "กรณีขาขึ้นของหุ้น Apple (AAPL) บ่งชี้ถึงโอกาสที่ราคาจะเพิ่มขึ้นกว่า 30% ในปี 2026 — นี่คือเหตุผล",
+        "why": "พาดหัวข่าวนี้ระบุอย่างชัดเจนว่ามี 'กรณีขาขึ้น' (Bull Case) และ 'สัญญาณราคาที่เพิ่มขึ้นกว่า 30%' ซึ่งเป็นตัวบ่งชี้เชิงบวกอย่างมากต่อราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Berkshire Hathaway ลดสัดส่วนการถือครองหุ้น Apple ซื้อหุ้น NYTimes ในการตัดสินใจครั้งสุดท้ายของบัฟเฟตต์ในฐานะ CEO",
+        "why": "การที่นักลงทุนรายใหญ่และมีอิทธิพลอย่าง Berkshire Hathaway 'ลดสัดส่วนการถือครองหุ้น Apple' ถือเป็นการส่งสัญญาณเชิงลบที่อาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ทำไมหุ้น Apple อาจปรับตัวลดลงในไม่ช้า",
+        "why": "พาดหัวข่าวนี้ระบุอย่างชัดเจนถึงแนวโน้มที่ 'หุ้น Apple อาจปรับตัวลดลงในไม่ช้า' ซึ่งเป็นสัญญาณเชิงลบอย่างชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "จากการคัดเลือกพาดหัวข่าว 5 รายการ พบสัญญาณทั้งเชิงบวกและเชิงลบ โดยมีพาดหัวข่าวเชิงลบ (bearish) มากกว่าเล็กน้อย (3 รายการ) เมื่อเทียบกับเชิงบวก (bullish) (2 รายการ) ซึ่งบ่งชี้ถึงภาพรวมที่อาจมีแรงกดดันขาลงมากกว่าเล็กน้อย แม้จะมีศักยภาพในการเติบโตอยู่ก็ตาม"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-19",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.7708,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 29.7081 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3793 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0609 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0695 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0516 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Melius Research Downgrades Microsoft Corporation (MSFT) Stock to Hold - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXIwbk5OZ3RmbUZ2eEk3TExOTzlTWm1WVkJmYU4wdW03NVJ0SDV3TE55WXBucTRyQU9ETHBhZ2xrMmhLS0xqUUxIWlc5elZibkFxSEF3OTVMTHNXMEpZaFZ0a1JwYzlBemhHYll6QjZLUTlVLUlnUkdoYk0yaW54QnpuXzUxM1l4ZUhyM01xLUtHVzhnOWVVSFhR?oc=5",
+      "published": "Tue, 17 Feb 2026 12:34:39 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "MSFT Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQX3dUSG5UYjhqVm1nRmNzS2pFY0VvMjFRVlQ0WWk0RzFlM2NQZ1lnR2M0b1JKOUlFRU1KZTllYnJfODBUd0RKQ0FzT2o2SmFJ?oc=5",
+      "published": "Mon, 16 Feb 2026 08:01:36 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Down 22% in 6 Months, Is Microsoft Stock a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2l2RXh4azdvVVRlREVra003Zm85ZEI1eG1SX080MDE4ekpScEZQdHA0bTdZeUFOTUZQLXBDRWpVU2NFcWxyalYtRDJhcExhZy14UGNRMXJldmJ0QmNnVHBHZHhVY05vVHJCM3ZDTTNFTkJtaVJJX1FBczU0Z0NMWXA0WXZYTThhanBNVXd0MTY?oc=5",
+      "published": "Sat, 14 Feb 2026 21:45:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Slopes Down To Lowest Point in Months; Is The Stock A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkFYY3pmQk1wcmVUa0Z5bjVEbWN4Y0xWTTRWNDVHZTNrZllxazZXU1l5RGFDQ0dIbEZqMVlTem9sWVhId3g2U1Fza1pqQTF0SDVlb1VjX1BkTUZhZ0VmSy1SSE9CdC12MmNUbC1VUGY4ODc0S3hoOGxIdkhNWkNwS294eHZSdw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:55:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "‘A Lose-Lose Situation,’ Says Analyst as Microsoft Stock (MSFT) Faces Downgrade - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFlJa2NkSDVOSVRRNkRIQkRjSURHX3Y4Y2lMZXZOMHBTVWhOaTNXNjJ2TTFRaHZja3hOVGVPVkhFMHZ2YmJ0VExBYmg0V3JYT29OM3gwazR0aFM3Qlhmanp4Z0FUeHB2aHJRb0E2SVF4TmZYNDVrMXJDN2xldEd3LVlWMllKSThSeDNiUGg0RTI5MTlicGFuVUtUVmpTcHlUcXBVbkZBaw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:06:31 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Why Microsoft Stock Is Bracing For A Bull Run - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHV2T3ZBeFlDTHc2Mm5OeDkzUWJ6cEdWckpQYVdpWW82ZjFNXzFjMFgyQnlOMllZQXdHOHhCaUZSRlFtUlppal9JVGxMSFUycXpQcU9GSTcySU1OWVBVSVJFWTI5TERPdzNSeWhlbTZxSnBMSE83QjYwdnBLNVNiVzdsRF9OMXhQVUFNbmRiWWRMVWd2ZE8wUXl3QWY4Z05DUmo4UENVWQ?oc=5",
+      "published": "Tue, 17 Feb 2026 14:33:09 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft's Lack Of Leadership In AI, Wait - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGVaSzV6WGpYR1JzbDRiejBMMUEtNC0zNWJ6T3R1TVo2cDBkSFRuaWU4R01VUXBURWkwY2tQVTFxY28xMkpEcVQtLTBsRG5Rb2ttODVEU0lGWHlvdHU5alRRZ2owVmNXNUNXSXpIal95MGgyU3hVejF4U0xXSW5EX3pMMXZKZFo3?oc=5",
+      "published": "Sun, 15 Feb 2026 07:56:24 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWi1mbUprWldiWndmRUVBNGFGUGhnWHVxTXQtUWo5MDRjSmg3ZWlybFBObHFYaDJsSXBoRGNRYS1YQTgySHRLWDV4dzAyQUdabEdMRmpkN3ByREpLMUc3cnd1bkZCVUJMQ3pRQlNjMzZtb25VYzJrSEY1U2gyV05CNlpPVQ?oc=5",
+      "published": "Tue, 17 Feb 2026 14:02:00 GMT",
+      "source": "Capital.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "หุ้น Microsoft ร่วง 22% ใน 6 เดือน, ตอนนี้ควรซื้อหรือไม่?",
+        "why": "หัวข้อข่าวยืนยันว่าหุ้น Microsoft ร่วงลง 22% ในช่วง 6 เดือน ซึ่งเป็นข้อมูลเชิงลบที่ชัดเจน แม้จะมีการตั้งคำถามถึงโอกาสในการซื้อ แต่ข้อเท็จจริงการลดลงของราคาย่อมกดดันหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "หุ้น Microsoft ร่วงลงสู่จุดต่ำสุดในรอบหลายเดือน; ตอนนี้ควรซื้อหุ้นหรือไม่?",
+        "why": "การระบุว่าหุ้น Microsoft ร่วงลงสู่จุดต่ำสุดในรอบหลายเดือน เป็นสัญญาณเชิงลบที่ชัดเจน แม้จะมีการตั้งคำถามถึงโอกาสในการซื้อ แต่การลดลงของราคาย่อมส่งผลเสียต่อความเชื่อมั่น"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "นักวิเคราะห์กล่าวว่า 'สถานการณ์ที่แพ้ทั้งขึ้นทั้งล่อง' ขณะที่หุ้น Microsoft (MSFT) เผชิญกับการปรับลดอันดับ",
+        "why": "คำกล่าวของนักวิเคราะห์ที่ว่า 'สถานการณ์ที่แพ้ทั้งขึ้นทั้งล่อง' ประกอบกับการที่หุ้นกำลังเผชิญกับการปรับลดอันดับ เป็นปัจจัยเชิงลบที่รุนแรงและชัดเจนมาก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "เหตุผลที่หุ้น Microsoft เตรียมพร้อมสำหรับการปรับตัวขึ้น",
+        "why": "หัวข้อข่าวระบุอย่างชัดเจนว่าหุ้น Microsoft กำลังเตรียมพร้อมสำหรับการปรับตัวขึ้น (Bull Run) ซึ่งบ่งชี้ถึงแนวโน้มเชิงบวกสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Microsoft ขาดความเป็นผู้นำด้าน AI, รอก่อน",
+        "why": "การระบุว่า Microsoft ขาดความเป็นผู้นำในด้านปัญญาประดิษฐ์ (AI) ซึ่งเป็นเทคโนโลยีสำคัญ บ่งชี้ถึงจุดอ่อนเชิงกลยุทธ์ที่อาจส่งผลเสียต่อการเติบโตและมูลค่าในอนาคตของบริษัท"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 80,
+      "note": "มีหัวข้อข่าวหลายรายการที่ชี้ถึงการลดลงของราคาหุ้น การปรับลดอันดับโดยนักวิเคราะห์ และความกังวลเกี่ยวกับความเป็นผู้นำด้าน AI ซึ่งบ่งชี้ถึงแรงกดดันเชิงลบที่แข็งแกร่ง แม้จะมีมุมมองที่เป็นบวกอยู่บ้าง แต่ภาพรวมยังคงเป็นเชิงลบ"
+    }
+  }
+}
