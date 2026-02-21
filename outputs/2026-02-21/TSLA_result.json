@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4627,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0472 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0198 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0368 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0126 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0303 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "1 Reason Why Tesla Stock May Keep Underperforming - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX05OU0tRUmw1UXRLZFBYZF9Teng3Ti1DQTR1NWQzQnFkUnBUVElxeEtHa2g0VjJJeW5DVmt1RHAtSl9RM181VFpXc1E3dHRJZUwzdWE0dWtlNlNNT2pUc0ZWS3BwaG9odWRmenhXbHMtSjNPWUdrWFlnZmVHZjZ4c1dKNUFMaEpVVXZkczNkQWR4bmxyek5N?oc=5",
+      "published": "Wed, 18 Feb 2026 23:25:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla: As institutional investors sell stock, retail investors pile in - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUldiLWlNSWFYenprNWl4NW5BWE9lUkJidXpYMGFJRlJXbExOS0t5X3JfZW9Ma3hFdDlybzJHa0ltRzh6LWNZYWM1bkVxdkplenFOaUJQc2lMcE90aTIwa0llOU9IV05uTlFwV3ZMbWpvbUJuTnE3UUlOb2djZk14aFo4Snl0VGhzc09fcG5tWEVNZDdGcW15SlVrMHJmanp1WE1FWWxES2lMSXdmT3I1dFdWRXE?oc=5",
+      "published": "Thu, 19 Feb 2026 16:54:19 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQldLU0VKdjl5c0V0R1RpWmV0ZWpGUGQxNVg3TU5qcjNybk8wQUR5UV9kSDNER1hUMEhGZ2VoVXo0b1FTVkRabnVmSmZBbmxqbXFVX1RXN1JyRThTZWg0QUpWX19qWUtfbThWMEQ0SkxEQlFQYm85anRVZzBjUTc2MHJkVkxfXzdM?oc=5",
+      "published": "Mon, 16 Feb 2026 14:24:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "As Tesla Gains U.S. Market Share, Should You Buy TSLA Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONk5tRlJ0R2ZUM3lnekYyUnJ3MU5iRE1iQnZOZm55RWlsNWdHRjMwMFJwSWZlUEIydmxBNVp3YnZ4eHJfd2xsMXIwZDAtRjJrSVpEX1hOc2tKbFV3cFRrRFdjaWYwNnhxTWRVNms2OHZUUmhtVjdlUE5BQlNfRS12dzNaZFRyb2Z4ajhrMEJGMEdHaVVneWpnNTFOY0tZWG5aYWc?oc=5",
+      "published": "Tue, 17 Feb 2026 21:21:11 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Musk Says This About Tesla's Cybercab, Optimus, Makes Claim About Epstein And Tesla Stock - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN21VVXY0QnZOVW1mZEJ4VlNidEFtYklTdFVOM05IaEFEdXRVeFEyUHE3cDA4cjVHcHhrQTN3RC1DYmtXY3lJVFQwd210VVU3S01XUExBUW44RGRNYk05Sm0tZ1B2akstcHp5b1ltVmtURDR0NEpUdlBFSEowZEpwSmJPSDM2dGJ4YTNoUHlR?oc=5",
+      "published": "Tue, 17 Feb 2026 22:26:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla: The Most Volatile Stock That's Worth Holding Onto (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVNqdnVEWlB0MkhPeElNWlZfMFZiUVpHaWRvUllEUmkyb2luVFZtb3ozNS10T2xIOXRzZ0RDTkxyTGNfVGhFSkZ1VGgxenhpSi11MTZXeHNJQXdkUHZOS1ZxcllrX0dIclllN1ZnUnVGX3JIMlB4UzFUYWF3LVpKOTJGZzQzZUhTNUJrWnVHTWZfU3M?oc=5",
+      "published": "Wed, 18 Feb 2026 17:45:07 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Five-Year Price Stagnation - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUlQX2tncjJMZ0lCWUNmSXE5TF9tS2pFRk4xZzg0T1o1MWllVVA1QUpiZkR1R2JpLUxJNnpFYkVHNXpoTE91U0ZLUzI4eXBVU0xwZzVQTkhrMG1zNTViNjJIMEc4d0h5a2VkSTlqd0VlYzAtYmZJSktjVVZUYWVhdDBJWEhsS3FCZmY2clVJTnRjOExsSnVONFpR?oc=5",
+      "published": "Sun, 15 Feb 2026 14:03:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "3 Forces That Could Shake Tesla Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY09oWlJjUWdJYVJkTnJsVDczTWxKOUM3dm8zS3BmNlAza2RVZkk5bzZUQ0lUeFRWcUhsNUFGYUZwVV9sR1phblZPMWVvcnBZRktpTXE3OGsycWFOa3VXUnhBMG5tTFdzM2xBbjFCdVIzMERlTXZqTGpqQnRpTEduYy1HaWZpZGxnM01GNGRTUzc3MnBKZTU5LWNGbDhJZU0tQVhB?oc=5",
+      "published": "Wed, 18 Feb 2026 10:25:50 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ข่าวนี้ระบุถึงหนึ่งเหตุผลที่อาจทำให้หุ้น Tesla ยังคงมีผลงานต่ำกว่ามาตรฐาน",
+        "why": "คำว่า \"Underperforming\" (มีผลงานต่ำกว่ามาตรฐาน) ชี้ให้เห็นถึงแรงกดดันเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวกล่าวถึงการที่ Tesla ได้ส่วนแบ่งการตลาดในสหรัฐฯ เพิ่มขึ้น และตั้งคำถามว่าควรซื้อหุ้น TSLA หรือไม่",
+        "why": "การที่บริษัทได้ส่วนแบ่งการตลาดเพิ่มขึ้นเป็นปัจจัยพื้นฐานเชิงบวกที่บ่งชี้ถึงการเติบโตและความแข็งแกร่งของธุรกิจ"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "ข่าวนี้รายงานว่านักลงทุนสถาบันกำลังขายหุ้น Tesla ขณะที่นักลงทุนรายย่อยกำลังเข้าซื้อ",
+        "why": "การขายหุ้นของนักลงทุนสถาบันมักถูกมองว่าเป็นสัญญาณเชิงลบที่อาจกดดันราคาหุ้น แม้จะมีการเข้าซื้อจากนักลงทุนรายย่อยก็ตาม"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวแนะนำว่าหุ้น Tesla แม้จะมีความผันผวนสูง แต่ก็ \"คุ้มค่าที่จะถือครอง\"",
+        "why": "วลี \"Worth Holding Onto\" (คุ้มค่าที่จะถือครอง) บ่งชี้ถึงมุมมองเชิงบวกในระยะยาวต่อมูลค่าของหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ข่าวนี้รวบรวมความคิดเห็นเกี่ยวกับการที่ราคาหุ้น Tesla (TSLA) อาจซบเซาเป็นเวลาห้าปี",
+        "why": "คำว่า \"Price Stagnation\" (ราคาซบเซา) ชี้ให้เห็นถึงการขาดการเติบโตหรือการเคลื่อนไหวของราคาในเชิงลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 65,
+      "note": "มีหัวข้อข่าวหลายรายการที่บ่งชี้ถึงแรงกดดันเชิงลบ เช่น ผลงานที่อาจต่ำกว่ามาตรฐาน การขายหุ้นของนักลงทุนสถาบัน และความซบเซาของราคาในระยะยาว แม้จะมีปัจจัยเชิงบวก เช่น การได้ส่วนแบ่งการตลาดและการแนะนำให้ถือครองหุ้นก็ตาม"
+    }
+  }
+}

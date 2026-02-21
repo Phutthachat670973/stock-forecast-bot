@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3563,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2573 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0578 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0716 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0447 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0115 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Melius Research Downgrades Microsoft Corporation (MSFT) Stock to Hold - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXIwbk5OZ3RmbUZ2eEk3TExOTzlTWm1WVkJmYU4wdW03NVJ0SDV3TE55WXBucTRyQU9ETHBhZ2xrMmhLS0xqUUxIWlc5elZibkFxSEF3OTVMTHNXMEpZaFZ0a1JwYzlBemhHYll6QjZLUTlVLUlnUkdoYk0yaW54QnpuXzUxM1l4ZUhyM01xLUtHVzhnOWVVSFhR?oc=5",
+      "published": "Tue, 17 Feb 2026 12:34:39 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Down 22% in 6 Months, Is Microsoft Stock a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2l2RXh4azdvVVRlREVra003Zm85ZEI1eG1SX080MDE4ekpScEZQdHA0bTdZeUFOTUZQLXBDRWpVU2NFcWxyalYtRDJhcExhZy14UGNRMXJldmJ0QmNnVHBHZHhVY05vVHJCM3ZDTTNFTkJtaVJJX1FBczU0Z0NMWXA0WXZYTThhanBNVXd0MTY?oc=5",
+      "published": "Sat, 14 Feb 2026 21:45:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Slopes Down To Lowest Point in Months; Is The Stock A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkFYY3pmQk1wcmVUa0Z5bjVEbWN4Y0xWTTRWNDVHZTNrZllxazZXU1l5RGFDQ0dIbEZqMVlTem9sWVhId3g2U1Fza1pqQTF0SDVlb1VjX1BkTUZhZ0VmSy1SSE9CdC12MmNUbC1VUGY4ODc0S3hoOGxIdkhNWkNwS294eHZSdw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:55:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why Microsoft Stock Could Soon Stage A Rebound - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzAwb0JvTHRyZ0N0WEZ3UkFGLTRSMDJQalJ6c0RNb0tZVDUxWm92dWRIRklNNWFaMzlOUDBublBMRjd3Z3k1VlVoVEQtVUdBNHlEQ3A0dW5jZ0hIdm5PNTd0Q1d3S2pwVWNZd3FoN2lkNnJqRWFtdjBfOHpGcWF1MWdDazBuLWZzMU5Id2g5dS1rU1A0amlHRGJ1SjU0aVZlMmtOR2F4SHg?oc=5",
+      "published": "Thu, 19 Feb 2026 19:40:51 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Stock Forecast | Could AI Strategy Lift MSFT Outlook? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFRPbS1MXzVKUnBiSzViS2JkVHJNcmQza0FLNElubXNlaFZEMC13THVWMkhJNVRtS0k0SmxETEtlQ2ZIaV90amwwc0ZYVGRRUm1hQ2NCbmtGV1BLZkVZclR6ZVZHS3JtancweFEwaWV4NEw0eWlnRTBaUjNycU9CTHZXUnlGcEJURW82TjVXci0?oc=5",
+      "published": "Fri, 20 Feb 2026 11:59:17 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "‘A Lose-Lose Situation,’ Says Analyst as Microsoft Stock (MSFT) Faces Downgrade - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFlJa2NkSDVOSVRRNkRIQkRjSURHX3Y4Y2lMZXZOMHBTVWhOaTNXNjJ2TTFRaHZja3hOVGVPVkhFMHZ2YmJ0VExBYmg0V3JYT29OM3gwazR0aFM3Qlhmanp4Z0FUeHB2aHJRb0E2SVF4TmZYNDVrMXJDN2xldEd3LVlWMllKSThSeDNiUGg0RTI5MTlicGFuVUtUVmpTcHlUcXBVbkZBaw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:06:31 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft's Lack Of Leadership In AI, Wait - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGVaSzV6WGpYR1JzbDRiejBMMUEtNC0zNWJ6T3R1TVo2cDBkSFRuaWU4R01VUXBURWkwY2tQVTFxY28xMkpEcVQtLTBsRG5Rb2ttODVEU0lGWHlvdHU5alRRZ2owVmNXNUNXSXpIal95MGgyU3hVejF4U0xXSW5EX3pMMXZKZFo3?oc=5",
+      "published": "Sun, 15 Feb 2026 07:56:24 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Will Microsoft’s stock finally rebound? A board member just bet $2 million on a turnaround. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOajdTOUl4NU1tZGJfYTc0TDdMN1plSWl3eFVnc3BIVUFOX3VGMWVQOFRNMUNTZVp6blRKZnFFX2JIQUpETWpKYnhPc0ZmMnY3ZWMzVW9Bb0tHZTNyTjgza09tWTd3VU5CaE9PQllfNFdEcllqRG4tMTk1NVNvR0JnejRnd2swR0dxdktKMGxIdXFpYU1Db0FXR2lPOHdTZVU4cHlHWmF3LXBnTHhrY0ZyWU95a2JiOEtPRndLWDIzQ2hWaUtIc2RpaWVRZ0RaNTNGMldUYnhLdnpDSWZSSkJfb3VqOWRkamQ3Tmx3NHhjWXl4MGtKTHFZT3FhYVJmWFlMMmZQUGNXekQzWVJGaVQ3cWVYQnM0YmhXT1VUOW9ET2FSeU9hR1BkUURYY053YzlNelBpU3VzaFdGT3NMazNQSXlKb1hsaUd5NjB2Mkk1d3VFT0o4a2FWMldPdDZscHRGOGJxT2dxQVFVaENZWTZpeDZFdE1VTmliUVpockxxQWlXVW9yV1N6Rk1WWG5uZGp1a1ZMX0g2cldsYUxzRDBqSUpyUEsxcXYzdE12ZDM1ZlYyUTRwV214WFZjZWI2YjBYSVVvM1hjTHI1ZGl4SEpV?oc=5",
+      "published": "Thu, 19 Feb 2026 02:17:00 GMT",
+      "source": "MarketWatch"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "Melius Research ได้ปรับลดอันดับหุ้น Microsoft Corporation (MSFT) เป็น 'ถือ'",
+        "why": "การปรับลดอันดับจากบริษัทวิจัยมักจะส่งผลเชิงลบต่อมุมมองของนักลงทุนและราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บทความจาก Forbes วิเคราะห์ว่าทำไมหุ้น Microsoft อาจมีการฟื้นตัวในไม่ช้า",
+        "why": "การคาดการณ์ถึงการฟื้นตัวของหุ้นเป็นการบ่งชี้ในเชิงบวกต่อแนวโน้มราคา"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "การคาดการณ์หุ้น Microsoft พิจารณาว่ากลยุทธ์ AI อาจช่วยยกระดับแนวโน้มของ MSFT ได้หรือไม่",
+        "why": "การที่กลยุทธ์ AI มีศักยภาพในการยกระดับแนวโน้มของบริษัทถือเป็นปัจจัยเชิงบวกสำหรับหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "นักวิเคราะห์กล่าวว่าสถานการณ์ 'แพ้-แพ้' ในขณะที่หุ้น Microsoft (MSFT) เผชิญกับการปรับลดอันดับ",
+        "why": "คำกล่าวของนักวิเคราะห์ที่ระบุว่าเป็นสถานการณ์ 'แพ้-แพ้' และการปรับลดอันดับเป็นสัญญาณเชิงลบอย่างชัดเจน"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "สมาชิกคณะกรรมการบริษัทได้ลงทุน 2 ล้านดอลลาร์ โดยคาดการณ์ถึงการฟื้นตัวของหุ้น Microsoft",
+        "why": "การที่ผู้บริหารภายในบริษัทลงทุนจำนวนมากบ่งชี้ถึงความเชื่อมั่นในการฟื้นตัวของหุ้น ซึ่งเป็นสัญญาณเชิงบวกที่แข็งแกร่ง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีสัญญาณที่ขัดแย้งกันจากนักวิเคราะห์และผู้สังเกตการณ์ตลาด โดยบางรายปรับลดอันดับหุ้นและแสดงความเห็นเชิงลบ ขณะที่บางรายคาดการณ์การฟื้นตัวที่ขับเคลื่อนด้วยกลยุทธ์ AI และความเชื่อมั่นของผู้บริหารภายใน"
+    }
+  }
+}
