@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4441,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2450 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0411 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0109 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0085 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0041 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) is a Top-Ranked Growth Stock: Should You Buy? - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lwUGNqTEFPZTJPMmN4amJpV0oyaEZueUllX0FWNHpFblIxNFdTNGJLeU91QVd4V0I4V1k3Z2VoSjFEQWw3YUlNSU83TEFZRTRWU3JuRkFsVXBKYjR1YmR1WW9ma2hQekgtcWo0T0pkUC1waXBUOHcwQnBEWWt4d2JNYXhqN2tB?oc=5",
+      "published": "Thu, 19 Feb 2026 14:45:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Should You Buy Apple Stock While It's Under $270? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaU5hOGdaZ21oZG1qckJ3cEhiNTY1TkxuaE5fZnNPM1l0RHR0ZURlaUxQbHg1bWUzdGszVHZmVlBhdUp4VXdXbzMxRW9fQnVaOVFQYkZ0SS1nbHhGSFlmbGlFeEhraVpRcjE2dFB6SmRHQVh4TEdFUlhSZmpCZHZ1UGdZcG9wb1hFZnZ0ZDZSejYwNGs?oc=5",
+      "published": "Mon, 16 Feb 2026 13:30:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Why Apple Stock’s 2026 Rally Is Under Threat - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYm9VcnZ1T2dzelhPdHhsLWF4Q3VyY3h6dl9JcjY2RC1xX09SbG9BRExSNWRwZkRrTUV5SkpmNkg1bU9tRnpudGUxQXI1QzVCbGxsd1FLLWkwX2hweC1TbXBfbVdReXFKbVM3QUUwNnM0WTVoZ0p3SEd5clRSSVc2UHFudGRZVmp3ekt1OUtENnpzd2FZOE5sLVowOXluQ3lJVU1PNQ?oc=5",
+      "published": "Tue, 17 Feb 2026 09:48:14 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "As Apple Tests AI Devices, Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTExmRkhvNjNYa1E2Y3MyRl9hZUtfRVhkNFNBcnJaa2ZfSy0tN2htcGFFeVU3b1RsLWRGNFM5VmtUMXFMWGZVRDRaeGItT2FQWFItVGxjNkhaMGxwNXdlSGNSdXAwNTVrTjZwM05vcU0xNjhDV1RQaFpVMVdjWUVXWHZjUGFHOGZuQ1l0MVJpQlRmRkw1eF9aTGhaUFFUcmNa?oc=5",
+      "published": "Thu, 19 Feb 2026 21:14:59 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple Stock (AAPL) Sinks on Reports It’s Being Sued Over Child Sexual Abuse Material - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnVLWTEtc1Q5Q3NydUpQMFBPeUFldkZOMVU3NUJsNDdrNTNZUGZSWHR5RTJ4ZjlKMlkzUDhZa0RKT1pUZmNFcGtRRGo3aXdSWElzUGY0Q2pUSmhIVnE5amJZcmpSUlZDQXc4Q3ZTR2M5S09MdHRiblB1QTFzRXl3QTh5d291OWtVRzAtbC0yVmxhalZmOWlKM0RLZ0FCQ1ZHdUszSkZ3NC1aRkNCUFFUZQ?oc=5",
+      "published": "Thu, 19 Feb 2026 16:50:55 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Here is What to Know Beyond Why Apple Inc. (AAPL) is a Trending Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DV3NXS0NHZjZGQ251V0lEa2gtNjRVX0xYTkFBSzIwTldjTF8zVDl4UUhfSHU3OVdmckVzSk9iMEN0T1k1MGJKN3d2S3hDT1o3RlJBbThicXJOWnNJOFlMVzl1Z1I1aExVdkcxcndtQkhxN0RDc0ZYbU1GTQ?oc=5",
+      "published": "Mon, 16 Feb 2026 14:00:01 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGF6bXd0NG9nWTYtQXNFTExmZVQ1Y1UyWmNkU3ZOcHdLU0tCRnNEMktzYUpYbTgzd3VWUDJrU05hczBEdzBOaDZGLTFPWDc0WXdNaE1PZWVydXRkOUs0Tk5QdlRhZDZPejV5TU1SU0FyRnRwbWdjcHdwN21OYXgzMG9kV3hNSzVFWjhDNzVnejJMTE1oaHBZZ1AxQVRrY1hNRFctbG1jcGFCQmFFZExkMW9Md2tyRXRWOEhOWWRHRdIBxAFBVV95cUxONTlUT3RYcDZTMU9ZeFd3N3llbnZpWGRmY3RkcGpGRzZzWkkydG81OWl2WERzdUp0Zm5Jem1ZXzJuTUxoc1FobHROMGQ2MHN0WGRCenpPYkwyanI2d292bGJPdTVuS2hQdzRxeVlIWU1yWWhxOGJQU2xRUk9DNWt1UEpISjllNElnbURERDhMUFdMMzJzZDBVNTVKUkQ0dTk5ajkyc2wwR21VaWRsQXk5NkIxNTVuZy1WVjdZQXZuUENGYnBy?oc=5",
+      "published": "Tue, 17 Feb 2026 22:02:39 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple stock price today: AAPL rises after tariff ruling as lawsuit, Apple TV sports deal come into focus - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDd6U0N6am8xLVhrVmJPUHdFbjB4UnIxSzBqZERjdUJWaExmWWtES2l4eHhkTVVlTHVhdmNwUkdkVE9OeTNFMHBnQTJTYkx0TmVZVzRKNXlGS2o5d0hzMGd5ZFJnUjFaekJFOEpMd3NlblVlQnlRMEtXcENsUmlRdFZfQVZGYW5mZ1huUEpacHBkdkZ4WS1VQzAwOWJpVjJERlo0WXdxUnNiRFlfeGJJVU5aSzlfVFZXR1AtbVk3TlI?oc=5",
+      "published": "Fri, 20 Feb 2026 23:21:54 GMT",
+      "source": "TechStock²"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple ถูกจัดอันดับให้เป็นหุ้นเติบโตชั้นนำ",
+        "why": "พาดหัวข่าวยกย่อง Apple ว่าเป็น 'หุ้นเติบโตชั้นนำ' ซึ่งเป็นสัญญาณเชิงบวกต่อบริษัท"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การปรับขึ้นของราคาหุ้น Apple ในปี 2026 กำลังเผชิญกับภัยคุกคาม",
+        "why": "พาดหัวข่าวระบุว่าการปรับขึ้นของราคาหุ้น Apple กำลัง 'เผชิญกับภัยคุกคาม' ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ราคาหุ้น Apple (AAPL) ร่วงลงจากรายงานว่าถูกฟ้องร้องเกี่ยวกับเนื้อหาการล่วงละเมิดทางเพศเด็ก",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าราคาหุ้น 'ร่วงลง' เนื่องจากรายงานการถูกฟ้องร้อง ซึ่งเป็นเหตุการณ์เชิงลบอย่างมาก"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Berkshire Hathaway ลดสัดส่วนการถือหุ้น Apple",
+        "why": "การที่นักลงทุนรายใหญ่ลดสัดส่วนการถือหุ้นมักถูกมองว่าเป็นสัญญาณเชิงลบต่อหุ้นนั้นๆ"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple (AAPL) ปรับตัวสูงขึ้นหลังคำตัดสินเรื่องภาษี",
+        "why": "พาดหัวข่าวระบุว่าราคาหุ้น AAPL 'ปรับตัวสูงขึ้น' ซึ่งเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 60,
+      "note": "มีทั้งข่าวเชิงบวกและเชิงลบที่ชัดเจน โดยข่าวเชิงลบเกี่ยวกับคดีความและการลดสัดส่วนการถือหุ้นจากนักลงทุนรายใหญ่มีน้ำหนักพอสมควร ขณะที่ยังมีข่าวดีเกี่ยวกับการจัดอันดับและการปรับขึ้นของราคาหุ้นจากปัจจัยอื่น ๆ"
+    }
+  }
+}

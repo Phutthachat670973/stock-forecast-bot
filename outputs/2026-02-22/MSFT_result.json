@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3566,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2561 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0578 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0716 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0447 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0115 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Melius Research Downgrades Microsoft Corporation (MSFT) Stock to Hold - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXIwbk5OZ3RmbUZ2eEk3TExOTzlTWm1WVkJmYU4wdW03NVJ0SDV3TE55WXBucTRyQU9ETHBhZ2xrMmhLS0xqUUxIWlc5elZibkFxSEF3OTVMTHNXMEpZaFZ0a1JwYzlBemhHYll6QjZLUTlVLUlnUkdoYk0yaW54QnpuXzUxM1l4ZUhyM01xLUtHVzhnOWVVSFhR?oc=5",
+      "published": "Tue, 17 Feb 2026 12:34:39 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock Slopes Down To Lowest Point in Months; Is The Stock A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkFYY3pmQk1wcmVUa0Z5bjVEbWN4Y0xWTTRWNDVHZTNrZllxazZXU1l5RGFDQ0dIbEZqMVlTem9sWVhId3g2U1Fza1pqQTF0SDVlb1VjX1BkTUZhZ0VmSy1SSE9CdC12MmNUbC1VUGY4ODc0S3hoOGxIdkhNWkNwS294eHZSdw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:55:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Why Microsoft Stock Could Soon Stage A Rebound - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzAwb0JvTHRyZ0N0WEZ3UkFGLTRSMDJQalJ6c0RNb0tZVDUxWm92dWRIRklNNWFaMzlOUDBublBMRjd3Z3k1VlVoVEQtVUdBNHlEQ3A0dW5jZ0hIdm5PNTd0Q1d3S2pwVWNZd3FoN2lkNnJqRWFtdjBfOHpGcWF1MWdDazBuLWZzMU5Id2g5dS1rU1A0amlHRGJ1SjU0aVZlMmtOR2F4SHg?oc=5",
+      "published": "Thu, 19 Feb 2026 19:40:51 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Should You Buy the Dip in Microsoft Stock? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUtsd3NfNE5CYklBLXBmVzRQTnV2R0NlRVE4SjJXMzlaVzZKSVI1amVPSWNhaU9aTXd1cFhNT1RLeWlTcDRjRWJmMnhRN21BaFpGTnF1Z1JCNklGZ1VmR3VfTEdiWXRNLUFFUk0tVGVrWTVGZUE0M21LdjJwdkd5eGROQmw1UjlVa2s3bg?oc=5",
+      "published": "Sun, 15 Feb 2026 12:30:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "‘A Lose-Lose Situation,’ Says Analyst as Microsoft Stock (MSFT) Faces Downgrade - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFlJa2NkSDVOSVRRNkRIQkRjSURHX3Y4Y2lMZXZOMHBTVWhOaTNXNjJ2TTFRaHZja3hOVGVPVkhFMHZ2YmJ0VExBYmg0V3JYT29OM3gwazR0aFM3Qlhmanp4Z0FUeHB2aHJRb0E2SVF4TmZYNDVrMXJDN2xldEd3LVlWMllKSThSeDNiUGg0RTI5MTlicGFuVUtUVmpTcHlUcXBVbkZBaw?oc=5",
+      "published": "Tue, 17 Feb 2026 21:06:31 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft: This AI Selloff Could Be The Buying Opportunity Investors Miss (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRXbmxVTG5VUTJRTnV6OWhjenpxd25KUmdsRW9pR3VpMXU1a21TNnVrSy01Vk9HNDRseUJjMmoyNXE1bDlIOEwwRHRVN3lFOTFCM3ZrQ2tKWXMtbHcyUnFxSDN1dk50NW13ZzVROC0tOGpuZjlsVEFscmJQZFlTUEM2bEJPWWhEQ1VEUDN2cWJhTjNpNG9iNmF3NTNvTmxmZVVic0RPUnpaN29rT2g4YzFCQQ?oc=5",
+      "published": "Thu, 19 Feb 2026 19:33:55 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft stock forecast: Could AI strategy influence MSFT outlook? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFRPbS1MXzVKUnBiSzViS2JkVHJNcmQza0FLNElubXNlaFZEMC13THVWMkhJNVRtS0k0SmxETEtlQ2ZIaV90amwwc0ZYVGRRUm1hQ2NCbmtGV1BLZkVZclR6ZVZHS3JtancweFEwaWV4NEw0eWlnRTBaUjNycU9CTHZXUnlGcEJURW82TjVXci0?oc=5",
+      "published": "Fri, 20 Feb 2026 11:59:17 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Will Microsoft’s stock finally rebound? A board member just bet $2 million on a turnaround. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPM1JqbXlfQ2ExRHd6UEpxdlBCNmRlNTNaWVBqSHpFTzFXRG41aUpBM3ZlMTFWdWZ3allaSlE3QmpmWnBoNkNVekNMZ2JPMWVreVhlTEh2MWtmVThLcldBc0I3OUNPb2ZsdjJrakdzc3JZZHZkQzJjNUdCTE1sXzRLYW5iVWoxUk91Ql9mNGY0d0JVRTl2Z0l1RU1yQmVoVFBHMDJ2cDNEbkhObmcyX18yNTQ3NDFnQmd1WW5hZGQwaGowM0pUZWlsZms4VV9tWmI1ejE0VVFVNGVCUExhbVNzZUR4X0RVdmt6a2lzSjN6STByaUx2UlB6U21UMVljZXllUkV3eVAzeGFJcFVuOGlkbTRabFc2cVpkbGFhXzZRbF8yV0hkQ3piazRZek9MZGtTb2JkS2pvMUp4VGEteF9veXFCSy1VYldKS2NNMThKTVExbnV0UzFyTHlyOWt0STdoREIya3I3MG56Z0ZGNngyOEpYcXhsanRyTlVQVjd1RC1nNGJ4bzUwcjRNTXRGZy1OMkVtZFpSY19uUTRVSzFGZXVCSHJjN2dYZE1kM3RWS3JiVmNrbXU1alFNYXV0MFhPR3lTWHExUWZHYXUwdlVJ?oc=5",
+      "published": "Thu, 19 Feb 2026 02:17:00 GMT",
+      "source": "MarketWatch"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "Melius Research ปรับลดอันดับหุ้น Microsoft (MSFT) เป็น 'ถือ' (Hold).",
+        "why": "หัวข้อข่าวระบุอย่างชัดเจนว่ามีการปรับลดอันดับหุ้นของ Microsoft จากสถาบันวิจัย ซึ่งโดยทั่วไปถือเป็นสัญญาณเชิงลบสำหรับราคาหุ้น."
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Forbes วิเคราะห์ว่าหุ้น Microsoft อาจจะฟื้นตัวได้ในไม่ช้า.",
+        "why": "หัวข้อข่าวชี้ให้เห็นถึงศักยภาพที่หุ้น Microsoft จะกลับมาเพิ่มขึ้น ซึ่งเป็นสัญญาณเชิงบวกสำหรับราคาหุ้น."
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "นักวิเคราะห์กล่าวว่าเป็น 'สถานการณ์ที่แพ้ทั้งสองฝ่าย' ในขณะที่หุ้น Microsoft (MSFT) เผชิญกับการปรับลดอันดับ.",
+        "why": "หัวข้อข่าวมีคำพูดของนักวิเคราะห์ที่อธิบายสถานการณ์ว่า 'แพ้ทั้งสองฝ่าย' และมีการระบุว่าหุ้นกำลังถูกปรับลดอันดับ ซึ่งเป็นสัญญาณเชิงลบอย่างชัดเจน."
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "การเทขายหุ้น Microsoft ที่เกี่ยวข้องกับ AI อาจเป็นโอกาสในการซื้อที่นักลงทุนมองข้ามไป.",
+        "why": "หัวข้อข่าวระบุอย่างชัดเจนว่าการเทขายหุ้นเป็น 'โอกาสในการซื้อ' ซึ่งบ่งชี้ถึงแนวโน้มเชิงบวกสำหรับนักลงทุน."
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft จะกลับมาฟื้นตัวหรือไม่? สมาชิกคณะกรรมการบริษัทเพิ่งเดิมพัน 2 ล้านดอลลาร์ในการพลิกฟื้น.",
+        "why": "การที่สมาชิกคณะกรรมการบริษัททุ่มเงินจำนวนมากเพื่อเดิมพันกับการฟื้นตัวของหุ้นนั้นเป็นสัญญาณเชิงบวกอย่างมากถึงความเชื่อมั่นภายใน."
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "แม้จะมีข่าวการปรับลดอันดับและสัญญาณเชิงลบ แต่ข่าวที่บ่งชี้ถึงศักยภาพในการฟื้นตัว โอกาสในการซื้อ และการเดิมพันของกรรมการบริษัทด้วยเงินจำนวนมากมีน้ำหนักมากกว่าเล็กน้อยในการมองไปข้างหน้าถึงแนวโน้มของหุ้น MSFT."
+    }
+  }
+}
