@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4441,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2450 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0411 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0109 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0085 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0041 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) is a Top-Ranked Growth Stock: Should You Buy? - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lwUGNqTEFPZTJPMmN4amJpV0oyaEZueUllX0FWNHpFblIxNFdTNGJLeU91QVd4V0I4V1k3Z2VoSjFEQWw3YUlNSU83TEFZRTRWU3JuRkFsVXBKYjR1YmR1WW9ma2hQekgtcWo0T0pkUC1waXBUOHcwQnBEWWt4d2JNYXhqN2tB?oc=5",
+      "published": "Thu, 19 Feb 2026 14:45:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Should You Buy Apple Stock While It's Under $270? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaU5hOGdaZ21oZG1qckJ3cEhiNTY1TkxuaE5fZnNPM1l0RHR0ZURlaUxQbHg1bWUzdGszVHZmVlBhdUp4VXdXbzMxRW9fQnVaOVFQYkZ0SS1nbHhGSFlmbGlFeEhraVpRcjE2dFB6SmRHQVh4TEdFUlhSZmpCZHZ1UGdZcG9wb1hFZnZ0ZDZSejYwNGs?oc=5",
+      "published": "Mon, 16 Feb 2026 13:30:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Why Apple Stock’s 2026 Rally Is Under Threat - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYm9VcnZ1T2dzelhPdHhsLWF4Q3VyY3h6dl9JcjY2RC1xX09SbG9BRExSNWRwZkRrTUV5SkpmNkg1bU9tRnpudGUxQXI1QzVCbGxsd1FLLWkwX2hweC1TbXBfbVdReXFKbVM3QUUwNnM0WTVoZ0p3SEd5clRSSVc2UHFudGRZVmp3ekt1OUtENnpzd2FZOE5sLVowOXluQ3lJVU1PNQ?oc=5",
+      "published": "Tue, 17 Feb 2026 09:48:14 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 20 Feb 2026 17:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "As Apple Tests AI Devices, Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTExmRkhvNjNYa1E2Y3MyRl9hZUtfRVhkNFNBcnJaa2ZfSy0tN2htcGFFeVU3b1RsLWRGNFM5VmtUMXFMWGZVRDRaeGItT2FQWFItVGxjNkhaMGxwNXdlSGNSdXAwNTVrTjZwM05vcU0xNjhDV1RQaFpVMVdjWUVXWHZjUGFHOGZuQ1l0MVJpQlRmRkw1eF9aTGhaUFFUcmNa?oc=5",
+      "published": "Thu, 19 Feb 2026 21:14:59 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Is Apple (AAPL) Fairly Priced After Recent Share Price Pullback And AI Growth Hopes - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWWVpQWk1Rkwtb3RBU2VHcS13VjE4TDZ6OEVfeDU5RmVwMGN0SkQyOUxET0NOczJxXzNFeHVLekVCb1I1QXlXMUZOV0VtMldrRW5GQUlpWTBfbjgtTjJJbk5lRjRCWWROVW44T3hnbkRwZXBjYWJTdWFGSmIydHNSLTh5cw?oc=5",
+      "published": "Mon, 16 Feb 2026 07:10:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Berkshire Hathaway trims Apple stake, buys NYTimes stock in Buffett's last moves as CEO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGF6bXd0NG9nWTYtQXNFTExmZVQ1Y1UyWmNkU3ZOcHdLU0tCRnNEMktzYUpYbTgzd3VWUDJrU05hczBEdzBOaDZGLTFPWDc0WXdNaE1PZWVydXRkOUs0Tk5QdlRhZDZPejV5TU1SU0FyRnRwbWdjcHdwN21OYXgzMG9kV3hNSzVFWjhDNzVnejJMTE1oaHBZZ1AxQVRrY1hNRFctbG1jcGFCQmFFZExkMW9Md2tyRXRWOEhOWWRHRdIBxAFBVV95cUxONTlUT3RYcDZTMU9ZeFd3N3llbnZpWGRmY3RkcGpGRzZzWkkydG81OWl2WERzdUp0Zm5Jem1ZXzJuTUxoc1FobHROMGQ2MHN0WGRCenpPYkwyanI2d292bGJPdTVuS2hQdzRxeVlIWU1yWWhxOGJQU2xRUk9DNWt1UEpISjllNElnbURERDhMUFdMMzJzZDBVNTVKUkQ0dTk5ajkyc2wwR21VaWRsQXk5NkIxNTVuZy1WVjdZQXZuUENGYnBy?oc=5",
+      "published": "Tue, 17 Feb 2026 22:02:39 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple Stock Forecast: Did record Q1 2026 earnings lift targets? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VeG5lY2I4SHNJVGJjWENscHZfZ2ltMHBTR3R0eE9FaFdiRGxJVXdTUWVMM05iRF8tNDlOZ0plWHVhVWJVZ1B4UWE2c09HZnlSMWhXNkY0Tm94MEV5ekRkNEhKVGE5VVc4UzZKUzBHMGI2RW9SQmlabXBqY1l2dw?oc=5",
+      "published": "Fri, 20 Feb 2026 14:46:23 GMT",
+      "source": "Capital.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ข่าวจาก Nasdaq ระบุว่า Apple (AAPL) เป็นหุ้นเติบโตที่ถูกจัดอันดับสูงสุด",
+        "why": "การจัดอันดับว่าเป็น 'หุ้นเติบโตอันดับต้นๆ' และคำถามชวนให้พิจารณา 'ควรซื้อหรือไม่' บ่งชี้ถึงมุมมองเชิงบวกต่อแนวโน้มราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Forbes รายงานว่าการปรับตัวขึ้นของหุ้น Apple ในปี 2026 กำลังเผชิญกับภัยคุกคาม",
+        "why": "วลี 'Rally Is Under Threat' (การปรับตัวขึ้นกำลังเผชิญภัยคุกคาม) บ่งชี้ถึงแนวโน้มเชิงลบที่อาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Barchart.com ตั้งคำถามว่าควรซื้อหุ้น AAPL หรือไม่ ในขณะที่ Apple กำลังทดสอบอุปกรณ์ AI",
+        "why": "การที่ Apple กำลังทดสอบอุปกรณ์ AI สามารถมองได้ว่าเป็นปัจจัยบวกสำหรับนวัตกรรมและการเติบโตในอนาคต ซึ่งอาจสนับสนุนราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "CNBC รายงานว่า Berkshire Hathaway ได้ลดสัดส่วนการถือหุ้นใน Apple",
+        "why": "การที่นักลงทุนรายใหญ่ลดการถือหุ้นมักถูกตีความว่าเป็นสัญญาณเชิงลบที่อาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Capital.com ตั้งคำถามว่ากำไรไตรมาส 1 ปี 2026 ที่เป็นสถิติใหม่ของ Apple จะทำให้ราคาเป้าหมายสูงขึ้นหรือไม่",
+        "why": "'record Q1 2026 earnings' (กำไรไตรมาส 1 ปี 2026 ที่เป็นสถิติใหม่) เป็นปัจจัยพื้นฐานเชิงบวกที่แข็งแกร่ง และการตั้งคำถามถึงการ 'lift targets' (เพิ่มราคาเป้าหมาย) บ่งชี้ถึงแนวโน้มราคาหุ้นขาขึ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีสัญญาณผสมทั้งเชิงบวกจากการเป็นหุ้นเติบโต, การทดสอบอุปกรณ์ AI, และผลประกอบการที่เป็นสถิติใหม่ และเชิงลบจากการถูกคุกคามของการปรับตัวขึ้น และการที่นักลงทุนรายใหญ่ลดสัดส่วนการถือหุ้น"
+    }
+  }
+}

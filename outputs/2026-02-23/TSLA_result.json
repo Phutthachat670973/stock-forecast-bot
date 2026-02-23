@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.463,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0472 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0198 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0368 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0126 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0291 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "As Tesla Gains U.S. Market Share, Should You Buy TSLA Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONk5tRlJ0R2ZUM3lnekYyUnJ3MU5iRE1iQnZOZm55RWlsNWdHRjMwMFJwSWZlUEIydmxBNVp3YnZ4eHJfd2xsMXIwZDAtRjJrSVpEX1hOc2tKbFV3cFRrRFdjaWYwNnhxTWRVNms2OHZUUmhtVjdlUE5BQlNfRS12dzNaZFRyb2Z4ajhrMEJGMEdHaVVneWpnNTFOY0tZWG5aYWc?oc=5",
+      "published": "Tue, 17 Feb 2026 21:21:11 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "1 Reason Why Tesla Stock May Keep Underperforming - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX05OU0tRUmw1UXRLZFBYZF9Teng3Ti1DQTR1NWQzQnFkUnBUVElxeEtHa2g0VjJJeW5DVmt1RHAtSl9RM181VFpXc1E3dHRJZUwzdWE0dWtlNlNNT2pUc0ZWS3BwaG9odWRmenhXbHMtSjNPWUdrWFlnZmVHZjZ4c1dKNUFMaEpVVXZkczNkQWR4bmxyek5N?oc=5",
+      "published": "Wed, 18 Feb 2026 23:25:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla: As institutional investors sell stock, retail investors pile in - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUldiLWlNSWFYenprNWl4NW5BWE9lUkJidXpYMGFJRlJXbExOS0t5X3JfZW9Ma3hFdDlybzJHa0ltRzh6LWNZYWM1bkVxdkplenFOaUJQc2lMcE90aTIwa0llOU9IV05uTlFwV3ZMbWpvbUJuTnE3UUlOb2djZk14aFo4Snl0VGhzc09fcG5tWEVNZDdGcW15SlVrMHJmanp1WE1FWWxES2lMSXdmT3I1dFdWRXE?oc=5",
+      "published": "Sun, 22 Feb 2026 13:21:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 20 Feb 2026 17:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla Stock Forecast 2026–2030 | Future Outlook - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQldLU0VKdjl5c0V0R1RpWmV0ZWpGUGQxNVg3TU5qcjNybk8wQUR5UV9kSDNER1hUMEhGZ2VoVXo0b1FTVkRabnVmSmZBbmxqbXFVX1RXN1JyRThTZWg0QUpWX19qWUtfbThWMEQ0SkxEQlFQYm85anRVZzBjUTc2MHJkVkxfXzdM?oc=5",
+      "published": "Mon, 16 Feb 2026 14:24:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnlRb29TTmpJYXZ4bEYxZlJTY1hGb2JPLTFDWkR3Zy1PNkZSQlJQUXRnV1BaZFJrNWhtZGFIMXRiX0tVdUJHemQ1aEhzd0w1VkgyYWJ2QVRJUVJYUHhVTEIxcUJaaFdIT2cyaUJKS084cWRQNHR3anRsNkpsNF9PN3haNDN6SnpZM3VlZ2t3X0VDUTdzSmxNcU82OWdUTW9UTmZmQU1ZYnVWa0k4ZS1TcFhnWlM0dXgyQTVR?oc=5",
+      "published": "Fri, 20 Feb 2026 13:44:42 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "The Risk Factors to Watch Out For in Tesla Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2hZQTdWTVNkUktYR2JGamh2U0ZsUmpNdXhpdEdoRWdKNThvcTQwRnNPQWxEY1hXQl9UZU9QbzZ5TDItcnMyNnFLMDZVRjhJWVROSGlEN1M5TWZ5T1duX2VaUDgzTk40cHd4bTZKOWNiOGFUaE1QRGlJQ25IOW1qdllEcEdlUEQ5eFgyX05udWdjOTFpcHJ4N2VWdEcwZXBqX0VEc1RZY19WUlFfZUJqMEhNUlBBdmZNbmc?oc=5",
+      "published": "Fri, 20 Feb 2026 07:39:32 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Tesla: The Most Volatile Stock That's Worth Holding Onto (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVNqdnVEWlB0MkhPeElNWlZfMFZiUVpHaWRvUllEUmkyb2luVFZtb3ozNS10T2xIOXRzZ0RDTkxyTGNfVGhFSkZ1VGgxenhpSi11MTZXeHNJQXdkUHZOS1ZxcllrX0dIclllN1ZnUnVGX3JIMlB4UzFUYWF3LVpKOTJGZzQzZUhTNUJrWnVHTWZfU3M?oc=5",
+      "published": "Wed, 18 Feb 2026 17:45:07 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ในขณะที่ Tesla ได้ส่วนแบ่งการตลาดในสหรัฐฯ เพิ่มขึ้น ควรซื้อหุ้น TSLA หรือไม่",
+        "why": "การที่บริษัทได้รับส่วนแบ่งการตลาดเพิ่มขึ้นในตลาดหลัก ถือเป็นสัญญาณเชิงบวกต่อการเติบโตและประสิทธิภาพของบริษัท"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "เหตุผลหนึ่งที่หุ้น Tesla อาจยังคงมีผลงานต่ำกว่าตลาด",
+        "why": "พาดหัวข่าวระบุถึงปัจจัยที่อาจทำให้หุ้นมีผลงานไม่ดี ซึ่งเป็นมุมมองเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Tesla: ขณะที่นักลงทุนสถาบันขายหุ้น นักลงทุนรายย่อยกลับเข้าซื้อ",
+        "why": "การขายหุ้นของนักลงทุนสถาบันมักถูกมองว่าเป็นสัญญาณเชิงลบ ซึ่งอาจบ่งชี้ถึงความกังวลในหมู่นักลงทุนมืออาชีพ"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ปัจจัยความเสี่ยงที่ต้องระวังในหุ้น Tesla",
+        "why": "พาดหัวข่าวเน้นย้ำถึงปัจจัยความเสี่ยง ซึ่งเป็นประเด็นที่อาจส่งผลกระทบในทางลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Tesla: หุ้นที่มีความผันผวนมากที่สุดที่ยังคงคุ้มค่าแก่การถือครอง (NASDAQ:TSLA)",
+        "why": "แม้จะมีความผันผวน แต่คำว่า 'คุ้มค่าแก่การถือครอง' บ่งชี้ถึงมุมมองเชิงบวกในระยะยาวต่อมูลค่าของหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "จากพาดหัวข่าวที่คัดเลือกมา มีจำนวนพาดหัวข่าวเชิงลบมากกว่าเชิงบวกเล็กน้อย (3 รายการเชิงลบ เทียบกับ 2 รายการเชิงบวก) ทำให้ภาพรวมมีแนวโน้มไปในทางลบเล็กน้อย"
+    }
+  }
+}
