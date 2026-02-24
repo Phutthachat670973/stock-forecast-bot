@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.44,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0427 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1523 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = -0.0421 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0508 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0274 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla: As institutional investors sell stock, retail investors pile in - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUldiLWlNSWFYenprNWl4NW5BWE9lUkJidXpYMGFJRlJXbExOS0t5X3JfZW9Ma3hFdDlybzJHa0ltRzh6LWNZYWM1bkVxdkplenFOaUJQc2lMcE90aTIwa0llOU9IV05uTlFwV3ZMbWpvbUJuTnE3UUlOb2djZk14aFo4Snl0VGhzc09fcG5tWEVNZDdGcW15SlVrMHJmanp1WE1FWWxES2lMSXdmT3I1dFdWRXE?oc=5",
+      "published": "Sun, 22 Feb 2026 13:21:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Reason Why Tesla Stock May Keep Underperforming - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX05OU0tRUmw1UXRLZFBYZF9Teng3Ti1DQTR1NWQzQnFkUnBUVElxeEtHa2g0VjJJeW5DVmt1RHAtSl9RM181VFpXc1E3dHRJZUwzdWE0dWtlNlNNT2pUc0ZWS3BwaG9odWRmenhXbHMtSjNPWUdrWFlnZmVHZjZ4c1dKNUFMaEpVVXZkczNkQWR4bmxyek5N?oc=5",
+      "published": "Wed, 18 Feb 2026 23:25:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock (NASDAQ:TSLA) Plunges With FSD Data Issues - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObENBamtLckk4aHpDNmV4MEZCdGpsMVQwN19zWEpNVkF3YTdyQzhGckN4Q1prTy0tYnZGUDdCY2hjN2RoaDBFdXZ1SFBwM0FaUkdXT2dfMkVCVF9UNHQxVFpNem5ISlVsWC03Tm5mbnM4Q21WbkV6elVmaW9TamVJVEViT01tclNx?oc=5",
+      "published": "Mon, 23 Feb 2026 18:04:23 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 20 Feb 2026 17:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla Falters in China Again: How to Play TSLA Stock as Xiaomi Outsells - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGJ4VHA5UWxjaGJXMzcwVXpGUWFLX0xOUmhvdmE0aHZyTllkZXM5Nmd4X2lwOG1zQlMtb1lENjU0NHJtMVA4V1lHUHJ4elFnNEZTbTZPRFdLc2dFQmJIeXdWRHo1X3RHbE9xQ1o5Y0JBUGFOTTVzQUt5cVZiSmxlTU9kTGYyVFdLZEJxLXQtbUFMVXdTQ3cwMXBXQm14bDR1QlktVjRGaHd3MWF1QnFFZGprcw?oc=5",
+      "published": "Wed, 18 Feb 2026 16:32:47 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnlRb29TTmpJYXZ4bEYxZlJTY1hGb2JPLTFDWkR3Zy1PNkZSQlJQUXRnV1BaZFJrNWhtZGFIMXRiX0tVdUJHemQ1aEhzd0w1VkgyYWJ2QVRJUVJYUHhVTEIxcUJaaFdIT2cyaUJKS084cWRQNHR3anRsNkpsNF9PN3haNDN6SnpZM3VlZ2t3X0VDUTdzSmxNcU82OWdUTW9UTmZmQU1ZYnVWa0k4ZS1TcFhnWlM0dXgyQTVR?oc=5",
+      "published": "Fri, 20 Feb 2026 13:44:42 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock Forecast | Could Q1 2026 Earnings Lift Targets? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkEzQk10ZmFIMXF4aE9zQ0R2UWJvUDNQaVZuRmlLNEI5RFBoSEF2RXotZnVZSm1JdzNSVVVQb2tVMjV4bG9KbGphS2lBM1VmR1NwUEtqRWNlMVNTaFpBS3NDZURBeFNEUGpiekFQeVJOZmRTQ0lpQk8yQVo2TTVfZDFROWxmWXRQ?oc=5",
+      "published": "Mon, 23 Feb 2026 12:16:30 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Model Y Six-Seater Approval in Australia - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW1DNGswQmRidEU4Zmw5OWdSMkdMZndVejcyWVItMnZlTXhUcy1xc01aczBOeE1lY2NRZFZlaXphbUZHWWdOUzktTk92VGJuWEZ0Yi1zSjNWYVZhenR5eExGMlhkZlQ0SmdocVIxaFloSlMzV0l3b185NF9pcDVlaUpNd05STzRzMlBvM0xINzBkeWpTanpYYUUtcEN3VDQ3V2g5Rm9EVzN0Ul9r?oc=5",
+      "published": "Mon, 23 Feb 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "Tesla: As institutional investors sell stock, retail investors pile in - Yahoo Finance",
+        "why": "การขายหุ้นโดยนักลงทุนสถาบันมักถูกมองว่าเป็นสัญญาณเชิงลบที่รุนแรงกว่าการเข้าซื้อของนักลงทุนรายย่อย"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "1 Reason Why Tesla Stock May Keep Underperforming - The Motley Fool",
+        "why": "พาดหัวข่าวระบุโดยตรงถึงความเป็นไปได้ที่หุ้นจะยังคงทำผลงานได้ต่ำกว่าคาดการณ์ต่อไป"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "Tesla Stock (NASDAQ:TSLA) Plunges With FSD Data Issues - TipRanks",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าราคาหุ้นดิ่งลง และมีสาเหตุมาจากปัญหา FSD ซึ่งเป็นประเด็นสำคัญของบริษัท"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "Tesla Falters in China Again: How to Play TSLA Stock as Xiaomi Outsells - Barchart.com",
+        "why": "การทำผลงานได้ไม่ดีในตลาดจีน ซึ่งเป็นตลาดสำคัญ และการถูกแซงหน้าโดยคู่แข่งอย่าง Xiaomi เป็นสัญญาณเชิงลบต่อส่วนแบ่งการตลาดและยอดขาย"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Tesla Stock (TSLA) Opinions on Model Y Six-Seater Approval in Australia - Quiver Quantitative",
+        "why": "การอนุมัติรุ่นรถใหม่ (Model Y Six-Seater) สำหรับตลาดออสเตรเลียสามารถเพิ่มโอกาสในการขายและขยายฐานลูกค้าได้"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "พาดหัวข่าวส่วนใหญ่ที่เลือกบ่งชี้ถึงปัจจัยเชิงลบหลายประการ เช่น การขายหุ้นโดยนักลงทุนสถาบัน ปัญหา FSD ผลงานที่อ่อนแอในจีน และความเสี่ยงที่หุ้นจะทำผลงานได้ต่ำกว่าคาดการณ์ แม้จะมีข่าวดีเกี่ยวกับการอนุมัติ Model Y ในออสเตรเลีย แต่ก็ไม่เพียงพอที่จะหักล้างปัจจัยลบเหล่านี้ได้"
+    }
+  }
+}

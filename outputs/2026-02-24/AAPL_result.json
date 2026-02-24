@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4462,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3288 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0415 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0422 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0017 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0006 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "published": "Sat, 21 Feb 2026 08:01:52 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Apple (AAPL) is a Top-Ranked Growth Stock: Should You Buy? - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lwUGNqTEFPZTJPMmN4amJpV0oyaEZueUllX0FWNHpFblIxNFdTNGJLeU91QVd4V0I4V1k3Z2VoSjFEQWw3YUlNSU83TEFZRTRWU3JuRkFsVXBKYjR1YmR1WW9ma2hQekgtcWo0T0pkUC1waXBUOHcwQnBEWWt4d2JNYXhqN2tB?oc=5",
+      "published": "Thu, 19 Feb 2026 14:45:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple’s Stock Recovery Is No Recovery At All - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNak5XaXhPbXJzc0tOQWFwSlJHSzkyaTJkVlBfc3QtdW40UDlpd0EtLUw2bHBEOXg0S1pPdmh6Q1BzNzFscVdINFJlSGpGY3hMQWl3NFQxU0l6enBGbGpvUUM4TXJ1M2FPSWIxdGhsbnBSeWtMa0tiZ2xhTFhMeWRxTnB1dzQ?oc=5",
+      "published": "Mon, 23 Feb 2026 13:53:11 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock: The 2.5 Billion Device Machine (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXB0LWxMUlA4MnFkNFlzTXBjRnJNUU9TajNpYlZpWmhtUS1WZVRqN1dwTXVzV2MxUHYzb2dNZmY1YXFWdUxXVEVqVmxjaTdVY1JXN3p0ME1ua2xCVVNkQmhkaFNjM3ZHNHhpZ1g4UFd1OURCdzdSNVI3UUlFcUJXa2V5Zw?oc=5",
+      "published": "Mon, 23 Feb 2026 13:49:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Why Apple Stock’s 2026 Rally Is Under Threat - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYm9VcnZ1T2dzelhPdHhsLWF4Q3VyY3h6dl9JcjY2RC1xX09SbG9BRExSNWRwZkRrTUV5SkpmNkg1bU9tRnpudGUxQXI1QzVCbGxsd1FLLWkwX2hweC1TbXBfbVdReXFKbVM3QUUwNnM0WTVoZ0p3SEd5clRSSVc2UHFudGRZVmp3ekt1OUtENnpzd2FZOE5sLVowOXluQ3lJVU1PNQ?oc=5",
+      "published": "Tue, 17 Feb 2026 09:48:14 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 20 Feb 2026 17:27:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Prediction: 3 Stocks That Will Be Worth More Than Apple 3 Years From Now - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFV1Y1QxN2ZMWl9ON0VOMkVIVkJxYUsyNWlBZ3F4QW0xRGJwWVY5R2tjdG5hS0Z6OWl6M0FSVlNraWJEam5mRHVGSEY2Tl9pNFlrTnFkZlRIRFQ0OU5YNVBlRzhuYjBSZW5mT1NQdkYwcUMxS3pEbFJFSTBWZEpkVlowcUxhSldaMmR4U3B1elZUNEtVUnlZ?oc=5",
+      "published": "Wed, 18 Feb 2026 12:53:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "As Apple Tests AI Devices, Should You Buy AAPL Stock Here? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTExmRkhvNjNYa1E2Y3MyRl9hZUtfRVhkNFNBcnJaa2ZfSy0tN2htcGFFeVU3b1RsLWRGNFM5VmtUMXFMWGZVRDRaeGItT2FQWFItVGxjNkhaMGxwNXdlSGNSdXAwNTVrTjZwM05vcU0xNjhDV1RQaFpVMVdjWUVXWHZjUGFHOGZuQ1l0MVJpQlRmRkw1eF9aTGhaUFFUcmNa?oc=5",
+      "published": "Thu, 19 Feb 2026 21:14:59 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "เชิงบวก",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่า Apple (AAPL) เป็นหุ้นเติบโตที่ติดอันดับสูงสุด และตั้งคำถามว่าควรซื้อหุ้นตัวนี้หรือไม่",
+        "why": "คำว่า 'หุ้นเติบโตที่ติดอันดับสูงสุด' แสดงถึงมุมมองเชิงบวกอย่างชัดเจนต่อศักยภาพการเติบโตของ AAPL"
+      },
+      {
+        "idx": 3,
+        "stance": "เชิงลบ",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่าการฟื้นตัวของหุ้น Apple นั้น 'ไม่ใช่การฟื้นตัวเลย'",
+        "why": "วลี 'ไม่ใช่การฟื้นตัวเลย' เป็นการแสดงออกถึงมุมมองเชิงลบอย่างชัดเจนเกี่ยวกับการดำเนินงานของหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "เชิงบวก",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวกล่าวถึงหุ้น Apple โดยเน้นย้ำถึงขนาดของระบบอุปกรณ์ที่มากถึง 2.5 พันล้านเครื่อง",
+        "why": "การกล่าวถึง '2.5 พันล้านเครื่อง' บ่งชี้ถึงขนาดของระบบนิเวศและความแข็งแกร่งทางธุรกิจของ Apple ซึ่งโดยทั่วไปถือเป็นปัจจัยเชิงบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "เชิงลบ",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวกล่าวถึงเหตุผลที่การปรับตัวขึ้นของหุ้น Apple ในปี 2026 กำลังเผชิญกับภัยคุกคาม",
+        "why": "วลี 'กำลังเผชิญกับภัยคุกคาม' บ่งชี้ถึงแรงกดดันเชิงลบหรือความเสี่ยงต่อประสิทธิภาพของหุ้นที่เคยเป็นบวก"
+      },
+      {
+        "idx": 8,
+        "stance": "เชิงบวก",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวกล่าวถึงการที่ Apple กำลังทดสอบอุปกรณ์ AI และตั้งคำถามว่าควรซื้อหุ้น AAPL ในตอนนี้หรือไม่",
+        "why": "การทดสอบ 'อุปกรณ์ AI' แสดงถึงโอกาสในการเติบโตใหม่ๆ และนวัตกรรม ซึ่งเป็นปัจจัยเชิงบวกสำหรับหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "เป็นกลาง",
+      "confidence": 70,
+      "note": "โดยรวมแล้วมีการนำเสนอทั้งข่าวเชิงบวก (เน้นสถานะหุ้นเติบโต, ฐานอุปกรณ์ที่แข็งแกร่ง และการทดสอบอุปกรณ์ AI) และข่าวเชิงลบ (ชี้ให้เห็นการฟื้นตัวที่ไม่เป็นไปตามที่คาดหวังและภัยคุกคามต่อการปรับตัวขึ้นของราคา) ทำให้ภาพรวมเป็นกลาง"
+    }
+  }
+}
