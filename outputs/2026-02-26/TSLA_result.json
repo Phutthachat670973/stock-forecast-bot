@@ -1,0 +1,66 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-02-25",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4795,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0522 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0146 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0185 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0168 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0039 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "TSLA Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qejEtbzhHOHJnMXJRWUVEbUxyUFF0RnJuNEtEN0U4Mk4wTlIycHNTejNyYTJYQlRDMFRCMllMcGJtNV81S0RNME9IZFBSZkRJ?oc=5",
+      "published": "Mon, 23 Feb 2026 21:15:22 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Tesla: As institutional investors sell stock, retail investors pile in - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUldiLWlNSWFYenprNWl4NW5BWE9lUkJidXpYMGFJRlJXbExOS0t5X3JfZW9Ma3hFdDlybzJHa0ltRzh6LWNZYWM1bkVxdkplenFOaUJQc2lMcE90aTIwa0llOU9IV05uTlFwV3ZMbWpvbUJuTnE3UUlOb2djZk14aFo4Snl0VGhzc09fcG5tWEVNZDdGcW15SlVrMHJmanp1WE1FWWxES2lMSXdmT3I1dFdWRXE?oc=5",
+      "published": "Sun, 22 Feb 2026 13:21:04 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock (NASDAQ:TSLA) Plunges With FSD Data Issues - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObENBamtLckk4aHpDNmV4MEZCdGpsMVQwN19zWEpNVkF3YTdyQzhGckN4Q1prTy0tYnZGUDdCY2hjN2RoaDBFdXZ1SFBwM0FaUkdXT2dfMkVCVF9UNHQxVFpNem5ISlVsWC03Tm5mbnM4Q21WbkV6elVmaW9TamVJVEViT01tclNx?oc=5",
+      "published": "Mon, 23 Feb 2026 18:04:23 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla Has a Robotaxi Problem, and That's Bad News for Its Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGo0N20xbDN0bmVHaExyWWl2cnhYczdZazF5cnN4WXEyMVFnYVdVSGtkVXoxOVlfcmxpTEdPWFpQNm5XMmcwZ1A1b0ttaElsX0JvWmpFYUREV2V2dzg4MW0wbV93VkR4bjdzaElPNzVNazBoMFJ0akFWQm9fUmZIR1Zza0hBUEVkOTN1b0NucjNwTVdNa0NLRg?oc=5",
+      "published": "Tue, 24 Feb 2026 00:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Forecast | Could Q1 2026 Earnings Lift Targets? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkEzQk10ZmFIMXF4aE9zQ0R2UWJvUDNQaVZuRmlLNEI5RFBoSEF2RXotZnVZSm1JdzNSVVVQb2tVMjV4bG9KbGphS2lBM1VmR1NwUEtqRWNlMVNTaFpBS3NDZURBeFNEUGpiekFQeVJOZmRTQ0lpQk8yQVo2TTVfZDFROWxmWXRQ?oc=5",
+      "published": "Mon, 23 Feb 2026 11:58:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnlRb29TTmpJYXZ4bEYxZlJTY1hGb2JPLTFDWkR3Zy1PNkZSQlJQUXRnV1BaZFJrNWhtZGFIMXRiX0tVdUJHemQ1aEhzd0w1VkgyYWJ2QVRJUVJYUHhVTEIxcUJaaFdIT2cyaUJKS084cWRQNHR3anRsNkpsNF9PN3haNDN6SnpZM3VlZ2t3X0VDUTdzSmxNcU82OWdUTW9UTmZmQU1ZYnVWa0k4ZS1TcFhnWlM0dXgyQTVR?oc=5",
+      "published": "Fri, 20 Feb 2026 13:44:42 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "As Tesla Cuts Cybertruck Prices, Should You Buy TSLA Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlRhTnJPUnl5Y1NncnUwUUItS1FWWDhzUFpRM09ocW1TcFNSb2RSSjVLanloZ19DUmRUMmlyWUxzdHlkLWpPei1CN2V6VXlGQnpvdU04UTVDQUxfUTY4dHRoSEN0UEU2alp5bFlpLTNObXNqTGJUUVd4U1VYOVRVeWVYMG5zV3dZZ2kwLUlfNGVWMVQyd0puSjZtR3lMWHlSVXc?oc=5",
+      "published": "Mon, 23 Feb 2026 17:16:09 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Model Y Six-Seater Approval in Australia - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW1DNGswQmRidEU4Zmw5OWdSMkdMZndVejcyWVItMnZlTXhUcy1xc01aczBOeE1lY2NRZFZlaXphbUZHWWdOUzktTk92VGJuWEZ0Yi1zSjNWYVZhenR5eExGMlhkZlQ0SmdocVIxaFloSlMzV0l3b185NF9pcDVlaUpNd05STzRzMlBvM0xINzBkeWpTanpYYUUtcEN3VDQ3V2g5Rm9EVzN0Ul9r?oc=5",
+      "published": "Mon, 23 Feb 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": null
+}
