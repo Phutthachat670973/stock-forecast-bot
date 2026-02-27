@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-02-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4721,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3286 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0475 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0170 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0103 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0106 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "published": "Tue, 24 Feb 2026 08:01:31 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Apple: The 2.5 Billion Device Machine - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXB0LWxMUlA4MnFkNFlzTXBjRnJNUU9TajNpYlZpWmhtUS1WZVRqN1dwTXVzV2MxUHYzb2dNZmY1YXFWdUxXVEVqVmxjaTdVY1JXN3p0ME1ua2xCVVNkQmhkaFNjM3ZHNHhpZ1g4UFd1OURCdzdSNVI3UUlFcUJXa2V5Zw?oc=5",
+      "published": "Mon, 23 Feb 2026 13:49:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple’s Stock Recovery Is No Recovery At All - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNak5XaXhPbXJzc0tOQWFwSlJHSzkyaTJkVlBfc3QtdW40UDlpd0EtLUw2bHBEOXg0S1pPdmh6Q1BzNzFscVdINFJlSGpGY3hMQWl3NFQxU0l6enBGbGpvUUM4TXJ1M2FPSWIxdGhsbnBSeWtMa0tiZ2xhTFhMeWRxTnB1dzQ?oc=5",
+      "published": "Mon, 23 Feb 2026 13:53:11 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "You Don't Need to Buy Apple Stock. Here's Why - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblY1LXpZZE1kSGI4TzU5U0NGcGM0bEVENWpGTmJEVkdMZE1SOE9iZFVJbHFyZm82aDVXRFllOGl5alg5eFBsaVlyMkRfZDVmOFlxZVNJLUNVN2FWaTR6TmozR2lPZ0hLRFI5QTJ1NkRNMDR6c3lQN01zWkRSZC1vYkFyMHkyV0RPRHFtM1lB?oc=5",
+      "published": "Mon, 23 Feb 2026 09:02:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock: Is AAPL Underperforming the Technology Sector? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1VqdXVOTnFucFJ0cnJJRFdINjk5djNjTlg0OUt2WENNS1ljbUN4MmZlQUVZdnQ5dHgxSVgtR3FJaGVFYWNHbEE4dGZ6T1dDT0h5c2RlVWRVa3pObGpidTZfemdpUXJyQ3FqRWFLSG1MaVNRb0RNTTNiemNibm8xdGZRV1RrWlJvZE1YNVRralhCLWlvWlFuQXVjZ3hleEpLZkE?oc=5",
+      "published": "Mon, 23 Feb 2026 16:51:19 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on AI Wearables Development - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDJLaTRLVWY1d1J2OU55cEZQTUtvRDBfNFZnVlo0bVRPYnFmUW9QWVY0elpaZXF5dkU5TDBEZFVLTjcwajFja1JtQTBfbGZ2eWNJbHU5NHZlUWoyWkJFYzMzNVppRHBoalNpTlV0UTdFTmlic09OczlZdU9qUU5zNU1aaUlSRlpFM2ZTVkNDVGRpclFRVmxF?oc=5",
+      "published": "Mon, 23 Feb 2026 17:33:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple stock price today: AAPL rises after tariff ruling as lawsuit, Apple TV sports deal come into focus - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDd6U0N6am8xLVhrVmJPUHdFbjB4UnIxSzBqZERjdUJWaExmWWtES2l4eHhkTVVlTHVhdmNwUkdkVE9OeTNFMHBnQTJTYkx0TmVZVzRKNXlGS2o5d0hzMGd5ZFJnUjFaekJFOEpMd3NlblVlQnlRMEtXcENsUmlRdFZfQVZGYW5mZ1huUEpacHBkdkZ4WS1VQzAwOWJpVjJERlo0WXdxUnNiRFlfeGJJVU5aSzlfVFZXR1AtbVk3TlI?oc=5",
+      "published": "Fri, 20 Feb 2026 23:21:54 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Is Apple Stock a Buy After Last Week’s 8% Drop? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82NkxKanBkQlMyMS11SjFSbWswTFpUd190ZVZRdGFGcHlTWU9XMV9NUDJLQnJGWGlTd2NBeWlaeXNCdjRyd25YMW9fdGNQYktVSUR0cDE5Qlg5bjFGcjJObE1XZnlyRDBoR2NNSGt5STlSNHJ0RFBpWWhn?oc=5",
+      "published": "Sat, 21 Feb 2026 17:05:33 GMT",
+      "source": "TIKR.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่า Apple มีอุปกรณ์ที่ใช้งานอยู่ถึง 2.5 พันล้านเครื่อง",
+        "why": "ฐานผู้ใช้จำนวนมหาศาลบ่งชี้ถึงระบบนิเวศของผลิตภัณฑ์ที่แข็งแกร่งและศักยภาพในการสร้างรายได้จากบริการและการอัปเกรดในอนาคต ซึ่งเป็นปัจจัยบวกต่อบริษัท"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวแสดงความคิดเห็นว่าการฟื้นตัวของหุ้น Apple ไม่ใช่การฟื้นตัวที่แท้จริง",
+        "why": "ข้อความนี้บ่งชี้ว่าแม้จะมีความรู้สึกว่าหุ้นอาจฟื้นตัว แต่สถานการณ์จริงยังคงเป็นลบหรือไม่มีการปรับปรุงที่สำคัญ ซึ่งเป็นการชี้นำในเชิงลบ"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "บทความนี้ให้เหตุผลว่า 'คุณไม่จำเป็นต้องซื้อหุ้น Apple'",
+        "why": "เป็นการแนะนำโดยตรงไม่ให้ลงทุนในหุ้น AAPL ซึ่งเป็นการบ่งชี้ถึงมุมมองเชิงลบหรือมีข้อเสียในการซื้อหุ้นในขณะนี้"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น AAPL ปรับตัวสูงขึ้นในวันนี้ หลังจากคำตัดสินเรื่องภาษี และประเด็นคดีความกับข้อตกลงกีฬาของ Apple TV กำลังเป็นที่จับตา",
+        "why": "การที่หุ้น 'ปรับตัวสูงขึ้น' เป็นสัญญาณเชิงบวกโดยตรงเกี่ยวกับประสิทธิภาพราคาในปัจจุบัน นอกจากนี้ เหตุการณ์ที่กล่าวถึงอาจเป็นปัจจัยหนุนเพิ่มเติม"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวตั้งคำถามว่าหุ้น Apple กำลังมีผลงานต่ำกว่าภาคส่วนเทคโนโลยีหรือไม่",
+        "why": "การตั้งคำถามเกี่ยวกับการมีผลงานที่ต่ำกว่าเมื่อเทียบกับภาคส่วนที่เกี่ยวข้อง บ่งชี้ถึงความกังวลเกี่ยวกับสถานะและความสามารถในการแข่งขันของหุ้นในปัจจุบัน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 60,
+      "note": "โดยรวมแล้ว พาดหัวข่าวมีน้ำหนักไปทางลบเล็กน้อย เนื่องจากมีหลายรายการที่ตั้งคำถามถึงประสิทธิภาพการฟื้นตัว การลงทุน และผลงานเทียบกับภาคส่วน ซึ่งอาจบ่งชี้ถึงความท้าทายที่มากกว่าข่าวเชิงบวกบางส่วน"
+    }
+  }
+}

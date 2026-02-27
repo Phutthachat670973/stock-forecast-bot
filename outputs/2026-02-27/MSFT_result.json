@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-26",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4193,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0929 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1613 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0206 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0091 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0084 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Needs a Refresh, Says Jim Cramer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeV9xWmdOWmJIMzdGb0pnUWxidnNLSTk0ZW1XU1gzclhsbGdPV3pGMjVyc1hPTFdUcDNidE9Ta0FrWjV4MTJqbUE5cmdrUDB1ZDA3YUhVVVY3cWoybXZNOFBzbFowejFzZXVyYURXaEkyYzMzTUVWSDZFeUJCZ3NKdkQwRFFNZw?oc=5",
+      "published": "Tue, 24 Feb 2026 11:59:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Assessing Microsoft (MSFT) Valuation After Recent Pullback And Fading Share Price Momentum - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2ZLY3ZxV1lVN0hrNVgzaE4yNWN6bUVTZXFNUUlIQURKc1BpbkgyUGdaSmM1VEJkbzhtTUp5eDMycGpTLTVhU0xBVVpFeFlCcUN1YUZHRmJsN2dQOVYybEVXamlpMWhLRk1CaVB1NWVGM0ItWmQ4dkZGbEJLRXhNcWt2X2hXbTV3cTRZdHFIcTRLbzZaUG9SVS1yY0ZUSF9oZXpFRnExR0VOMDJPUzNVblRud1o0UlQzS3oxSGJhSzRyOF8tQVQ40gHMAUFVX3lxTE5vVTR5bVZ1SFVwZUZBWjhJcjRDOER0Y2x1R3J1VC1Vd3J0ZjE5N090QlAxSEZGSE8xUmNVT3pFbXRqNFpBY0pibHQwLVNMZWZsbE1jY2VDRkxxY0VjdDZfUllCR2FHZHU3VEI4ZUNSajdBMUNYYVN0MFl0X2NuYUY1VzBXel9wUDVuR0xzSVlTNUtSTWtsNGdRS29vTmM4aTFvV2trSW5uMnBiYWVfMHNwYUNhMVV6SjNQU0VjYkdaQXllaW5sSnFiVm9Pag?oc=5",
+      "published": "Tue, 24 Feb 2026 04:10:42 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft Gains On Hopes It Is Not AI's Lunch; But Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3LUxYbk5XcVphU1cyTmhtc096UXR3aFF1cTlxbzB0bVNQUW1mMkUtMFdqVVBpc0hXR0RFcVg0Y2Vrb243cmxDZUZUV21WX0ZhNEg0TDZPUVJKbGZ4Z0dBbmozMXRTTzhvRVgxamlXRjhVVWhhN1VFeW9Md2xLQQ?oc=5",
+      "published": "Tue, 24 Feb 2026 22:12:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "1 Clear Signal to Buy Microsoft Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzNMVk45LVYxS1AwRnV2NlVnd2Z3b1FlR1NFYVByQlRpRzFuRzVHeklTR1RBQ0JRWmp6QzNMQy1EN091VmRkUGZfR0lyMDA5c0ppMmotY251eE8tcTJEblpyRG9fS0cxMllJbjlwZVRBdGlnR3lVZGJOeGNmLUFPbjV1UkZxeWc?oc=5",
+      "published": "Fri, 27 Feb 2026 00:45:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Stock Has Fallen 18% in 2026. Here’s How Cloud Growth Could Drive a 55% Rebound - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzZ4X29UT2Z5TE1mTmhwRTRLcHpzV3dtQ1FmMGdhOVdmNGtnZmhIbC0tb2wteHdBcUpVODc0dWdEazg4MzhINTJMMF9pSEw5LUtycFdDeWZ3ckxIZGdmVUIzS2pQWlNQWEcwMkZGQnFUcnhmZVZXY19uNERUM0ZsNUxKMG9SblpYbVlMeTF1NmJEY25DZ0RSSHh3ZE9NUktoNmVYUVNDelVFbk53YTg4Uw?oc=5",
+      "published": "Sun, 22 Feb 2026 08:00:00 GMT",
+      "source": "TIKR.com"
+    },
+    {
+      "title": "Microsoft: Why I Set A $370 Buy Order (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjhUZDNJcWQ0VWJuVGFtTW9mYlY1RnJNYlJRYjJUOXZYVGxBc2VXNnNJeXV4Y3h6MjRqWUNYWFhmRGxqdE9VNDNMaUZ5TXNJN0dVb0ZBeGdyRl9laEVEdGYyMU1SZFItZjV4UTEtR28tVExZbTFGbDJMYURuNWY2Q2JB?oc=5",
+      "published": "Fri, 20 Feb 2026 21:19:35 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Is Sliding—An Insider Buy and Oversold Signals Are Changing the Setup - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQThkRUw5LVk5dGViUzlnWG4xUFNIeXEwWkJJeDhJVXphOV9kSklpb01UNWdHSm9uaG5aN2lTazdURFJCTndoQnMwOVhxNWY0bEhnTjNjUWlMd1UwT1ROVVdHM3ZXQ1h2OHp5cFkxSmZiajg5c1BZSUZfcTJOZ2F1RVp5UjZTdFNRVFFLYldJZWJFS1BVSTBLd2NlOG4weE1LUUVsX3lQTW9Ra1NkbnM5RzJKTkdfS0k?oc=5",
+      "published": "Tue, 24 Feb 2026 17:24:44 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Microsoft stock forecast: Could AI strategy influence MSFT outlook? - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFRPbS1MXzVKUnBiSzViS2JkVHJNcmQza0FLNElubXNlaFZEMC13THVWMkhJNVRtS0k0SmxETEtlQ2ZIaV90amwwc0ZYVGRRUm1hQ2NCbmtGV1BLZkVZclR6ZVZHS3JtancweFEwaWV4NEw0eWlnRTBaUjNycU9CTHZXUnlGcEJURW82TjVXci0?oc=5",
+      "published": "Fri, 20 Feb 2026 11:41:00 GMT",
+      "source": "Capital.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Jim Cramer แสดงความเห็นว่า Microsoft ต้องการการฟื้นฟู ซึ่งอาจชี้ให้เห็นถึงความจำเป็นในการปรับปรุงประสิทธิภาพ",
+        "why": "คำว่า 'Needs a Refresh' บ่งบอกถึงสภาพปัจจุบันที่อาจไม่ดีนัก และต้องการการเปลี่ยนแปลง ซึ่งอาจกดดันราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "รายงานนี้ประเมินมูลค่าของ Microsoft หลังจากที่ราคาหุ้นมีการปรับฐานและโมเมนตัมราคาลดลง",
+        "why": "'Recent Pullback And Fading Share Price Momentum' ชี้ให้เห็นถึงแนวโน้มราคาหุ้นที่อ่อนตัวลง"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "พาดหัวนี้ระบุว่ามีสัญญาณที่ชัดเจนในการซื้อหุ้น Microsoft",
+        "why": "'Clear Signal to Buy' เป็นคำแนะนำที่ชัดเจนในการลงทุน ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "แม้หุ้น Microsoft จะร่วง 18% ในปี 2026 แต่มีการคาดการณ์ว่าการเติบโตของคลาวด์อาจผลักดันให้หุ้นฟื้นตัวได้ถึง 55%",
+        "why": "แม้จะมีการลดลงในอดีต แต่คำว่า 'Could Drive a 55% Rebound' ชี้ให้เห็นถึงศักยภาพการเติบโตในอนาคตที่แข็งแกร่ง ซึ่งเป็นมุมมองที่เป็นบวก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "ผู้เขียนบทความได้ตั้งคำสั่งซื้อหุ้น Microsoft ที่ราคา 370 ดอลลาร์ ซึ่งบ่งชี้ถึงความเชื่อมั่นในศักยภาพของหุ้น",
+        "why": "การตั้งคำสั่ง 'Buy Order' เป็นการแสดงเจตนาในการซื้อหุ้นโดยตรง ซึ่งเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 75,
+      "note": "ภาพรวมของข่าวสารเกี่ยวกับ Microsoft มีทั้งสัญญาณเชิงบวกและเชิงลบที่ชัดเจน โดยมีข่าวที่ชี้ถึงความจำเป็นในการฟื้นฟูและโมเมนตัมราคาที่ลดลง แต่ก็มีสัญญาณการซื้อที่ชัดเจนและศักยภาพการฟื้นตัวที่แข็งแกร่งจากคลาวด์ ซึ่งทำให้ภาพรวมอยู่ในภาวะผสมผสาน"
+    }
+  }
+}
