@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-27",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.498,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.3888 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0941 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0265 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0180 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0226 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Needs a Refresh, Says Jim Cramer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeV9xWmdOWmJIMzdGb0pnUWxidnNLSTk0ZW1XU1gzclhsbGdPV3pGMjVyc1hPTFdUcDNidE9Ta0FrWjV4MTJqbUE5cmdrUDB1ZDA3YUhVVVY3cWoybXZNOFBzbFowejFzZXVyYURXaEkyYzMzTUVWSDZFeUJCZ3NKdkQwRFFNZw?oc=5",
+      "published": "Tue, 24 Feb 2026 11:59:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Assessing Microsoft (MSFT) Valuation After Recent Pullback And Fading Share Price Momentum - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2ZLY3ZxV1lVN0hrNVgzaE4yNWN6bUVTZXFNUUlIQURKc1BpbkgyUGdaSmM1VEJkbzhtTUp5eDMycGpTLTVhU0xBVVpFeFlCcUN1YUZHRmJsN2dQOVYybEVXamlpMWhLRk1CaVB1NWVGM0ItWmQ4dkZGbEJLRXhNcWt2X2hXbTV3cTRZdHFIcTRLbzZaUG9SVS1yY0ZUSF9oZXpFRnExR0VOMDJPUzNVblRud1o0UlQzS3oxSGJhSzRyOF8tQVQ40gHMAUFVX3lxTE5vVTR5bVZ1SFVwZUZBWjhJcjRDOER0Y2x1R3J1VC1Vd3J0ZjE5N090QlAxSEZGSE8xUmNVT3pFbXRqNFpBY0pibHQwLVNMZWZsbE1jY2VDRkxxY0VjdDZfUllCR2FHZHU3VEI4ZUNSajdBMUNYYVN0MFl0X2NuYUY1VzBXel9wUDVuR0xzSVlTNUtSTWtsNGdRS29vTmM4aTFvV2trSW5uMnBiYWVfMHNwYUNhMVV6SjNQU0VjYkdaQXllaW5sSnFiVm9Pag?oc=5",
+      "published": "Tue, 24 Feb 2026 14:27:55 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft Gains On Hopes It Is Not AI's Lunch; But Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3LUxYbk5XcVphU1cyTmhtc096UXR3aFF1cTlxbzB0bVNQUW1mMkUtMFdqVVBpc0hXR0RFcVg0Y2Vrb243cmxDZUZUV21WX0ZhNEg0TDZPUVJKbGZ4Z0dBbmozMXRTTzhvRVgxamlXRjhVVWhhN1VFeW9Md2xLQQ?oc=5",
+      "published": "Tue, 24 Feb 2026 22:12:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "How Low Can Microsoft Stock Go? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnVHYWY2OUdZRWowU05SaE05MklqNXNwbGVRdmVteExRdnhUVXJ5VGp1bEZEUEI3bHBVR0lxSkI3Tk1mSUhYcTkwSmhPUHBhb0FfNjJ6aXpHc0JtMmdrWXctYVpxZk9HYlE1T2wzT2VOREFaWVZZdUVhNWVYNlZibWh6YXdwOW9VWDA4SWRYaGhMNTA?oc=5",
+      "published": "Fri, 27 Feb 2026 15:25:51 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Does Microsoft Deserve Its Decade-Low Multiple? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmlIUEU3d05QQW96UV9aMWxUWDJBaWMySVFGLW5COFZ5RmRpYVhIRTQyVng3V3B4Q1hlX0F2UjRnbWptckM2S0hUWEd3T1BjVzlZbWNqemtyZ2NMYmQ2V29pUjZmeS1ZM3htaklMNlNhdXduZFlJUVFOWGhqbnZLLVM5TGtob0xPNHpyZm53WXhpODVf?oc=5",
+      "published": "Sun, 22 Feb 2026 13:37:05 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft Stock Has Fallen 18% in 2026. Here’s How Cloud Growth Could Drive a 55% Rebound - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzZ4X29UT2Z5TE1mTmhwRTRLcHpzV3dtQ1FmMGdhOVdmNGtnZmhIbC0tb2wteHdBcUpVODc0dWdEazg4MzhINTJMMF9pSEw5LUtycFdDeWZ3ckxIZGdmVUIzS2pQWlNQWEcwMkZGQnFUcnhmZVZXY19uNERUM0ZsNUxKMG9SblpYbVlMeTF1NmJEY25DZ0RSSHh3ZE9NUktoNmVYUVNDelVFbk53YTg4Uw?oc=5",
+      "published": "Sun, 22 Feb 2026 08:00:00 GMT",
+      "source": "TIKR.com"
+    },
+    {
+      "title": "Microsoft’s Impossible Situation (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMzlueHl1czRrRHlGM1BBbFhwWnpPQWIybWI5NE10RHVDc2VPUks4TVd6WGtScFVEV3poYi1GSllJbk5vTzRSOFJhYTZISHJLcjRHWEdYS0praXMtMGdfdk8wTlRVUnp6dTNFU19lOWV1dzc2WkxXblktV2JIZw?oc=5",
+      "published": "Tue, 24 Feb 2026 23:22:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now) - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEs5dGhsSnp6c2U0QzhSZ3lWWlN4SUNsOGNMaEFsRjNtVGlETzFJSk1DWXJzbHVDaVFkbGl3NV9XNWFPNTZxX0MzRUpXNk9pZkxHZDRxM3ZlRklpaU43ZS1lUVFIUEd4d2VTUV83dG41bTE4YTI1RGZuV2ZTX1VhWHZiVjBVUkZqOEQwcEFIU1hNOFdtR25F?oc=5",
+      "published": "Sat, 28 Feb 2026 21:37:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การประเมินมูลค่าหุ้น MSFT หลังจากการปรับฐานและแรงส่งราคาหุ้นที่ลดลง",
+        "why": "พาดหัวเน้นย้ำถึง 'การปรับฐานล่าสุด' และ 'แรงส่งราคาหุ้นที่จางหายไป' ซึ่งเป็นสัญญาณเชิงลบสำหรับประสิทธิภาพของหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ไมโครซอฟท์ได้รับแรงหนุนจากความหวังว่าจะไม่ตกเป็นเหยื่อของ AI",
+        "why": "พาดหัวระบุว่า 'ไมโครซอฟท์ได้รับแรงหนุน' ซึ่งบ่งชี้ถึงการรับรู้เชิงบวกในตลาด"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ไมโครซอฟท์สมควรได้รับอัตราส่วนการประเมินมูลค่าที่ต่ำที่สุดในรอบทศวรรษหรือไม่",
+        "why": "พาดหัวตั้งคำถามถึงมูลค่าหุ้นโดยชี้ไปที่ 'อัตราส่วนการประเมินมูลค่าที่ต่ำที่สุดในรอบทศวรรษ' ซึ่งเป็นสัญญาณเชิงลบอย่างมาก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้นไมโครซอฟท์ร่วง 18% ในปี 2026 แต่การเติบโตของคลาวด์อาจผลักดันให้ฟื้นตัว 55%",
+        "why": "แม้จะมีการลดลงของราคาหุ้น แต่พาดหัวเน้นย้ำถึงศักยภาพการฟื้นตัวอย่างมากถึง 55% ที่ขับเคลื่อนโดยการเติบโตของธุรกิจคลาวด์"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 98,
+        "summary": "การคาดการณ์: ราคาหุ้นไมโครซอฟท์ใน 3 ปีข้างหน้า (คำแนะนำ: คุณจะอยากซื้อตอนนี้)",
+        "why": "พาดหัวให้คำแนะนำที่ชัดเจนว่า 'คุณจะอยากซื้อตอนนี้' ซึ่งบ่งชี้ถึงความคาดหวังในเชิงบวกอย่างมากต่อราคาหุ้นในอนาคต"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "แม้ว่าจะมีสัญญาณเชิงลบเกี่ยวกับมูลค่าและโมเมนตัมของราคาหุ้นในปัจจุบัน แต่พาดหัวข่าวส่วนใหญ่เน้นย้ำถึงศักยภาพการเติบโตในอนาคตที่สำคัญและการแนะนำให้ซื้อ"
+    }
+  }
+}
