@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-02-27",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.498,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.3888 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0941 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0265 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0180 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0226 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft (MSFT) Needs a Refresh, Says Jim Cramer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeV9xWmdOWmJIMzdGb0pnUWxidnNLSTk0ZW1XU1gzclhsbGdPV3pGMjVyc1hPTFdUcDNidE9Ta0FrWjV4MTJqbUE5cmdrUDB1ZDA3YUhVVVY3cWoybXZNOFBzbFowejFzZXVyYURXaEkyYzMzTUVWSDZFeUJCZ3NKdkQwRFFNZw?oc=5",
+      "published": "Tue, 24 Feb 2026 11:59:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Assessing Microsoft (MSFT) Valuation After Recent Pullback And Fading Share Price Momentum - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2ZLY3ZxV1lVN0hrNVgzaE4yNWN6bUVTZXFNUUlIQURKc1BpbkgyUGdaSmM1VEJkbzhtTUp5eDMycGpTLTVhU0xBVVpFeFlCcUN1YUZHRmJsN2dQOVYybEVXamlpMWhLRk1CaVB1NWVGM0ItWmQ4dkZGbEJLRXhNcWt2X2hXbTV3cTRZdHFIcTRLbzZaUG9SVS1yY0ZUSF9oZXpFRnExR0VOMDJPUzNVblRud1o0UlQzS3oxSGJhSzRyOF8tQVQ40gHMAUFVX3lxTE5vVTR5bVZ1SFVwZUZBWjhJcjRDOER0Y2x1R3J1VC1Vd3J0ZjE5N090QlAxSEZGSE8xUmNVT3pFbXRqNFpBY0pibHQwLVNMZWZsbE1jY2VDRkxxY0VjdDZfUllCR2FHZHU3VEI4ZUNSajdBMUNYYVN0MFl0X2NuYUY1VzBXel9wUDVuR0xzSVlTNUtSTWtsNGdRS29vTmM4aTFvV2trSW5uMnBiYWVfMHNwYUNhMVV6SjNQU0VjYkdaQXllaW5sSnFiVm9Pag?oc=5",
+      "published": "Tue, 24 Feb 2026 14:27:55 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "How Low Can Microsoft Stock Go? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnVHYWY2OUdZRWowU05SaE05MklqNXNwbGVRdmVteExRdnhUVXJ5VGp1bEZEUEI3bHBVR0lxSkI3Tk1mSUhYcTkwSmhPUHBhb0FfNjJ6aXpHc0JtMmdrWXctYVpxZk9HYlE1T2wzT2VOREFaWVZZdUVhNWVYNlZibWh6YXdwOW9VWDA4SWRYaGhMNTA?oc=5",
+      "published": "Fri, 27 Feb 2026 15:25:51 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Gains On Hopes It Is Not AI's Lunch; But Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3LUxYbk5XcVphU1cyTmhtc096UXR3aFF1cTlxbzB0bVNQUW1mMkUtMFdqVVBpc0hXR0RFcVg0Y2Vrb243cmxDZUZUV21WX0ZhNEg0TDZPUVJKbGZ4Z0dBbmozMXRTTzhvRVgxamlXRjhVVWhhN1VFeW9Md2xLQQ?oc=5",
+      "published": "Tue, 24 Feb 2026 22:12:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft’s Impossible Situation (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMzlueHl1czRrRHlGM1BBbFhwWnpPQWIybWI5NE10RHVDc2VPUks4TVd6WGtScFVEV3poYi1GSllJbk5vTzRSOFJhYTZISHJLcjRHWEdYS0praXMtMGdfdk8wTlRVUnp6dTNFU19lOWV1dzc2WkxXblktV2JIZw?oc=5",
+      "published": "Tue, 24 Feb 2026 23:22:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now) - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEs5dGhsSnp6c2U0QzhSZ3lWWlN4SUNsOGNMaEFsRjNtVGlETzFJSk1DWXJzbHVDaVFkbGl3NV9XNWFPNTZxX0MzRUpXNk9pZkxHZDRxM3ZlRklpaU43ZS1lUVFIUEd4d2VTUV83dG41bTE4YTI1RGZuV2ZTX1VhWHZiVjBVUkZqOEQwcEFIU1hNOFdtR25F?oc=5",
+      "published": "Sat, 28 Feb 2026 21:37:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft (NASDAQ:MSFT) Shares Up 3% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQS1JdkVCY19uRlJfZDF0c3lCWnIyZlFkSC1xRlBSU2c4TVJ4alZoT2JKQ2Z5VTBFcHV3QmpMeWRVMW9LMkxSbndIdG9qeTlObXR3c01vbWVCc1daRmVINmItb1VJT1M3eE5tak1MTlE4X2lwd005Njlxa1l6a3ZOOUJjWldqanFObktfWHNjVkVRNklqZ2d3b2hORms?oc=5",
+      "published": "Wed, 25 Feb 2026 22:28:19 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Is MSFT Stock Vulnerable to Rising Capex Pressure From AI Spending? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3JEYWNKc3N4X25iaHlmVG1vcFYwQkpWaFUyY2NLNTRrbEpoQnJoVm1VbDRpREI2UlpMZXZJTk9rS0RReE9GU05JdjFZOTd5QW5kdEtwd3BIa20xUG9CWDVRNzI4SWt6MHdVTWtGcTc2NWVMNWowUVdLbzRmQ0U3UUkweUtPU3g0NEV0cWNKVF9EVUFiejFycW9pSHMwMXVENXRVWWJxcWJtMG8?oc=5",
+      "published": "Mon, 23 Feb 2026 15:02:33 GMT",
+      "source": "Zacks Investment Research"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "จิม เครเมอร์ กล่าวว่า Microsoft (MSFT) ต้องการการฟื้นฟู",
+        "why": "การที่บริษัท 'ต้องการการฟื้นฟู' บ่งชี้ถึงปัญหาหรือความไม่สดใหม่ ซึ่งอาจส่งผลเสียต่อราคาหุ้น."
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การประเมินมูลค่า Microsoft (MSFT) หลังจากราคาหุ้นลดลงและแรงผลักดันราคาหุ้นที่ลดลง",
+        "why": "การกล่าวถึง 'ราคาหุ้นลดลง' และ 'แรงผลักดันราคาหุ้นที่ลดลง' ชี้ให้เห็นถึงแนวโน้มเชิงลบต่อราคาหุ้นในปัจจุบัน."
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ราคาหุ้น Microsoft จะลดลงได้ต่ำเพียงใด?",
+        "why": "คำถามนี้บ่งบอกถึงความกังวลเกี่ยวกับแนวโน้มราคาหุ้นขาลง ซึ่งเป็นสัญญาณเชิงลบ."
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "Microsoft ได้รับผลกำไรจากความหวังว่าไม่ใช่เหยื่อของ AI; แต่ตอนนี้ Microsoft เป็นหุ้นที่น่าซื้อหรือไม่?",
+        "why": "ส่วนแรกของพาดหัวเป็นเชิงบวกที่ระบุว่า 'Microsoft Gains' แต่ส่วนที่สองตั้งคำถามถึงการตัดสินใจซื้อ ซึ่งทำให้ภาพรวมเป็นกลางมากขึ้น."
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "การคาดการณ์: นี่คือราคาหุ้นของ Microsoft ใน 3 ปี (คำแนะนำ: คุณจะอยากซื้อตอนนี้)",
+        "why": "คำแนะนำ 'คุณจะอยากซื้อตอนนี้' บ่งชี้ถึงความคาดหวังในเชิงบวกอย่างมากต่อราคาหุ้นในอนาคต."
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 80,
+      "note": "ส่วนใหญ่ของพาดหัวข่าวที่เลือกชี้ไปที่ความกังวลเกี่ยวกับมูลค่าราคาหุ้นและโมเมนตัมของ Microsoft แม้จะมีข่าวเชิงบวกหนึ่งชิ้นและข่าวกลางๆ หนึ่งชิ้นก็ตาม."
+    }
+  }
+}
