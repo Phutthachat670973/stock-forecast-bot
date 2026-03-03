@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4813,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0854 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0345 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0162 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0142 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0081 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 27 Feb 2026 17:37:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTNhdWtMVnJHd3JCYm5jOEY3enpuQjQ5X0ZOMXNWMUNrYlJxOTROOHQ4VDV6Rmxlakhvci1pRFkzeFR4S1J0MkdEaURMWVdSMlF5VFBVWnFUNnJOdm54Zmh6TUMxZC0zMzl1NnpuLWYwSUY0RjBoc3B3d3JtdmpHYVhfa3dDVjJDdE5YaUkwLTBYUThnM1BJN0o5SVg?oc=5",
+      "published": "Fri, 27 Feb 2026 22:15:03 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5",
+      "published": "Sun, 01 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple (AAPL) Receives a Rating Update from a Top Analyst - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWtEYTAyYkp6QTllWnY0QXhkWl9tOW5WTDg1YmVYWUxVam4xdVM3ODB5X25tQTd6NVU1RGg0VF9ySWhfWmRDNWVtcDVmREJVUmw5YUpkeC0yTHFWaFlma1FuRHl3d3owSHkzY0t2RGxWbE0xUjl1Nkl3Z0N2QWRnWk9qb3FEbWVCaG1YOW9WaWlNTnFLQlpMbU16Ylg5YjVkYU16Xy16NXhHYXgzUEJaYXBfYUdyMzFvX2VBcVp6RGpKS2tQT3BSZXJfQVZjUngxRHgtUDBmUQ?oc=5",
+      "published": "Fri, 27 Feb 2026 12:35:08 GMT",
+      "source": "The Globe and Mail"
+    },
+    {
+      "title": "Apple (AAPL) Got The Best Free Ride, Says Jim Cramer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiRklqX0t1SVZfMTdHcXRVRHlUUlowajYyUmxDdEpBXzFIZ29SdzBNVEM3VnZLQW93RmtnVnlEdEVaMzVCeWlva2pIYlQxV181Z211M2duUmZpSVc1S25HSTZHTjZibnk2emFrV2sxTTh5ODR2QXNUWXhR?oc=5",
+      "published": "Thu, 26 Feb 2026 15:22:09 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Should You Buy Apple Stock Before Its New Product Launch on March 4? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2cxM0piRVRWVWhIUE50QWZiS0JneXdmY1preFk5MGVXUjV1VWJ4UEVWOG9XbHlpOWwwbnY2Q1JKTHhGQzY5NHdRUnZKdWdTTkptUXQzbGdkdGZuVnVxR2k5UFNmTm8yZjFJUnNVRXFNRGNoOHpQa2ZPU2xwWnV5UnVXSEYzQk5CSk9FQUY3WjlQUQ?oc=5",
+      "published": "Tue, 24 Feb 2026 06:15:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Three firms just disclosed fresh Apple stock stakes — here’s what the filings show - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJXeXFqVWoyb0g0c2FQMU0wa2hQTFNOSXg2X2ZCbklhNEZrUlhDb1JaV201M3BYTkJvelhjdFIweW5IdFlfcDMxYVVUeDcybnhHRXZxUzI1RTQ3Z2tUaEZpOTZGM0Q3anFVSEpGbDQyajRSekU5MTdrMXlYLVVnV0FKUU83aVkzaFZTUk5FalJiaEZDb3JaV0p4S0tWcjE1MHc?oc=5",
+      "published": "Mon, 02 Mar 2026 12:21:50 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Apple: Why Smart Money Holds At $271 (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXNvYTVtWktRRjNzcUNFVl9iUy02NnpUUkR5R0t4TmFQeVF3Rzh1VWNLLXNzR2tGNGh5eVhPbHhTTmVMRFRrbjE0QVV6QTlTUEZxUkNUcVdsWGtIa1AzbGt6M1ZzaVFua1FhSGh2aUs2T3RWcGVHb3M5S2s0bkp2cg?oc=5",
+      "published": "Mon, 02 Mar 2026 19:55:43 GMT",
+      "source": "Seeking Alpha"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple (AAPL) ลดลง 3.2%",
+        "why": "พาดหัวระบุว่าราคาหุ้นลดลง 3.2% ซึ่งเป็นการบ่งชี้เชิงลบโดยตรงต่อผลการดำเนินงานของหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "Jim Cramer กล่าวว่า Apple (AAPL) ได้รับประโยชน์อย่างมากโดยไม่ต้องใช้ความพยายามมากนัก",
+        "why": "คำว่า 'Got The Best Free Ride' จาก Jim Cramer มักจะสื่อถึงหุ้นที่ได้รับประโยชน์อย่างมากหรือมีประสิทธิภาพที่ดี ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "มีการพิจารณาว่าควรซื้อหุ้น Apple ก่อนการเปิดตัวผลิตภัณฑ์ใหม่ในวันที่ 4 มีนาคมหรือไม่",
+        "why": "การเปิดตัวผลิตภัณฑ์ใหม่มักจะเป็นตัวกระตุ้นเชิงบวกสำหรับบริษัท และคำถามที่ว่า 'ควรซื้อหุ้นหรือไม่' ก่อนการเปิดตัวก็บ่งชี้ถึงโอกาสในการลงทุนเชิงบวก"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "สามบริษัทได้เปิดเผยการเข้าถือหุ้น Apple ใหม่",
+        "why": "การที่สามบริษัทเปิดเผยการเข้าถือหุ้น Apple ใหม่ แสดงถึงการลงทุนที่เพิ่มขึ้นจากสถาบัน ซึ่งมักจะเป็นสัญญาณเชิงบวกต่อราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "นักลงทุนรายใหญ่ (Smart Money) ยังคงถือหุ้น Apple ที่ระดับราคา $271",
+        "why": "การที่ 'Smart Money' ยังคงถือหุ้นที่ระดับราคาที่กำหนด บ่งชี้ถึงความเชื่อมั่นของนักลงทุนสถาบันหรือผู้มีประสบการณ์ ซึ่งเป็นสัญญาณเชิงบวกต่อแนวโน้มราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "ส่วนใหญ่ของพาดหัวข่าวที่เลือกบ่งชี้ถึงปัจจัยบวกสำหรับ Apple รวมถึงการเปิดตัวผลิตภัณฑ์ใหม่ การลงทุนจากสถาบัน และความเชื่อมั่นจากนักลงทุนรายใหญ่ แม้จะมีข่าวการลดลงของราคาหุ้นในช่วงสั้นๆ"
+    }
+  }
+}

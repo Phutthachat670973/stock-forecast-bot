@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-02",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.468,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0945 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0358 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0148 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0089 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0076 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Microsoft (MSFT) Still Attractive After Recent Share Price Weakness And AI Partnerships - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWg5a2VOckxjN0Z5OWdrY21DcTRMY3dXRVkzOXRVWFpCcTFnaTNHeGQ0V1k3dDdwTkpJb2tEa1JTWGlTMGlkSzBJUHdTSk8tblRNSlJBak1RX2RxX1o0NXJoM0lXRjlvWTlnSm4wbTJHU1hDalQ1Z2NfVW5mam9NMDZuMFFkaDNSZEJ0Rg?oc=5",
+      "published": "Mon, 02 Mar 2026 12:13:16 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "MSFT Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQX3dUSG5UYjhqVm1nRmNzS2pFY0VvMjFRVlQ0WWk0RzFlM2NQZ1lnR2M0b1JKOUlFRU1KZTllYnJfODBUd0RKQ0FzT2o2SmFJ?oc=5",
+      "published": "Sat, 28 Feb 2026 08:01:53 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Assessing Microsoft (MSFT) Valuation After Recent Pullback And Fading Share Price Momentum - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2ZLY3ZxV1lVN0hrNVgzaE4yNWN6bUVTZXFNUUlIQURKc1BpbkgyUGdaSmM1VEJkbzhtTUp5eDMycGpTLTVhU0xBVVpFeFlCcUN1YUZHRmJsN2dQOVYybEVXamlpMWhLRk1CaVB1NWVGM0ItWmQ4dkZGbEJLRXhNcWt2X2hXbTV3cTRZdHFIcTRLbzZaUG9SVS1yY0ZUSF9oZXpFRnExR0VOMDJPUzNVblRud1o0UlQzS3oxSGJhSzRyOF8tQVQ40gHMAUFVX3lxTE5vVTR5bVZ1SFVwZUZBWjhJcjRDOER0Y2x1R3J1VC1Vd3J0ZjE5N090QlAxSEZGSE8xUmNVT3pFbXRqNFpBY0pibHQwLVNMZWZsbE1jY2VDRkxxY0VjdDZfUllCR2FHZHU3VEI4ZUNSajdBMUNYYVN0MFl0X2NuYUY1VzBXel9wUDVuR0xzSVlTNUtSTWtsNGdRS29vTmM4aTFvV2trSW5uMnBiYWVfMHNwYUNhMVV6SjNQU0VjYkdaQXllaW5sSnFiVm9Pag?oc=5",
+      "published": "Tue, 24 Feb 2026 14:27:55 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "How Low Can Microsoft Stock Go? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnVHYWY2OUdZRWowU05SaE05MklqNXNwbGVRdmVteExRdnhUVXJ5VGp1bEZEUEI3bHBVR0lxSkI3Tk1mSUhYcTkwSmhPUHBhb0FfNjJ6aXpHc0JtMmdrWXctYVpxZk9HYlE1T2wzT2VOREFaWVZZdUVhNWVYNlZibWh6YXdwOW9VWDA4SWRYaGhMNTA?oc=5",
+      "published": "Fri, 27 Feb 2026 15:25:51 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Gains On Hopes It Is Not AI's Lunch; But Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3LUxYbk5XcVphU1cyTmhtc096UXR3aFF1cTlxbzB0bVNQUW1mMkUtMFdqVVBpc0hXR0RFcVg0Y2Vrb243cmxDZUZUV21WX0ZhNEg0TDZPUVJKbGZ4Z0dBbmozMXRTTzhvRVgxamlXRjhVVWhhN1VFeW9Md2xLQQ?oc=5",
+      "published": "Tue, 24 Feb 2026 22:12:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft’s Impossible Situation (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMzlueHl1czRrRHlGM1BBbFhwWnpPQWIybWI5NE10RHVDc2VPUks4TVd6WGtScFVEV3poYi1GSllJbk5vTzRSOFJhYTZISHJLcjRHWEdYS0praXMtMGdfdk8wTlRVUnp6dTNFU19lOWV1dzc2WkxXblktV2JIZw?oc=5",
+      "published": "Tue, 24 Feb 2026 23:22:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (NASDAQ:MSFT) Shares Up 3% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQS1JdkVCY19uRlJfZDF0c3lCWnIyZlFkSC1xRlBSU2c4TVJ4alZoT2JKQ2Z5VTBFcHV3QmpMeWRVMW9LMkxSbndIdG9qeTlObXR3c01vbWVCc1daRmVINmItb1VJT1M3eE5tak1MTlE4X2lwd005Njlxa1l6a3ZOOUJjWldqanFObktfWHNjVkVRNklqZ2d3b2hORms?oc=5",
+      "published": "Wed, 25 Feb 2026 22:28:19 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "1 Clear Signal to Buy Microsoft Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzNMVk45LVYxS1AwRnV2NlVnd2Z3b1FlR1NFYVByQlRpRzFuRzVHeklTR1RBQ0JRWmp6QzNMQy1EN091VmRkUGZfR0lyMDA5c0ppMmotY251eE8tcTJEblpyRG9fS0cxMllJbjlwZVRBdGlnR3lVZGJOeGNmLUFPbjV1UkZxeWc?oc=5",
+      "published": "Fri, 27 Feb 2026 00:45:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ถามว่า MSFT ยังน่าสนใจหรือไม่หลังจากราคาหุ้นอ่อนค่าลงและมีพันธมิตรด้าน AI",
+        "why": "พาดหัวตั้งคำถามถึงความน่าดึงดูดใจของ MSFT หลังจากราคาอ่อนค่าลง แต่ก็มีการกล่าวถึงพันธมิตร AI ซึ่งอาจเป็นปัจจัยบวก ทำให้มุมมองโดยรวมเป็นกลางเพื่อการประเมินเพิ่มเติม"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "ประเมินมูลค่า MSFT หลังจากราคาหุ้นร่วงลงและแรงผลักดันราคาเริ่มจางหายไป",
+        "why": "พาดหัวเน้นไปที่การประเมินมูลค่าหลังจากราคาหุ้นอ่อนตัวลงและแรงส่งของราคาที่ลดลง ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "ราคาหุ้น Microsoft ปรับขึ้นจากความหวังว่าจะไม่ถูก AI กินส่วนแบ่งตลาด แต่ตอนนี้ควรซื้อหรือไม่",
+        "why": "พาดหัวระบุว่า Microsoft มีกำไรและมีความหวังเชิงบวกเกี่ยวกับสถานะในด้าน AI แม้จะมีคำถามว่าควรซื้อหรือไม่ แต่โดยรวมแล้วเป็นการส่งสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft ปรับขึ้น 3% และมีคำอธิบายถึงสาเหตุ",
+        "why": "พาดหัวระบุอย่างชัดเจนว่าราคาหุ้นของ Microsoft ปรับเพิ่มขึ้น 3% ซึ่งเป็นสัญญาณเชิงบวกที่ชัดเจน"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "สัญญาณที่ชัดเจนหนึ่งเดียวที่ควรซื้อหุ้น Microsoft",
+        "why": "พาดหัวระบุอย่างชัดเจนว่ามีสัญญาณให้ซื้อหุ้น Microsoft ซึ่งเป็นข้อบ่งชี้เชิงบวกโดยตรง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "แม้ว่าจะมีพาดหัวบางส่วนที่กล่าวถึงราคาหุ้นที่อ่อนแอและการประเมินมูลค่า แต่พาดหัวส่วนใหญ่ชี้ไปที่การเพิ่มขึ้นของราคา พันธมิตร AI และสัญญาณการเข้าซื้อหุ้น ซึ่งบ่งชี้ถึงแนวโน้มเชิงบวกโดยรวมสำหรับ MSFT"
+    }
+  }
+}
