@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-03",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4432,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1258 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0311 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0184 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0137 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0070 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTNhdWtMVnJHd3JCYm5jOEY3enpuQjQ5X0ZOMXNWMUNrYlJxOTROOHQ4VDV6Rmxlakhvci1pRFkzeFR4S1J0MkdEaURMWVdSMlF5VFBVWnFUNnJOdm54Zmh6TUMxZC0zMzl1NnpuLWYwSUY0RjBoc3B3d3JtdmpHYVhfa3dDVjJDdE5YaUkwLTBYUThnM1BJN0o5SVg?oc=5",
+      "published": "Fri, 27 Feb 2026 22:15:03 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5",
+      "published": "Sun, 01 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "George Soros Is Doubling Down on Apple Stock. Should You Also Load Up on AAPL in 2026? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDV3ZTRWWkN3aWJNN1JhTElnUDRoNWNXbWcwTXNCS0pIVUlkc1d1a3g0ckVxY3V5Qk9CUld0SlNWekRTZE5DbnloQnpqYVhkNFdWUnQ4cE1POHRIZF83bkRWVDJyQkN5LU5nNE9lYU9za0dBV1BHR2ZuR2hDTjFyMmt3cG4?oc=5",
+      "published": "Thu, 26 Feb 2026 15:00:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Three firms just disclosed fresh Apple stock stakes — here’s what the filings show - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJXeXFqVWoyb0g0c2FQMU0wa2hQTFNOSXg2X2ZCbklhNEZrUlhDb1JaV201M3BYTkJvelhjdFIweW5IdFlfcDMxYVVUeDcybnhHRXZxUzI1RTQ3Z2tUaEZpOTZGM0Q3anFVSEpGbDQyajRSekU5MTdrMXlYLVVnV0FKUU83aVkzaFZTUk5FalJiaEZDb3JaV0p4S0tWcjE1MHc?oc=5",
+      "published": "Mon, 02 Mar 2026 12:21:50 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "These New AI Smart Devices Could Boost Apple Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXN6S2ZtZ2xpZVNzRG5nVzdsOElReHlJcEFzMUhub2dEWnpKaHM2YXdwazlmX0czcWttbmlPdVBmdi1ya1VhMjAyZFVjNmFWX0tLVWh1cUFUc1J5MjBaRnlPRU0wQzJ2R3ZSWlRjc2hja0lmT3hGSFRPd3ItcmpWd3NhYWFxTzlzdnd0T1UyQ3UzZ3NsME5lSg?oc=5",
+      "published": "Fri, 27 Feb 2026 12:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple: Why Smart Money Holds At $271 (NASDAQ:AAPL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXNvYTVtWktRRjNzcUNFVl9iUy02NnpUUkR5R0t4TmFQeVF3Rzh1VWNLLXNzR2tGNGh5eVhPbHhTTmVMRFRrbjE0QVV6QTlTUEZxUkNUcVdsWGtIa1AzbGt6M1ZzaVFua1FhSGh2aUs2T3RWcGVHb3M5S2s0bkp2cg?oc=5",
+      "published": "Mon, 02 Mar 2026 19:55:43 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple Inc Stock Closed Down by 3.42% on Feb 27: Facts Behind the Movement - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0F6RFhsWjhJbl84cncxelpDdkhWdEpHVGRnVV9IeHQ4SFctX0tQdW8yYnNBVUJVTE5HS1RXWDBzUHFyYjZHeFQxMGgtNVNUWjhSWHMzUkpzUU5LQklDeTFCY2psMl9FNGFQMDFOZ1dYM3lIZ0piWFotdWY3NzVPa3ln?oc=5",
+      "published": "Fri, 27 Feb 2026 21:14:24 GMT",
+      "source": "TradingKey"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple (AAPL) ลดลง 3.2% ในวันศุกร์",
+        "why": "พาดหัวข่าวระบุโดยตรงว่าราคาหุ้น Apple ลดลงอย่างมีนัยสำคัญ ซึ่งบ่งชี้ถึงแรงกดดันขาลงต่อราคาหุ้นในปัจจุบัน"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "George Soros เพิ่มการลงทุนในหุ้น Apple เป็นสองเท่า",
+        "why": "การที่นักลงทุนรายใหญ่และมีชื่อเสียงระดับโลกเพิ่มสัดส่วนการถือครองหุ้นถือเป็นสัญญาณเชิงบวกที่แสดงถึงความเชื่อมั่นในอนาคตของบริษัท"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บริษัทสามแห่งเปิดเผยการเข้าซื้อหุ้น Apple เพิ่มเติม",
+        "why": "การที่บริษัทลงทุนหลายแห่งเข้าซื้อหุ้นเพิ่มเป็นการส่งสัญญาณเชิงบวกถึงความเชื่อมั่นของนักลงทุนสถาบันที่มีต่อ Apple"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "อุปกรณ์อัจฉริยะ AI ใหม่ อาจช่วยหนุนราคาหุ้น Apple ได้",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าผลิตภัณฑ์ใหม่ที่เกี่ยวข้องกับ AI มีศักยภาพที่จะผลักดันราคาหุ้น Apple ให้สูงขึ้น ซึ่งเป็นปัจจัยเชิงบวกในอนาคต"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "Apple (AAPL) เป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง",
+        "why": "การถูกจัดว่าเป็นหุ้นที่มีโมเมนตัมแข็งแกร่งบ่งชี้ถึงแนวโน้มราคาหุ้นที่เป็นบวกในอดีตและอาจต่อเนื่องไปในอนาคต"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "โดยรวมแล้วมีสัญญาณเชิงบวกหลายประการจากความสนใจของนักลงทุนสถาบันและศักยภาพของผลิตภัณฑ์ AI ใหม่ แม้ว่าจะมีรายงานว่าราคาหุ้นปรับตัวลดลงในระยะสั้นก็ตาม"
+    }
+  }
+}
