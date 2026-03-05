@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-04",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4203,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1810 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0430 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0218 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0131 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0064 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTNhdWtMVnJHd3JCYm5jOEY3enpuQjQ5X0ZOMXNWMUNrYlJxOTROOHQ4VDV6Rmxlakhvci1pRFkzeFR4S1J0MkdEaURMWVdSMlF5VFBVWnFUNnJOdm54Zmh6TUMxZC0zMzl1NnpuLWYwSUY0RjBoc3B3d3JtdmpHYVhfa3dDVjJDdE5YaUkwLTBYUThnM1BJN0o5SVg?oc=5",
+      "published": "Fri, 27 Feb 2026 22:15:03 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5",
+      "published": "Sun, 01 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple, Microsoft, ServiceNow among 10 tech stocks to own amid Iran conflict: Wedbush (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEFfeFN1UFhLa21mdl9GZ1ZBaWdjNFdHRVEycWNtVGRZSGM3elBaWTVTUnhYX0RWWldaeEFBMEZ3a0JJbkdCN0hGbjAtSDBycEFzOEhYMExJa2dNMExZd0c5aUhVOTltbU9DV0NuV2pVMDFaNDBNMUE3Q3BORzNQdFRGTTNPOW5rd013MzNVOTdyaTZ3Vy05bVYxM3NUaFVaUUZ5dUV5OEFWQ3pHeWtNNXBCUE9aVDU2LWFj?oc=5",
+      "published": "Wed, 04 Mar 2026 12:50:57 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oMVpyVlZVQ3QtZUU3Y1FEZHY4UDE2ZWFOamlPVm9DMU1ubFJxMjM1VUN1Z1FiZkxWMXQxZlVzS0dRWmtVLW9iMnFFQ21CZW9PZGdFU0N4aTJSVjRXdFI4WGNaWjd0dWZLcDBKOU9EY0luN0VFYm1kakFQWUEzQQ?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Three firms just disclosed fresh Apple stock stakes — here’s what the filings show - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJXeXFqVWoyb0g0c2FQMU0wa2hQTFNOSXg2X2ZCbklhNEZrUlhDb1JaV201M3BYTkJvelhjdFIweW5IdFlfcDMxYVVUeDcybnhHRXZxUzI1RTQ3Z2tUaEZpOTZGM0Q3anFVSEpGbDQyajRSekU5MTdrMXlYLVVnV0FKUU83aVkzaFZTUk5FalJiaEZDb3JaV0p4S0tWcjE1MHc?oc=5",
+      "published": "Mon, 02 Mar 2026 11:59:00 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple Inc Stock Closed Down by 3.42% on Feb 27: Facts Behind the Movement - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0F6RFhsWjhJbl84cncxelpDdkhWdEpHVGRnVV9IeHQ4SFctX0tQdW8yYnNBVUJVTE5HS1RXWDBzUHFyYjZHeFQxMGgtNVNUWjhSWHMzUkpzUU5LQklDeTFCY2psMl9FNGFQMDFOZ1dYM3lIZ0piWFotdWY3NzVPa3ln?oc=5",
+      "published": "Fri, 27 Feb 2026 21:14:24 GMT",
+      "source": "TradingKey"
+    },
+    {
+      "title": "Apple (NASDAQ: AAPL) grants director Alex Gorsky 1,139 RSUs in stock award - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmVXRGtqNlhyNTZvOFd5V1k1dHI2UVFiYVVqWl9YY29GWWdxNktIYWFDQkNzRUoxLXBtNGhFUzBhWm9hTG1waVM5cjg3UXR5X2FrSzlDLWRoNnRkOE4zdldCY0hlUTFHMFZReTJmMDZIdV9OYVQtVTdQeE8zS3dBajBabGRNQ0pwRFZCTEpXZ1BPSU5PbDhTUWFlbE5ncjVHR2tTMjFR?oc=5",
+      "published": "Thu, 26 Feb 2026 23:31:24 GMT",
+      "source": "Stock Titan"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ราคาหุ้น Apple ลดลง 3.2% และมีคำถามถึงทิศทางต่อไป",
+        "why": "หัวข้อข่าวระบุว่าราคาหุ้นลดลง ซึ่งเป็นการเคลื่อนไหวเชิงลบโดยตรง"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 75,
+        "summary": "มีความคิดเห็นเกี่ยวกับ MacBook ราคาประหยัดและการพัฒนา AI ของ Apple",
+        "why": "หัวข้อข่าวกล่าวถึงความคิดเห็นและการพัฒนา แต่ไม่ได้ระบุทิศทางเชิงบวกหรือลบที่ชัดเจนต่อราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Wedbush จัดให้ Apple เป็นหนึ่งใน 10 หุ้นเทคโนโลยีที่น่าลงทุนท่ามกลางความขัดแย้งในอิหร่าน",
+        "why": "คำแนะนำของนักวิเคราะห์ให้ 'เป็นเจ้าของ' หุ้นเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple เป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง",
+        "why": "การเป็น 'หุ้นโมเมนตัมที่แข็งแกร่ง' บ่งชี้ถึงแนวโน้มราคาที่เพิ่มขึ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "สามบริษัทเปิดเผยการเข้าถือหุ้น Apple ใหม่",
+        "why": "การที่บริษัทต่างๆ เปิดเผยการเข้าถือหุ้นใหม่มักแสดงถึงความเชื่อมั่นในบริษัทนั้นๆ"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "แม้ว่าจะมีรายงานราคาหุ้นลดลงในระยะสั้น แต่จำนวนหัวข้อข่าวที่บ่งชี้ถึงโมเมนตัมที่แข็งแกร่ง คำแนะนำจากนักวิเคราะห์ และการเข้าถือหุ้นโดยบริษัทต่างๆ ทำให้ภาพรวมมีแนวโน้มเชิงบวก"
+    }
+  }
+}
