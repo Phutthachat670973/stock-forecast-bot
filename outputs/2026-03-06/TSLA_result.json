@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-05",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4352,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1159 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0457 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0117 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0153 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0111 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "What Could Trigger The Next Breakout In Tesla Stock? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnR1WEV2MTRXRElrVkFnUXd4eHVOem5iNFNkQlVzZ0hOaW00TE5rTy1vRUQyX1hNVjhaeFUybndObXlUVXIxTF9kVmhTUkJBQmhpaXo4dVhUbWIzcGNNc3QzbWw2YnVCaTJuelUtV1MzNzQyNmlyazRWa2FJMmVaOWNRMzNFTGJfZmYzZjdsVEhSWXdMQzZDVDRNeHpmQTFGemtJd09hVFJiLTgwWmc4?oc=5",
+      "published": "Mon, 02 Mar 2026 13:46:25 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTRFMGlkaTAtb1lycW9MTjN4al9jcHYtb05xVU4tbGRWTVpFVEZ4WmdrTllLdmZsR05LTE9hVjljV0FOQnVjNjA4UHJGNTk1Ty1Yc3ZGcmZfS2VKaDNSU1Nyd1MyaTg5aUJyVkpVYWFmczA2TXhxOUljMHBKSXQ0ZWZ5Vkc0bmV3RV9JSXN1UlRPNVZ6OUlPVg?oc=5",
+      "published": "Thu, 05 Mar 2026 20:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Wed, 04 Mar 2026 18:06:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Is Tesla (TSLA) Pricing Reflecting Its Growth Story After Recent Share Price Pullback - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWQzMVpJWkZFQzN5d0pJMFB6dnE4aV9hOWhCM1NrSDVjVk1Fb3N1UW1rSE9wbDNqN3JacE5ma1lKQTFtaFF3OENvMnh1dG9TdVZxNGxLLXFxWGhZUUlDS2dpbHVEc0pXOG5XQXJ4ZDlodDdpc3NEbFgtRm5UcmZNRFpCLWtnbHM4ZXc?oc=5",
+      "published": "Thu, 05 Mar 2026 06:16:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Analyst Upgrades and Valuation Clashes - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlVVWlVhZWRKbTJRM2gwWVBFWDJzdUlBaFozajRVWjVQNk5LUkRhOTVBZE85V0ZoRWhEZzVGUjBHNVFzSDItRjQzVlAtd2NBMk1yWnd4aTMtVWlMVGxXSkQtS0pfZnd3enFreTlrN3c4eVh6UjJYcktiU3NvaExEWldFOTY2VG9CRGhmeDloS2dITFFZUHhxanRza3ZmMktTNVpBWXVQZVMwZw?oc=5",
+      "published": "Sat, 28 Feb 2026 17:34:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Is Tesla (TSLA) Pricing Fair After Recent Share Price Declines And Lofty Growth Hopes? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnJDNksxb3pFbWJOMVFubkZLbjJlY3ctQk1GTXhnMGZBLU4zM25RelVsODlUSm01dUYtSHd0eWxKYWc0N09LLUlzOVU2emQ2TG16ZktkVHFMM0pKMzFRT2J1T2Q4NXFOZEg3UVdRRWRzR2ZuYU1meGhXN2RLQnhoYkowSnlURkUtRlc1ODJPUjNwc1ZDd0dGZkhLQlVCZEZOMWhIdnl0MUR2UEhOQzI0VlVOeGJkemVzcVR0aDFsMWc0MTF5U3fSAcsBQVVfeXFMUFYwMGFJbjJBakVmNnVmaEptX2lrSS00aFMyM2g0b0VfYzFmOVVWYk5uQjZjbjZrTHFHZ2dLSmV0NDlLX1pkVjF0ZVJHS0RoRlVvN2RPcTh6bTAzZHBvbXdWSndYZzY1TkJlYnQ5eDIzUERoX2JJNWVJX05vT05FdHllcFo1SE5Ic08tc0h6WlVHVE56N3oxcElIbkZHMk1QdjBtWkFDbUh2SnhJaDhtLWJhRWFoQVZaa0FlNUhDT2hZNmwyLU9TbHpyQUE?oc=5",
+      "published": "Fri, 27 Feb 2026 13:53:55 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Tesla stock price: California robotaxi permits become TSLA’s next big test - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGlpSmFNb1FVZlZiaFd2U1FsTkJKNFYtRFp0eGZaaDlnNml5cHI1bGstX3NhSUFDVzFVT1dQalF6WUZUNTdxWU5ueXhOUmJ5UW0yNGh1RnBpUU5YUElvV3liT1FFYm1mSldVLUxWcDh6R01BY1ZOVmw4OThCZ29tQ1AtclJDTERMUk8yN1VlVW9CcHVEMlZZQQ?oc=5",
+      "published": "Sat, 28 Feb 2026 15:06:00 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Why Tesla stock keeps falling: here's top 3 reasons - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmtTWEF5cEtSWF9fSjR3N0dsWnI1NU9iNFV2WFRLdXp5YkdFdnpUSEwya0p0UUtHa0xrVHJCSXU5dDhXdGVmY05uRm5abTNINnJhTnRHRXJrWG1HMHhoYXV1Y3otdWI5a1VrTXJkeW1BeXhmaFVrOVJLUE1oOXNVMUxHSWljSU50QlpVX1dyaHFtdkV3QTVjUjh2QlE4VDl6ajJORmx2VkEzUXc?oc=5",
+      "published": "Fri, 27 Feb 2026 17:49:21 GMT",
+      "source": "TradingView"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "การเปลี่ยนแปลงเชิงกลยุทธ์ที่กล้าหาญของหุ้น Tesla อาจส่งสัญญาณถึงโอกาสสำคัญ",
+        "why": "พาดหัวข่าวระบุถึง 'การเปลี่ยนแปลงเชิงกลยุทธ์ที่กล้าหาญ' และ 'โอกาสสำคัญ' ซึ่งบ่งชี้ถึงแนวโน้มเชิงบวกที่อาจเกิดขึ้นกับราคาหุ้นของ Tesla"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ทำไมหุ้น Tesla ถึงยังคงร่วงลง: นี่คือ 3 เหตุผลหลัก",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น Tesla 'ยังคงร่วงลง' และจะให้เหตุผล ซึ่งเป็นสัญญาณเชิงลบอย่างยิ่งต่อราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ราคาหุ้น Tesla: ใบอนุญาต robotaxi ของแคลิฟอร์เนียกลายเป็นการทดสอบครั้งใหญ่ต่อไปของ TSLA",
+        "why": "พาดหัวข่าวระบุถึงเหตุการณ์สำคัญ ('ใบอนุญาต robotaxi') ว่าเป็นการ 'ทดสอบครั้งใหญ่ต่อไป' ซึ่งบ่งชี้ถึงความไม่แน่นอนของผลลัพธ์ ไม่ได้ชี้ไปในทิศทางบวกหรือลบอย่างชัดเจน"
+      },
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "อะไรคือสิ่งที่อาจกระตุ้นการทะลุแนวต้านครั้งต่อไปในหุ้น Tesla?",
+        "why": "พาดหัวข่าวใช้คำว่า 'Breakout' ซึ่งเป็นคำศัพท์ทางเทคนิคที่หมายถึงการที่ราคาหุ้นพุ่งขึ้นอย่างแข็งแกร่ง บ่งชี้ถึงศักยภาพในการปรับตัวขึ้นของราคา"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 75,
+        "summary": "ราคาของ Tesla (TSLA) สะท้อนเรื่องราวการเติบโตหลังจากราคาหุ้นที่ดึงกลับเมื่อเร็ว ๆ นี้หรือไม่",
+        "why": "พาดหัวข่าวตั้งคำถามเกี่ยวกับราคาหุ้นหลังจาก 'ราคาหุ้นที่ดึงกลับเมื่อเร็ว ๆ นี้' (pullback) และถามว่าสะท้อน 'เรื่องราวการเติบโต' หรือไม่ ซึ่งบ่งชี้ถึงการประเมินมูลค่าที่ยังไม่ชัดเจน ไม่ได้ชี้ขาดไปในทิศทางใดทิศทางหนึ่งอย่างชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 65,
+      "note": "ภาพรวมแสดงให้เห็นถึงความไม่แน่นอนของราคาหุ้น Tesla โดยมีพาดหัวข่าวบางส่วนบ่งชี้ถึงศักยภาพเชิงบวกจากกลยุทธ์ใหม่และการทะลุแนวต้าน ในขณะที่ข่าวอื่น ๆ ชี้ถึงการร่วงลงอย่างต่อเนื่องและความจำเป็นในการประเมินมูลค่าหลังจากการปรับฐานราคาลง"
+    }
+  }
+}

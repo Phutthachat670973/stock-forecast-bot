@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-05",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4658,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 5 วัน = -0.0465 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0270 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0660 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0110 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0035 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "published": "Tue, 03 Mar 2026 08:01:28 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTNhdWtMVnJHd3JCYm5jOEY3enpuQjQ5X0ZOMXNWMUNrYlJxOTROOHQ4VDV6Rmxlakhvci1pRFkzeFR4S1J0MkdEaURMWVdSMlF5VFBVWnFUNnJOdm54Zmh6TUMxZC0zMzl1NnpuLWYwSUY0RjBoc3B3d3JtdmpHYVhfa3dDVjJDdE5YaUkwLTBYUThnM1BJN0o5SVg?oc=5",
+      "published": "Fri, 27 Feb 2026 22:15:03 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5",
+      "published": "Sun, 01 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple, Microsoft, ServiceNow among 10 tech stocks to own amid Iran conflict: Wedbush (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEFfeFN1UFhLa21mdl9GZ1ZBaWdjNFdHRVEycWNtVGRZSGM3elBaWTVTUnhYX0RWWldaeEFBMEZ3a0JJbkdCN0hGbjAtSDBycEFzOEhYMExJa2dNMExZd0c5aUhVOTltbU9DV0NuV2pVMDFaNDBNMUE3Q3BORzNQdFRGTTNPOW5rd013MzNVOTdyaTZ3Vy05bVYxM3NUaFVaUUZ5dUV5OEFWQ3pHeWtNNXBCUE9aVDU2LWFj?oc=5",
+      "published": "Wed, 04 Mar 2026 12:50:57 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVBsN1g1QklCZk9OVVdCTnhlUVQxRHNPcGh6T2JBZzNiOHp5NGhsa1gyYUUxcUdVZnVYaURWZFVUNWlSM284cVdJVXlTXzZjbHNYaTVBVlVnMnNrVlRkYWRkQnZldm1ibEN0UUdUVDlBTUdjd0tDNS1BSWpyekVENVp2ZHhyOWM?oc=5",
+      "published": "Fri, 27 Feb 2026 14:00:08 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "‘New Growth Catalysts’: Why Dan Ives Remains Bullish on Apple (AAPL) Stock - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzR1cnU5R0xxUG1rS2hZN1p1VzZJbnIwaF9JWjZZVnlsTEd0YU1IWnN0bHlkQUE0Wk11TlB4RnUyTnlTTmNJQmdpdzRzT3hkUlduazJVdHZKM2ZtWkp6ZmJEeFBRRWFCWDBMU0Z5dlkzYTJ6Znd0dXRoRW1oNkVvU2U3aXNBMlRjWnBJWDlZSDFDekZiNWY0UHRMNA?oc=5",
+      "published": "Thu, 05 Mar 2026 16:13:57 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Apple Inc Stock Closed Down by 3.42% on Feb 27: Facts Behind the Movement - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0F6RFhsWjhJbl84cncxelpDdkhWdEpHVGRnVV9IeHQ4SFctX0tQdW8yYnNBVUJVTE5HS1RXWDBzUHFyYjZHeFQxMGgtNVNUWjhSWHMzUkpzUU5LQklDeTFCY2psMl9FNGFQMDFOZ1dYM3lIZ0piWFotdWY3NzVPa3ln?oc=5",
+      "published": "Fri, 27 Feb 2026 21:14:24 GMT",
+      "source": "TradingKey"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "Dan Ives ยังคงมีมุมมองเชิงบวกต่อหุ้น Apple (AAPL) เนื่องจากมี 'ตัวเร่งการเติบโตใหม่'.",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่านักวิเคราะห์ Dan Ives ยังคงมีมุมมอง 'bullish' (เชิงบวก) และกล่าวถึง 'ตัวเร่งการเติบโตใหม่' ซึ่งเป็นสัญญาณเชิงบวกอย่างมากสำหรับ AAPL."
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Wedbush แนะนำให้ซื้อหุ้น Apple ท่ามกลางความขัดแย้งกับอิหร่าน โดยจัดอยู่ในกลุ่ม 10 หุ้นเทคโนโลยีที่ควรเป็นเจ้าของ.",
+        "why": "พาดหัวข่าวระบุว่า Wedbush ซึ่งเป็นบริษัทวิเคราะห์แนะนำให้ Apple เป็นหนึ่งในหุ้นเทคโนโลยีที่ควร 'เป็นเจ้าของ' ซึ่งเป็นคำแนะนำเชิงบวกอย่างชัดเจนสำหรับนักลงทุน."
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ระบุเหตุผลที่ Apple (AAPL) เป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง.",
+        "why": "พาดหัวข่าวใช้คำว่า 'Strong Momentum Stock' ซึ่งโดยทั่วไปถือเป็นสัญญาณเชิงบวกที่บ่งชี้ถึงความสนใจและแนวโน้มการเคลื่อนไหวขึ้นของราคา."
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้นของ Apple ลดลง 3.2%.",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น AAPL ลดลง 3.2% ซึ่งเป็นการรายงานสถานะราคาเชิงลบในระยะสั้น."
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ความคิดเห็นเกี่ยวกับ MacBook ราคาประหยัดและการพัฒนา AI ของ Apple.",
+        "why": "พาดหัวข่าวกล่าวถึงการพัฒนา AI ซึ่งมักจะเป็นปัจจัยบวก แต่ก็มีการกล่าวถึง MacBook ราคาประหยัดที่อาจมีผลต่อกำไร ทำให้ทิศทางโดยรวมไม่ชัดเจนนักว่าเป็นบวกหรือลบอย่างเด่นชัด."
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "ส่วนใหญ่ของพาดหัวข่าวที่เลือกบ่งชี้ถึงมุมมองเชิงบวกจากนักวิเคราะห์และโมเมนตัมของหุ้น โดยเฉพาะอย่างยิ่งคำแนะนำที่แข็งแกร่งจาก Dan Ives และ Wedbush อย่างไรก็ตาม มีการรายงานราคาหุ้นที่ลดลงล่าสุด ซึ่งถ่วงดุลมุมมองเชิงบวกบางส่วน."
+    }
+  }
+}
