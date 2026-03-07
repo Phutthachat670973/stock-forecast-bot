@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4498,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0328 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0992 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0417 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0366 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0144 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTRFMGlkaTAtb1lycW9MTjN4al9jcHYtb05xVU4tbGRWTVpFVEZ4WmdrTllLdmZsR05LTE9hVjljV0FOQnVjNjA4UHJGNTk1Ty1Yc3ZGcmZfS2VKaDNSU1Nyd1MyaTg5aUJyVkpVYWFmczA2TXhxOUljMHBKSXQ0ZWZ5Vkc0bmV3RV9JSXN1UlRPNVZ6OUlPVg?oc=5",
+      "published": "Thu, 05 Mar 2026 20:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "What Could Trigger The Next Breakout In Tesla Stock? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnR1WEV2MTRXRElrVkFnUXd4eHVOem5iNFNkQlVzZ0hOaW00TE5rTy1vRUQyX1hNVjhaeFUybndObXlUVXIxTF9kVmhTUkJBQmhpaXo4dVhUbWIzcGNNc3QzbWw2YnVCaTJuelUtV1MzNzQyNmlyazRWa2FJMmVaOWNRMzNFTGJfZmYzZjdsVEhSWXdMQzZDVDRNeHpmQTFGemtJd09hVFJiLTgwWmc4?oc=5",
+      "published": "Mon, 02 Mar 2026 13:46:25 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Wed, 04 Mar 2026 18:06:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Is Tesla (TSLA) Pricing Reflecting Its Growth Story After Recent Share Price Pullback - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWQzMVpJWkZFQzN5d0pJMFB6dnE4aV9hOWhCM1NrSDVjVk1Fb3N1UW1rSE9wbDNqN3JacE5ma1lKQTFtaFF3OENvMnh1dG9TdVZxNGxLLXFxWGhZUUlDS2dpbHVEc0pXOG5XQXJ4ZDlodDdpc3NEbFgtRm5UcmZNRFpCLWtnbHM4ZXc?oc=5",
+      "published": "Thu, 05 Mar 2026 06:16:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Analyst Upgrades and Valuation Clashes - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlVVWlVhZWRKbTJRM2gwWVBFWDJzdUlBaFozajRVWjVQNk5LUkRhOTVBZE85V0ZoRWhEZzVGUjBHNVFzSDItRjQzVlAtd2NBMk1yWnd4aTMtVWlMVGxXSkQtS0pfZnd3enFreTlrN3c4eVh6UjJYcktiU3NvaExEWldFOTY2VG9CRGhmeDloS2dITFFZUHhxanRza3ZmMktTNVpBWXVQZVMwZw?oc=5",
+      "published": "Sat, 28 Feb 2026 17:34:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Tesla Stock Is Rising as It Gets a New Vote of Confidence From Wall Street - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1dVSTdlWlJyS3JUTzdyOTEzdmtveVRvcU13UlZzOE1zUVRyY0dUbGZkeUdlS040SWQ5U0pKU2xUcmh4TmFnaXpEb1dIb2NuX0lkOElXSFVENTBqWnNac0tEbEgyUFVqQWVpb1JPVkZlNW1CZW1rQ201OFZnekh3aE9SMXBKdm9nUHZZWkJqWFRzbWp5RmNfaF9fZWI2UVowWGdLN0J2czhzM3FtTFhCNzJiYmFndV93T2p5Sw?oc=5",
+      "published": "Wed, 04 Mar 2026 19:10:45 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Tesla stock price: California robotaxi permits become TSLA’s next big test - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGlpSmFNb1FVZlZiaFd2U1FsTkJKNFYtRFp0eGZaaDlnNml5cHI1bGstX3NhSUFDVzFVT1dQalF6WUZUNTdxWU5ueXhOUmJ5UW0yNGh1RnBpUU5YUElvV3liT1FFYm1mSldVLUxWcDh6R01BY1ZOVmw4OThCZ29tQ1AtclJDTERMUk8yN1VlVW9CcHVEMlZZQQ?oc=5",
+      "published": "Sat, 28 Feb 2026 15:06:00 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Tesla (TSLA) Stock in 2026: The Most Polarizing Bet in Markets Just Got Bigger - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13MGQtcDJiWkZuX3d4OW5oRGhUanhZc1BnXzRxQjlxcjlVSHFqY2lvTFQwSWZkOHA1WFFfVkdHWlJqRXR3SDkyeUJ4N2VJdFh5X3k2R2pGZUg4X3lq?oc=5",
+      "published": "Tue, 03 Mar 2026 07:40:29 GMT",
+      "source": "Phemex"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla: การเปลี่ยนแปลงกลยุทธ์ที่กล้าหาญอาจบ่งบอกถึงโอกาสสำคัญ",
+        "why": "พาดหัวข่าวนี้ระบุถึง 'การเปลี่ยนแปลงกลยุทธ์ที่กล้าหาญ' และ 'โอกาสสำคัญ' ซึ่งเป็นการบ่งชี้ถึงแนวโน้มเชิงบวกที่อาจส่งผลให้ราคาหุ้นปรับตัวขึ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "อะไรที่อาจเป็นตัวกระตุ้นให้หุ้น Tesla พุ่งขึ้นอีกครั้ง?",
+        "why": "คำว่า 'พุ่งขึ้นอีกครั้ง' (Breakout) บ่งชี้ถึงศักยภาพในการปรับตัวขึ้นของราคาหุ้นอย่างมีนัยสำคัญในอนาคต"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ราคาหุ้น Tesla (TSLA) สะท้อนเรื่องราวการเติบโตหลังราคาหุ้นร่วงลงเมื่อเร็วๆ นี้หรือไม่",
+        "why": "แม้จะมีการกล่าวถึง 'ราคาหุ้นร่วงลงเมื่อเร็วๆ นี้' ซึ่งเป็นเหตุการณ์เชิงลบ แต่พาดหัวข่าวนี้ตั้งคำถามเกี่ยวกับการประเมินมูลค่าปัจจุบันเทียบกับเรื่องราวการเติบโต ซึ่งเป็นการวิเคราะห์มากกว่าการระบุทิศทางราคาในอนาคตที่ชัดเจน ทำให้เป็นกลาง"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla กำลังปรับตัวขึ้นเนื่องจากได้รับความเชื่อมั่นครั้งใหม่จาก Wall Street",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าหุ้น 'กำลังปรับตัวขึ้น' และ 'ได้รับความเชื่อมั่นครั้งใหม่จาก Wall Street' ซึ่งเป็นสัญญาณเชิงบวกที่แข็งแกร่ง"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ราคาหุ้น Tesla: ใบอนุญาต robotaxi ของแคลิฟอร์เนียกลายเป็นบททดสอบครั้งใหญ่ต่อไปของ TSLA",
+        "why": "พาดหัวข่าวนี้กล่าวถึง 'บททดสอบครั้งใหญ่ต่อไป' ซึ่งหมายถึงเหตุการณ์สำคัญที่ผลลัพธ์ยังไม่แน่นอน อาจเป็นได้ทั้งบวกและลบ ทำให้ไม่สามารถระบุทิศทางราคาได้ชัดเจน จึงเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "โดยรวมแล้ว พาดหัวข่าวส่วนใหญ่บ่งชี้ถึงแนวโน้มเชิงบวกสำหรับหุ้น Tesla โดยเน้นย้ำถึงโอกาสในการเติบโต การปรับตัวขึ้นของราคา และความเชื่อมั่นจากตลาด อย่างไรก็ตาม ยังมีการตั้งคำถามเกี่ยวกับการประเมินมูลค่าและบททดสอบสำคัญที่กำลังจะมาถึง ซึ่งอาจเป็นปัจจัยที่ต้องพิจารณา"
+    }
+  }
+}

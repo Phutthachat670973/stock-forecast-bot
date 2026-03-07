@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4298,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0341 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1045 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0254 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0269 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0086 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "published": "Wed, 04 Mar 2026 21:45:07 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple, Microsoft, ServiceNow among 10 tech stocks to own amid Iran conflict: Wedbush (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEFfeFN1UFhLa21mdl9GZ1ZBaWdjNFdHRVEycWNtVGRZSGM3elBaWTVTUnhYX0RWWldaeEFBMEZ3a0JJbkdCN0hGbjAtSDBycEFzOEhYMExJa2dNMExZd0c5aUhVOTltbU9DV0NuV2pVMDFaNDBNMUE3Q3BORzNQdFRGTTNPOW5rd013MzNVOTdyaTZ3Vy05bVYxM3NUaFVaUUZ5dUV5OEFWQ3pHeWtNNXBCUE9aVDU2LWFj?oc=5",
+      "published": "Wed, 04 Mar 2026 12:50:57 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5",
+      "published": "Sun, 01 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "‘New Growth Catalysts’: Why Dan Ives Remains Bullish on Apple (AAPL) Stock - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzR1cnU5R0xxUG1rS2hZN1p1VzZJbnIwaF9JWjZZVnlsTEd0YU1IWnN0bHlkQUE0Wk11TlB4RnUyTnlTTmNJQmdpdzRzT3hkUlduazJVdHZKM2ZtWkp6ZmJEeFBRRWFCWDBMU0Z5dlkzYTJ6Znd0dXRoRW1oNkVvU2U3aXNBMlRjWnBJWDlZSDFDekZiNWY0UHRMNA?oc=5",
+      "published": "Thu, 05 Mar 2026 16:13:57 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Three firms just disclosed fresh Apple stock stakes — here’s what the filings show - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJXeXFqVWoyb0g0c2FQMU0wa2hQTFNOSXg2X2ZCbklhNEZrUlhDb1JaV201M3BYTkJvelhjdFIweW5IdFlfcDMxYVVUeDcybnhHRXZxUzI1RTQ3Z2tUaEZpOTZGM0Q3anFVSEpGbDQyajRSekU5MTdrMXlYLVVnV0FKUU83aVkzaFZTUk5FalJiaEZDb3JaV0p4S0tWcjE1MHc?oc=5",
+      "published": "Mon, 02 Mar 2026 11:59:00 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Apple Inc. $AAPL Stock Position Increased by Coastal Bridge Advisors LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmlwOEl1VjNKSEhTcDExa2F3UVJiekN1RGpNWjVpWmdLVzRXNERwYkV4U0NYdzVUeXhOWjFfWHN6dWgyX0p1S1BlRl8wS0dYeGxVbE5ZZE1PVHNOcVBRRWNYb2o4MmRqOWhoSnZyRVMzNEdsUk1WVHNiQzlvXzdFTE5fdHhiQVE3V0pVTW1oajIyd1hzeTFzTWpVTWYyMmF5T3BzVk92QTNzaGNtakxXdm1fcDZXWGtydzAwUjhrcDJiMjJUWlVGV3lMYw?oc=5",
+      "published": "Sat, 28 Feb 2026 08:52:29 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Learn All Crypto Topics | Phemex Academy - Phemex",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yUzh1c1pocWo4bENnR09CQmJFS2piSklKN2lXcHd3cUdDN0lscV9pRWFRVVhEUXI4UjI2X3pUaWZ3MnBMaFA5cUdKOWNiQVd0Y2FUUlF3?oc=5",
+      "published": "Wed, 04 Mar 2026 08:06:13 GMT",
+      "source": "Phemex"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "เหตุผลที่ Dan Ives ยังคงมีมุมมองเชิงบวกต่อหุ้น Apple (AAPL) โดยกล่าวถึงปัจจัยเร่งการเติบโตใหม่ๆ",
+        "why": "พาดหัวระบุชัดเจนว่า 'Remains Bullish' (ยังคงมีมุมมองเชิงบวก) และ 'New Growth Catalysts' (ปัจจัยเร่งการเติบโตใหม่ๆ)"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple เป็นหนึ่งใน 10 หุ้นเทคโนโลยีที่ Wedbush แนะนำให้เป็นเจ้าของท่ามกลางความขัดแย้งในอิหร่าน",
+        "why": "การที่ Wedbush ระบุว่า Apple เป็นหนึ่งใน '10 tech stocks to own' (10 หุ้นเทคโนโลยีที่ควรเป็นเจ้าของ) แสดงถึงคำแนะนำเชิงบวก"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บริษัท Coastal Bridge Advisors LLC ได้เพิ่มสถานะการถือครองหุ้น Apple Inc. ($AAPL)",
+        "why": "พาดหัวระบุชัดเจนว่า 'Stock Position Increased' (เพิ่มสถานะการถือครองหุ้น) ซึ่งเป็นสัญญาณเชิงบวกจากการกระทำของสถาบัน"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "เหตุผลที่ Apple (AAPL) เป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง",
+        "why": "คำว่า 'Strong Momentum Stock' (หุ้นที่มีโมเมนตัมแข็งแกร่ง) บ่งชี้ถึงแนวโน้มเชิงบวกของหุ้นและศักยภาพในการปรับตัวขึ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ความเห็นเกี่ยวกับหุ้น Apple (AAPL) ในประเด็น MacBook ราคาประหยัดและการพัฒนา AI",
+        "why": "พาดหัวกล่าวถึง 'ความเห็น' เกี่ยวกับการพัฒนาผลิตภัณฑ์และ AI แต่ไม่ได้ระบุทิศทางของความเห็นเหล่านั้นว่าบวกหรือลบ หรือผลกระทบต่อราคาหุ้นโดยตรง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 90,
+      "note": "พาดหัวข่าวส่วนใหญ่ที่เลือกบ่งชี้ถึงมุมมองเชิงบวกต่อหุ้น Apple โดยอ้างอิงจากบทวิเคราะห์ของนักวิเคราะห์ที่มองเห็นปัจจัยเร่งการเติบโตใหม่ๆ คำแนะนำให้เข้าซื้อหุ้น การเพิ่มสถานะการถือครองหุ้นโดยสถาบัน และการที่หุ้นมีโมเมนตัมที่แข็งแกร่ง มีเพียงหนึ่งพาดหัวที่นำเสนอข้อมูลเกี่ยวกับความเห็นในการพัฒนาผลิตภัณฑ์ซึ่งเป็นกลาง"
+    }
+  }
+}
