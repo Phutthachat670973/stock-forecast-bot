@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.43,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0341 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1039 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0254 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0269 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0086 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Is Apple Stock Going to $1,000? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fMHM3emlKRW9Cb0lPTlppVGQ1dU94Zl95TEFkbkNSOEFmT0hlbDc2d3AtMGhjcUdGVDU1SDZvT0d4cUJ5X2xwejB0MDlHR1ZndW9qQmN5YV9JODEwVUlMdmt5WFRJbmZpaWZCQTNaM2JTcFFNLTExNnRNWQ?oc=5",
+      "published": "Thu, 05 Mar 2026 11:54:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Who owns Apple? Institutional holdings & executives’ shares - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVpuMVlTWHBqYVg0bnl3a1ItdkhSYXJlQTgzNjlTbmd3bHhEZGNrdWIyVHcyVGY0X3Q5cFNWcFBfYlBwdi1Fc2tFLWhWbjZhclRrdjNnNG43dExhV0kwVzM5WXNYQmY4V3RJZUt0SWFHeGp5a0VSUFBLSmU3MGhXVXVzX0twMU10QmNDSWtUUHlJWlV1WFMycg?oc=5",
+      "published": "Fri, 06 Mar 2026 01:11:00 GMT",
+      "source": "Yahoo Finance Singapore"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple, Microsoft, ServiceNow among 10 tech stocks to own amid Iran conflict: Wedbush (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEFfeFN1UFhLa21mdl9GZ1ZBaWdjNFdHRVEycWNtVGRZSGM3elBaWTVTUnhYX0RWWldaeEFBMEZ3a0JJbkdCN0hGbjAtSDBycEFzOEhYMExJa2dNMExZd0c5aUhVOTltbU9DV0NuV2pVMDFaNDBNMUE3Q3BORzNQdFRGTTNPOW5rd013MzNVOTdyaTZ3Vy05bVYxM3NUaFVaUUZ5dUV5OEFWQ3pHeWtNNXBCUE9aVDU2LWFj?oc=5",
+      "published": "Wed, 04 Mar 2026 12:50:57 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Just Unveiled the New iPhone 17e. Should You Buy, Sell, or Hold AAPL Stock Now? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVc3aXh6RTBGVjVqZHEyN0haTFBJWXpzTTJXa1lBWllndHoySXNMYXFpS2k4WnlEOW9KTi01LWdsZlQ4OUxyUTBIUW0zT2ZfRldKNzBwQ3FzeFExaWlmMEd4dk5meTdiNl9XbzdHbk9fX3RsYjVHSFJxdmFlSkJZaXJySzBVMXZDWTJVM0QzZlRLR0ZUNkpnX3NNZHRLaFRFeE91YXQxSjdNQXAwZDQ2ZzlTdldqTXZPcEx6SW5UeDBiZw?oc=5",
+      "published": "Fri, 06 Mar 2026 20:17:40 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5",
+      "published": "Sun, 01 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "‘New Growth Catalysts’: Why Dan Ives Remains Bullish on Apple (AAPL) Stock - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzR1cnU5R0xxUG1rS2hZN1p1VzZJbnIwaF9JWjZZVnlsTEd0YU1IWnN0bHlkQUE0Wk11TlB4RnUyTnlTTmNJQmdpdzRzT3hkUlduazJVdHZKM2ZtWkp6ZmJEeFBRRWFCWDBMU0Z5dlkzYTJ6Znd0dXRoRW1oNkVvU2U3aXNBMlRjWnBJWDlZSDFDekZiNWY0UHRMNA?oc=5",
+      "published": "Thu, 05 Mar 2026 16:13:57 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Three firms just disclosed fresh Apple stock stakes — here’s what the filings show - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJXeXFqVWoyb0g0c2FQMU0wa2hQTFNOSXg2X2ZCbklhNEZrUlhDb1JaV201M3BYTkJvelhjdFIweW5IdFlfcDMxYVVUeDcybnhHRXZxUzI1RTQ3Z2tUaEZpOTZGM0Q3anFVSEpGbDQyajRSekU5MTdrMXlYLVVnV0FKUU83aVkzaFZTUk5FalJiaEZDb3JaV0p4S0tWcjE1MHc?oc=5",
+      "published": "Mon, 02 Mar 2026 11:59:00 GMT",
+      "source": "TechStock²"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "สาเหตุที่ Dan Ives ยังคงมีมุมมองเชิงบวกต่อหุ้น Apple (AAPL) เนื่องจากมีตัวกระตุ้นการเติบโตใหม่",
+        "why": "หัวข้อข่าวระบุชัดเจนว่านักวิเคราะห์ยังคงมีมุมมอง 'Bullish' และกล่าวถึง 'New Growth Catalysts' (ตัวกระตุ้นการเติบโตใหม่)"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "เหตุผลที่ Apple (AAPL) เป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง",
+        "why": "การระบุว่าเป็น 'Strong Momentum Stock' (หุ้นที่มีโมเมนตัมแข็งแกร่ง) บ่งชี้ถึงแนวโน้มราคาที่ดี"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Wedbush แนะนำให้ถือหุ้น Apple, Microsoft, ServiceNow ท่ามกลางความขัดแย้งกับอิหร่าน",
+        "why": "การถูกจัดให้อยู่ในกลุ่มหุ้นเทคโนโลยีที่ควร 'own' (เป็นเจ้าของ) โดยนักวิเคราะห์ (Wedbush) ถือเป็นการบ่งชี้เชิงบวก"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "สามบริษัทเปิดเผยการเข้าถือหุ้น Apple เพิ่มเติม",
+        "why": "การที่บริษัทต่างๆ เปิดเผยการเข้าถือหุ้นเพิ่มมักเป็นสัญญาณเชิงบวกจากนักลงทุนสถาบันที่แสดงความเชื่อมั่น"
+      },
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "หุ้น Apple จะขึ้นไปถึง 1,000 ดอลลาร์หรือไม่?",
+        "why": "การตั้งคำถามถึงศักยภาพที่หุ้น Apple จะแตะ 1,000 ดอลลาร์ บ่งบอกถึงการมองเห็นการเติบโตของราคาที่สูง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 90,
+      "note": "การเลือกส่วนใหญ่บ่งชี้ถึงมุมมองเชิงบวกต่อหุ้น Apple โดยอิงจากการแนะนำของนักวิเคราะห์ ศักยภาพการเติบโต และการเข้าถือหุ้นเพิ่มโดยบริษัทต่างๆ"
+    }
+  }
+}

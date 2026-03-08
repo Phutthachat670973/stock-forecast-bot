@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4795,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1859 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0836 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0405 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0187 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = 0.0287 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Is Microsoft (MSFT) Still Attractive After Recent Share Price Weakness And AI Partnerships - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWg5a2VOckxjN0Z5OWdrY21DcTRMY3dXRVkzOXRVWFpCcTFnaTNHeGQ0V1k3dDdwTkpJb2tEa1JTWGlTMGlkSzBJUHdTSk8tblRNSlJBak1RX2RxX1o0NXJoM0lXRjlvWTlnSm4wbTJHU1hDalQ1Z2NfVW5mam9NMDZuMFFkaDNSZEJ0Rg?oc=5",
+      "published": "Mon, 02 Mar 2026 12:13:16 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Bucks Market Melt Down As Drones Hit Data Centers In Middle East; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUhYZ2JNQ0ozMUtETFAtZjlvblZZYWVSaVZJRlR0bXRMTENVcDdQLVhRem85T2pnenVvYjBtN3REaVVFRHhIWXBYY0QwT0Vka09nS1VKVS16Y09pMVIybFpWcWNwdkdxRktSaFJnRnFFSERTVHB0bmV6b1JwUlQ5SFlyeHlEQ0RR?oc=5",
+      "published": "Tue, 03 Mar 2026 20:44:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft: Buy The Dip, Or Regret It Forever (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMThVd3BOU2h1MElGSjA2VVBUb3RNZkhKa2s0dnJvOWRRbGlHNkRReGloRVVxTC1ZNC0tZlBSbS1NUlBKUUo5YzI2bDNxQXd4S0NVZTNPa0FrNGxzNXA4bG53WmgyZVpLOVJhT1JzM2g5SWp3UE4xRkMzWUw2Q3MtSVBld3JkeE1RelJN?oc=5",
+      "published": "Thu, 05 Mar 2026 14:00:09 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Down 18% This Year, Is Microsoft's Stock in Trouble? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnhGWlJ5ekhmd1lOY1Rfai1RWkN5dWtnY21fRTYydF9IcnRiQlVVR1dRTEl1bnBINktTOF9XcExCS192MUJPaVZWaVZwMmloS0h0MlhuVVFnVndBZUt2T05vNGg3U21oNG90NXF0RFN3YWNQQUxrY2FxU3FvZGVtOFVERkhUVjFwNEZTT0Nub3dHSDEzWmc?oc=5",
+      "published": "Tue, 03 Mar 2026 01:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Can Microsoft Stock Defy Market Headwinds? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPME1sNTY1SUNQR3lPeGJqdXY4bTNqWlhYUnBCeFBLQjlZa0VLb2RxN0p0TU95eU81Njc0c1haVzZTRV9LbnJmbnpaTGpIcDJxZnY1cGI3UVVVZ2V5dUI0TnVfX01vUS1yb0t6Y3FUbmoxeHF3YkE5UXdIc1hjSzFxYm5EN1hOZDBzdFZyTkE5dFlhTGFYMVNXWmMzYmZ3dU15MlE?oc=5",
+      "published": "Wed, 04 Mar 2026 15:14:56 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Magnificent 7 Stock Report: Apple Leads, NVIDIA Fades, Microsoft Crashes - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xianU3U2JqaEhJTGoxYTVpclhQMjFkUmFuMFJZN2dFQmxzZjlaVEQzcmVkOS1EbktoVTZGVE50Um1fYm1YNUxjNUxLNWl3S0lGOTZBSWo3b20xeDl3ci1ramEzLXpBdGhrMVQyd0Zza1dvd0JRbXdRLW1rZjNGWlh2OXBqX2ktWllrODdybzBJR01UTkJKNUs5bXNGNDJLaHNMTjZRREJDUGJYcTlkZ0xKVQ?oc=5",
+      "published": "Thu, 05 Mar 2026 20:38:56 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Is It Time To Reconsider Microsoft (MSFT) After Recent AI And Cloud Growth Focus? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGVHUVRmRjRmODRRX2tPbnd5Y0JYa2pxeGdVczFIMkM3TVVFYXRJc29xanF4SkxGc3p6VEVzeDFMaDFHMDdfcEdJckZ4ZzI2SlZ2T29QUWRvRmh5b2VGaEFCblcyQTBoZHZCSjVOZWctd2Z6VHVzcmVHYlhlWC16dEU1ZWg0cGJkVUx5cnBIM2dLZXVNWFlKZjNKTTg1MWUtV09MSVFZUVhIYWxRWVh1dl9BRElzbXhVTDdZaGZlbUsxaDVKd0HSAcsBQVVfeXFMT29aWUlGOG9EVkdJMDJGMHlnbDh5OVVCbVhuLWl2Y1JOQTkwQ0VXOGQ1T1dQTlNXa3RzTkxUTmV4TFFfOW9TRm10aVRyNXBXa0ZwWXFHUTFva0lmQVA1d1FHTjBQSmhUUlYzQ3VweTZjWGZSUkoxTGpIeXRKSGlsbnBVSVpFWGVLYXFhME1QanNHR2JzbzJicVVsdGZiWkZjVGdTRnNSbE52RmNOWTJZOEVoRmp6clQ3aDRWa085Skx6bUZBdDZ2TDZsek0?oc=5",
+      "published": "Sun, 01 Mar 2026 12:42:27 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Microsoft Stock (NASDAQ:MSFT) Gains With New Charm Offensive for Data Centers in Michigan - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzdZRzZ4V2wzVnAxRUhOV182YUpWR0tGNjZhRk4xVDVkcWpQS01mNThFQlpGLU5sSXV4UkowTDk1Q3drcUw2TU1CZHFQbzFjREFyRWktQjdyUW03WWhHMlo2eGt0Rm1oRmViYlZjTW1jQXpwZWc2aUlNSnE2Yk1zMk1uTU9objFadXlGWnRVNzk4emZsQXlRRGVBejVLd3hYSHNGN0g3M0RaRjByOE5WaXpyWkNMX0k?oc=5",
+      "published": "Tue, 03 Mar 2026 18:37:59 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "บทความแนะนำให้ซื้อหุ้น Microsoft ในช่วงที่ราคาลดลง",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'ซื้อเมื่อราคาลดลง' ซึ่งเป็นการบ่งชี้ถึงแนวโน้มเชิงบวกที่แข็งแกร่ง"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "รายงานระบุว่าหุ้น Microsoft ร่วงลงอย่างมาก",
+        "why": "พาดหัวข่าวใช้คำว่า 'Crashes' ซึ่งบ่งบอกถึงการลดลงของราคาหุ้นอย่างรุนแรง"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "ราคาหุ้น Microsoft เพิ่มขึ้นจากโครงการใหม่สำหรับศูนย์ข้อมูลในมิชิแกน",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น Microsoft 'มีกำไร' หรือ 'เพิ่มขึ้น' ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "บทความตั้งคำถามว่า Microsoft ยังน่าสนใจอยู่หรือไม่ หลังราคาหุ้นอ่อนตัวลงและมีการร่วมมือด้าน AI",
+        "why": "พาดหัวข่าวมีการกล่าวถึงทั้ง 'ราคาหุ้นอ่อนตัวลง' (เชิงลบ) และ 'การร่วมมือด้าน AI' (เชิงบวก) โดยเป็นการตั้งคำถามเพื่อประเมินสถานการณ์โดยรวม"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "บทความตั้งคำถามถึงเวลาที่ควรพิจารณาหุ้น Microsoft อีกครั้ง หลังจากมุ่งเน้นการเติบโตด้าน AI และคลาวด์",
+        "why": "เป็นการตั้งคำถามที่เชิญชวนให้พิจารณาใหม่โดยอ้างอิงถึงปัจจัยบวกอย่าง 'การเติบโตด้าน AI และคลาวด์' ซึ่งอาจนำไปสู่แนวโน้มเชิงบวกได้ แต่ก็ยังเป็นคำถามเปิด"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 90,
+      "note": "มีทั้งสัญญาณเชิงบวกที่ชัดเจน เช่น การแนะนำให้ 'ซื้อเมื่อราคาลดลง' และหุ้นที่ 'มีกำไร' รวมถึงปัจจัยการเติบโตด้าน AI และคลาวด์ อย่างไรก็ตาม ยังมีสัญญาณเชิงลบที่ชัดเจนเช่นกันว่าหุ้น 'ร่วงลงอย่างมาก' ซึ่งทำให้ภาพรวมมีความไม่แน่นอน"
+    }
+  }
+}
