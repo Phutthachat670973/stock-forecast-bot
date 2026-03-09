@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-06",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.43,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0341 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1039 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0254 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0269 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = 0.0086 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 06 Mar 2026 17:54:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Is Apple Stock Going to $1,000? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fMHM3emlKRW9Cb0lPTlppVGQ1dU94Zl95TEFkbkNSOEFmT0hlbDc2d3AtMGhjcUdGVDU1SDZvT0d4cUJ5X2xwejB0MDlHR1ZndW9qQmN5YV9JODEwVUlMdmt5WFRJbmZpaWZCQTNaM2JTcFFNLTExNnRNWQ?oc=5",
+      "published": "Thu, 05 Mar 2026 11:54:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Who owns Apple? Institutional holdings & executives’ shares - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVpuMVlTWHBqYVg0bnl3a1ItdkhSYXJlQTgzNjlTbmd3bHhEZGNrdWIyVHcyVGY0X3Q5cFNWcFBfYlBwdi1Fc2tFLWhWbjZhclRrdjNnNG43dExhV0kwVzM5WXNYQmY4V3RJZUt0SWFHeGp5a0VSUFBLSmU3MGhXVXVzX0twMU10QmNDSWtUUHlJWlV1WFMycg?oc=5",
+      "published": "Fri, 06 Mar 2026 01:11:00 GMT",
+      "source": "Yahoo Finance Singapore"
+    },
+    {
+      "title": "Here's Why Apple (AAPL) is a Strong Momentum Stock - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5",
+      "published": "Mon, 02 Mar 2026 14:50:00 GMT",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on New MacBook Neo Launch - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0ljZkktaWpLbHNRZmJaZUx3Zk1aZ09IbDZsZGlfdjlpQUJXWmtjR1NxRW1KQkVoaXM0OTRGN2YxUTNpXy0wS25aUVRtV2hUSWh0RlF3N1laSUkwLXZGQlBwWnBtdFZwaTBNMGkxX2ZqQldCaGNhbVpURjlnejZJXzlzT3V4dGt4WVJUSURvLV9GSXhK?oc=5",
+      "published": "Sun, 08 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple, Microsoft, ServiceNow among 10 tech stocks to own amid Iran conflict: Wedbush (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEFfeFN1UFhLa21mdl9GZ1ZBaWdjNFdHRVEycWNtVGRZSGM3elBaWTVTUnhYX0RWWldaeEFBMEZ3a0JJbkdCN0hGbjAtSDBycEFzOEhYMExJa2dNMExZd0c5aUhVOTltbU9DV0NuV2pVMDFaNDBNMUE3Q3BORzNQdFRGTTNPOW5rd013MzNVOTdyaTZ3Vy05bVYxM3NUaFVaUUZ5dUV5OEFWQ3pHeWtNNXBCUE9aVDU2LWFj?oc=5",
+      "published": "Wed, 04 Mar 2026 12:50:57 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Just Unveiled the New iPhone 17e. Should You Buy, Sell, or Hold AAPL Stock Now? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVc3aXh6RTBGVjVqZHEyN0haTFBJWXpzTTJXa1lBWllndHoySXNMYXFpS2k4WnlEOW9KTi01LWdsZlQ4OUxyUTBIUW0zT2ZfRldKNzBwQ3FzeFExaWlmMEd4dk5meTdiNl9XbzdHbk9fX3RsYjVHSFJxdmFlSkJZaXJySzBVMXZDWTJVM0QzZlRLR0ZUNkpnX3NNZHRLaFRFeE91YXQxSjdNQXAwZDQ2ZzlTdldqTXZPcEx6SW5UeDBiZw?oc=5",
+      "published": "Fri, 06 Mar 2026 20:17:40 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Three firms just disclosed fresh Apple stock stakes — here’s what the filings show - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJXeXFqVWoyb0g0c2FQMU0wa2hQTFNOSXg2X2ZCbklhNEZrUlhDb1JaV201M3BYTkJvelhjdFIweW5IdFlfcDMxYVVUeDcybnhHRXZxUzI1RTQ3Z2tUaEZpOTZGM0Q3anFVSEpGbDQyajRSekU5MTdrMXlYLVVnV0FKUU83aVkzaFZTUk5FalJiaEZDb3JaV0p4S0tWcjE1MHc?oc=5",
+      "published": "Mon, 02 Mar 2026 11:59:00 GMT",
+      "source": "TechStock²"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ข่าวนี้ระบุว่า Apple (AAPL) เป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง",
+        "why": "การถูกจัดว่าเป็น 'Strong Momentum Stock' มักจะดึงดูดความสนใจจากนักลงทุนและอาจส่งผลดีต่อราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ข่าวนี้กล่าวถึงความคิดเห็นเกี่ยวกับ Apple Stock (AAPL) หลังจากเปิดตัว MacBook Neo ใหม่",
+        "why": "การเปิดตัวผลิตภัณฑ์ใหม่มักเป็นปัจจัยสำคัญต่อหุ้น แต่พาดหัวข่าวไม่ได้ระบุว่าความคิดเห็นเหล่านั้นเป็นบวกหรือลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Wedbush แนะนำให้ซื้อหุ้น Apple (AAPL) ท่ามกลางความขัดแย้งกับอิหร่าน",
+        "why": "การที่นักวิเคราะห์แนะนำให้ 'own' หรือถือหุ้นเป็นสัญญาณเชิงบวกที่ชัดเจน"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "Apple ได้เปิดตัว iPhone 17e ใหม่ และพาดหัวข่าวตั้งคำถามว่าควรซื้อ, ขาย หรือถือหุ้น AAPL ตอนนี้",
+        "why": "การเปิดตัว iPhone ใหม่เป็นเหตุการณ์สำคัญ แต่พาดหัวข่าวไม่ได้ให้คำแนะนำโดยตรงว่าเป็นเชิงบวกหรือลบต่อราคาหุ้น เพียงแต่ตั้งคำถามเพื่อการพิจารณา"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บริษัทสามแห่งเปิดเผยการถือครองหุ้น Apple เพิ่มเติม",
+        "why": "การที่บริษัทลงทุนเปิดเผยการถือครองหุ้น Apple เพิ่มเติม มักแสดงถึงความเชื่อมั่นและอาจเป็นสัญญาณเชิงบวกต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "พาดหัวข่าวส่วนใหญ่ชี้ไปในทิศทางเชิงบวกสำหรับ Apple รวมถึงการแนะนำจากนักวิเคราะห์ การถือครองหุ้นโดยบริษัท และการระบุว่าเป็นหุ้นที่มีโมเมนตัมแข็งแกร่ง แม้ว่าจะมีการเปิดตัวผลิตภัณฑ์ใหม่ที่ยังไม่สรุปผลในพาดหัวข่าว แต่ก็ไม่ได้บ่งชี้ถึงผลกระทบเชิงลบ"
+    }
+  }
+}
