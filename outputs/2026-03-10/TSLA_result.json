@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-09",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4795,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1475 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0267 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0392 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0117 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0135 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTRFMGlkaTAtb1lycW9MTjN4al9jcHYtb05xVU4tbGRWTVpFVEZ4WmdrTllLdmZsR05LTE9hVjljV0FOQnVjNjA4UHJGNTk1Ty1Yc3ZGcmZfS2VKaDNSU1Nyd1MyaTg5aUJyVkpVYWFmczA2TXhxOUljMHBKSXQ0ZWZ5Vkc0bmV3RV9JSXN1UlRPNVZ6OUlPVg?oc=5",
+      "published": "Thu, 05 Mar 2026 20:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Bank of America Is Bullish on Tesla Again. Is That a Reason to Buy TSLA Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkpoTTVuYWExR2FaZ3oyeElFTmJzOXRGTmdKeUExWm1YZG9KNFJBaE0wNWRYMk84UHU1bFozZUhxUTZyVThFSTNTNnB2VWtTelhWcExuQ1dicVhSTVZ6dWdYb2w5aDRPbG4yeEl4TVpPWDRadHduWi1BRzZwcC1Qalkzc1M?oc=5",
+      "published": "Sat, 07 Mar 2026 14:00:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Tesla Stock Price Targets on Wall Street Are Useless - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTDZjSFFfSmlsNS11T3BrVVI5MVVNUnZYc3BZYjF5Z3dkaTRaa2gxbHI3RTFWd0lFOEl3bmhUaXlEN2lxenh2OUdrNzAtX3RCZmM3ZWw5d2hzem1heU5jalZUNmtCZ2JQYUxEZjR0ZXRubXFmU3NBV2daVkswbG9GOG5rRi1xaV9HclRvNjYwaGZ0Y3A2aWNxN2lMVzJ5enlFWElHMzVWSTRzbzNUQzZiSGZDZHR5NlE0dHJhNno5RldpVzlnZ3N1M2RTMDI4WmJpc0ZFSnAxSlJsWmdYRk0wd0JzZjBZZ3QxT21uZHR6dUR1b0NOLWQ4NF90NVhBRE10eUhJaVVyMUxhd2xoUnBhQjhKWk5LNTlQQUtTRHJ3Y0p3cEtrNjI1NlBWUlZZSnJaYjdOR3B5VlBRN1M0a3M5MlVxdHVXTEdPLVNPcHdZaElSWkhwVXoxZ01wTjJEeWtzQkVtVWZUOXlWRE12TUhXYnI1RDFJQm1raG8w?oc=5",
+      "published": "Thu, 05 Mar 2026 09:16:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTURwWk1ERWN2UHdxZm5jRW9OR1daQ0FyQmc3X0s5a3BtdEE2UVNKQXRLWE42aXVlV21MRUlRN3pLTEVBSmlWWFktaUw2QXJoSnM1a1FnLXMteUxHaW1rNFdSQ0pHYUNFeVMwVmJ3X25ST3lJdnN4STk4ZXduZHdWaEZMSTRaN0JWanBzNVpHN2hlMXYxS1V3VWlLR3YyUjFzOV9iaDRGR1pEZXZ3aXVlLWg3T0RMTnBteTRhRkl3?oc=5",
+      "published": "Mon, 09 Mar 2026 20:02:56 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "“Monolithic Structure”: Tesla Stock (NASDAQ:TSLA) Slides Despite First Megacharger in California - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVRoRV9ELVRqaC1aa0h4cFBzaU1FR3dBOThaT0NTMld3SEJuT2F5UG1QekdNSkVsZnc5M0xBU2lRcGx1TlNPY2trQmFrekVLSUptblM5Z2s0UnhHRU01OXVXV2hxV0pES21LRDM4djJLb3NGbDdxeVQyX2VqRzJ6UV93eXZpamdCMmxHWWkwM1BJbzJHbUc4aWRkbWdoWWp6aE1UMjc5OUMyVU5hRUZIczZDaWd3Y2NGUHQ1cg?oc=5",
+      "published": "Mon, 09 Mar 2026 17:02:53 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla Stock Is Rising as It Gets a New Vote of Confidence From Wall Street - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1dVSTdlWlJyS3JUTzdyOTEzdmtveVRvcU13UlZzOE1zUVRyY0dUbGZkeUdlS040SWQ5U0pKU2xUcmh4TmFnaXpEb1dIb2NuX0lkOElXSFVENTBqWnNac0tEbEgyUFVqQWVpb1JPVkZlNW1CZW1rQ201OFZnekh3aE9SMXBKdm9nUHZZWkJqWFRzbWp5RmNfaF9fZWI2UVowWGdLN0J2czhzM3FtTFhCNzJiYmFndV93T2p5Sw?oc=5",
+      "published": "Wed, 04 Mar 2026 19:10:45 GMT",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Is Tesla (TSLA) Pricing Too Much Future Growth After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaDM2Z3p4TW5hRlpXbDNmVE1lem12d3h4ZG1ocWNxNXpSMXpUUU9IUG9lOFFuNjQ2ZmZGOEFDdnFMSTdRbGhyeHk2U0dpMXQ3TWNmLTE3SXJFanhuNXVQUlBsdVBVck9ZWm9rcU83VG9yR1VHU181YTExekhIZHZYbERnLVBhNllscUQ3OVVrVF9teFFHUGpsNFFIWHdHelQxYlJFbEgwaW05akl2LW0zV2lLcE9JNUlGVG1JWFd5X21SY3FBbmfSAcsBQVVfeXFMTS1Ec2swSEdVcHNMM3lCRGh3ZDVWcmhDT2JPcGZObzFnX0xLN3FPbURwWmVHNUtZaGJ6Z1p0VTBwRjJ6MFl4UFV1UXduY1pWZHQtSk91VTRlOFRwNC1kYzMtc0NtZXFob3FuT2hGS09tckJJT3VqTVVqRm1KcUhON2ZSdFpjT0w4eS1aekhpUVJwdVZfb0FuTjR5WWNjcmFuZ1BFVHdLamdFNFBCLS15OWlwcmhHNF91cmU2M0hpSFZwZ3ZndTN4aDVLUjg?oc=5",
+      "published": "Sun, 08 Mar 2026 11:38:58 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Why Tesla stock (TSLA) falls as NHTSA probe into FSD vehicles and March 9 deadline spark investor concerns - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNmxlZmlVSlVYN0w2c0xBVEpaNHByVDR4eGNPTE1JVS1OM3JEN2pYc1ZkNVNRYW0zdm9KVUJKZkMtMHF3LUZkODQ4bDREQ0FRZXRrTEtQaU1OYXU5dm9GeGRGQzIxT2w0ZEgtQ3FLS2phOTczdUFLYWpJTVpOYVY3am1RSFZUcllEYnVyZDh6ZDdoVGhRQ0JxT0VVRjVmM2FNeXRsajZ1NU9IYk5hZ0pFUzAzOG5LcThfUWpHendEakZFOEVQUzZybURRNDd1TzgxMy1oM2w0VDliQUk0MWk4bWNpWkxvb243aHlHTVUzS3lxdXhjWnlvYTczdm5MbFFSVWNjV09aVWc4aE5u0gGSAkFVX3lxTFBFaWhCUmZuOXpidzRkNnhDMTF1MW9FTnpBUDZDZ05tdnBZTHNhWDd2bHRiTkNIN3lsZTNnRGp1c0dCQW81MlZFS3REdWcxR3hLVVZKYnZ2d25VMTM4R0dQSWQtVF9uMHoxSS1fVUR0N3huNzQxbjA4MVp1ejhBdGlrMVMtbUJfQ3hPYjE4U19nOWEwNDFtQjRFMUhXMzVLdVRlaWRUZE5jYmFTMjhPQ2V0bU5CZE9ZZGprdVBQWEJBcHRMVFc4X1lGT1hmQTdMbXNVdnFrQXJRVTVJckRaQU1tQjRjU3Q3ZDI5WnB4V3BjM3dxNTJzSE9aN05NOXo5a3FBR0Ywc1RMWDdwamVuMWNCSGc?oc=5",
+      "published": "Mon, 09 Mar 2026 12:23:18 GMT",
+      "source": "The Economic Times"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "การเปลี่ยนแปลงเชิงกลยุทธ์ที่กล้าหาญของหุ้น Tesla อาจเป็นสัญญาณของโอกาสสำคัญ",
+        "why": "หัวข้อระบุถึง 'การเปลี่ยนแปลงเชิงกลยุทธ์ที่กล้าหาญ' ของหุ้น Tesla ที่ 'อาจส่งสัญญาณถึงโอกาสสำคัญ' ซึ่งเป็นมุมมองเชิงบวก"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Bank of America กลับมามีมุมมองเชิงบวกต่อ Tesla อีกครั้ง",
+        "why": "หัวข้อระบุอย่างชัดเจนว่า 'Bank of America กลับมามีมุมมองเชิงบวกต่อ Tesla อีกครั้ง' ซึ่งบ่งชี้ถึงความเชื่อมั่นเชิงบวกจากสถาบันการเงิน"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Lucid และ Rivian ปรับตัวขึ้น ขณะที่หุ้น Tesla (TSLA) ล้าหลัง",
+        "why": "หัวข้อระบุว่า 'หุ้น Tesla (TSLA) ล้าหลัง' เมื่อเทียบกับหุ้นคู่แข่งที่ปรับตัวขึ้น แสดงถึงผลการดำเนินงานที่แย่กว่า"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla (NASDAQ:TSLA) ปรับตัวลดลง แม้จะมี Megacharger แห่งแรกในแคลิฟอร์เนีย",
+        "why": "หัวข้อระบุว่า 'หุ้น Tesla (NASDAQ:TSLA) ปรับตัวลดลง' ซึ่งเป็นสัญญาณเชิงลบ แม้จะมีข่าวดีเกี่ยวกับการเปิด Megacharger ก็ตาม"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla (TSLA) ปรับตัวลดลง เนื่องจากหน่วยงาน NHTSA ตรวจสอบยานพาหนะ FSD และสร้างความกังวลให้กับนักลงทุน",
+        "why": "หัวข้อระบุอย่างชัดเจนว่า 'หุ้น Tesla (TSLA) ปรับตัวลดลง' และให้เหตุผลคือ 'การสอบสวนของ NHTSA' และ 'ความกังวลของนักลงทุน' ซึ่งเป็นปัจจัยเชิงลบ"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีสัญญาณทั้งเชิงบวกและเชิงลบจากหัวข้อข่าวที่เลือก แต่ข่าวล่าสุดบางส่วนระบุถึงการปรับตัวลดลงของราคาหุ้นและปัจจัยกดดัน"
+    }
+  }
+}

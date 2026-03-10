@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-09",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4891,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1875 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0794 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0647 → หนุนขึ้น",
+    "- โมเมนตัม 5 วัน = 0.0271 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0194 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "OpenAI Funding Gives Microsoft (MSFT) Stock Breathing Space - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1piV0ZPRXBFbVdaOHp4a3M0djQtREo4NTRjVUpDemJ2V1BlTkMzWVB1emFIb2wtVWo1bFpGY3IyaXpzVHZKcjhEMmJxOUtzenR1UFlhNDVUbXJnQnM5RDFSU1FlejAzWXpRTGdLbG1KRjBIclY1cXpBUHNCTko0c2ZTQVdiVkpB?oc=5",
+      "published": "Thu, 05 Mar 2026 00:43:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft: Buy The Dip, Or Regret It Forever (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMThVd3BOU2h1MElGSjA2VVBUb3RNZkhKa2s0dnJvOWRRbGlHNkRReGloRVVxTC1ZNC0tZlBSbS1NUlBKUUo5YzI2bDNxQXd4S0NVZTNPa0FrNGxzNXA4bG53WmgyZVpLOVJhT1JzM2g5SWp3UE4xRkMzWUw2Q3MtSVBld3JkeE1RelJN?oc=5",
+      "published": "Thu, 05 Mar 2026 14:00:09 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Bucks Market Melt Down As Drones Hit Data Centers In Middle East; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUhYZ2JNQ0ozMUtETFAtZjlvblZZYWVSaVZJRlR0bXRMTENVcDdQLVhRem85T2pnenVvYjBtN3REaVVFRHhIWXBYY0QwT0Vka09nS1VKVS16Y09pMVIybFpWcWNwdkdxRktSaFJnRnFFSERTVHB0bmV6b1JwUlQ5SFlyeHlEQ0RR?oc=5",
+      "published": "Tue, 03 Mar 2026 20:44:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Can Microsoft Stock Defy Market Headwinds? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPME1sNTY1SUNQR3lPeGJqdXY4bTNqWlhYUnBCeFBLQjlZa0VLb2RxN0p0TU95eU81Njc0c1haVzZTRV9LbnJmbnpaTGpIcDJxZnY1cGI3UVVVZ2V5dUI0TnVfX01vUS1yb0t6Y3FUbmoxeHF3YkE5UXdIc1hjSzFxYm5EN1hOZDBzdFZyTkE5dFlhTGFYMVNXWmMzYmZ3dU15MlE?oc=5",
+      "published": "Wed, 04 Mar 2026 15:14:56 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Should You Buy Microsoft Stock After Its 25% Correction, or Run for the Hills? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjFDME1uaXRoMFVwdmpDVThUblV1Ui1sZnZKT2dBVzZLVDNWX2ZINEUxNkhJbnBWRkVPckt4X3FEME9Ga2lMaEc0Um04T1FBcFpidzQtbXVOMTJfVkxNLUx2UU5UWE1kb2Q5b3NKSV9nRV9SSTJtaTJXRUxXNjBhUTNsbVBhX3Y1VllnOC1teXF6ZWs2Slh4ZQ?oc=5",
+      "published": "Sun, 08 Mar 2026 09:54:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Magnificent 7 Stock Report: Apple Leads, NVIDIA Fades, Microsoft Crashes - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xianU3U2JqaEhJTGoxYTVpclhQMjFkUmFuMFJZN2dFQmxzZjlaVEQzcmVkOS1EbktoVTZGVE50Um1fYm1YNUxjNUxLNWl3S0lGOTZBSWo3b20xeDl3ci1ramEzLXpBdGhrMVQyd0Zza1dvd0JRbXdRLW1rZjNGWlh2OXBqX2ktWllrODdybzBJR01UTkJKNUs5bXNGNDJLaHNMTjZRREJDUGJYcTlkZ0xKVQ?oc=5",
+      "published": "Thu, 05 Mar 2026 20:38:56 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft Stock (NASDAQ:MSFT) Gains With New Charm Offensive for Data Centers in Michigan - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzdZRzZ4V2wzVnAxRUhOV182YUpWR0tGNjZhRk4xVDVkcWpQS01mNThFQlpGLU5sSXV4UkowTDk1Q3drcUw2TU1CZHFQbzFjREFyRWktQjdyUW03WWhHMlo2eGt0Rm1oRmViYlZjTW1jQXpwZWc2aUlNSnE2Yk1zMk1uTU9objFadXlGWnRVNzk4emZsQXlRRGVBejVLd3hYSHNGN0g3M0RaRjByOE5WaXpyWkNMX0k?oc=5",
+      "published": "Tue, 03 Mar 2026 18:37:59 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Down 15% in 2026, Should You Buy the Dip in Microsoft Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUpHcTRlNFNnXy1OVjNKMjRLdGZVZF9SQWdfN3NnSVlkSXRhdjJxMHcySVFhZTVnQ0ZIcDYzT0NXdHczYjlwZnFCNXFHZmpDNE9JNWVIczJQTm9FX0tobGRoeFF0dUpWQlJrbXB3ZF81aXRPb0NSUlZLeU4zMmJEcURLWks4WDNQZU9lcW9hWGNfZ3BzcUVQSVhkdlVZYjFVQ1E?oc=5",
+      "published": "Thu, 05 Mar 2026 21:42:47 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "การระดมทุนของ OpenAI ทำให้หุ้น Microsoft (MSFT) มีพื้นที่ให้หายใจ",
+        "why": "พาดหัวข่าวระบุว่าการระดมทุนของ OpenAI ซึ่งเป็นพันธมิตรสำคัญของ Microsoft ในด้าน AI ส่งผลเชิงบวกต่อหุ้น MSFT"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Microsoft: ซื้อตอนราคาตก หรือจะเสียใจตลอดไป",
+        "why": "พาดหัวข่าวแนะนำอย่างชัดเจนให้ซื้อหุ้น MSFT ในช่วงที่ราคาลดลง โดยบ่งชี้ถึงโอกาสในการทำกำไรในอนาคต"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "Microsoft ต้านทานภาวะตลาดล่มสลายในขณะที่โดรนโจมตีศูนย์ข้อมูลในตะวันออกกลาง; ตอนนี้ควรซื้อ Microsoft หรือไม่?",
+        "why": "พาดหัวข่าวเน้นย้ำถึงความสามารถของ Microsoft ในการต้านทานภาวะตลาดตกต่ำ ซึ่งบ่งชี้ถึงความแข็งแกร่งและโอกาสในการซื้อหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "รายงานหุ้น Magnificent 7: Apple นำ, NVIDIA อ่อนแรง, Microsoft ร่วงหนัก",
+        "why": "คำว่า 'Microsoft ร่วงหนัก' บ่งชี้ถึงประสิทธิภาพของหุ้น MSFT ที่ลดลงอย่างมีนัยสำคัญ"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Microsoft (NASDAQ:MSFT) ได้รับแรงหนุนจากกลยุทธ์สร้างศูนย์ข้อมูลใหม่ในมิชิแกน",
+        "why": "พาดหัวข่าวระบุว่าหุ้น MSFT มีการปรับตัวขึ้น ('Gains') และมีแผนการลงทุนเชิงกลยุทธ์ใหม่ๆ ซึ่งเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 88,
+      "note": "จากพาดหัวข่าวที่เลือกมา มีพาดหัวข่าวส่วนใหญ่ (4 ใน 5) บ่งชี้ถึงแนวโน้มเชิงบวกสำหรับหุ้น Microsoft"
+    }
+  }
+}
