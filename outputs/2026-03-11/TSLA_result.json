@@ -1,0 +1,66 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-10",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4658,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0230 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0375 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0176 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0247 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0138 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTRFMGlkaTAtb1lycW9MTjN4al9jcHYtb05xVU4tbGRWTVpFVEZ4WmdrTllLdmZsR05LTE9hVjljV0FOQnVjNjA4UHJGNTk1Ty1Yc3ZGcmZfS2VKaDNSU1Nyd1MyaTg5aUJyVkpVYWFmczA2TXhxOUljMHBKSXQ0ZWZ5Vkc0bmV3RV9JSXN1UlRPNVZ6OUlPVg?oc=5",
+      "published": "Thu, 05 Mar 2026 20:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Bank of America Is Bullish on Tesla Again. Is That a Reason to Buy TSLA Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkpoTTVuYWExR2FaZ3oyeElFTmJzOXRGTmdKeUExWm1YZG9KNFJBaE0wNWRYMk84UHU1bFozZUhxUTZyVThFSTNTNnB2VWtTelhWcExuQ1dicVhSTVZ6dWdYb2w5aDRPbG4yeEl4TVpPWDRadHduWi1BRzZwcC1Qalkzc1M?oc=5",
+      "published": "Sat, 07 Mar 2026 14:00:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Tesla Stock Price Targets on Wall Street Are Useless - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOV1ZWZm9LQkp5c2hhdWNiS3d2TWNhc190SFZSOXVPdWNKRjU5eHd2aDNqVFhGNWtOZFc4dkFBVGFDd2pvM3BuUUFiYl9Da0RKZDBCTVZjeHQyVGlNMjRNOHIyand4SHVPQXZic21heFBCdEExck1LTDVHZDRKeXFOT0taWGs0aC1PMGJEbHNQemFVS19NR1A2aVJ4aU9UVVZnVWlUZW5JQl9mMXU5MHg5MmFkYm9QcnFZczZFdnZKLXlNY2xPSGJTb2tXMDdxakJ3REdxQ0NqNG1SREs3VEpkSmgxN3JwTnZrbmh6MGlkYWZmWEFIV29Wb09Ud2NPTmM5V2prV2gtcThvb1Q3TVJYajhwbjJodElaT0tRUENsaDJ3V1JhY3NLb0ZVWnoyQ0tfRHQ3emlTM3dheXc3aVIwb24tdDFvSUdRa3BiS2pPWDVzQWFrTWl0bTllYzM0NU00bG5GMXFESTVMMUhqeGg1LWVwa0U4XzhmeWdF?oc=5",
+      "published": "Thu, 05 Mar 2026 09:16:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTURwWk1ERWN2UHdxZm5jRW9OR1daQ0FyQmc3X0s5a3BtdEE2UVNKQXRLWE42aXVlV21MRUlRN3pLTEVBSmlWWFktaUw2QXJoSnM1a1FnLXMteUxHaW1rNFdSQ0pHYUNFeVMwVmJ3X25ST3lJdnN4STk4ZXduZHdWaEZMSTRaN0JWanBzNVpHN2hlMXYxS1V3VWlLR3YyUjFzOV9iaDRGR1pEZXZ3aXVlLWg3T0RMTnBteTRhRkl3?oc=5",
+      "published": "Mon, 09 Mar 2026 20:02:56 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Mon, 09 Mar 2026 17:59:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "“Monolithic Structure”: Tesla Stock (NASDAQ:TSLA) Slides Despite First Megacharger in California - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVRoRV9ELVRqaC1aa0h4cFBzaU1FR3dBOThaT0NTMld3SEJuT2F5UG1QekdNSkVsZnc5M0xBU2lRcGx1TlNPY2trQmFrekVLSUptblM5Z2s0UnhHRU01OXVXV2hxV0pES21LRDM4djJLb3NGbDdxeVQyX2VqRzJ6UV93eXZpamdCMmxHWWkwM1BJbzJHbUc4aWRkbWdoWWp6aE1UMjc5OUMyVU5hRUZIczZDaWd3Y2NGUHQ1cg?oc=5",
+      "published": "Mon, 09 Mar 2026 17:02:53 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla (TSLA) VP of Finance leaves after 17 years as executive exodus grows - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmNLcEJyTGdOZUpPd3laX3MtSnFYVm11Q3M5LXdCWXhlRl9rTXhHc0VFcnFzZmRuZVpRSHlLTGhNM3BqdXN1bUs2UGpjSFg5M2Y0a0Z0Z1pINGRZdWlrcENvOG1HVHJ0bzZJczFmOTczcERVMUU0dFlNRkhhenYycDF3anM?oc=5",
+      "published": "Tue, 10 Mar 2026 14:29:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Tesla Stock Is Rising as It Gets a New Vote of Confidence From Wall Street - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1dVSTdlWlJyS3JUTzdyOTEzdmtveVRvcU13UlZzOE1zUVRyY0dUbGZkeUdlS040SWQ5U0pKU2xUcmh4TmFnaXpEb1dIb2NuX0lkOElXSFVENTBqWnNac0tEbEgyUFVqQWVpb1JPVkZlNW1CZW1rQ201OFZnekh3aE9SMXBKdm9nUHZZWkJqWFRzbWp5RmNfaF9fZWI2UVowWGdLN0J2czhzM3FtTFhCNzJiYmFndV93T2p5Sw?oc=5",
+      "published": "Wed, 04 Mar 2026 19:10:45 GMT",
+      "source": "Investopedia"
+    }
+  ],
+  "ai_news": null
+}

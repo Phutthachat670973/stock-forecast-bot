@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-10",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4036,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.3141 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0420 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0160 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0113 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0034 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple's Latest Move Is a Brilliant One, and It Could Be a Game Changer for the Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFUyel9ObFZEdFZBS2dQWURMbWdiYktobGlvcjlEOGZ3WWVROWRBWnI1VXpiTXlCOVg5QWpZdG03bGI1UFQ2N3U5OEswRXVxV3lKUHhKQXRJMk9KYVBlcFgzeE1iekNZODF4S3BOV2FabUtKRWFEYWI2RktxMVBnX2pkMVU0MW54M290dWljTGl2YmtmcTBycA?oc=5",
+      "published": "Mon, 09 Mar 2026 22:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Mon, 09 Mar 2026 17:59:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Here’s How YCG’s Strategy of Buying Cyclically Unprofitable Stock, Apple (AAPL), Has Paid Off - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG53bFdLaGFMeWdMWHR2M3FPenRSRnl5OVZvekRuSnZ5QmN6QzJRaVozZThZbU5fMHlZSEVPVVRxRFVjUlNlTmoyT2ZCRzY5ckRJYmx1LVFHWkU5UVVrVmU1WWN3MWY1c3l3YlFDMkEwdldoQ0xlZjFuS2JsVmprNHl2LWxUMmRBR3RicFpzTTdaTDA?oc=5",
+      "published": "Mon, 09 Mar 2026 15:53:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on New MacBook Neo Launch - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0ljZkktaWpLbHNRZmJaZUx3Zk1aZ09IbDZsZGlfdjlpQUJXWmtjR1NxRW1KQkVoaXM0OTRGN2YxUTNpXy0wS25aUVRtV2hUSWh0RlF3N1laSUkwLXZGQlBwWnBtdFZwaTBNMGkxX2ZqQldCaGNhbVpURjlnejZJXzlzT3V4dGt4WVJUSURvLV9GSXhK?oc=5",
+      "published": "Sun, 08 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple, Microsoft, ServiceNow among 10 tech stocks to own amid Iran conflict: Wedbush (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSEFfeFN1UFhLa21mdl9GZ1ZBaWdjNFdHRVEycWNtVGRZSGM3elBaWTVTUnhYX0RWWldaeEFBMEZ3a0JJbkdCN0hGbjAtSDBycEFzOEhYMExJa2dNMExZd0c5aUhVOTltbU9DV0NuV2pVMDFaNDBNMUE3Q3BORzNQdFRGTTNPOW5rd013MzNVOTdyaTZ3Vy05bVYxM3NUaFVaUUZ5dUV5OEFWQ3pHeWtNNXBCUE9aVDU2LWFj?oc=5",
+      "published": "Wed, 04 Mar 2026 12:50:57 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Just Unveiled the New iPhone 17e. Should You Buy, Sell, or Hold AAPL Stock Now? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVc3aXh6RTBGVjVqZHEyN0haTFBJWXpzTTJXa1lBWllndHoySXNMYXFpS2k4WnlEOW9KTi01LWdsZlQ4OUxyUTBIUW0zT2ZfRldKNzBwQ3FzeFExaWlmMEd4dk5meTdiNl9XbzdHbk9fX3RsYjVHSFJxdmFlSkJZaXJySzBVMXZDWTJVM0QzZlRLR0ZUNkpnX3NNZHRLaFRFeE91YXQxSjdNQXAwZDQ2ZzlTdldqTXZPcEx6SW5UeDBiZw?oc=5",
+      "published": "Fri, 06 Mar 2026 20:17:40 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Rep. David Taylor Sells Apple Inc. (NASDAQ:AAPL) Stock - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOENTWExCc21ZY0tqQ2ZnS2d3ZmI0bWpPVUZneWlDT05qVFNsX3EybnhOVVJULXEteElUNldqVWtlaVF3djBPdjE0Qnc3bkd0MjVJaFFYdUhueUNGUm5LYzlvb1lQT291MDk1ZXpuSFJfQnVNZ3U0Vm01NW1zdTV6UmY2NmdjbFZ6WWlGYWxxZzdEMmUyRDRIbWN1UUoxZWNXc0dPZlB3?oc=5",
+      "published": "Tue, 10 Mar 2026 06:08:40 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple (AAPL) Stock Gets $350 Target From Wedbush as One Pre-IPO Entry Quietly Targets 267x Returns - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEVwT0VJMzJQSTBJbllWWngzcVV6SC1BTC0xdDl4RHIxNFpnMVBoT3dCazNacXB6Q3hjOVlRZUZtbnRrX3N4T20yNzcwblRUTEhtSkJScXhOWTJpckN6WWR3eVkwcFBmaFFZWFYzTXg4VjdmLThCOHdMX3NqYzEwYnY2dUJGNzFyNG1LQjZRTFpVdng1TDFFWEhPa3U?oc=5",
+      "published": "Sun, 08 Mar 2026 00:20:45 GMT",
+      "source": "openPR.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่าการเคลื่อนไหวล่าสุดของ Apple เป็นสิ่งที่ยอดเยี่ยมและอาจเปลี่ยนแปลงเกมสำหรับหุ้นได้",
+        "why": "คำว่า 'Brilliant One' (ยอดเยี่ยม) และ 'Game Changer' (ตัวเปลี่ยนเกม) ที่ใช้ในพาดหัวข่าวบ่งชี้ถึงผลกระทบเชิงบวกอย่างมากต่อหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "พาดหัวข่าวรายงานว่า ส.ส. David Taylor ได้ขายหุ้น Apple Inc. (NASDAQ:AAPL)",
+        "why": "การที่ ส.ส. ขายหุ้นของบริษัทมักถูกตีความว่าเป็นสัญญาณเชิงลบสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่าหุ้น Apple (AAPL) ได้รับราคาเป้าหมาย 350 ดอลลาร์จาก Wedbush และมีการกล่าวถึงการลงทุนก่อน IPO ที่ตั้งเป้าผลตอบแทน 267 เท่า",
+        "why": "การได้รับราคาเป้าหมายที่สูงจาก Wedbush และการกล่าวถึงผลตอบแทนที่สูงมาก (267 เท่า) จากการลงทุนก่อน IPO ล้วนบ่งชี้ถึงมุมมองที่เป็นบวกต่อหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวจาก Wedbush ระบุว่า Apple เป็นหนึ่งใน 10 หุ้นเทคโนโลยีที่ควรเป็นเจ้าของท่ามกลางความขัดแย้งกับอิหร่าน",
+        "why": "การที่ Apple ถูกจัดอยู่ในรายชื่อ '10 tech stocks to own' (10 หุ้นเทคโนโลยีที่ควรเป็นเจ้าของ) โดย Wedbush เป็นคำแนะนำเชิงบวกอย่างชัดเจน"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวอธิบายว่ากลยุทธ์การซื้อหุ้น Apple (AAPL) ที่ก่อนหน้านี้ไม่ทำกำไรตามวัฏจักรของ YCG ได้ผลตอบแทนอย่างไร",
+        "why": "วลี 'Has Paid Off' (ได้ผลตอบแทน) ในพาดหัวข่าวบ่งชี้ถึงความสำเร็จของการลงทุนและผลลัพธ์ที่เป็นบวกสำหรับหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 90,
+      "note": "โดยรวมแล้ว พาดหัวข่าวที่เลือกส่วนใหญ่บ่งชี้ถึงแนวโน้มเชิงบวกสำหรับหุ้น Apple โดยมีสี่ข่าวเป็นบวกและหนึ่งข่าวเป็นลบ"
+    }
+  }
+}
