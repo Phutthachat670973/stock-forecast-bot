@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-11",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4877,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0700 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0365 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0230 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0140 → กดลง",
+    "- โมเมนตัม 5 วัน = 0.0046 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "TSLA Stock: Analyzing The 80% Rally - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUk9wVV8wcklaTzBOdlVYczdia3h5LUVqSFRXQmtMN0xMd0duaFJkcjhjclNnbDNQa3hHNVNlNk9Hdlo4UVhfazVKYnV4TzJpMzAyb2lvV2Y3c1FjdDhWTmRLWTd4S2VaQzJ4V0lWQ0NJRHA1RHZHZVNjeG1ZNG1Eb0NkVm54NmxoaWlJVU9sZUVodkN5V2dr?oc=5",
+      "published": "Wed, 11 Mar 2026 13:13:36 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Bank of America Is Bullish on Tesla Again. Is That a Reason to Buy TSLA Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkpoTTVuYWExR2FaZ3oyeElFTmJzOXRGTmdKeUExWm1YZG9KNFJBaE0wNWRYMk84UHU1bFozZUhxUTZyVThFSTNTNnB2VWtTelhWcExuQ1dicVhSTVZ6dWdYb2w5aDRPbG4yeEl4TVpPWDRadHduWi1BRzZwcC1Qalkzc1M?oc=5",
+      "published": "Sat, 07 Mar 2026 14:00:02 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTRFMGlkaTAtb1lycW9MTjN4al9jcHYtb05xVU4tbGRWTVpFVEZ4WmdrTllLdmZsR05LTE9hVjljV0FOQnVjNjA4UHJGNTk1Ty1Yc3ZGcmZfS2VKaDNSU1Nyd1MyaTg5aUJyVkpVYWFmczA2TXhxOUljMHBKSXQ0ZWZ5Vkc0bmV3RV9JSXN1UlRPNVZ6OUlPVg?oc=5",
+      "published": "Thu, 05 Mar 2026 20:05:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTURwWk1ERWN2UHdxZm5jRW9OR1daQ0FyQmc3X0s5a3BtdEE2UVNKQXRLWE42aXVlV21MRUlRN3pLTEVBSmlWWFktaUw2QXJoSnM1a1FnLXMteUxHaW1rNFdSQ0pHYUNFeVMwVmJ3X25ST3lJdnN4STk4ZXduZHdWaEZMSTRaN0JWanBzNVpHN2hlMXYxS1V3VWlLR3YyUjFzOV9iaDRGR1pEZXZ3aXVlLWg3T0RMTnBteTRhRkl3?oc=5",
+      "published": "Mon, 09 Mar 2026 20:02:56 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock Forecast | FSD Data Filing with NHTSA - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqQ2hQclFYRnp6UGtPbzF1TFRGVTZkb3FVd3J4dnVBY1U5SDEzd1RyYlJrTUN6Z01LbEFCenpKWHdfRHFtQzhaS20zeWJQWC1TbHpiWFFqdzJoeU43UGVLRU5pOGVMT0p2c2l6TUkzWEIxR3FVeDJBczlMMDhVUQ?oc=5",
+      "published": "Wed, 11 Mar 2026 11:24:58 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "“Monolithic Structure”: Tesla Stock (NASDAQ:TSLA) Slides Despite First Megacharger in California - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVRoRV9ELVRqaC1aa0h4cFBzaU1FR3dBOThaT0NTMld3SEJuT2F5UG1QekdNSkVsZnc5M0xBU2lRcGx1TlNPY2trQmFrekVLSUptblM5Z2s0UnhHRU01OXVXV2hxV0pES21LRDM4djJLb3NGbDdxeVQyX2VqRzJ6UV93eXZpamdCMmxHWWkwM1BJbzJHbUc4aWRkbWdoWWp6aE1UMjc5OUMyVU5hRUZIczZDaWd3Y2NGUHQ1cg?oc=5",
+      "published": "Mon, 09 Mar 2026 17:02:53 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "How Tesla Stock Gained 80% - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDU4U2lCUW9ZeEtsR3dGM2dJTVRQNHN5ZkVhOTVOb2RENVRLdmNNWld2MmpSLTBETGZVNTUwNjVMdDVXUVhiazZzZ3NNdS1fbWxjcDRNVEFhQ1lOdnc5ZmxoVHpWRWdndENYTnBSdHJQWm9DZGhQWnBuTmZkblpRcHZKcnl2eGFJRTNMX0hKTG4?oc=5",
+      "published": "Wed, 11 Mar 2026 05:39:33 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Tesla Inc Stock (TSLA) Moved Up by 3.27% on Mar 11: A Full Analysis - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdV9GVkNfSlBDMUJaRmtBN3A1V1NCaS1NREJDUHBSR1FVRmVMUzBOTUxyaHpnVUtzRkQybDhJYmlHb0tvTDRYM1piM0JQbzBoVUJOVkx5RTh4X0txSTYwWWtBLUdueXA0bl9MdjdpXzRiQkMzU093XzZNVW1naVpvbFVR?oc=5",
+      "published": "Wed, 11 Mar 2026 14:16:02 GMT",
+      "source": "TradingKey"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Bank of America กลับมามีมุมมองเชิงบวกต่อ Tesla อีกครั้ง",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า Bank of America ซึ่งเป็นธนาคารขนาดใหญ่ มีมุมมอง 'bullish' ต่อ Tesla ซึ่งบ่งชี้ถึงแนวโน้มราคาหุ้นที่อาจปรับตัวขึ้นในอนาคต"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "การเปลี่ยนแปลงกลยุทธ์ที่กล้าหาญของหุ้น Tesla อาจส่งสัญญาณถึงโอกาสสำคัญ",
+        "why": "พาดหัวข่าวระบุถึง 'โอกาสสำคัญ' ที่อาจเกิดขึ้นจากการเปลี่ยนแปลงกลยุทธ์ของ Tesla ซึ่งชี้ให้เห็นถึงศักยภาพในการเติบโตในอนาคตและผลักดันราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Tesla (TSLA) ประสิทธิภาพตามหลังหุ้นคู่แข่ง Lucid และ Rivian แม้ราคาน้ำมันจะสูงขึ้น",
+        "why": "พาดหัวข่าวระบุว่าหุ้น TSLA 'ตามหลัง' หุ้นคู่แข่งในขณะที่หุ้นคู่แข่งปรับตัวขึ้น ซึ่งแสดงถึงประสิทธิภาพที่อ่อนแอของหุ้น TSLA ในช่วงเวลาดังกล่าว"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "หุ้น Tesla (NASDAQ:TSLA) ปรับตัวลงแม้จะมีการเปิด Megacharger แห่งแรกในแคลิฟอร์เนีย",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น TSLA 'ปรับตัวลง' ซึ่งบ่งชี้ถึงแนวโน้มราคาที่อาจลดลงในปัจจุบันหรือเร็วๆ นี้"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หุ้น Tesla Inc (TSLA) ปรับตัวขึ้น 3.27% ในวันที่ 11 มีนาคม",
+        "why": "พาดหัวข่าวระบุถึงการปรับตัวขึ้นของราคาหุ้น TSLA อย่างชัดเจนถึง 3.27% ในวันล่าสุด ซึ่งเป็นสัญญาณเชิงบวกโดยตรงต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "มีสัญญาณเชิงบวกที่แข็งแกร่งจากมุมมองของนักวิเคราะห์ (Bank of America) และการเปลี่ยนแปลงกลยุทธ์ที่อาจนำไปสู่โอกาสสำคัญในอนาคต นอกจากนี้ราคาหุ้นยังมีการปรับตัวขึ้นอย่างมีนัยสำคัญในวันล่าสุด อย่างไรก็ตาม มีรายงานบางฉบับระบุว่าหุ้นได้มีประสิทธิภาพที่ตามหลังหรือปรับตัวลงในช่วงเวลาหนึ่ง"
+    }
+  }
+}
