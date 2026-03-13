@@ -1,0 +1,66 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-12",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4248,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2130 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0709 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0215 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0088 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = 0.0031 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Why Microsoft Stock is a 'Strong Buy' Despite Underperforming Big Tech Peers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaEdCeHBxa1VVb2ZodDMwck8tTXozU2UyVmdZRGt5eTU4TGhMVTFGMWdXZ1BJcGF5SmJ2a1hpanRBT0FVdVo1TFlSWkxoXzh0eHdBbzZmemxlMzVFbHhqOVlxcFhad1BLSnlHeEQxanhIZHFQY3F4V0RheGJsbzZJY2RB?oc=5",
+      "published": "Tue, 10 Mar 2026 18:45:03 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Microsoft Stock Going to $500? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xeXVmOG5aLVZ5Mm8yRXdvcmo4RGZmYjY0Sk9WODF3TFZOR05zMjNlVFNLV19Pdi1qZl9tRFlJa2Z1WjA0bkNLdmI3bEc2TkZGV1BjOWhZTGJneVZJbGtJbEhyS2hscjF3SlNVZ3c0OVNfbUExbU9xRWdLMXVkTDg?oc=5",
+      "published": "Sat, 07 Mar 2026 20:34:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft: The Market Is Giving Us A Gift, And I Am Accepting It (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHlyY3hpVWxzeVpuemdJMi1Xem5WUkhnY3Ryb0hSNUJyRjkxM0wzc0Q2amRWdUhLUXFyWjRfRUtGOXY2ZW1pZWdmZWxjRFpBdDJ3dGdpX2o4Sjh6M0ZYb0s4ZF80NUc5R3MxMU9oRzJaaUNTTmRzWW5COVhfTTVBbzN1a3ozX3Q3QUp6MGNvcndUbmFyUWppOTR2VzgwZw?oc=5",
+      "published": "Mon, 09 Mar 2026 17:28:40 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Stock Holds Key Level Amid Volatility; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmVWRKelVXSWRjaGVIQXg1Vjc0VFlIS3dwaGdaRTB6c0IydV9fcVdwcExidlVjdkpCZ1Y0RlVrXzBGMW04Y0M1Sm81c2x5TThMQm5OTENkWmg4Y0lnQm9ZdEQxalE5ZERXMFJuV1BFLVpCcnJpelE?oc=5",
+      "published": "Tue, 10 Mar 2026 22:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Barclays reiterates Microsoft stock rating on new Office suite - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm50WnpzZnd4WjFIbmhhTGZ2aE9WTXlYSjdvRVFsenRnMWphRTVidEJ2eDRPdDdnZi1CM3E0UWhMS0x1RUcxelV1VjUwUTRMeXM2aWsyeURVTGNlck9TQUpiS2tQdUhSdmJRYkxUVVRmenlFb0d4bm53UzdCXzR1ZkxOcXMzZXBWWWI4VER6VnRCRUtLNHhPeG5Bel9xVzNoNnZKVS1YVWx6RHV2UEJMTFF1RXlVSHlTRXNwWkFlTQ?oc=5",
+      "published": "Mon, 09 Mar 2026 17:11:28 GMT",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Microsoft Stock Forecast | $106.9bn AI Capex & Azure Guidance - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjZDQnBXRVplUnJ0d05CNkdNSmpVM2Z6TkhiZ0UzSWhmeldMNVZRYU9ULVRTVXZvVzVOWUFOMVdFSFpmZ2NvWTJBckM5NDZpNUJPclNQMG55bEItempTeTNpXzM4LU14SHY0Qk9iLUZMWFktcVhxZHdOcXVYYXRWZ3IxZw?oc=5",
+      "published": "Wed, 11 Mar 2026 15:14:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "How Does Microsoft Stock Stack Up Against Its Peers? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlpWZC1fMjQ3QjdBSFlNNDhnLUVXd0dpMk5EVk1UUWI3dUpNek9sdHQ3RnQ5MVhIbFoyUmVjN1NiU0Y4NGd1aXJyT3hHa25fUHFTQTlma21OLUNTVUNJVTVGcmx3SlQwWERWWUtQWV9HRnFBeENuUUN2RHRrOTBZSkVJSTgyVXZxeVZpYUN6ak90bFI3Vk1PYjZmcWx6Z2dmUFFhMGhkMWJvNDB2WnNMMnlCaGU?oc=5",
+      "published": "Sat, 07 Mar 2026 09:47:18 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Is Microsoft (MSFT) Still Fairly Priced After Its AI And Cloud-Fueled Run? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVpCYkJxWTRMN3A0UHRhRV9XYVB2WUVUWmZQbVhIQjEwaTFpMXFOUWkzRTJELTRyTGxmWWt5OWNTeWtrR3h0bnZ3aHh0eERnNml1UDQyMDNPOWVpcWgxLWtmY01pNUx2NVNGek5DNTdJTnZEODV4TEZaQlluVG9VVENOdXNUUnIxNXNmMEJ1UnFENmJBOXhGMzluSi1QQUptamNaa3cyRVVrNWFIYkRWM1RPcEc2SkVWMlVBNGg1QUF3MWN3NGRN0gHMAUFVX3lxTFBrRFA0NUppRGRoREI4S3ZpLWFBVlUwRk44YktZVTBGbVFSdXVYb1BKdlRPWmg2YTJmOFVpY1dZZnBMMVdXYWlLMVZsd0RxbVVjN09rbDVUX24zRHB1QVRvZHlRM19tRVpHN3k1cVZLX3I0VlQ2TUotQ0w1SHVKNTdUMDAzbms3bUdRUEJFSVU0cEF4TDZrZnRvNnhjdHVvakQ1bzh4TFljbEU2NmJIQ01oOGlZWWdJTjMyS0pOWW5XSWpmbWZjcWp6TFo4aw?oc=5",
+      "published": "Mon, 09 Mar 2026 06:25:35 GMT",
+      "source": "simplywall.st"
+    }
+  ],
+  "ai_news": null
+}

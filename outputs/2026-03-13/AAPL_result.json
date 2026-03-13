@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-12",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4275,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- โมเมนตัม 10 วัน = -0.0630 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0287 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0646 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0173 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0088 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple's Latest Move Is a Brilliant One, and It Could Be a Game Changer for the Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFUyel9ObFZEdFZBS2dQWURMbWdiYktobGlvcjlEOGZ3WWVROWRBWnI1VXpiTXlCOVg5QWpZdG03bGI1UFQ2N3U5OEswRXVxV3lKUHhKQXRJMk9KYVBlcFgzeE1iekNZODF4S3BOV2FabUtKRWFEYWI2RktxMVBnX2pkMVU0MW54M290dWljTGl2YmtmcTBycA?oc=5",
+      "published": "Mon, 09 Mar 2026 22:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Here’s How YCG’s Strategy of Buying Cyclically Unprofitable Stock, Apple (AAPL), Has Paid Off - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG53bFdLaGFMeWdMWHR2M3FPenRSRnl5OVZvekRuSnZ5QmN6QzJRaVozZThZbU5fMHlZSEVPVVRxRFVjUlNlTmoyT2ZCRzY5ckRJYmx1LVFHWkU5UVVrVmU1WWN3MWY1c3l3YlFDMkEwdldoQ0xlZjFuS2JsVmprNHl2LWxUMmRBR3RicFpzTTdaTDA?oc=5",
+      "published": "Mon, 09 Mar 2026 15:53:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on New MacBook Neo Launch - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0ljZkktaWpLbHNRZmJaZUx3Zk1aZ09IbDZsZGlfdjlpQUJXWmtjR1NxRW1KQkVoaXM0OTRGN2YxUTNpXy0wS25aUVRtV2hUSWh0RlF3N1laSUkwLXZGQlBwWnBtdFZwaTBNMGkxX2ZqQldCaGNhbVpURjlnejZJXzlzT3V4dGt4WVJUSURvLV9GSXhK?oc=5",
+      "published": "Sun, 08 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Rep. David Taylor Sells Apple Inc. (NASDAQ:AAPL) Stock - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOENTWExCc21ZY0tqQ2ZnS2d3ZmI0bWpPVUZneWlDT05qVFNsX3EybnhOVVJULXEteElUNldqVWtlaVF3djBPdjE0Qnc3bkd0MjVJaFFYdUhueUNGUm5LYzlvb1lQT291MDk1ZXpuSFJfQnVNZ3U0Vm01NW1zdTV6UmY2NmdjbFZ6WWlGYWxxZzdEMmUyRDRIbWN1UUoxZWNXc0dPZlB3?oc=5",
+      "published": "Tue, 10 Mar 2026 06:08:40 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Is Apple Stock's 29.63X PE Still Worth it? Buy, Sell, or Hold? - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazJKcFQ3bHo3V0FIaFFSRVlnWlVFY1FzNGR6LVFXSGl5Ym1sbVh4V0xGSnRiY0J0UTNNUVNyejdKbWxqWkcxNnZkRmtqUUYtWGxaMGZ6dndNWEtPdkVpNjR1d0p5ekJILWg1R3ZqYkpIc2tzbWJUWnpHMk80TTJMeHhxVWJ4Tk5JTHZZMVBYYmt1b0JCRVFRWVpjYmtQSE5nTGtkS2NVVDk5TEhQSE9Gb2YzaDQxMUY0Y3BPTW5ZdzF1NWEyWHBQOUFhOUlyVnc3Q1R1TWUzdw?oc=5",
+      "published": "Thu, 12 Mar 2026 18:00:11 GMT",
+      "source": "The Globe and Mail"
+    },
+    {
+      "title": "Apple Stock Week Ahead: March 11 Rollout and CPI Test AAPL After Friday Pullback - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakRNQ05jYjBWc3BaelVLTmhSX195cUFGUTNXandJSHpsMi1pTnk3MU9jcG1iRnFpZC1Bb0RKZ0kwMTVTdE9LWjZlNzBZcDBFWkRDaGhDRmpqV1FTem9JU3h4a0xQVGpJdUVHbWFQSGNPSFM5ZHRIOG1FNmdJMFJzVTB0SWlqWTJHWFlSWEl6RDlmbHg2VndaS1dEZ2RWbHhSOWc?oc=5",
+      "published": "Sat, 07 Mar 2026 20:35:29 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Has Apple (AAPL) Pulled Too Far Ahead Of Its DCF Value After Recent Share Price Declines? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekVubUxEZ1RNMEx4ZExDU1hNeU05bnFQNmFpcGl2Y0RsZFozT0NpQ3pYRmJPcGVIelVQSW5VRWpmUG9aY3RueUdCYTJ4a0lYM3JrdFdTWUkxMS16a08xRWxKN0NfYURtVnBmcnpRR0dPNXM4M3F1X0FmNnNWSTdjOEVhOEMwNVAyV1Z4X2o5V2RnakxpNkQ3WU95dG1MeThwbjRydlNaYmVldWxnc1lkNTloWi1jc18xa1hvUNIBwgFBVV95cUxNMVM3V1M2X09mV1VUMmxhNXcyZ2M3Uk1rdWZWazNVYWJPUVd5YUFUVXZCeXA1VUFXUVRPS0JSYW5XaUxLQXhrdnlBamJ2ZWZnN1B3eWRlNUxjNjBVSGZ2d3dMd0p4bXpvaTRONDJmRzl6WWE3ckpIUmVfM0g2ODRicGVLQkdUaUIxUzMwNXpVRV9lQlN1UDgxQkhydG02U2ZGcVpyS0JqanVXcEptWkoyZ1p2SXlHZXFoNkxIeXZpTmt2QQ?oc=5",
+      "published": "Sun, 08 Mar 2026 07:23:18 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Stock Price Down 1.1% - Should You Sell? - National Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUE9LQWR5Yl9MRGhWUERDQVpaNlFwYjc0WDg4UVQtU1dqN3NET0FhZmU3bTcxMmYyMzYxSF9OdWVoXzh5bkxBakM4T0x1bDZYZ0xVZ3dDSl9QWXBfN19QSGt6N2FnbUVyQjBfZHh4SWhCd0VWcGZSMk5TU1lOSEdmRlMxNjVXeG5lajFiZTYyVXZrTmhWN2hTZVktRktxeDNrd3RyeDZ0dV85WUw0M3JMQXpfUQ?oc=5",
+      "published": "Sun, 08 Mar 2026 11:29:36 GMT",
+      "source": "National Today"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ข่าวนี้ชี้ว่าการเคลื่อนไหวล่าสุดของ Apple เป็นสิ่งยอดเยี่ยมและอาจเป็นตัวเปลี่ยนเกมสำหรับหุ้น",
+        "why": "ถ้อยคำ 'Brilliant One' (ยอดเยี่ยม) และ 'Game Changer for the Stock' (ตัวเปลี่ยนเกมสำหรับหุ้น) บ่งบอกถึงผลเชิงบวกที่สำคัญต่อราคาหุ้น"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "รายงานนี้อธิบายว่ากลยุทธ์การซื้อหุ้น Apple (AAPL) ที่อาจเคยขาดทุนตามวัฏจักรนั้นได้ผลตอบแทนที่ดี",
+        "why": "วลี 'Has Paid Off' (ได้ผลตอบแทนที่ดี) แสดงถึงความสำเร็จในการลงทุนในหุ้น AAPL ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ข่าวนี้ระบุว่า ส.ส. David Taylor ได้ขายหุ้น Apple Inc. (NASDAQ:AAPL)",
+        "why": "การขายหุ้นโดยนักการเมืองอาจถูกตีความว่าเป็นสัญญาณเชิงลบหรือขาดความเชื่อมั่นในหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "บทความนี้ตั้งคำถามว่าหุ้น Apple (AAPL) มีมูลค่าสูงเกินกว่ามูลค่า DCF (Discounted Cash Flow) หลังจากการลดลงของราคาหุ้นเมื่อเร็วๆ นี้หรือไม่",
+        "why": "การตั้งคำถามเกี่ยวกับการมีมูลค่าสูงเกินไปเมื่อเทียบกับ DCF และการกล่าวถึง 'Recent Share Price Declines' (การลดลงของราคาหุ้นเมื่อเร็วๆ นี้) เป็นข้อบ่งชี้ถึงความกังวลเชิงลบเกี่ยวกับมูลค่าและแนวโน้มราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวนี้รายงานว่าราคาหุ้น Apple (NASDAQ:AAPL) ลดลง 1.1% และตั้งคำถามว่าควรขายหรือไม่",
+        "why": "การรายงานโดยตรงว่าราคาหุ้นลดลงและคำถามชวนให้ 'Sell' (ขาย) เป็นสัญญาณเชิงลบที่ชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "แม้จะมีข่าวเชิงบวกเกี่ยวกับศักยภาพในอนาคตและความสำเร็จในอดีต แต่ข่าวส่วนใหญ่ที่เลือกมาแสดงถึงความกังวลเกี่ยวกับราคาหุ้นที่ลดลงล่าสุด การประเมินมูลค่าที่อาจสูงเกินไป และการขายหุ้นโดยบุคคลสำคัญ ซึ่งบ่งชี้ถึงแรงกดดันขาลงในระยะสั้น"
+    }
+  }
+}
