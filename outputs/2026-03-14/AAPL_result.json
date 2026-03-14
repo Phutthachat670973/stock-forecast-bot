@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8313,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 29.8948 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0480 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1080 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0532 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0285 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Apple Stock a Buy Now? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91N1o1RHdpVElET1g2LVF4Z01sb2x0T3YtVkEzaWsxdGp5LXdjYlpRa2IzWk4xazIxNGFjWkxCUUVFTG1XTzlmeXpJbk92eXhYRFo0UVNSWThSNTdXdzA0NmhSZ1Y3TENjZjVzRUlYRUlvQUJvcGc?oc=5",
+      "published": "Tue, 10 Mar 2026 03:30:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Here’s How YCG’s Strategy of Buying Cyclically Unprofitable Stock, Apple (AAPL), Has Paid Off - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG53bFdLaGFMeWdMWHR2M3FPenRSRnl5OVZvekRuSnZ5QmN6QzJRaVozZThZbU5fMHlZSEVPVVRxRFVjUlNlTmoyT2ZCRzY5ckRJYmx1LVFHWkU5UVVrVmU1WWN3MWY1c3l3YlFDMkEwdldoQ0xlZjFuS2JsVmprNHl2LWxUMmRBR3RicFpzTTdaTDA?oc=5",
+      "published": "Mon, 09 Mar 2026 15:53:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on New MacBook Neo Launch - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV0ljZkktaWpLbHNRZmJaZUx3Zk1aZ09IbDZsZGlfdjlpQUJXWmtjR1NxRW1KQkVoaXM0OTRGN2YxUTNpXy0wS25aUVRtV2hUSWh0RlF3N1laSUkwLXZGQlBwWnBtdFZwaTBNMGkxX2ZqQldCaGNhbVpURjlnejZJXzlzT3V4dGt4WVJUSURvLV9GSXhK?oc=5",
+      "published": "Sun, 08 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Is Apple Stock's 29.63X PE Still Worth it? Buy, Sell, or Hold? - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFJHTkFva1ljY1dkS1RkZmlVYTJBX0pQVG83WTJob3hqQ3IyU1hfSzFzV3N5MWc1Z1FuenpiSHdHbWVoZVE1eGpKc1NuWlM1ZkJaUnJwdlp3a2xxOTRySllVZFE5TXc1VVkzQ2tMaThJUTFkcHVkeWlackJFRUdnTTd6bWRLR09EcGRtenpOOU5XU25BeEJUQjVNcWRVQWVDRGdVV3lCMjdUMkxiYS1mWnQ1cG9aNmU5OS11b2hCVEZ0d1RxWnlNcVp5OE5xQ2tkSzBvT0xB?oc=5",
+      "published": "Thu, 12 Mar 2026 17:33:18 GMT",
+      "source": "The Globe and Mail"
+    },
+    {
+      "title": "What Is Going On With Apple Stock On Thursday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVVnaWgyeU80RGh3ekZaNWxwT0Rkcjk1Tmd2a3RLVktYdnVhYmlqWFBxNWlLTkFGeGkxZURQeUtPbUVWZFNaRlFHTDJSWXBKSGVPWnR5bnZteWVuMU5Oald4Sms2ODN5bnVnWkF2dUU1M3hNdDlhaEdVZXltbnk2VGlOdzlRMV9vd19RSUhTX0dUYk9yR0s0T1g5NjRHNDQ?oc=5",
+      "published": "Thu, 12 Mar 2026 17:18:34 GMT",
+      "source": "Benzinga"
+    },
+    {
+      "title": "Rep. David Taylor Sells Apple Inc. (NASDAQ:AAPL) Stock - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOENTWExCc21ZY0tqQ2ZnS2d3ZmI0bWpPVUZneWlDT05qVFNsX3EybnhOVVJULXEteElUNldqVWtlaVF3djBPdjE0Qnc3bkd0MjVJaFFYdUhueUNGUm5LYzlvb1lQT291MDk1ZXpuSFJfQnVNZ3U0Vm01NW1zdTV6UmY2NmdjbFZ6WWlGYWxxZzdEMmUyRDRIbWN1UUoxZWNXc0dPZlB3?oc=5",
+      "published": "Tue, 10 Mar 2026 06:08:40 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock Week Ahead: March 11 Rollout and CPI Test AAPL After Friday Pullback - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakRNQ05jYjBWc3BaelVLTmhSX195cUFGUTNXandJSHpsMi1pTnk3MU9jcG1iRnFpZC1Bb0RKZ0kwMTVTdE9LWjZlNzBZcDBFWkRDaGhDRmpqV1FTem9JU3h4a0xQVGpJdUVHbWFQSGNPSFM5ZHRIOG1FNmdJMFJzVTB0SWlqWTJHWFlSWEl6RDlmbHg2VndaS1dEZ2RWbHhSOWc?oc=5",
+      "published": "Sat, 07 Mar 2026 20:35:34 GMT",
+      "source": "TechStock²"
+    },
+    {
+      "title": "Has Apple (AAPL) Pulled Too Far Ahead Of Its DCF Value After Recent Share Price Declines? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekVubUxEZ1RNMEx4ZExDU1hNeU05bnFQNmFpcGl2Y0RsZFozT0NpQ3pYRmJPcGVIelVQSW5VRWpmUG9aY3RueUdCYTJ4a0lYM3JrdFdTWUkxMS16a08xRWxKN0NfYURtVnBmcnpRR0dPNXM4M3F1X0FmNnNWSTdjOEVhOEMwNVAyV1Z4X2o5V2RnakxpNkQ3WU95dG1MeThwbjRydlNaYmVldWxnc1lkNTloWi1jc18xa1hvUNIBwgFBVV95cUxNMVM3V1M2X09mV1VUMmxhNXcyZ2M3Uk1rdWZWazNVYWJPUVd5YUFUVXZCeXA1VUFXUVRPS0JSYW5XaUxLQXhrdnlBamJ2ZWZnN1B3eWRlNUxjNjBVSGZ2d3dMd0p4bXpvaTRONDJmRzl6WWE3ckpIUmVfM0g2ODRicGVLQkdUaUIxUzMwNXpVRV9lQlN1UDgxQkhydG02U2ZGcVpyS0JqanVXcEptWkoyZ1p2SXlHZXFoNkxIeXZpTmt2QQ?oc=5",
+      "published": "Sun, 08 Mar 2026 07:23:18 GMT",
+      "source": "simplywall.st"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "กลยุทธ์การซื้อหุ้น Apple ของ YCG ประสบความสำเร็จ",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่ากลยุทธ์การลงทุนในหุ้น Apple 'ประสบความสำเร็จ' ซึ่งเป็นสัญญาณเชิงบวก"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 85,
+        "summary": "ส.ส. David Taylor ขายหุ้น Apple Inc. (NASDAQ:AAPL)",
+        "why": "การที่บุคคลสาธารณะหรือผู้มีตำแหน่งขายหุ้นอาจถูกตีความว่าเป็นสัญญาณเชิงลบที่ส่งผลต่อความเชื่อมั่นของนักลงทุน"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "หุ้น Apple สัปดาห์หน้า: การเปิดตัว 11 มีนาคม และการทดสอบ CPI ต่อ AAPL หลังจากการร่วงลงเมื่อวันศุกร์",
+        "why": "การกล่าวถึง 'การร่วงลงเมื่อวันศุกร์' และ 'การทดสอบ' บ่งชี้ถึงแรงกดดันหรือความผันผวนเชิงลบที่อาจเกิดขึ้นกับราคาหุ้น"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "Apple (AAPL) เคยมีมูลค่าสูงเกินกว่ามูลค่า DCF หลังจากราคาหุ้นลดลงเมื่อเร็วๆ นี้หรือไม่?",
+        "why": "พาดหัวข่าวตั้งคำถามถึงการที่หุ้น Apple อาจมีมูลค่าสูงเกินจริง (overvalued) เมื่อเทียบกับมูลค่า DCF ซึ่งบ่งชี้ถึงความกังวลเชิงลบเกี่ยวกับการประเมินมูลค่า"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 95,
+        "summary": "หุ้น Apple ควรซื้อตอนนี้หรือไม่?",
+        "why": "เป็นคำถามปลายเปิดที่เชิญชวนให้วิเคราะห์การลงทุน ไม่ได้บ่งชี้ถึงทิศทางราคาหุ้นโดยตรงว่าเป็นบวกหรือลบ"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 75,
+      "note": "พาดหัวข่าวที่เลือกส่วนใหญ่บ่งชี้ถึงความกังวลเกี่ยวกับการประเมินมูลค่า, การขายหุ้นโดยบุคคลสำคัญ และการปรับฐานของราคาหุ้น ซึ่งอาจสร้างแรงกดดันต่อราคา แม้จะมีข่าวเชิงบวกจากกลยุทธ์การลงทุนที่ประสบความสำเร็จหนึ่งรายการก็ตาม"
+    }
+  }
+}

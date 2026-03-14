@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4126,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2091 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0676 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0320 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0119 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0102 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Should You Buy Microsoft Stock After Its 25% Correction, or Run for the Hills? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjFDME1uaXRoMFVwdmpDVThUblV1Ui1sZnZKT2dBVzZLVDNWX2ZINEUxNkhJbnBWRkVPckt4X3FEME9Ga2lMaEc0Um04T1FBcFpidzQtbXVOMTJfVkxNLUx2UU5UWE1kb2Q5b3NKSV9nRV9SSTJtaTJXRUxXNjBhUTNsbVBhX3Y1VllnOC1teXF6ZWs2Slh4ZQ?oc=5",
+      "published": "Sun, 08 Mar 2026 09:54:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Why Microsoft Stock is a 'Strong Buy' Despite Underperforming Big Tech Peers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaEdCeHBxa1VVb2ZodDMwck8tTXozU2UyVmdZRGt5eTU4TGhMVTFGMWdXZ1BJcGF5SmJ2a1hpanRBT0FVdVo1TFlSWkxoXzh0eHdBbzZmemxlMzVFbHhqOVlxcFhad1BLSnlHeEQxanhIZHFQY3F4V0RheGJsbzZJY2RB?oc=5",
+      "published": "Tue, 10 Mar 2026 18:45:03 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft: The Market Is Giving Us A Gift, And I Am Accepting It (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHlyY3hpVWxzeVpuemdJMi1Xem5WUkhnY3Ryb0hSNUJyRjkxM0wzc0Q2amRWdUhLUXFyWjRfRUtGOXY2ZW1pZWdmZWxjRFpBdDJ3dGdpX2o4Sjh6M0ZYb0s4ZF80NUc5R3MxMU9oRzJaaUNTTmRzWW5COVhfTTVBbzN1a3ozX3Q3QUp6MGNvcndUbmFyUWppOTR2VzgwZw?oc=5",
+      "published": "Mon, 09 Mar 2026 17:28:40 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Stock: What Could Ignite The Next Rally? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNOMlQxbFVPbWc3VEVqQU5aVGFrUU1JaEdBV0hFNVNxbEtoSk9KNDBYaXpMWW42WXMyWktmUDZwclhpU3NpVVJ1UEp6T2JQZ2RXZlJWbUFFQ2xlbjFsLWt5ajY5emJQVTlZRW9RU1ZvYjhOSEswVWFpbG1XQlpmM2JsVzRzVzlCbDR3b2dseDJyOGVZVmh1cmxuTHA3aGpEdnB4akhhN0RaLXM?oc=5",
+      "published": "Fri, 13 Mar 2026 13:15:21 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Is Racing to Beat Claude Cowork. A Big Catalyst for MSFT Stock Is Coming May 1. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY01aLTFvc2lIdmxQaHpWazZaYWpJVTliclE2UlZDalRLT2J3OHlPY3RFY0tZZjJOa3BmU29EMjNnQ3owNHV3VEFDRWRHZmJNRU5xd05BdUthU2J6MUhXbkRuRmZ2NTBjTkdIdEF6WXpEWndxQk5uSy1wYWNsWmhRemg4aHV4VUhsN1hlbnZoQk0yN0RCdUdGME5rbkRnMVNFWE4wYXZ6X29tNldHNDJNaVFEekp4bU9xbnlVMUxsdTBoMVFldFJDTUZ3?oc=5",
+      "published": "Fri, 13 Mar 2026 18:28:45 GMT",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Microsoft Stock Holds Key Level Amid Volatility; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmVWRKelVXSWRjaGVIQXg1Vjc0VFlIS3dwaGdaRTB6c0IydV9fcVdwcExidlVjdkpCZ1Y0RlVrXzBGMW04Y0M1Sm81c2x5TThMQm5OTENkWmg4Y0lnQm9ZdEQxalE5ZERXMFJuV1BFLVpCcnJpelE?oc=5",
+      "published": "Tue, 10 Mar 2026 22:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "New Vulnerability in Microsoft Authenticator Sends Microsoft Stock (NASDAQ:MSFT) Sliding - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWJPOWJ2dkhIUm0zbWdSVktsbnZZcS0yYzRYMW5hdUpoZF95dXZvQXlMeEIzUGZfb3VaWHBDay1seVVRaXVIWFFpdmRkZDA4anhQZjgzWTRfQjNwWFB4d0U1Mi1pSDhZcTJvX1B5aTZCUzUweExBZnJ1WmZVZlhxcHJ3b2h4eTJlVDE2b216WktzWnFqTEwxSFJyWnB4YThnTHZiQV9pQkRkaXFJWE5OZ0hTemhrdw?oc=5",
+      "published": "Fri, 13 Mar 2026 17:41:43 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Barclays reiterates Microsoft stock rating on new Office suite - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm50WnpzZnd4WjFIbmhhTGZ2aE9WTXlYSjdvRVFsenRnMWphRTVidEJ2eDRPdDdnZi1CM3E0UWhMS0x1RUcxelV1VjUwUTRMeXM2aWsyeURVTGNlck9TQUpiS2tQdUhSdmJRYkxUVVRmenlFb0d4bm53UzdCXzR1ZkxOcXMzZXBWWWI4VER6VnRCRUtLNHhPeG5Bel9xVzNoNnZKVS1YVWx6RHV2UEJMTFF1RXlVSHlTRXNwWkFlTQ?oc=5",
+      "published": "Mon, 09 Mar 2026 17:11:28 GMT",
+      "source": "Investing.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวระบุว่าหุ้น Microsoft เป็น 'Strong Buy' แม้จะทำผลงานได้ต่ำกว่าบริษัทเทคโนโลยีขนาดใหญ่รายอื่น ๆ",
+        "why": "หัวข้อข่าวนี้ให้คำแนะนำที่ชัดเจนว่าเป็น 'Strong Buy' ซึ่งเป็นสัญญาณเชิงบวกสำหรับหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวแสดงมุมมองว่าตลาดกำลังมอบ 'ของขวัญ' สำหรับ Microsoft และผู้เขียนยอมรับมัน",
+        "why": "การเปรียบเทียบสถานการณ์ตลาดเป็น 'ของขวัญ' และการยอมรับนั้นบ่งชี้ถึงโอกาสในการลงทุนที่เป็นประโยชน์หรือหุ้นที่มีมูลค่าต่ำกว่าความเป็นจริง ซึ่งเป็นมุมมองเชิงบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Microsoft กำลังเร่งพัฒนาเพื่อเอาชนะ Claude Cowork และจะมีปัจจัยกระตุ้นสำคัญสำหรับหุ้น MSFT ในวันที่ 1 พฤษภาคม",
+        "why": "การกล่าวถึงการแข่งขันเพื่อเอาชนะคู่แข่งและ 'ปัจจัยกระตุ้นสำคัญ' ที่กำลังจะมาถึงในอนาคต เป็นสัญญาณเชิงบวกที่อาจผลักดันให้ราคาหุ้นสูงขึ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การค้นพบช่องโหว่ใหม่ใน Microsoft Authenticator ส่งผลให้หุ้น Microsoft (NASDAQ:MSFT) ปรับลดลง",
+        "why": "การมี 'ช่องโหว่ใหม่' และผลกระทบที่ทำให้หุ้น 'ปรับลดลง' เป็นตัวบ่งชี้เชิงลบที่ชัดเจนสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "หัวข้อข่าวตั้งคำถามว่าควรซื้อหุ้น Microsoft หลังจากการปรับฐาน 25% หรือควรถอนตัว",
+        "why": "การระบุถึง 'การปรับฐาน 25%' และการตั้งคำถามว่าจะ 'ซื้อ' หรือ 'ถอนตัว' แสดงถึงความไม่แน่นอนและมุมมองที่หลากหลาย ไม่ได้ให้ทิศทางที่ชัดเจน จึงถือเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "หัวข้อข่าวส่วนใหญ่ที่เลือกไว้แสดงให้เห็นถึงมุมมองเชิงบวกต่อหุ้น Microsoft โดยเฉพาะอย่างยิ่งที่ระบุว่าเป็น 'Strong Buy' และมี 'ปัจจัยกระตุ้นสำคัญ' ที่กำลังจะมาถึง แม้จะมีข่าวเชิงลบเกี่ยวกับช่องโหว่ใหม่และคำถามหลังจากการปรับฐานของราคา"
+    }
+  }
+}
