@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4126,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2091 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0676 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0320 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0119 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = 0.0102 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Why Microsoft Stock is a 'Strong Buy' Despite Underperforming Big Tech Peers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaEdCeHBxa1VVb2ZodDMwck8tTXozU2UyVmdZRGt5eTU4TGhMVTFGMWdXZ1BJcGF5SmJ2a1hpanRBT0FVdVo1TFlSWkxoXzh0eHdBbzZmemxlMzVFbHhqOVlxcFhad1BLSnlHeEQxanhIZHFQY3F4V0RheGJsbzZJY2RB?oc=5",
+      "published": "Tue, 10 Mar 2026 18:45:03 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Stock: What Could Ignite The Next Rally? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUNOMlQxbFVPbWc3VEVqQU5aVGFrUU1JaEdBV0hFNVNxbEtoSk9KNDBYaXpMWW42WXMyWktmUDZwclhpU3NpVVJ1UEp6T2JQZ2RXZlJWbUFFQ2xlbjFsLWt5ajY5emJQVTlZRW9RU1ZvYjhOSEswVWFpbG1XQlpmM2JsVzRzVzlCbDR3b2dseDJyOGVZVmh1cmxuTHA3aGpEdnB4akhhN0RaLXM?oc=5",
+      "published": "Fri, 13 Mar 2026 13:15:21 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Should You Buy Microsoft Stock After Its 25% Correction, or Run for the Hills? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjFDME1uaXRoMFVwdmpDVThUblV1Ui1sZnZKT2dBVzZLVDNWX2ZINEUxNkhJbnBWRkVPckt4X3FEME9Ga2lMaEc0Um04T1FBcFpidzQtbXVOMTJfVkxNLUx2UU5UWE1kb2Q5b3NKSV9nRV9SSTJtaTJXRUxXNjBhUTNsbVBhX3Y1VllnOC1teXF6ZWs2Slh4ZQ?oc=5",
+      "published": "Sun, 08 Mar 2026 09:54:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft: The Market Is Giving Us A Gift, And I Am Accepting It (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHlyY3hpVWxzeVpuemdJMi1Xem5WUkhnY3Ryb0hSNUJyRjkxM0wzc0Q2amRWdUhLUXFyWjRfRUtGOXY2ZW1pZWdmZWxjRFpBdDJ3dGdpX2o4Sjh6M0ZYb0s4ZF80NUc5R3MxMU9oRzJaaUNTTmRzWW5COVhfTTVBbzN1a3ozX3Q3QUp6MGNvcndUbmFyUWppOTR2VzgwZw?oc=5",
+      "published": "Mon, 09 Mar 2026 17:28:40 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Stock: Is The 15% Drop A Buying Opportunity Or A Warning Sign? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0NNYUdzRnQ1eUVGelRoVG15UFY2cy0yQXVyTlBkN0ZYRUlUc2ZQVjNfNHVhSDVTdUJzVUNxNkJhVmV2TDJPZmI5VW51Rk5yX3BCZVV5YnJaaFAxOTBoWWlDaGJZNF85ZWQ5VDdjTURQczkyTk9UZmhiTkpzR0R3b2lVdzgzakNYcU1RVEN1WlI3WENOOVdmdHBlbFlFaXFVXzJaNHQ5WGlJQ3ZqTkFTMXFkenhLaXU5QTZiam1hN3RwUlBBdkx5b0t3?oc=5",
+      "published": "Fri, 13 Mar 2026 13:03:45 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Microsoft Stock Holds Key Level Amid Volatility; Is Microsoft A Buy Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmVWRKelVXSWRjaGVIQXg1Vjc0VFlIS3dwaGdaRTB6c0IydV9fcVdwcExidlVjdkpCZ1Y0RlVrXzBGMW04Y0M1Sm81c2x5TThMQm5OTENkWmg4Y0lnQm9ZdEQxalE5ZERXMFJuV1BFLVpCcnJpelE?oc=5",
+      "published": "Tue, 10 Mar 2026 22:13:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "New Vulnerability in Microsoft Authenticator Sends Microsoft Stock (NASDAQ:MSFT) Sliding - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWJPOWJ2dkhIUm0zbWdSVktsbnZZcS0yYzRYMW5hdUpoZF95dXZvQXlMeEIzUGZfb3VaWHBDay1seVVRaXVIWFFpdmRkZDA4anhQZjgzWTRfQjNwWFB4d0U1Mi1pSDhZcTJvX1B5aTZCUzUweExBZnJ1WmZVZlhxcHJ3b2h4eTJlVDE2b216WktzWnFqTEwxSFJyWnB4YThnTHZiQV9pQkRkaXFJWE5OZ0hTemhrdw?oc=5",
+      "published": "Fri, 13 Mar 2026 17:41:43 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "MSFT Stock Chart | MICROSOFT CORP (NASDAQ:MSFT) - ChartMill",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kWU40bUszTjlIbE40bFBRbV9KMUFiNnI4VmVxS1VJTUZkY3ZZd0Fuc3BOSXZERTM0aWEzWjB3RVV4NXZyZmNkcUVhaUlLbWdObjd2bkx3VXdjSVFuUFRxMzdWOHE?oc=5",
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "source": "ChartMill"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวนี้ระบุว่าหุ้น Microsoft เป็น 'Strong Buy' แม้จะทำผลงานได้ไม่ดีเท่าหุ้นเทคโนโลยีขนาดใหญ่อื่นๆ",
+        "why": "ข้อความ 'Strong Buy' บ่งชี้ถึงมุมมองเชิงบวกต่อราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "พาดหัวนี้ตั้งคำถามว่าควรซื้อหุ้น Microsoft หลังจากที่ปรับฐานลง 25% หรือควรถอนตัวออกไป",
+        "why": "พาดหัวเป็นคำถามที่นำเสนอทางเลือกสองทางที่ตรงข้ามกัน ทำให้เป็นกลาง แม้จะพูดถึงการปรับฐานลง"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวนี้ระบุว่าตลาดกำลังมอบ 'ของขวัญ' ให้กับ Microsoft และผู้เขียนก็ยอมรับสิ่งนั้น",
+        "why": "การอธิบายว่าสถานการณ์ปัจจุบันเป็น 'ของขวัญ' บ่งชี้ถึงโอกาสในการลงทุนเชิงบวก"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "พาดหัวนี้ตั้งคำถามว่าการที่หุ้น Microsoft ร่วงลง 15% เป็นโอกาสในการซื้อหรือเป็นสัญญาณเตือน",
+        "why": "พาดหัวเป็นคำถามที่นำเสนอทางเลือกสองทางที่ตรงข้ามกัน ทำให้เป็นกลาง แม้จะพูดถึงการร่วงลงของราคา"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวนี้ระบุว่าช่องโหว่ใหม่ใน Microsoft Authenticator ทำให้หุ้น Microsoft (NASDAQ:MSFT) ร่วงลง",
+        "why": "ข้อความ 'Sends Microsoft Stock Sliding' บ่งชี้ถึงผลกระทบเชิงลบต่อราคาหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "พาดหัวข่าวมีทั้งที่บ่งชี้ถึงมุมมองเชิงบวก (Strong Buy, Gift) เชิงลบ (Sliding) และเป็นกลางที่ตั้งคำถามเกี่ยวกับการลงทุนหลังจากราคาหุ้นมีการปรับตัวลงหรือร่วงลง จึงทำให้มุมมองโดยรวมยังคงเป็นกลาง"
+    }
+  }
+}
