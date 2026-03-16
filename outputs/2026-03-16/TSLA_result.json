@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4354,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0336 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0376 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0281 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0139 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0130 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "TSLA Stock: Analyzing The 80% Rally - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUk9wVV8wcklaTzBOdlVYczdia3h5LUVqSFRXQmtMN0xMd0duaFJkcjhjclNnbDNQa3hHNVNlNk9Hdlo4UVhfazVKYnV4TzJpMzAyb2lvV2Y3c1FjdDhWTmRLWTd4S2VaQzJ4V0lWQ0NJRHA1RHZHZVNjeG1ZNG1Eb0NkVm54NmxoaWlJVU9sZUVodkN5V2dr?oc=5",
+      "published": "Wed, 11 Mar 2026 13:13:36 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Tesla: Finally Some Good News (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CYWc5cUZ1SjMyZ2ptYWFGYVRkcjBNZUtQU3MzYnJNVE82cWpqSmlBYmpTb2hVYmpzdWhmMy1Od0xFWGNhOVRXel8ya2ZmaS1RLVFfQWsyNndNRG1LTVlZbkhSQ0pCZXFnLWJPRmp5d0N1cng2YnFCaA?oc=5",
+      "published": "Wed, 11 Mar 2026 20:28:26 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla Stock To $279? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkpwWU1DS21CUzE1WVdvbjRvYnB6VTBGWDNXSE1aWHpyMk5VTlcwLWxMUVN6Xzg0bkQtbThxWnc4ODBBN2NZZGEwVFBfMmt2N1Z6NlhFRXJjMzZyeVc2NXg0ZXFvT1ZDeVNmZHM4NzFBbGlPN0I0Snh6X1ZOSzJQR2Noa0VVYVE?oc=5",
+      "published": "Thu, 12 Mar 2026 18:25:08 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Fri, 13 Mar 2026 17:22:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Lucid (LCID) and Rivian (RIVN) Stocks Jump as Oil Rises but Tesla (TSLA) Stock Lags - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTURwWk1ERWN2UHdxZm5jRW9OR1daQ0FyQmc3X0s5a3BtdEE2UVNKQXRLWE42aXVlV21MRUlRN3pLTEVBSmlWWFktaUw2QXJoSnM1a1FnLXMteUxHaW1rNFdSQ0pHYUNFeVMwVmJ3X25ST3lJdnN4STk4ZXduZHdWaEZMSTRaN0JWanBzNVpHN2hlMXYxS1V3VWlLR3YyUjFzOV9iaDRGR1pEZXZ3aXVlLWg3T0RMTnBteTRhRkl3?oc=5",
+      "published": "Mon, 09 Mar 2026 20:02:56 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Crashes 18% – Here’s Why Wall Street Is Getting Nervous - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1saGdIX0hudkNoSlo0ek5IWjdhNHAyMlJHdWktb0g3enJKaGtEU3J5cWVXQ0xieFhxWGE1OVAwM0ZLTmpNM3h3MEFlcjFIdlpEbWl4a25EZGxqSDdiMkhXU1Ixckw1dkNpTkJ4Q3FXYWtmQTVNWjhlY1NlVQ?oc=5",
+      "published": "Wed, 11 Mar 2026 17:39:40 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Stock Forecast | FSD Data Filing with NHTSA - Capital.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqQ2hQclFYRnp6UGtPbzF1TFRGVTZkb3FVd3J4dnVBY1U5SDEzd1RyYlJrTUN6Z01LbEFCenpKWHdfRHFtQzhaS20zeWJQWC1TbHpiWFFqdzJoeU43UGVLRU5pOGVMT0p2c2l6TUkzWEIxR3FVeDJBczlMMDhVUQ?oc=5",
+      "published": "Wed, 11 Mar 2026 11:35:00 GMT",
+      "source": "Capital.com"
+    },
+    {
+      "title": "Tesla Competitors: How TSLA Stacks Up in the EV Industry - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45ajU0a2NUZ054dG9HTW5Ca1kxZjRaeWhLNm1sZlRMT3M3RFZuVXBrODdSVHFLczIxUmNCMVNZN3d6aGlrcEhlWkNVd2xHM1otV1VDZ2FEM2NBRGwtZVYyQnZveUJxcGVJNmUta3lCRjljcEZmZzI1YjZR?oc=5",
+      "published": "Tue, 10 Mar 2026 23:21:48 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความวิเคราะห์ราคาหุ้น TSLA ที่ปรับตัวขึ้น 80% ในช่วงที่ผ่านมา",
+        "why": "พาดหัวข่าวระบุถึงการพุ่งขึ้น 80% ซึ่งเป็นสัญญาณเชิงบวกอย่างมากต่อหุ้น TSLA"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Tesla มีข่าวดีในที่สุดตามที่ระบุในพาดหัวข่าว",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่า 'ข่าวดีในที่สุด' ซึ่งเป็นสัญญาณเชิงบวกต่อ Tesla"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "การคาดการณ์ราคาหุ้น Tesla ไปที่ 279 ดอลลาร์",
+        "why": "พาดหัวข่าวเป็นคำถามเกี่ยวกับการคาดการณ์ราคาหุ้น ซึ่งไม่ได้บ่งชี้ทิศทางเชิงบวกหรือลบอย่างชัดเจนในตัวมันเอง"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla ล่าช้าในขณะที่หุ้นคู่แข่งอย่าง Lucid และ Rivian ปรับตัวขึ้น",
+        "why": "พาดหัวข่าวระบุว่าหุ้น TSLA 'ล่าช้า' เมื่อเทียบกับหุ้นคู่แข่ง ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Tesla ร่วงลง 18% และทำให้ Wall Street กังวล",
+        "why": "พาดหัวข่าวระบุว่าหุ้น 'ร่วงลง 18%' ซึ่งเป็นสัญญาณเชิงลบอย่างมาก และ 'Wall Street กังวล' ยิ่งย้ำถึงความกังวล"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีทั้งข่าวที่ระบุถึงการปรับตัวขึ้นและข่าวดีสำหรับ Tesla ในขณะเดียวกันก็มีข่าวที่แสดงถึงการร่วงลงอย่างมีนัยสำคัญและการล่าช้าเมื่อเทียบกับคู่แข่ง"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-13",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8313,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 29.8948 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0480 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1080 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0532 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0285 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "published": "Fri, 13 Mar 2026 09:02:20 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Is Apple Stock a Buy Now? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91N1o1RHdpVElET1g2LVF4Z01sb2x0T3YtVkEzaWsxdGp5LXdjYlpRa2IzWk4xazIxNGFjWkxCUUVFTG1XTzlmeXpJbk92eXhYRFo0UVNSWThSNTdXdzA0NmhSZ1Y3TENjZjVzRUlYRUlvQUJvcGc?oc=5",
+      "published": "Tue, 10 Mar 2026 03:30:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple (AAPL) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNhelByVDlqTl9VZWRUUDhacVp6bW9OSGJIM3VGRUllM1ZYVU5zUlU2MWwwNU8zVEZoTjlKN2JTZTc1U3RuSGtCazlYV05hZDkwQTNTSE9penJ1MGJ4QzY5VXlCQ1d5VTlXelF1anVuM2pJTEFRWjZHRkswbDFrbzViNkVVSzh3THZpX2NHWXNkR3RzcVNqMA?oc=5",
+      "published": "Fri, 13 Mar 2026 17:21:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Here’s How YCG’s Strategy of Buying Cyclically Unprofitable Stock, Apple (AAPL), Has Paid Off - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG53bFdLaGFMeWdMWHR2M3FPenRSRnl5OVZvekRuSnZ5QmN6QzJRaVozZThZbU5fMHlZSEVPVVRxRFVjUlNlTmoyT2ZCRzY5ckRJYmx1LVFHWkU5UVVrVmU1WWN3MWY1c3l3YlFDMkEwdldoQ0xlZjFuS2JsVmprNHl2LWxUMmRBR3RicFpzTTdaTDA?oc=5",
+      "published": "Mon, 09 Mar 2026 15:53:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AAPL - Apple Inc Stock Price and Quote - Finviz",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00VVpTazYwR3NVeGVVRURfbU43Mm53dVE1ZHZhMkozOTF3TS15a09Pb0twZm44NlBBRFdFR1NCalVIcS1DcjVXWGhsOGk?oc=5",
+      "published": "Fri, 13 Mar 2026 21:00:00 GMT",
+      "source": "Finviz"
+    },
+    {
+      "title": "Is Apple Stock's 29.63X PE Still Worth it? Buy, Sell, or Hold? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFJUR3RPc1NFdjlBYWVxVnJETElkM1NDRS1GamVfdVpOdG1MY0NJOWRtTWVkWnRyUU1Xc3BnWVZGcjVWSEVJb0c2ZkFTcXk2NnluUkxoNlY2dTNIeExjNENBQTBsWXRGVVNrNDZ5TDJDc2lvWmJtejNMZXR4RS1JTHF5ZEVSVk1lYi1INjU4OEFPUnhXVkxYbFJXS19idw?oc=5",
+      "published": "Thu, 12 Mar 2026 15:30:45 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 2.2% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHhfajVEbWpDNXdHenJsQV9JNm91M0FsZ0ppWDQzYUVBOWdCbXJkMU80WjVGR0tNUjNZMURYeFRZTnVCeEk4Uy1hbGJfZXBsSXpiUk92SENZcWViYzU3b0JlZ1JTQ1pjUExIYnlJVEFqM3FzZllpa2xSQlZGSWdrNVdCV0M3VW1vUldPOVV3c0hZd19QOWFrb3Jfcw?oc=5",
+      "published": "Fri, 13 Mar 2026 21:13:57 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tech Sector Pullback - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjJaeEx3WEt5QXRpOW5mMmFWc04wbkRlZFlWWGU1aU9GVnZNb1MtRFg4VkZkYUh4SDJWZGJmck1rdDRmX1A4c21wY19ka2RPZk1GQW56WGFEWHI3ZVlva09adHNpdzVqQXMwSVRuTHBTa1hTbEtjSUFfcUZBaXdiUTAzU0lrVTI3Y3FzN2FRVkNWdw?oc=5",
+      "published": "Fri, 13 Mar 2026 17:33:00 GMT",
+      "source": "Quiver Quantitative"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "ข่าวเกี่ยวกับกลยุทธ์การซื้อหุ้น Apple (AAPL) ซึ่งเคยไม่ทำกำไรตามวัฏจักร แต่ประสบความสำเร็จและให้ผลตอบแทน",
+        "why": "พาดหัวข่าวระบุว่ากลยุทธ์การซื้อหุ้น Apple 'ให้ผลตอบแทน' ซึ่งบ่งชี้ถึงผลลัพธ์ที่เป็นบวกต่อการลงทุนใน Apple"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้น Apple (NASDAQ:AAPL) ลดลง 2.2%",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าราคาหุ้น Apple ลดลง 2.2% ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "ความเห็นเกี่ยวกับหุ้น Apple (AAPL) ในช่วงที่หุ้นกลุ่มเทคโนโลยีปรับตัวลดลง",
+        "why": "พาดหัวข่าวระบุถึง 'การปรับตัวลดลงของภาคส่วนเทคโนโลยี' ซึ่งบ่งชี้ถึงแนวโน้มเชิงลบที่อาจส่งผลกระทบต่อหุ้น Apple"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ข่าวตั้งคำถามว่าอัตราส่วน PE ของหุ้น Apple ที่ 29.63 เท่า ยังคุ้มค่าหรือไม่ และควรซื้อ ขาย หรือถือ",
+        "why": "พาดหัวข่าวเป็นคำถามเกี่ยวกับการประเมินมูลค่าหุ้น Apple และทางเลือกในการลงทุน ซึ่งไม่ระบุทิศทางที่ชัดเจน"
+      },
+      {
+        "idx": 2,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ข่าวตั้งคำถามว่าหุ้น Apple น่าซื้อตอนนี้หรือไม่",
+        "why": "พาดหัวข่าวเป็นคำถามเกี่ยวกับการตัดสินใจลงทุนในหุ้น Apple ซึ่งไม่ให้ข้อมูลเชิงบวกหรือลบที่ชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 65,
+      "note": "ในบรรดาพาดหัวข่าวที่เลือกมา มีข่าวที่ระบุการลดลงของราคาหุ้นและแนวโน้มเชิงลบของภาคส่วนเทคโนโลยีที่ชัดเจนสองรายการ ขณะที่อีกหนึ่งรายการบ่งชี้ถึงกลยุทธ์ที่ประสบความสำเร็จในอดีต และอีกสองรายการเป็นคำถามเกี่ยวกับการลงทุนที่ยังไม่มีข้อสรุป แนวโน้มโดยรวมจึงค่อนข้างเอนเอียงไปทางลบเล็กน้อย"
+    }
+  }
+}
