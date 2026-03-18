@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-17",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4424,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1939 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0373 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0096 → กดลง",
+    "- โมเมนตัม 10 วัน = 0.0176 → หนุนขึ้น",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0091 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "TSLA Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qejEtbzhHOHJnMXJRWUVEbUxyUFF0RnJuNEtEN0U4Mk4wTlIycHNTejNyYTJYQlRDMFRCMllMcGJtNV81S0RNME9IZFBSZkRJ?oc=5",
+      "published": "Sun, 15 Mar 2026 09:01:23 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Tesla Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZVOXVEYXlod1RJM18wNmhteHZNVjhTVUhOb2ZXMXNDd0JHX3czT0RmS3VBeFl0UUN5ckhOZUV2ckpCby1sc0hsa3FJQzByczR3Zm45OHNRSUhnMVpfbVg2X2MtYVZwd3lRVk5WMzhPZkFERUl5UmpmNVVFTFNsNEVXd0NpVW5Lc1BFYnFLRHNydHoxbW5QNUlpOE1mT3B2RVE?oc=5",
+      "published": "Mon, 16 Mar 2026 17:34:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "TSLA Stock: Analyzing The 80% Rally - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUk9wVV8wcklaTzBOdlVYczdia3h5LUVqSFRXQmtMN0xMd0duaFJkcjhjclNnbDNQa3hHNVNlNk9Hdlo4UVhfazVKYnV4TzJpMzAyb2lvV2Y3c1FjdDhWTmRLWTd4S2VaQzJ4V0lWQ0NJRHA1RHZHZVNjeG1ZNG1Eb0NkVm54NmxoaWlJVU9sZUVodkN5V2dr?oc=5",
+      "published": "Wed, 11 Mar 2026 13:13:36 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Buying Tesla Stock Taught Me a Costly Lesson - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFRseUFkNGdLMTI4LTJ3cFFRc2Q0cEE0d2g0dktBR3d1ZFBZWXFjMFdWS3h5V2dISm9QTXY2Nm0yWFp1NWdUbnNvaTEzY21pUWlzMWhnRVQ1bEYyV0g3N3I0blJvMkRNblF5VUNnaDFRVUxwZmh4MDdnWUNhYUlOZzRFUy1ydmdG?oc=5",
+      "published": "Sun, 15 Mar 2026 12:53:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla: Finally Some Good News (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CYWc5cUZ1SjMyZ2ptYWFGYVRkcjBNZUtQU3MzYnJNVE82cWpqSmlBYmpTb2hVYmpzdWhmMy1Od0xFWGNhOVRXel8ya2ZmaS1RLVFfQWsyNndNRG1LTVlZbkhSQ0pCZXFnLWJPRmp5d0N1cng2YnFCaA?oc=5",
+      "published": "Wed, 11 Mar 2026 20:28:26 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Tesla Stock To $279? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkpwWU1DS21CUzE1WVdvbjRvYnB6VTBGWDNXSE1aWHpyMk5VTlcwLWxMUVN6Xzg0bkQtbThxWnc4ODBBN2NZZGEwVFBfMmt2N1Z6NlhFRXJjMzZyeVc2NXg0ZXFvT1ZDeVNmZHM4NzFBbGlPN0I0Snh6X1ZOSzJQR2Noa0VVYVE?oc=5",
+      "published": "Thu, 12 Mar 2026 18:25:08 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Closing Below 200-Day Moving Average - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVpjTmJDQmlkSlNqWnlBdENEVGlnVkRQbWU5TjhVckR6dVZTYzFJeFNZN1JkYUxoNjc1dlRNODZNWG9rSE5kbm5TWDdMNWphRjdVRF9BODFoUUstOFRaaG9DbzQ4UHVCcTVFTExpZ1FlaXBnX1E4aVBscVlVaFV0RnVBR3ZuNk1WTm9nVDVPSHFWQ2JGazBTTWUyWEQxbWdiclE3WDRPdw?oc=5",
+      "published": "Mon, 16 Mar 2026 17:33:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Tesla Crashes 18% – Here’s Why Wall Street Is Getting Nervous - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1saGdIX0hudkNoSlo0ek5IWjdhNHAyMlJHdWktb0g3enJKaGtEU3J5cWVXQ0xieFhxWGE1OVAwM0ZLTmpNM3h3MEFlcjFIdlpEbWl4a25EZGxqSDdiMkhXU1Ixckw1dkNpTkJ4Q3FXYWtmQTVNWjhlY1NlVQ?oc=5",
+      "published": "Wed, 11 Mar 2026 17:39:40 GMT",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ราคาหุ้นเทสลาลดลง 18% ทำให้เกิดความกังวลในตลาดวอลล์สตรีท",
+        "why": "หัวข้อข่าวระบุโดยตรงว่าหุ้น 'ลดลง 18%' และ 'วอลล์สตรีทกำลังกังวล' ซึ่งเป็นสัญญาณเชิงลบอย่างชัดเจน"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "มีข่าวดีเกี่ยวกับเทสลาในที่สุด",
+        "why": "หัวข้อข่าวระบุชัดเจนว่า 'ในที่สุดก็มีข่าวดี' ซึ่งแสดงถึงการสนับสนุนราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "การซื้อหุ้นเทสลาได้สอนบทเรียนที่มีราคาแพง",
+        "why": "วลี 'บทเรียนที่มีราคาแพง' บ่งชี้ถึงผลลัพธ์เชิงลบหรือการขาดทุนจากการลงทุนในหุ้นเทสลา"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บทวิเคราะห์การปรับตัวขึ้น 80% ของหุ้น TSLA",
+        "why": "แม้ว่าจะเป็นบทวิเคราะห์ แต่หัวข้อข่าวเน้นไปที่ 'การปรับตัวขึ้น 80%' ซึ่งเป็นเหตุการณ์เชิงบวกอย่างมากสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ความคิดเห็นเกี่ยวกับการปิดของหุ้นเทสลาต่ำกว่าค่าเฉลี่ยเคลื่อนที่ 200 วัน",
+        "why": "การปิดต่ำกว่าค่าเฉลี่ยเคลื่อนที่ 200 วันเป็นสัญญาณทางเทคนิคที่ถือว่าเป็นการบ่งชี้เชิงลบโดยทั่วไปในตลาดหุ้น"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 75,
+      "note": "แม้จะมีข่าวดีและการปรับตัวขึ้นในอดีต แต่ข่าวที่ระบุว่าหุ้นร่วงลงอย่างรุนแรง บทเรียนราคาแพง และสัญญาณทางเทคนิคเชิงลบ บ่งชี้ถึงแนวโน้มโดยรวมที่เป็นลบมากกว่า"
+    }
+  }
+}

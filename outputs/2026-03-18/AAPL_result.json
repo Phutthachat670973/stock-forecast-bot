@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-17",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8354,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 22.2222 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1678 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0300 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0249 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0359 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSFQ4b0JBV0x1UkQ5SWFUbmNQWWZ5NWtHU0x3bHFyc3N3WC1LVHVoSThPamFtSHZOdFp1NUpub1MyY1RHclRQcFNsb1FyOUw5Zkh1aWtsbTVVTWFDWm8xX2Fzem5iOUY5c3pYdmYzdVFRM2J5RW9VSlRMRQ?oc=5",
+      "published": "Mon, 16 Mar 2026 00:34:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Is Going On With Apple Stock On Thursday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVVnaWgyeU80RGh3ekZaNWxwT0Rkcjk1Tmd2a3RLVktYdnVhYmlqWFBxNWlLTkFGeGkxZURQeUtPbUVWZFNaRlFHTDJSWXBKSGVPWnR5bnZteWVuMU5Oald4Sms2ODN5bnVnWkF2dUU1M3hNdDlhaEdVZXltbnk2VGlOdzlRMV9vd19RSUhTX0dUYk9yR0s0T1g5NjRHNDQ?oc=5",
+      "published": "Thu, 12 Mar 2026 17:18:00 GMT",
+      "source": "Benzinga"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 2.2% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHhfajVEbWpDNXdHenJsQV9JNm91M0FsZ0ppWDQzYUVBOWdCbXJkMU80WjVGR0tNUjNZMURYeFRZTnVCeEk4Uy1hbGJfZXBsSXpiUk92SENZcWViYzU3b0JlZ1JTQ1pjUExIYnlJVEFqM3FzZllpa2xSQlZGSWdrNVdCV0M3VW1vUldPOVV3c0hZd19QOWFrb3Jfcw?oc=5",
+      "published": "Fri, 13 Mar 2026 21:13:57 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tech Sector Pullback - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjJaeEx3WEt5QXRpOW5mMmFWc04wbkRlZFlWWGU1aU9GVnZNb1MtRFg4VkZkYUh4SDJWZGJmck1rdDRmX1A4c21wY19ka2RPZk1GQW56WGFEWHI3ZVlva09adHNpdzVqQXMwSVRuTHBTa1hTbEtjSUFfcUZBaXdiUTAzU0lrVTI3Y3FzN2FRVkNWdw?oc=5",
+      "published": "Fri, 13 Mar 2026 17:33:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Is It Time To Reassess Apple (AAPL) After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXIwZmE4N0VMN3pzUHJEeVZGbVpIZzBkNGVTOE1ucjM4TW5kVFJ6VlpISy1LamdSRzNzWGJkRDZ3dEFTbEJTa0RxOTVzUU5GeHVXdWJrZzRHaWdSOXU1dWVsXzV5bGJibktVUE54b0Y0MWw0Z2FlQWdDOEVnR2dSRkd2emxpUVJhbF9ab09uNVhyYlRtak85MFhuUGQ5aF9YaGNycVJvWWRLTkdNd0xDTDNMdEpjOW5yelJOV9IBwgFBVV95cUxQUDdHUXdqYkdRVnNwd0pYYkRQWmlCaUMxVXRzRHZueGk0dXJWT2tuaDBxekl4Q0xxZmdYb1JtVjd2TEhPcXlpd3VQdVdULWJra3A1RFY1Yi1DdGdIbkk5dVJ5WnFDRVBHZDlQQW9yX0tFbGJ2UnN3UklZMnZ0b3VVVHlocXR6R1V0NW9fOHh6YlplejAwUFdBNjZ5cVNJQ19VazBXUWJLbG9iQkFVOTJRMnl2a09kTDlMT2Z3Y2tPT09rZw?oc=5",
+      "published": "Sun, 15 Mar 2026 19:16:12 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Apple Just Announced the AirPods Max 2. Can That Move the Needle for AAPL Stock? - Barchart",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlpYd0M2WUdsZGRld09NQXcwdFpFYmNTZmtiejFwVy03RGhHQzV3QU5BcTFpcjFRN19oLW00YjNfRHZwVkg5UkJ1Y0VucThBOUNncnBnTS1VOThsNVRfcU8tT2V0dlRlanNtZGdLMXlwTWJfY0R5eDRjN2FlU0xZczZ0Y2VIdl8tUVpxejNXakdzX2NTXzQ4aC04Vk03Qi1adDlXaHAtYThCc2dLMEpnYXUyaG9xMjF6Z05Wd09n?oc=5",
+      "published": "Tue, 17 Mar 2026 18:11:15 GMT",
+      "source": "Barchart"
+    },
+    {
+      "title": "Apple’s 108% Run Up - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91S3hLeTlBMHR3MFo3cXU0aEo3TC1FNzZzYUtWVk5wY3NLV25iNGw3Ykk4NjRab05lVjc2NTFJZnJteEc5Ym40VmxzX2JTdW82bWR2ZGpWd1E2dlJkckxQa01YUlFwWlpZSVBKclJR?oc=5",
+      "published": "Mon, 16 Mar 2026 14:46:52 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "AAPL Stock Today, March 14: MSCI World Cuts U.S. Weight; Apple Among Top - Meyka",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUNRVDdBMjdyV3FzVnVsUm01SHpibzltbG1YM01HRHJ0R3lLRWltTzJ5LVhwT1IwSUkzeFJwU3ZaTE1KNWZ0dnYwMmd5djFmdmZXLXo0azRQTG9aemZLQ3RnTTl6dmtpbTd4d2drZ3JSRFVPWnNZMlJvY2ctak1QMWJHQXZudE9mQTNkdzhuYW80emVQakg0RXBYZXc?oc=5",
+      "published": "Sat, 14 Mar 2026 00:37:49 GMT",
+      "source": "Meyka"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Apple (NASDAQ:AAPL) ลดลง 2.2%",
+        "why": "หัวข้อข่าวระบุอย่างชัดเจนว่าราคาหุ้นของ Apple ลดลง 2.2% ซึ่งบ่งชี้ถึงแนวโน้มขาลง"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "Apple ได้ประกาศเปิดตัว AirPods Max 2 และมีการตั้งคำถามว่าผลิตภัณฑ์นี้จะส่งผลต่อหุ้น AAPL หรือไม่",
+        "why": "การประกาศผลิตภัณฑ์ใหม่อาจเป็นบวก แต่การตั้งคำถามถึงผลกระทบต่อราคาหุ้นโดยตรงในหัวข้อข่าวทำให้สถานะเป็นกลาง เนื่องจากไม่สามารถสรุปผลกระทบที่ชัดเจนได้จากข้อมูลที่มี"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "Apple มีการเติบโตขึ้น 108%",
+        "why": "หัวข้อข่าวระบุถึงการเติบโตที่แข็งแกร่งอย่างชัดเจนที่ 108% ซึ่งเป็นสัญญาณเชิงบวกอย่างมาก"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "มีการตั้งคำถามถึงการประเมินหุ้น Apple (AAPL) ใหม่หลังจากราคาหุ้นปรับตัวลดลงเมื่อเร็วๆ นี้",
+        "why": "วลี 'Share Price Pullback' (ราคาหุ้นปรับตัวลดลง) บ่งชี้ถึงแนวโน้มขาลงเมื่อเร็วๆ นี้ ทำให้ต้องมีการประเมินสถานการณ์ใหม่"
+      },
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 100,
+        "summary": "มีการตั้งคำถามว่าหุ้น Apple Inc. (AAPL) เป็นหุ้นที่น่าซื้อในตอนนี้หรือไม่",
+        "why": "หัวข้อข่าวเป็นคำถามปลายเปิดเกี่ยวกับการลงทุน ซึ่งไม่มีข้อมูลที่บ่งชี้ว่าเป็นขาขึ้นหรือขาลง ทำให้สถานะเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 75,
+      "note": "หัวข้อข่าวมีการผสมผสานกันระหว่างการแสดงผลการดำเนินงานในอดีตที่แข็งแกร่ง (ขาขึ้น) และการปรับตัวลดลงของราคาหุ้นล่าสุด (ขาลง) พร้อมด้วยคำถามที่แสดงถึงความไม่แน่นอนเกี่ยวกับสถานะการลงทุนในปัจจุบัน ทำให้ภาพรวมโดยรวมมีแนวโน้มเป็นกลางถึงระมัดระวัง"
+    }
+  }
+}
