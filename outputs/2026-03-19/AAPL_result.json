@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-18",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.83,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 20.5076 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0438 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0417 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0477 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0823 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSFQ4b0JBV0x1UkQ5SWFUbmNQWWZ5NWtHU0x3bHFyc3N3WC1LVHVoSThPamFtSHZOdFp1NUpub1MyY1RHclRQcFNsb1FyOUw5Zkh1aWtsbTVVTWFDWm8xX2Fzem5iOUY5c3pYdmYzdVFRM2J5RW9VSlRMRQ?oc=5",
+      "published": "Mon, 16 Mar 2026 00:34:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 2.2% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHhfajVEbWpDNXdHenJsQV9JNm91M0FsZ0ppWDQzYUVBOWdCbXJkMU80WjVGR0tNUjNZMURYeFRZTnVCeEk4Uy1hbGJfZXBsSXpiUk92SENZcWViYzU3b0JlZ1JTQ1pjUExIYnlJVEFqM3FzZllpa2xSQlZGSWdrNVdCV0M3VW1vUldPOVV3c0hZd19QOWFrb3Jfcw?oc=5",
+      "published": "Fri, 13 Mar 2026 21:13:57 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
+      "published": "Wed, 18 Mar 2026 19:05:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tech Sector Pullback - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjJaeEx3WEt5QXRpOW5mMmFWc04wbkRlZFlWWGU1aU9GVnZNb1MtRFg4VkZkYUh4SDJWZGJmck1rdDRmX1A4c21wY19ka2RPZk1GQW56WGFEWHI3ZVlva09adHNpdzVqQXMwSVRuTHBTa1hTbEtjSUFfcUZBaXdiUTAzU0lrVTI3Y3FzN2FRVkNWdw?oc=5",
+      "published": "Fri, 13 Mar 2026 17:33:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Is It Time To Reassess Apple (AAPL) After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXIwZmE4N0VMN3pzUHJEeVZGbVpIZzBkNGVTOE1ucjM4TW5kVFJ6VlpISy1LamdSRzNzWGJkRDZ3dEFTbEJTa0RxOTVzUU5GeHVXdWJrZzRHaWdSOXU1dWVsXzV5bGJibktVUE54b0Y0MWw0Z2FlQWdDOEVnR2dSRkd2emxpUVJhbF9ab09uNVhyYlRtak85MFhuUGQ5aF9YaGNycVJvWWRLTkdNd0xDTDNMdEpjOW5yelJOV9IBwgFBVV95cUxQUDdHUXdqYkdRVnNwd0pYYkRQWmlCaUMxVXRzRHZueGk0dXJWT2tuaDBxekl4Q0xxZmdYb1JtVjd2TEhPcXlpd3VQdVdULWJra3A1RFY1Yi1DdGdIbkk5dVJ5WnFDRVBHZDlQQW9yX0tFbGJ2UnN3UklZMnZ0b3VVVHlocXR6R1V0NW9fOHh6YlplejAwUFdBNjZ5cVNJQ19VazBXUWJLbG9iQkFVOTJRMnl2a09kTDlMT2Z3Y2tPT09rZw?oc=5",
+      "published": "Sun, 15 Mar 2026 19:16:12 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "What Is Going On With Apple Stock On Thursday? - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVVnaWgyeU80RGh3ekZaNWxwT0Rkcjk1Tmd2a3RLVktYdnVhYmlqWFBxNWlLTkFGeGkxZURQeUtPbUVWZFNaRlFHTDJSWXBKSGVPWnR5bnZteWVuMU5Oald4Sms2ODN5bnVnWkF2dUU1M3hNdDlhaEdVZXltbnk2VGlOdzlRMV9vd19RSUhTX0dUYk9yR0s0T1g5NjRHNDQ?oc=5",
+      "published": "Thu, 12 Mar 2026 17:18:00 GMT",
+      "source": "Benzinga"
+    },
+    {
+      "title": "Better Stock to Buy Right Now: Amazon vs. Apple - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2hYeG56SFFDanRMc1hMOXlINGxIRzVHTjZfLXd6dnhRNjBwWVU3NXI5Z1NOWTV4UkliWEhUVkhSN0duaU9CMmNZd1JmQWdMeE5hUzJoMG5oTWFpTk5kV2tfV3ZYZUNtd0dfQmhLV3E2MHNZZTBqZFlTbUxwaEhCX3IyeTZlMFVMbjB3R1FTQlVXdw?oc=5",
+      "published": "Mon, 16 Mar 2026 20:25:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Is Apple Stock's 29.63X PE Still Worth it? Buy, Sell, or Hold? - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazJKcFQ3bHo3V0FIaFFSRVlnWlVFY1FzNGR6LVFXSGl5Ym1sbVh4V0xGSnRiY0J0UTNNUVNyejdKbWxqWkcxNnZkRmtqUUYtWGxaMGZ6dndNWEtPdkVpNjR1d0p5ekJILWg1R3ZqYkpIc2tzbWJUWnpHMk80TTJMeHhxVWJ4Tk5JTHZZMVBYYmt1b0JCRVFRWVpjYmtQSE5nTGtkS2NVVDk5TEhQSE9Gb2YzaDQxMUY0Y3BPTW5ZdzF1NWEyWHBQOUFhOUlyVnc3Q1R1TWUzdw?oc=5",
+      "published": "Thu, 12 Mar 2026 17:32:00 GMT",
+      "source": "The Globe and Mail"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "คำถามว่าหุ้น Apple Inc. (AAPL) น่าซื้อตอนนี้หรือไม่",
+        "why": "พาดหัวเป็นคำถามที่เชิญชวนให้พิจารณาการลงทุนในหุ้น AAPL โดยไม่ได้ระบุทิศทางที่ชัดเจน"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Apple (NASDAQ:AAPL) ลดลง 2.2%",
+        "why": "พาดหัวระบุการลดลงของราคาหุ้น Apple อย่างชัดเจน"
+      },
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ราคาหุ้น Apple ลดลงเหลือ 252 ดอลลาร์ เนื่องจากนักลงทุนเทคโนโลยีปรับไปสู่การลงทุนแบบตั้งรับ",
+        "why": "พาดหัวระบุการลดลงของราคาหุ้น Apple อย่างชัดเจน ('slips')"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "คำถามว่าถึงเวลาประเมินหุ้น Apple (AAPL) ใหม่หรือไม่หลังจากราคาหุ้นมีการปรับตัวลงเมื่อเร็วๆ นี้",
+        "why": "พาดหัวเป็นคำถามที่เชิญชวนให้ประเมินหุ้นใหม่หลังจากราคาหุ้นมีการปรับตัวลง ซึ่งบ่งชี้ถึงเหตุการณ์เชิงลบในอดีตแต่คำถามเองเป็นกลาง"
+      },
+      {
+        "idx": 8,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "คำถามว่าค่า PE 29.63X ของหุ้น Apple ยังคงคุ้มค่าหรือไม่ และควรซื้อ ขาย หรือถือดี",
+        "why": "พาดหัวเป็นคำถามที่ชวนให้พิจารณาถึงมูลค่าหุ้นและการตัดสินใจลงทุน โดยไม่ระบุทิศทางที่ชัดเจน"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 70,
+      "note": "โดยรวมแล้ว พาดหัวข่าวที่เลือกมีข่าวการลดลงของราคาหุ้น Apple อย่างชัดเจน 2 รายการ และอีก 3 รายการเป็นคำถามเชิงประเมินหรือพิจารณาใหม่หลังราคาหุ้นปรับตัวลง ซึ่งบ่งชี้ถึงแรงกดดันในตลาดและความไม่แน่นอนสำหรับหุ้น AAPL"
+    }
+  }
+}
