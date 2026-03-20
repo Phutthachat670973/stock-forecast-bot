@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-19",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.3749,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.2455 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0551 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0320 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0527 → กดลง",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0262 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Why I've Changed My Mind on Microsoft Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUgyN05UdVc2ZUJ3QV9GRmRpRVN1LVJQbV9PLTBqQUxSbzJyMWR5RWJzMzdfME8zQW0wd1E0NFlDWFJOVU0yYkFoVE1lT3hEclZCeGZNX2Q1TGtHa18wOXBlTFVmSzlWaTRpMjA3S19vRXRSX1E1dEdCaThGaXl1cm9CQ3ltdGlhczZiTUZR?oc=5",
+      "published": "Sun, 15 Mar 2026 03:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWhxeXNoQ3Riem4wdDhaZzA0SjA4bU1IVllkcEV4Y1V1eUFpTTV4Vllfb1VnSnBQV3k4VnBuUzlWb0dURDZ3V2pyQm83cUtuWU9FaFpSZEd0T1FQczZlNllPSFJVcUFKb1EyYUZVRW43UE9aMk1iOUtuOGc2UTk1QjA2QkFhXzh1YWhTSEF0ZW82LTdickFSY2ROeGIwelVjRHJqRA?oc=5",
+      "published": "Mon, 16 Mar 2026 17:36:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Is Microsoft Corporation (MSFT) One of the Most Profitable Blue Chip Stocks to Invest In Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE1WZE5KOEZ2YTBxOFpwcG94ZXpNc211c3hhNFk4UWVWb2trZmhYaUlGNDVYN3ZHU0VMLUZTdENYZU9SR0ptM1hlcXdkaDNYVEFJWmt6VkMtX0hxTmFEeTI0eEtnTFJZOWtSZVp4dXl4YkNNdWxlWUpXajV6bGpFWk94N21IOEdL?oc=5",
+      "published": "Sun, 15 Mar 2026 18:36:43 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Is On Sale: 5 Reasons To Buy Now (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnZYenRuRnNlbDViSGYzQ2FpaXFzYmZtandKS0NaR1ZqcmM3NFJfX0JSbXpTdTdfZWRieTVTOF9pZFJ0VXdiendYT2pTSHhmclE2bHBFdk5PbEIzVHU1ZEdJMkZmSTNsZENkSEt6RnVhRnk5bUNnUVZCYklkVjVWcTNZMnRZajd1R2c?oc=5",
+      "published": "Mon, 16 Mar 2026 14:23:42 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "“World-Class Models”: Microsoft Stock (NASDAQ:MSFT) Drops as Suleyman Reassigned - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczlOQ1RiSjl4NkYwZDdacEVZTTRoOW5PSGxvWjV6LUE5eG9iQ2lHMUJ1YUw0dC1XTTdBeGpscGpVMGhUQXVmdi1Kb3BpWjFaZUxQSWJfa2ZPNzVDMXI5NHFBYmV4UzNwOTRlVlplX04yTFU5WnkySjJwNl9yYXZ5TU5sQVNhQk9GcGdnQW5IbXZ1S0RtaUdZWHVONjZ0bVJHWkdqSjVQVQ?oc=5",
+      "published": "Wed, 18 Mar 2026 17:37:38 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft’s Worst Start Since 2008. Should You Buy the Dip? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjc5a3RESGhTZXNYUGlPbFNDSl9TN1Vod0kyNjh2MVVncEJxN1JWYklPQXIwTDkyaEZKMWlEWUdxbmNhRDRJaEs4N08zdzNBXzRjd1k3cE1MdTN2UmZiY1RCTDkyZ09haEQtVC03ZWMzeWhBbXE4bnk1eEVMYVdQM2NIMGEzZmd4dnIyQkwxUmFxZ2NUQk9EaVJJSjdiUVRZTkE?oc=5",
+      "published": "Thu, 19 Mar 2026 14:28:21 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft Stock: Is The 15% Drop A Buying Opportunity Or A Warning Sign? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0NNYUdzRnQ1eUVGelRoVG15UFY2cy0yQXVyTlBkN0ZYRUlUc2ZQVjNfNHVhSDVTdUJzVUNxNkJhVmV2TDJPZmI5VW51Rk5yX3BCZVV5YnJaaFAxOTBoWWlDaGJZNF85ZWQ5VDdjTURQczkyTk9UZmhiTkpzR0R3b2lVdzgzakNYcU1RVEN1WlI3WENOOVdmdHBlbFlFaXFVXzJaNHQ5WGlJQ3ZqTkFTMXFkenhLaXU5QTZiam1hN3RwUlBBdkx5b0t3?oc=5",
+      "published": "Fri, 13 Mar 2026 13:03:45 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Microsoft | MSFT Stock Price, Company Overview & News - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MT2g0RzdRaGRDUHFQc1ZnOGVxdmN0VEVKUFpzOHFCU0dIWjJwWEdWVHl5bWV2TFlQblZyM3ZpZDJKZ2VXSnk1NHF2TXBnbUJCb1JlUWpn?oc=5",
+      "published": "Tue, 17 Mar 2026 23:00:00 GMT",
+      "source": "Forbes"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ไมโครซอฟต์ลดราคา: 5 เหตุผลที่ควรซื้อตอนนี้ (NASDAQ:MSFT)",
+        "why": "พาดหัวข่าวระบุอย่างชัดเจนว่าหุ้น 'ลดราคา' และมี '5 เหตุผลที่ควรซื้อตอนนี้' ซึ่งเป็นการแสดงความเห็นเชิงบวกอย่างมากสำหรับการลงทุนในหุ้น MSFT"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "“World-Class Models”: หุ้นไมโครซอฟต์ (NASDAQ:MSFT) ร่วงลงหลังจากการปรับตำแหน่ง Suleyman",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'หุ้นไมโครซอฟต์...ร่วงลง' ซึ่งบ่งชี้ถึงผลกระทบเชิงลบต่อราคาหุ้นจากการปรับตำแหน่งบุคลากร"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "บริษัท Microsoft Corporation (MSFT) เป็นหนึ่งในหุ้นบลูชิปที่ทำกำไรได้มากที่สุดที่จะลงทุนตอนนี้หรือไม่?",
+        "why": "พาดหัวข่าวตั้งคำถามในเชิงชี้นำว่าไมโครซอฟต์อาจเป็นหุ้นบลูชิปที่ทำกำไรและน่าลงทุนมากที่สุด ซึ่งบ่งชี้ถึงมุมมองเชิงบวกต่อศักยภาพการลงทุน"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "หุ้นไมโครซอฟต์: การลดลง 15% เป็นโอกาสในการซื้อหรือเป็นสัญญาณเตือน?",
+        "why": "พาดหัวข่าวกล่าวถึงการลดลงของราคาหุ้น 15% แต่ตั้งคำถามว่าเป็นการลดลงเพื่อซื้อ หรือเป็นสัญญาณเตือน ซึ่งนำเสนอทั้งสองมุมมองที่เป็นไปได้โดยไม่สรุป ทำให้เป็นกลาง"
+      },
+      {
+        "idx": 6,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "ไมโครซอฟต์เริ่มต้นได้แย่ที่สุดนับตั้งแต่ปี 2008 ควรซื้อช่วงที่ราคาตกต่ำหรือไม่?",
+        "why": "พาดหัวข่าวระบุถึงสถานการณ์เชิงลบในอดีต ('เริ่มต้นได้แย่ที่สุด') แต่ก็ตั้งคำถามเกี่ยวกับการ 'ซื้อช่วงที่ราคาตกต่ำ' ซึ่งเสนอความเป็นไปได้ทั้งในเชิงบวกและลบ ทำให้เป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 80,
+      "note": "มีการรายงานข่าวทั้งในเชิงบวกและเชิงลบเกี่ยวกับหุ้น MSFT โดยมีพาดหัวข่าวที่แนะนำให้ซื้อและบางส่วนระบุถึงการร่วงลงของราคาหุ้น รวมถึงพาดหัวข่าวที่เป็นกลางที่นำเสนอทั้งสองมุมมอง การวิเคราะห์เพิ่มเติมเป็นสิ่งจำเป็นเพื่อประเมินทิศทางในอนาคต"
+    }
+  }
+}

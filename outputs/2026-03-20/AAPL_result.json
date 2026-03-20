@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-19",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8316,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 25.6246 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0454 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1098 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0266 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0434 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple | AAPL Stock Price, Company Overview & News - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rWDNjOGl0aWxxdkhOMjkwZHdyR0ptVVhFaVJOUDVtZW9XYlk2b3RtTkdoWmY0ajMyUE16Wm5WN0VlUkVsa24zYmhJcHdMNmZF?oc=5",
+      "published": "Tue, 17 Mar 2026 23:00:00 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Is It Time To Reassess Apple (AAPL) After Recent Share Price Weakness? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWWUtVVd6NE5PU1h6aWhrbEw2THdSYWtCRjAtSjVzQmlySDlNMFhSbUo2MGRrZnBob0RReUdNMGVMNktIdlJXUUlIWTl5QkIxLVI4SW05aUh4Yld6WjlXV3NOb09tYmVMeG9mX2FsZG5IRGpOelVjWWt3dldRbzQ2ajRfMA?oc=5",
+      "published": "Tue, 17 Mar 2026 07:09:35 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
+      "published": "Wed, 18 Mar 2026 19:05:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tim Cook's China Visit - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHk4STFrYWJWZEVTUFNaOVNBc2I5LVc1bzBGMXp6bE1vRWxoMi1HOU4wODhWX2g1VlhMak5hb0U1bXRjNkhUX0FjV25fN0NXdEpoTGUtTnpKTGk3V0pSeEp3T0pQVlZ4THNNTkpvaFdZOEVIWkI0OFJIZ243d2tJZmdPMklQZEpsek04RXFYN2gyeUc5YThJ?oc=5",
+      "published": "Thu, 19 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple (NASDAQ:AAPL) Shares Down 2.2% - Here's Why - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHhfajVEbWpDNXdHenJsQV9JNm91M0FsZ0ppWDQzYUVBOWdCbXJkMU80WjVGR0tNUjNZMURYeFRZTnVCeEk4Uy1hbGJfZXBsSXpiUk92SENZcWViYzU3b0JlZ1JTQ1pjUExIYnlJVEFqM3FzZllpa2xSQlZGSWdrNVdCV0M3VW1vUldPOVV3c0hZd19QOWFrb3Jfcw?oc=5",
+      "published": "Fri, 13 Mar 2026 21:13:57 GMT",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Is It Time To Reassess Apple (AAPL) After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXIwZmE4N0VMN3pzUHJEeVZGbVpIZzBkNGVTOE1ucjM4TW5kVFJ6VlpISy1LamdSRzNzWGJkRDZ3dEFTbEJTa0RxOTVzUU5GeHVXdWJrZzRHaWdSOXU1dWVsXzV5bGJibktVUE54b0Y0MWw0Z2FlQWdDOEVnR2dSRkd2emxpUVJhbF9ab09uNVhyYlRtak85MFhuUGQ5aF9YaGNycVJvWWRLTkdNd0xDTDNMdEpjOW5yelJOV9IBwgFBVV95cUxQUDdHUXdqYkdRVnNwd0pYYkRQWmlCaUMxVXRzRHZueGk0dXJWT2tuaDBxekl4Q0xxZmdYb1JtVjd2TEhPcXlpd3VQdVdULWJra3A1RFY1Yi1DdGdIbkk5dVJ5WnFDRVBHZDlQQW9yX0tFbGJ2UnN3UklZMnZ0b3VVVHlocXR6R1V0NW9fOHh6YlplejAwUFdBNjZ5cVNJQ19VazBXUWJLbG9iQkFVOTJRMnl2a09kTDlMT2Z3Y2tPT09rZw?oc=5",
+      "published": "Sun, 15 Mar 2026 19:16:12 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Better Stock to Buy Right Now: Amazon vs. Apple - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2hYeG56SFFDanRMc1hMOXlINGxIRzVHTjZfLXd6dnhRNjBwWVU3NXI5Z1NOWTV4UkliWEhUVkhSN0duaU9CMmNZd1JmQWdMeE5hUzJoMG5oTWFpTk5kV2tfV3ZYZUNtd0dfQmhLV3E2MHNZZTBqZFlTbUxwaEhCX3IyeTZlMFVMbjB3R1FTQlVXdw?oc=5",
+      "published": "Mon, 16 Mar 2026 20:25:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "AAPL Stock Today, March 14: MSCI World Cuts U.S. Weight; Apple Among Top - Meyka",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUNRVDdBMjdyV3FzVnVsUm01SHpibzltbG1YM01HRHJ0R3lLRWltTzJ5LVhwT1IwSUkzeFJwU3ZaTE1KNWZ0dnYwMmd5djFmdmZXLXo0azRQTG9aemZLQ3RnTTl6dmtpbTd4d2drZ3JSRFVPWnNZMlJvY2ctak1QMWJHQXZudE9mQTNkdzhuYW80emVQakg0RXBYZXc?oc=5",
+      "published": "Sat, 14 Mar 2026 00:37:49 GMT",
+      "source": "Meyka"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "ราคาหุ้น Apple ร่วงลงที่ 252 ดอลลาร์ เนื่องจากนักลงทุนเทคโนโลยีเปลี่ยนไปสู่การวางตำแหน่งเชิงรับ",
+        "why": "พาดหัวระบุชัดเจนว่า 'ราคาหุ้นร่วงลง' และให้ราคาที่ลดลง ซึ่งเป็นสัญญาณเชิงลบที่ชัดเจนสำหรับหุ้น Apple"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Apple (NASDAQ:AAPL) ลดลง 2.2% และเหตุผลเบื้องหลัง",
+        "why": "พาดหัวระบุชัดเจนว่า 'หุ้นลดลง 2.2%' ซึ่งเป็นสัญญาณเชิงลบที่ชัดเจนสำหรับหุ้น Apple"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "เป็นเวลาที่จะประเมิน Apple (AAPL) ใหม่หรือไม่ หลังจากราคาหุ้นอ่อนค่าลงเมื่อเร็วๆ นี้?",
+        "why": "พาดหัวระบุถึง 'ความอ่อนแอของราคาหุ้น' ล่าสุด ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น Apple และบ่งชี้ถึงความจำเป็นในการพิจารณาใหม่"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ถึงเวลาประเมิน Apple (AAPL) ใหม่หรือไม่ หลังจากราคาหุ้นปรับตัวลงเมื่อเร็วๆ นี้?",
+        "why": "พาดหัวระบุถึง 'การปรับตัวลงของราคาหุ้น' ล่าสุด ซึ่งเป็นสัญญาณเชิงลบสำหรับราคาหุ้น Apple และบ่งชี้ถึงความจำเป็นในการพิจารณาใหม่"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ความคิดเห็นเกี่ยวกับหุ้น Apple (AAPL) จากการเยือนจีนของ Tim Cook",
+        "why": "พาดหัวกล่าวถึงการเยือนของ CEO และ 'ความคิดเห็น' แต่ไม่ได้ระบุผลกระทบเชิงบวกหรือเชิงลบโดยตรงต่อราคาหุ้น Apple จากข้อมูลในพาดหัว"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "จากพาดหัวข่าวหลายรายการที่ชี้ให้เห็นถึงความอ่อนแอ การร่วงลง และการปรับตัวลงของราคาหุ้น Apple เมื่อเร็วๆ นี้"
+    }
+  }
+}
