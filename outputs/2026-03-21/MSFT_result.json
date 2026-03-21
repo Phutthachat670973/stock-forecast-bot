@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4992,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.4888 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0423 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0655 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0346 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0524 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft: This Might Be the Best Core Stock Bargain in the Market Today - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1duWGk0dkx1QTVjRU8yU1NWVTZSa2V3dFBINzdGVl9aMWFFX3hXLWRBTUZWc2E4YWpQcmlDMjh3V3hJWnNVcmJSc0I5WWN0R0NYdUtSeDRmN3lhQlZNdjZNYjZTdU5qQVltODlwcEY2emJsc1owUE5qYjBlLXZUNXVzZV9oNTRPeXg4NFpR?oc=5",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "source": "Morningstar"
+    },
+    {
+      "title": "Microsoft Stock Makes No Sense, Play The Spending Versus Revenue Gap (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzZ5Um5zenVGWmhtcmlYc2FFdlJLXy15V2kta09oa0daVnBvNjZoZEZpY3l6djJpMUdqbXRuRlNHbngtOENyVUZKamJ5UHdSY3lNWnlMREhxTFU4dXpaM1dUaVp4YUVyV1NMdlZ3SE5Id1dkOGF5V2oyNFBHRkh3SjVGZkszMWZ2WGZNbWNFYzV2MVFENUNMR0pjV1dUV2FtNjQ5ZjhTb0FwYlBl?oc=5",
+      "published": "Fri, 20 Mar 2026 14:40:08 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Why I've Changed My Mind on Microsoft Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUgyN05UdVc2ZUJ3QV9GRmRpRVN1LVJQbV9PLTBqQUxSbzJyMWR5RWJzMzdfME8zQW0wd1E0NFlDWFJOVU0yYkFoVE1lT3hEclZCeGZNX2Q1TGtHa18wOXBlTFVmSzlWaTRpMjA3S19vRXRSX1E1dEdCaThGaXl1cm9CQ3ltdGlhczZiTUZR?oc=5",
+      "published": "Sun, 15 Mar 2026 03:00:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWhxeXNoQ3Riem4wdDhaZzA0SjA4bU1IVllkcEV4Y1V1eUFpTTV4Vllfb1VnSnBQV3k4VnBuUzlWb0dURDZ3V2pyQm83cUtuWU9FaFpSZEd0T1FQczZlNllPSFJVcUFKb1EyYUZVRW43UE9aMk1iOUtuOGc2UTk1QjA2QkFhXzh1YWhTSEF0ZW82LTdickFSY2ROeGIwelVjRHJqRA?oc=5",
+      "published": "Mon, 16 Mar 2026 17:36:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft’s Worst Start Since 2008. Should You Buy the Dip? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjc5a3RESGhTZXNYUGlPbFNDSl9TN1Vod0kyNjh2MVVncEJxN1JWYklPQXIwTDkyaEZKMWlEWUdxbmNhRDRJaEs4N08zdzNBXzRjd1k3cE1MdTN2UmZiY1RCTDkyZ09haEQtVC03ZWMzeWhBbXE4bnk1eEVMYVdQM2NIMGEzZmd4dnIyQkwxUmFxZ2NUQk9EaVJJSjdiUVRZTkE?oc=5",
+      "published": "Thu, 19 Mar 2026 14:28:21 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Is Microsoft Corporation (MSFT) One of the Most Profitable Blue Chip Stocks to Invest In Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE1WZE5KOEZ2YTBxOFpwcG94ZXpNc211c3hhNFk4UWVWb2trZmhYaUlGNDVYN3ZHU0VMLUZTdENYZU9SR0ptM1hlcXdkaDNYVEFJWmt6VkMtX0hxTmFEeTI0eEtnTFJZOWtSZVp4dXl4YkNNdWxlWUpXajV6bGpFWk94N21IOEdL?oc=5",
+      "published": "Sun, 15 Mar 2026 18:36:43 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How To Buy Microsoft (MSFT) Stocks & Shares - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTFzLVRPOWpFMTA4dk9OVWpxNkdpbnNuQ0JEcXFMN19ROVNrdlRKMDEwZm1kWEZ4c3NIX3pNc1FoUVB6ZE1ueXk1cHlTN0RhSFNYd3FhY0dvSGloa3pPRXhxN1FQdWt5ZE9RNWhiQ1VNcUR5Nmg1ampvcklRWFNNclpRSm5sSnZ0aUplMg?oc=5",
+      "published": "Tue, 17 Mar 2026 22:52:00 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "No More NDAs: Microsoft Stock (NASDAQ:MSFT) Slumps After Change in Local Government Dealings - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0FmWnczbEpQYURhcERzSldjZ24zc1BfSnZNRVV0TVhXQXprUllQYmFHUFYydGxYREJIQ2RFT3VscW9HVU94eXo2UXBkbVFpRENLWmhNZkQ3bzMyVkFhUlVKTEQ3T29ma3ZxaXdWM1VndXNMZUZIZ2lxdWc1OHh0dE9yS3pmTTNPSldLaW9LOER3Z2xmUXlmZTI3ZzU5RWRhZXBxRjZ4ZERKbEJkNVo0Q1Faa0ZleldSc3c?oc=5",
+      "published": "Fri, 20 Mar 2026 17:40:45 GMT",
+      "source": "TipRanks"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "บทความนี้ระบุว่า Microsoft อาจเป็นหุ้นหลักที่คุ้มค่าที่สุดในตลาดวันนี้",
+        "why": "การใช้คำว่า 'Best Core Stock Bargain' บ่งชี้ถึงมุมมองเชิงบวกอย่างชัดเจนต่อศักยภาพการลงทุนของหุ้น Microsoft"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "บทความนี้กล่าวว่าหุ้น Microsoft ไม่สมเหตุสมผลและแนะนำให้พิจารณาช่องว่างระหว่างการใช้จ่ายกับรายได้",
+        "why": "วลี 'Microsoft Stock Makes No Sense' บ่งบอกถึงมุมมองเชิงลบหรือการไม่เข้าใจเหตุผลเบื้องหลังการเคลื่อนไหวของราคาหุ้น และ 'Play The Spending Versus Revenue Gap' อาจหมายถึงความกังวลเกี่ยวกับผลกำไร"
+      },
+      {
+        "idx": 3,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "บทความนี้กล่าวถึงเหตุผลที่ผู้เขียนเปลี่ยนมุมมองเกี่ยวกับหุ้น Microsoft",
+        "why": "พาดหัวเพียงระบุว่ามีการ 'เปลี่ยนใจ' แต่ไม่ได้ระบุว่าเปลี่ยนไปในทิศทางใด (ดีขึ้นหรือแย่ลง) ทำให้ไม่สามารถสรุปเชิงบวกหรือลบได้จากพาดหัวนี้เพียงอย่างเดียว"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 85,
+        "summary": "พาดหัวระบุว่า Microsoft มีการเริ่มต้นปีที่แย่ที่สุดตั้งแต่ปี 2008 และตั้งคำถามว่าควรซื้อช่วงราคาตกต่ำนี้หรือไม่",
+        "why": "แม้จะกล่าวถึงผลงานที่แย่ที่สุดตั้งแต่ปี 2008 ซึ่งเป็นข้อมูลเชิงลบ แต่คำถาม 'Should You Buy the Dip?' บ่งบอกถึงความเป็นไปได้ที่นักลงทุนอาจมองเห็นโอกาสในการซื้อ จึงทำให้พาดหัวโดยรวมอยู่ในทิศทางที่เป็นกลาง"
+      },
+      {
+        "idx": 8,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "พาดหัวระบุว่าหุ้น Microsoft ร่วงลงหลังจากการเปลี่ยนแปลงในการติดต่อกับรัฐบาลท้องถิ่นเนื่องจากไม่มีข้อตกลงการไม่เปิดเผยข้อมูล (NDAs)",
+        "why": "คำว่า 'Slumps' บ่งชี้อย่างชัดเจนถึงการลดลงของราคาหุ้น ซึ่งเป็นผลเชิงลบที่เกิดจากการเปลี่ยนแปลงในการดำเนินธุรกิจ"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "ตลาดได้รับสัญญาณที่หลากหลายเกี่ยวกับหุ้น Microsoft โดยมีทั้งมุมมองเชิงบวกที่ระบุว่าเป็น 'หุ้นต่อรองราคาที่ดีที่สุด' และมุมมองเชิงลบที่กล่าวว่าหุ้น 'ไม่สมเหตุสมผล' และ 'ร่วงลง' รวมถึงคำถามเกี่ยวกับโอกาสในการ 'ซื้อช่วงราคาตกต่ำ'"
+    }
+  }
+}

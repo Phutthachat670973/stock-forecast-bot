@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.9332,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 23.5703 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 1.1295 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0461 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0368 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0225 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "AAPL Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+      "published": "Wed, 18 Mar 2026 09:01:43 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Apple | AAPL Stock Price, Company Overview & News - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rWDNjOGl0aWxxdkhOMjkwZHdyR0ptVVhFaVJOUDVtZW9XYlk2b3RtTkdoWmY0ajMyUE16Wm5WN0VlUkVsa24zYmhJcHdMNmZF?oc=5",
+      "published": "Tue, 17 Mar 2026 23:00:00 GMT",
+      "source": "Forbes"
+    },
+    {
+      "title": "Is Apple Inc. (AAPL) A Good Stock To Buy Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CSFQ4b0JBV0x1UkQ5SWFUbmNQWWZ5NWtHU0x3bHFyc3N3WC1LVHVoSThPamFtSHZOdFp1NUpub1MyY1RHclRQcFNsb1FyOUw5Zkh1aWtsbTVVTWFDWm8xX2Fzem5iOUY5c3pYdmYzdVFRM2J5RW9VSlRMRQ?oc=5",
+      "published": "Mon, 16 Mar 2026 00:34:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
+      "published": "Wed, 18 Mar 2026 19:05:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tim Cook's China Visit - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHk4STFrYWJWZEVTUFNaOVNBc2I5LVc1bzBGMXp6bE1vRWxoMi1HOU4wODhWX2g1VlhMak5hb0U1bXRjNkhUX0FjV25fN0NXdEpoTGUtTnpKTGk3V0pSeEp3T0pQVlZ4THNNTkpvaFdZOEVIWkI0OFJIZ243d2tJZmdPMklQZEpsek04RXFYN2gyeUc5YThJ?oc=5",
+      "published": "Thu, 19 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Is It Time To Reassess Apple (AAPL) After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXIwZmE4N0VMN3pzUHJEeVZGbVpIZzBkNGVTOE1ucjM4TW5kVFJ6VlpISy1LamdSRzNzWGJkRDZ3dEFTbEJTa0RxOTVzUU5GeHVXdWJrZzRHaWdSOXU1dWVsXzV5bGJibktVUE54b0Y0MWw0Z2FlQWdDOEVnR2dSRkd2emxpUVJhbF9ab09uNVhyYlRtak85MFhuUGQ5aF9YaGNycVJvWWRLTkdNd0xDTDNMdEpjOW5yelJOV9IBwgFBVV95cUxQUDdHUXdqYkdRVnNwd0pYYkRQWmlCaUMxVXRzRHZueGk0dXJWT2tuaDBxekl4Q0xxZmdYb1JtVjd2TEhPcXlpd3VQdVdULWJra3A1RFY1Yi1DdGdIbkk5dVJ5WnFDRVBHZDlQQW9yX0tFbGJ2UnN3UklZMnZ0b3VVVHlocXR6R1V0NW9fOHh6YlplejAwUFdBNjZ5cVNJQ19VazBXUWJLbG9iQkFVOTJRMnl2a09kTDlMT2Z3Y2tPT09rZw?oc=5",
+      "published": "Sun, 15 Mar 2026 19:16:12 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Apple’s 108% Run Up - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91S3hLeTlBMHR3MFo3cXU0aEo3TC1FNzZzYUtWVk5wY3NLV25iNGw3Ykk4NjRab05lVjc2NTFJZnJteEc5Ym40VmxzX2JTdW82bWR2ZGpWd1E2dlJkckxQa01YUlFwWlpZSVBKclJR?oc=5",
+      "published": "Mon, 16 Mar 2026 14:46:52 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Apple Stock Capital Return Hits $874 Bil - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXh5Z3FQbmZ1eXdHRl80YWc1b1MzMzhiMGR6b2VPVDhiUHpwV2lacTNLUDVoalIzN0wtbDIxc3VWTFUwLXR0Y1RudHU5TThTWUlqU3V0dmthckhmZzdKUWVaMEo1SzVyWmM4eEEtQUlHUjBZQ3ZWUGdvR2EzSDQ4QkFLZ1ZhTDRKM2U3b2UxUEdjcjJBVW1QcHo2VFMtWmJMZS1FbVpxWlRwOHh0YVE?oc=5",
+      "published": "Fri, 20 Mar 2026 12:10:23 GMT",
+      "source": "Trefis"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple ลดลงที่ 252 ดอลลาร์ เนื่องจากนักลงทุนเทคโนโลยีเปลี่ยนไปสู่การป้องกันความเสี่ยง",
+        "why": "หัวข้อข่าวระบุว่าราคาหุ้น 'ลดลง' (Slips) และนักลงทุนเทคโนโลยีเปลี่ยนไปสู่ 'การป้องกันความเสี่ยง' (Defensive Positioning) ซึ่งบ่งชี้ถึงแรงกดดันเชิงลบต่อราคาหุ้น."
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ถึงเวลาประเมิน Apple (AAPL) ใหม่หรือไม่ หลังจากราคาหุ้นมีการปรับตัวลดลงล่าสุด?",
+        "why": "วลี 'ราคาหุ้นมีการปรับตัวลดลง' (Share Price Pullback) ชี้ให้เห็นถึงการลดลงของราคาหุ้น ซึ่งเป็นสัญญาณเชิงลบที่อาจนำไปสู่การประเมินสถานะของหุ้นใหม่."
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple เพิ่มขึ้น 108%",
+        "why": "วลี 'เพิ่มขึ้น 108%' (108% Run Up) แสดงถึงการเติบโตของราคาหุ้นอย่างมีนัยสำคัญและเป็นสัญญาณเชิงบวกอย่างชัดเจน."
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "ผลตอบแทนจากเงินทุนของหุ้น Apple แตะ 8.74 แสนล้านดอลลาร์",
+        "why": "การ 'คืนทุน' (Capital Return) จำนวนมหาศาลให้กับผู้ถือหุ้น (เช่น เงินปันผล, การซื้อหุ้นคืน) มักถูกมองว่าเป็นปัจจัยเชิงบวกสำหรับนักลงทุนและสามารถหนุนราคาหุ้นได้."
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "ความคิดเห็นเกี่ยวกับหุ้น Apple (AAPL) จากการเยือนจีนของ Tim Cook",
+        "why": "หัวข้อข่าวกล่าวถึง 'ความคิดเห็น' (Opinions) เกี่ยวกับการเยือนจีนของ Tim Cook ซึ่งอาจมีผลกระทบต่อหุ้นได้หลายทาง แต่หัวข้อข่าวเองไม่ได้ระบุทิศทางของความคิดเห็นหรือผลกระทบนั้นอย่างชัดเจน."
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "จากพาดหัวข่าวที่เลือก มีสัญญาณเชิงลบ (bearish) 2 รายการ และสัญญาณเชิงบวก (bullish) 2 รายการ โดยมีพาดหัวข่าวหนึ่งรายการที่เป็นกลาง ทำให้ภาพรวมของหุ้น AAPL ในปัจจุบันมีแนวโน้มผสมผสานและไม่มีทิศทางที่ชัดเจนจากข้อมูลที่มีอยู่."
+    }
+  }
+}

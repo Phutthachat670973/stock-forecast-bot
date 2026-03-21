@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-20",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4177,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.3050 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0765 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0594 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0725 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0405 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla FSD Poised To Win European Approval. But TSLA Stock Completes A Round Trip. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sZFZJQVdlcDB3R2RRNWt3blhXYktaMUNPZFJqSkJTYTVtTXpua0FmUEgtbjFkV1diQXdNVGpHUE5QeWc1dGh1QUFScTg3SkNzcl9NSkc3Y1M5OE12QWY2UkcyM2hYRHRwU0VsQS1TVi1mcFk5RXJF?oc=5",
+      "published": "Fri, 20 Mar 2026 21:03:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Predictions: What Investors Should Expect in 2026 and Beyond - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nVlI1QjJaUkNLazNFc3FLN25GQnpWM2VjZVNuU0NUNnBfdldMSnh0MFlQMDlMSEstb0ZDd3Awb04zSlVtclNDeERSTlNIN3FuUFMxRVp2WmhpTDI1TURGN2VxQXpWYXdCajlZNXZMMkJlQ1lDaHViSVBKeDhBUQ?oc=5",
+      "published": "Fri, 20 Mar 2026 14:53:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Fades: Three Big Stories Are Moving the Stock Today and They're Pulling in Different Directions - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV0w4RTlkc0xSXzlPOHlTVDRoSnZlUjRwRjYwUEhtaTFfWXg4dHNfWl8tY3RDbHR0Ymg4VnU1Tmw4dWhsRFZ6UHJBZTkwSVZzU3hWN1JVSEktVVN1RkhlVU9QYUwxZXdmN25FblNXS2lTVTdHZXBkdE9wc0pCcHZpMTVtZDRxSHh5V1I5V1FzdXFsYWV2VElNUDQ3WC1WMDRxSzhiVWJwU3dXUG5uZnBsZVJoLTJQZG00T1ZWTF8yTV9pSy1tY0w5alRkbjVBeHlXaURWWktfc05mOXc?oc=5",
+      "published": "Thu, 19 Mar 2026 18:06:03 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock (TSLA) Slides as FSD Probe Just Got Bigger - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWtMRHZYNVlkTnFhdzUydWF3am9hSGlPOWZPS3JySXhGMDNIdUtzTTlycnA3NXRZbTVTRE1aR0UxTXdjQTU2N21mOE5QdUVGUXNXRXNBMUVZU0NLaU1WWXBrUVJkUXNRMTVRXzRMbzBBQmQ4Q3RWMU52bmluY3BUTUJB?oc=5",
+      "published": "Thu, 19 Mar 2026 15:24:47 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Tesla (TSLA) Terafab plans point to inevitable capital raise — its first since 2020 - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTjFYdVZ1b0JEWTV4bGRHV3p0elRSWDg3djJlNExDWGVWa2k0OHJxaV8waEp6c0RkZW9hQ1d3ZXV3THBpb0hMVmtBLUpkN05yMTNoSVMwNjBvWE1PZ3ZHZ1RDeVlxUW00UzJPX2k1S281NHFYNzc3SnI1T0N4QUtRRnR2UFdlWlpPeVJN?oc=5",
+      "published": "Tue, 17 Mar 2026 20:30:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Tesla Stock (TSLA) Opinions on Closing Below 200-Day Moving Average - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVpjTmJDQmlkSlNqWnlBdENEVGlnVkRQbWU5TjhVckR6dVZTYzFJeFNZN1JkYUxoNjc1dlRNODZNWG9rSE5kbm5TWDdMNWphRjdVRF9BODFoUUstOFRaaG9DbzQ4UHVCcTVFTExpZ1FlaXBnX1E4aVBscVlVaFV0RnVBR3ZuNk1WTm9nVDVPSHFWQ2JGazBTTWUyWEQxbWdiclE3WDRPdw?oc=5",
+      "published": "Mon, 16 Mar 2026 17:33:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Tesla Has Just Shared Game-Changing News (Rating Upgrade) (NASDAQ:TSLA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmRRYnd0WlhSWlRIT3h2ak02ejg2dF9WdE1pcFFfU1g0LV80dF9MbGhDTkFCZW82cDZkSkRZU21fa1pYMkJZRnotc01jTGFoX1c1MGZ6bFhoV1AyRVh2S1dZd0twUDVSbFg2Vzh4LUpkblR0WGdseFdib0MtMW1xN1d0NU5FSllaZTdwV3lLWjZPTnJVdGpjUjU0UlQ?oc=5",
+      "published": "Sat, 14 Mar 2026 11:29:56 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "As Tesla Gears Up to Launch Terafab, Is TSLA Stock a Buy? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFlsNy13Z1NKaVVOVE9IOXFjTXlaY3Z2UTZNWC1GZjVPOTU2SXdnelAtSkNteEI1cnN0alpCV2ZLWF83dDdaQmM2MFlhS19Db1ZIbXpSQzNXTHBzcF8tX2UyVUFtYjBEQkV5TnZEOGFSeHlhbkpFbGRSbjdWRGx6eXd5Wlp0Tm4wWm81eGxYdWxPN2pJLWRlUFFGN1VKd0U?oc=5",
+      "published": "Wed, 18 Mar 2026 17:02:44 GMT",
+      "source": "Barchart.com"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ข่าวดีเกี่ยวกับ FSD เตรียมได้รับการอนุมัติในยุโรป แต่ราคาหุ้น TSLA กลับมาที่จุดเดิม",
+        "why": "การอนุมัติ FSD ในยุโรปเป็นปัจจัยเชิงบวก แต่การที่ราคาหุ้นกลับมาที่จุดเริ่มต้น (Completes A Round Trip) แสดงให้เห็นว่าผลกระทบเชิงบวกถูกหักล้างหรือไม่ส่งผลต่อราคาหุ้นในระยะสั้น ทำให้สถานะโดยรวมเป็นกลาง"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Tesla (TSLA) ลดลงเนื่องจากการสอบสวนระบบ FSD ขยายวงกว้างขึ้น",
+        "why": "พาดหัวข่าวระบุชัดเจนว่าราคาหุ้น 'ลดลง' (Slides) และการสอบสวนระบบ FSD ที่ 'ขยายวงกว้างขึ้น' (Just Got Bigger) เป็นปัจจัยเชิงลบที่เพิ่มความกดดันต่อราคาหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "neutral",
+        "confidence": 80,
+        "summary": "แผน Terafab ของ Tesla (TSLA) บ่งชี้ถึงการระดมทุนที่หลีกเลี่ยงไม่ได้ ซึ่งเป็นการระดมทุนครั้งแรกนับตั้งแต่ปี 2020",
+        "why": "แผน Terafab เป็นสัญญาณเชิงบวกสำหรับการเติบโตในอนาคต แต่การระดมทุน (capital raise) อาจทำให้เกิดการเจือจางหุ้นในระยะสั้น หรือนักลงทุนอาจมองว่าเป็นการที่บริษัทต้องการเงินทุน ทำให้ภาพรวมเป็นกลางถึงกังวลเล็กน้อย"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ความเห็นเกี่ยวกับหุ้น Tesla (TSLA) ที่ปิดต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ 200 วัน",
+        "why": "การที่ราคาหุ้นปิดต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ 200 วัน (200-Day Moving Average) โดยทั่วไปถือเป็นสัญญาณทางเทคนิคเชิงลบที่บ่งชี้ถึงแนวโน้มขาลง"
+      },
+      {
+        "idx": 7,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "Tesla ได้เปิดเผยข่าวสำคัญที่เปลี่ยนแปลงสถานการณ์ (การปรับเพิ่มอันดับ)",
+        "why": "พาดหัวข่าวระบุถึง 'ข่าวสำคัญที่เปลี่ยนแปลงสถานการณ์' (Game-Changing News) และ 'การปรับเพิ่มอันดับ' (Rating Upgrade) ซึ่งเป็นปัจจัยเชิงบวกที่ส่งเสริมให้ราคาหุ้นเพิ่มขึ้น"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 70,
+      "note": "มีทั้งข่าวดีจากการอัปเกรดอันดับและโอกาสการอนุมัติ FSD ในยุโรป แต่ก็มีข่าวเชิงลบจากการสอบสวน FSD ที่ขยายวงกว้างขึ้นและราคาหุ้นที่ปิดต่ำกว่าเส้นค่าเฉลี่ย 200 วัน รวมถึงประเด็นการระดมทุน ทำให้ภาพรวมมีความไม่แน่นอนและแรงกดดันจากทั้งสองด้าน"
+    }
+  }
+}
