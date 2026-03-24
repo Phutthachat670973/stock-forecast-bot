@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4432,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0299 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0323 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0230 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.0263 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0053 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXFhb3hZWTktQTIwVFhlM1pnajZOQmNkd0l3d1BYclVKbE9ZYkdOVFpldlVRc3ViM3dnWDNERUNoY1JOTWhUR1hVcWdFNHA1ck55UmlDUmxmbzAtYUplYTFoRWNTV1d2ZXZjYVRJcUktRWRYZG1KZXhkMFIzR1U3TDJueGlBeWdmNkg4UEhzNlBXUQ?oc=5",
+      "published": "Sun, 22 Mar 2026 18:59:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
+      "published": "Wed, 18 Mar 2026 19:05:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Here’s Why Apple (AAPL) Could Be The Best Tech Stock to Buy Now According to Warren Buffett - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3hfSTRXLUl0cVV6TWNiYnJHWjRMRDFabXVWbl9Hbm5ad2dBNnFtUHI0bVU5Y1k1NHY0ellNRHZiWU5yNGo5MWNfSnE3TERNcU1xS1c2dnFmbl9GYkU3dFJ0Q1RlbWpHRnBzU3R5djNlTHZBWmJOaThBM1c0ak54cFlpdUdQaFY1eC1pUWd4V1AtZlFX?oc=5",
+      "published": "Fri, 20 Mar 2026 20:16:47 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tim Cook's China Visit - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHk4STFrYWJWZEVTUFNaOVNBc2I5LVc1bzBGMXp6bE1vRWxoMi1HOU4wODhWX2g1VlhMak5hb0U1bXRjNkhUX0FjV25fN0NXdEpoTGUtTnpKTGk3V0pSeEp3T0pQVlZ4THNNTkpvaFdZOEVIWkI0OFJIZ243d2tJZmdPMklQZEpsek04RXFYN2gyeUc5YThJ?oc=5",
+      "published": "Thu, 19 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple Stock Hands $874 Bil Back – Worth a Look? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEt2d0RLcG0wYmFGTUVjOUI2Ui1FcmE5eWpWaFhMNl9tU0YwU1duQVF6VjRNanR1SEpWSEJJeElFQ1dBMWRvUWxEdk1NWmU4d2tnYmNPY0lMdnJqaHFmQmNBRS1OR25fSldsY2d2bkpyY3FUaHl6NjB6cVZuZDdaWmd1dTJVbkFQZE11MFlFNk5Id2ZtYlBqLXNxVkQzMXlWdUVCR2g4Um8?oc=5",
+      "published": "Fri, 20 Mar 2026 15:06:26 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Bank of America resets Apple price target - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2dEMTlXQnQtdlVSUWxJT1N6eEtlMi0xaDdPX3Z1ejl2MDQ3RGhFQTR2RTlnSEFMNmRDTGFhaXlodTRoOFdKREl3NXNUaE5jNHp0VEJtMXhlOGFOamk2SzhaUW1KQWs0UEVhRGZaelBJN1B5cmJrcld6YTJfUlFQc3kyTGhGZTNsY1BUMw?oc=5",
+      "published": "Mon, 23 Mar 2026 22:37:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Has The Market Already Priced In Apple (AAPL) After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzlaOWhlYUZLYUtLbmtUT2VSUXlWcHRWT3JjejNONFpOUmYxWDhnT1dkR0dnZzBCSGloNExkeG5mdUxPRWRKYWJwWlVuSGROOE8xWnk1SkN4ODBObnhvWWJZbnhZY01GTERodG9nWDBDUFRTV2wybmd3TDFrNzI5MHY5dXA0STY4aXowZTdFNVk0MWRkOGdyWjcxaV8wOEgwY2dZWWtLVF9IVm0xd3JhT1AtN0dIc2M2X2hNedIBwgFBVV95cUxQN1o1a1pyV1h1M2FROG5XY0Nya3VTbGYzUF96UmtKUFFaZmV0d3V0TjN3SFJxLVdVM0dFVmU5eFZIT2JNelY5Q0wyMkFfX2h6bWh1aHV4alVIMFFSLUdDUU1fNEh3MkhjVGd5QTJBem94UzlTNDViRVcxVlVGZG1Wdkdzcm02VUtRa2FfTl9RdmJKdlF2TUxIZGk2cTNfbWhONlpvQ3FvUUUtU2VjMGhpdDZRVExqblplQm9zajJUMkhuZw?oc=5",
+      "published": "Tue, 24 Mar 2026 02:19:14 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Apple Stock Is Down 9% This Year. History Says It’s a Buying Opportunity - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXVUS2prTUEtS2Jmc2hPVFA4U2dhX21heHdSeFFyeHFrUnYwWUdPbE9JSE83RTJkdEFxU2h1MmFnV2ozNVpDQ0R0RXRzTlIzU1RNRnVsMG1hcEtzSmFhWGNEZkQtamJfOWpZcWdMUWN4R2w0WUpXeG5Ub0lvUGVaNmlxdGZMRnR0c3Vwc2cybU5LQzBwQUF6by1uRDd0ZkNPSHBrNg?oc=5",
+      "published": "Mon, 23 Mar 2026 02:31:54 GMT",
+      "source": "NAI500"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 100,
+        "summary": "Warren Buffett ยกให้ Apple (AAPL) เป็นหุ้นเทคที่ดีที่สุดที่น่าซื้อตอนนี้",
+        "why": "การรับรองจากนักลงทุนที่มีชื่อเสียงระดับโลกอย่าง Warren Buffett ถือเป็นสัญญาณเชิงบวกอย่างมาก"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple ลดลงที่ $252 เนื่องจากนักลงทุนเทคหันไปสู่การวางตำแหน่งแบบตั้งรับ",
+        "why": "ราคาหุ้นที่ลดลงและการที่นักลงทุนเทคเปลี่ยนไปถือครองสินทรัพย์ที่ปลอดภัยมากขึ้น บ่งชี้ถึงแรงกดดันเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "หุ้น Apple ลดลง 9% ในปีนี้ แต่ข้อมูลในอดีตชี้ว่าเป็นโอกาสในการซื้อ",
+        "why": "แม้ราคาหุ้นจะลดลง แต่การอ้างอิงถึงข้อมูลในอดีตที่ว่านี่คือโอกาสในการซื้อ เป็นสัญญาณเชิงบวกสำหรับอนาคต"
+      },
+      {
+        "idx": 5,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple คืนเงินกว่า 8.74 แสนล้านดอลลาร์กลับสู่ผู้ถือหุ้น – น่าพิจารณาหรือไม่?",
+        "why": "การคืนเงินจำนวนมากให้ผู้ถือหุ้น (เช่น การซื้อหุ้นคืนหรือเงินปันผล) มักเป็นสัญญาณของความแข็งแกร่งทางการเงินและเป็นบวกต่อมูลค่าหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ความคิดเห็นเกี่ยวกับการเยือนจีนของ Tim Cook ซีอีโอ Apple",
+        "why": "ข่าวนี้แจ้งถึงเหตุการณ์สำคัญ (การเยือนจีน) แต่ไม่ได้ระบุทิศทางเชิงบวกหรือลบของความคิดเห็นโดยตรง จึงเป็นกลาง"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "แม้จะมีข่าวราคาหุ้นที่ลดลง แต่มีสัญญาณเชิงบวกที่แข็งแกร่งจากคำแนะนำของ Warren Buffett โอกาสในการซื้อจากการปรับฐานราคา และการคืนเงินจำนวนมากให้ผู้ถือหุ้น"
+    }
+  }
+}

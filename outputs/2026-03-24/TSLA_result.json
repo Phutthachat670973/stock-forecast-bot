@@ -1,0 +1,109 @@
+{
+  "ticker": "TSLA",
+  "asof": "2026-03-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4521,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.2332 → หนุนขึ้น",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0419 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0372 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0445 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0402 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Tesla FSD Poised To Win European Approval. But TSLA Stock Completes A Round Trip. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sZFZJQVdlcDB3R2RRNWt3blhXYktaMUNPZFJqSkJTYTVtTXpua0FmUEgtbjFkV1diQXdNVGpHUE5QeWc1dGh1QUFScTg3SkNzcl9NSkc3Y1M5OE12QWY2UkcyM2hYRHRwU0VsQS1TVi1mcFk5RXJF?oc=5",
+      "published": "Fri, 20 Mar 2026 21:03:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Here’s Why Cathie Wood’s Latest Tesla (TSLA) Prediction May Fall Short - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DMHB1Y0tCQWIyVnBRcGZQZWVnZURPRHhoV2h2NTdqUEpRZ1hDOUpySVVBVkFHZWdNSXhwTkxIODQ0UXhELWVIaTk4RWRodHFCTmJ2cU13NTZNeG1TWGpJSHdfMjA5OGJDa1ZFZTJPT19rMXVOcUVOS0NuVlgzaGs?oc=5",
+      "published": "Tue, 17 Mar 2026 14:14:28 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla (TSLA) Stock Predictions: What Investors Should Expect in 2026 and Beyond - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nVlI1QjJaUkNLazNFc3FLN25GQnpWM2VjZVNuU0NUNnBfdldMSnh0MFlQMDlMSEstb0ZDd3Awb04zSlVtclNDeERSTlNIN3FuUFMxRVp2WmhpTDI1TURGN2VxQXpWYXdCajlZNXZMMkJlQ1lDaHViSVBKeDhBUQ?oc=5",
+      "published": "Fri, 20 Mar 2026 14:53:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Tesla Fades: Three Big Stories Are Moving the Stock Today and They're Pulling in Different Directions - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV0w4RTlkc0xSXzlPOHlTVDRoSnZlUjRwRjYwUEhtaTFfWXg4dHNfWl8tY3RDbHR0Ymg4VnU1Tmw4dWhsRFZ6UHJBZTkwSVZzU3hWN1JVSEktVVN1RkhlVU9QYUwxZXdmN25FblNXS2lTVTdHZXBkdE9wc0pCcHZpMTVtZDRxSHh5V1I5V1FzdXFsYWV2VElNUDQ3WC1WMDRxSzhiVWJwU3dXUG5uZnBsZVJoLTJQZG00T1ZWTF8yTV9pSy1tY0w5alRkbjVBeHlXaURWWktfc05mOXc?oc=5",
+      "published": "Thu, 19 Mar 2026 18:06:03 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Tesla Stock (TSLA) Slides as FSD Probe Just Got Bigger - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWtMRHZYNVlkTnFhdzUydWF3am9hSGlPOWZPS3JySXhGMDNIdUtzTTlycnA3NXRZbTVTRE1aR0UxTXdjQTU2N21mOE5QdUVGUXNXRXNBMUVZU0NLaU1WWXBrUVJkUXNRMTVRXzRMbzBBQmQ4Q3RWMU52bmluY3BUTUJB?oc=5",
+      "published": "Thu, 19 Mar 2026 15:24:47 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXBRVFJLbHpCdHplZTIyLUhRc0tuazJkV04zaENsbkI2VXNNaV9lNVZ1ZWNBSnd5Zkp4RDU4ZW5oSVUwNEl2Y0tXQ0VMTXFyLTRBb0gyRktBd0h3d0ZlRmNMUDZuUDlDZlRZODlvZlpPeG1pTnRDaV9TcjVyeTlkNkZyNXYzM3B6V2oyT2Z4d2FnRHo2ZnZzQlFtSUxHSXN4Z0ptbEc2VDJrUHh5LUpqYm02S2M5eTh4NU81cmdTU2VHRlVleGFIMmJaNHFsMkU?oc=5",
+      "published": "Mon, 23 Mar 2026 13:25:59 GMT",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Tesla (TSLA) Terafab plans point to inevitable capital raise — its first since 2020 - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTjFYdVZ1b0JEWTV4bGRHV3p0elRSWDg3djJlNExDWGVWa2k0OHJxaV8waEp6c0RkZW9hQ1d3ZXV3THBpb0hMVmtBLUpkN05yMTNoSVMwNjBvWE1PZ3ZHZ1RDeVlxUW00UzJPX2k1S281NHFYNzc3SnI1T0N4QUtRRnR2UFdlWlpPeVJN?oc=5",
+      "published": "Tue, 17 Mar 2026 20:30:00 GMT",
+      "source": "Electrek"
+    },
+    {
+      "title": "Tesla Stock Testing Key Trendline as Options Traders Circle - Schaeffer's Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2VHUllSYmtXSmhRdHhVOHZMZ1pHdlZITTFPWjNYaEdaT0RxSFRzWjJodFkwMTB4QkdLTE5sMEVEdnQzRmxENHV2SFc4N1JqWlk2NE55T3J1SmJ3b2sxc201cGpzbURlYWJvZGFhX0djMmRaZm5YdmlBOGJkXzQtS0d2R2g1LTJpUVJGMlFKWnFOMHc3VHdGUjVHbmszb1lGRTBPMGgydU1VWl9wLVFyRUh2ODBkMWF2b0pvU2pB?oc=5",
+      "published": "Mon, 23 Mar 2026 07:31:01 GMT",
+      "source": "Schaeffer's Investment Research"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "neutral",
+        "confidence": 90,
+        "summary": "ข่าวดีของ Tesla เรื่อง FSD อาจได้รับการอนุมัติในยุโรป แต่ราคาหุ้น TSLA กลับมาที่จุดเริ่มต้น",
+        "why": "แม้การอนุมัติ FSD ในยุโรปจะเป็นปัจจัยบวก แต่ข้อความระบุว่าราคาหุ้น 'ครบหนึ่งรอบ' หมายถึงไม่มีการเปลี่ยนแปลงสุทธิ ทำให้ภาพรวมเป็นกลางถึงผสม"
+      },
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "การคาดการณ์ล่าสุดของ Cathie Wood เกี่ยวกับ Tesla (TSLA) อาจไม่เป็นไปตามที่คาด",
+        "why": "Cathie Wood เป็นที่รู้จักในการมอง Tesla ในแง่ดี การที่การคาดการณ์ของเธอ 'อาจไม่เป็นไปตามที่คาด' บ่งชี้ถึงแนวโน้มเชิงลบต่อหุ้น"
+      },
+      {
+        "idx": 5,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "หุ้น Tesla (TSLA) ร่วงลง เนื่องจากการสอบสวน FSD มีขนาดใหญ่ขึ้น",
+        "why": "คำว่า 'Slides' (ร่วงลง) และ 'FSD Probe Just Got Bigger' (การสอบสวน FSD มีขนาดใหญ่ขึ้น) ชี้ให้เห็นถึงปัจจัยลบโดยตรงต่อราคาหุ้น"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 100,
+        "summary": "นักลงทุนที่เคยสนับสนุน Tesla มานานกลับมาแนะนำให้ขาย และคาดว่าหุ้นจะร่วงลงเหลือ 150 ดอลลาร์ ท่ามกลางความกังวลเรื่อง AI",
+        "why": "การที่นักลงทุนที่เคยเชียร์กลับมาแนะนำให้ขายและคาดการณ์ราคาตกต่ำอย่างชัดเจน เป็นสัญญาณเชิงลบที่รุนแรง"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "แผน Terafab ของ Tesla (TSLA) บ่งชี้ถึงความจำเป็นในการระดมทุน ซึ่งเป็นการระดมทุนครั้งแรกตั้งแต่ปี 2020",
+        "why": "การระดมทุนมักนำไปสู่การเจือจางหุ้นที่มีอยู่ ซึ่งอาจกดดันราคาหุ้นในระยะสั้น และคำว่า 'inevitable' (หลีกเลี่ยงไม่ได้) ชี้ให้เห็นถึงความจำเป็น"
+      }
+    ],
+    "overall": {
+      "stance": "bearish",
+      "confidence": 90,
+      "note": "ส่วนใหญ่ของข่าวที่เลือกมาบ่งชี้ถึงปัจจัยกดดันเชิงลบต่อหุ้น TSLA รวมถึงการสอบสวน FSD ที่ใหญ่ขึ้น การกลับลำของนักลงทุนขาขึ้น และความจำเป็นในการระดมทุน"
+    }
+  }
+}

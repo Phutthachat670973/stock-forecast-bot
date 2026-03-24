@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-23",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8175,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 27.9159 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0393 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0424 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0644 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = -0.1135 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "MSFT Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQX3dUSG5UYjhqVm1nRmNzS2pFY0VvMjFRVlQ0WWk0RzFlM2NQZ1lnR2M0b1JKOUlFRU1KZTllYnJfODBUd0RKQ0FzT2o2SmFJ?oc=5",
+      "published": "Sat, 21 Mar 2026 15:36:08 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Microsoft Is Now the Cheapest \"Magnificent Seven\" Stock. Does That Make It a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1NSbzNyYmFiQnFZN1FWNU1yMm5GTl90WEtmYkk3VDVtYVEzZ2tkOGo5YzVnTGszM0FCeDdTUnhnVzZuM055bUxPVVVkTTE4cnZ4a3FOcF83NUZuMDA2OG5KRnVaM3NxdXFXLUhOVTFKRnNuQjdIUVg1aVk2Ql9DY1J1ZE92Q09wYXNkZnc4eGhYZlE?oc=5",
+      "published": "Sat, 21 Mar 2026 21:47:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft: Don't Jump To Conclusions From The Recent Share Price Rout (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmJEWWV5dXhhODRPN1Z6YkZYTDdLNFpIMTEwVXJZYTBHVE1WY3huSjc0a2kwNEpuRGY2d1RrQ1l1dEFIRDVJQmVHMlRIOGhJVmpDQk8yalE3cTU3Q2RJX28wajFieE14Q1NXVlVqRE1IMms0R1RWNGpkT05FdEdqVFk4RU1pVGVQdjktSzFFOFZYOEt4OGtDTUJvYk5wenVhbUFRVHBkVkdIdw?oc=5",
+      "published": "Sun, 22 Mar 2026 08:32:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Quotes, Company News And Chart Analysis - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWhxeXNoQ3Riem4wdDhaZzA0SjA4bU1IVllkcEV4Y1V1eUFpTTV4Vllfb1VnSnBQV3k4VnBuUzlWb0dURDZ3V2pyQm83cUtuWU9FaFpSZEd0T1FQczZlNllPSFJVcUFKb1EyYUZVRW43UE9aMk1iOUtuOGc2UTk1QjA2QkFhXzh1YWhTSEF0ZW82LTdickFSY2ROeGIwelVjRHJqRA?oc=5",
+      "published": "Fri, 20 Mar 2026 16:54:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft’s Worst Start Since 2008. Should You Buy the Dip? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjc5a3RESGhTZXNYUGlPbFNDSl9TN1Vod0kyNjh2MVVncEJxN1JWYklPQXIwTDkyaEZKMWlEWUdxbmNhRDRJaEs4N08zdzNBXzRjd1k3cE1MdTN2UmZiY1RCTDkyZ09haEQtVC03ZWMzeWhBbXE4bnk1eEVMYVdQM2NIMGEzZmd4dnIyQkwxUmFxZ2NUQk9EaVJJSjdiUVRZTkE?oc=5",
+      "published": "Thu, 19 Mar 2026 14:28:21 GMT",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Microsoft Stock Near Crucial Support – Buy Signal? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR29lZTRpYUlzQ25WVE9rZ3phU0kyX1BUcER0dk5aWHBsTHNjYVpycDc4ajFHaVpUOU56TjYwUUFBOWNZODYxM3djUC1NSVBUZGhjR0VDYjN2THlXcGxSdGRMeTExSVk2dy1leTd4eEtZeEVCNjhVbFBsR09WZjRsVGJmZFZnOUhxeXJvbTZqR2N5a2RBeXVCbEdXb0ZCRmRIZVRtN1MxV2xQQWxKbUE?oc=5",
+      "published": "Sat, 21 Mar 2026 18:54:42 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "“World-Class Models”: Microsoft Stock (NASDAQ:MSFT) Drops as Suleyman Reassigned - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczlOQ1RiSjl4NkYwZDdacEVZTTRoOW5PSGxvWjV6LUE5eG9iQ2lHMUJ1YUw0dC1XTTdBeGpscGpVMGhUQXVmdi1Kb3BpWjFaZUxQSWJfa2ZPNzVDMXI5NHFBYmV4UzNwOTRlVlplX04yTFU5WnkySjJwNl9yYXZ5TU5sQVNhQk9GcGdnQW5IbXZ1S0RtaUdZWHVONjZ0bVJHWkdqSjVQVQ?oc=5",
+      "published": "Wed, 18 Mar 2026 17:37:38 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "How Microsoft’s (MSFT) OpenAI Partnership Is Bringing in a New Wave of Customers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmVyb1VfT0xLdmVENnBpVF8xUTZ3bVlZVV9BQl9MTVBRbG5TT2xPSnVnQzczSUxXVnZ1VE15VWt5bGo0cmFzS1M3eHZZeDhIWk9Ra21Qa2ZaZS1RY0lrdTZVQXA5dkI2N3o2WWdBUW5tT1l4Ylk1Q0JINnh2YU1Rdnp5RTlxaFpQWW52cFhkeWRNaUNNYXNVMGpIb1JrTFAyTXVTUzVGY1lGSEE?oc=5",
+      "published": "Fri, 20 Mar 2026 14:34:01 GMT",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "ไมโครซอฟท์เป็นหุ้น \"Magnificent Seven\" ที่ถูกที่สุดในตอนนี้ ทำให้เป็นโอกาสในการซื้อหรือไม่",
+        "why": "การที่ถูกจัดว่าเป็นหุ้นที่ \"ถูกที่สุด\" ในกลุ่ม \"Magnificent Seven\" และตั้งคำถามว่า \"ทำให้เป็นโอกาสในการซื้อหรือไม่\" บ่งชี้ถึงศักยภาพในการปรับตัวขึ้นหรือเป็นการประเมินค่าที่ต่ำกว่าความเป็นจริง"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 80,
+        "summary": "ไมโครซอฟท์: อย่าเพิ่งด่วนสรุปจากราคาหุ้นที่ลดลงอย่างรุนแรงเมื่อเร็วๆ นี้",
+        "why": "การเตือนว่า \"อย่าเพิ่งด่วนสรุป\" จากการที่ราคาหุ้นลดลงอย่างรุนแรง บ่งชี้ว่าการลดลงนั้นอาจไม่ใช่สัญญาณของปัญหาถาวรและอาจมีโอกาสฟื้นตัว"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 85,
+        "summary": "ราคาหุ้นไมโครซอฟท์ใกล้ระดับแนวรับสำคัญ – เป็นสัญญาณซื้อหรือไม่",
+        "why": "การที่หุ้นอยู่ใกล้ \"แนวรับสำคัญ\" และตั้งคำถามว่า \"เป็นสัญญาณซื้อหรือไม่\" บ่งชี้ถึงศักยภาพในการฟื้นตัวหรือเป็นจุดเข้าซื้อที่ดี"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หุ้นไมโครซอฟท์ (NASDAQ:MSFT) ร่วงลงเนื่องจากการโยกย้าย Suleyman แม้จะมี \"โมเดลระดับโลก\"",
+        "why": "พาดหัวระบุชัดเจนว่า \"หุ้นไมโครซอฟท์... ร่วงลง\" ซึ่งเป็นสัญญาณเชิงลบ"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "การเป็นหุ้นส่วนของไมโครซอฟท์ (MSFT) กับ OpenAI กำลังนำพาลูกค้ารายใหม่เข้ามา",
+        "why": "การที่พาดหัวระบุว่าการเป็นหุ้นส่วนกำลัง \"นำพาลูกค้ารายใหม่เข้ามา\" บ่งชี้ถึงการเติบโตทางธุรกิจและรายได้ ซึ่งเป็นสัญญาณเชิงบวก"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 80,
+      "note": "โดยรวมแล้ว พาดหัวข่าวส่วนใหญ่ (4 ใน 5 รายการ) ชี้ให้เห็นถึงปัจจัยเชิงบวก เช่น การประเมินมูลค่าที่น่าสนใจ, สัญญาณทางเทคนิคที่สนับสนุนการซื้อ, ความยืดหยุ่นต่อการลดลงของราคา, และการเติบโตของลูกค้าจากการเป็นหุ้นส่วน OpenAI มีเพียงหนึ่งพาดหัวที่รายงานการลดลงของราคาหุ้นจากเหตุการณ์เฉพาะกิจ"
+    }
+  }
+}
