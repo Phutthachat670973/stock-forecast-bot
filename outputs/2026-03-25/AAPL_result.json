@@ -1,0 +1,109 @@
+{
+  "ticker": "AAPL",
+  "asof": "2026-03-24",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.4638,
+  "signal": "DOWN",
+  "horizon_days": 5,
+  "reasons": [
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0255 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.0868 → หนุนขึ้น",
+    "- โมเมนตัม 10 วัน = -0.0348 → กดลง",
+    "- เส้นเฉลี่ย 10 วันเทียบ 20 วัน = -0.0226 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0102 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Apple Stock Is Doing Something It Hasn't Done Since 2022. Should You Buy or Run? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXFhb3hZWTktQTIwVFhlM1pnajZOQmNkd0l3d1BYclVKbE9ZYkdOVFpldlVRc3ViM3dnWDNERUNoY1JOTWhUR1hVcWdFNHA1ck55UmlDUmxmbzAtYUplYTFoRWNTV1d2ZXZjYVRJcUktRWRYZG1KZXhkMFIzR1U3TDJueGlBeWdmNkg4UEhzNlBXUQ?oc=5",
+      "published": "Sun, 22 Mar 2026 18:59:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Apple Stock Price Slips At $252 As Tech Investors Pivot To Defensive Positioning - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JLbENJcko5RVNQVGJ2cFVWYkZ4NWJkNmNJd1pDU3I3bW5vYmE5aUxieF9vUWxILUlOcFpvLTMzSjlmSDA5Q0o1YWFjWmlBckpsYTBIcGxiT2RNSld2ZjlINFlqblM1b3lXV1E5emp1UDcxSWo4RHFDUkhmVHRTcFNWMVp4X3pnUFd2RE8zcF9XVGtRbGtVc0x6LXI2cHdva0JHZ0c3SFZLOHNyYWNuUGR1WHNSdjlP?oc=5",
+      "published": "Wed, 18 Mar 2026 19:05:00 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Here’s Why Apple (AAPL) Could Be The Best Tech Stock to Buy Now According to Warren Buffett - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3hfSTRXLUl0cVV6TWNiYnJHWjRMRDFabXVWbl9Hbm5ad2dBNnFtUHI0bVU5Y1k1NHY0ellNRHZiWU5yNGo5MWNfSnE3TERNcU1xS1c2dnFmbl9GYkU3dFJ0Q1RlbWpHRnBzU3R5djNlTHZBWmJOaThBM1c0ak54cFlpdUdQaFY1eC1pUWd4V1AtZlFX?oc=5",
+      "published": "Fri, 20 Mar 2026 20:16:47 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Better Value & Growth: DELL Leads Apple Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXZOajEyRXN6WHJkcVpFOFYyYnEtdUZpRVhLeFM0R2dRRkY4WnF2YnpsckpnYnN5ZUcyOEEyY096UUJoc25WbkxyXzEwV0lqUjM5ZjBmRTFLMDA2b3dqT0RlU1VLZ3VJeHplbkZvbndLazBscWw5bDFwVVQzWHF6LUxoSU80RGZNUlFib3lEVXBwSVJ0VlpvbVh1bnNOcmRNWENhNGkxVQ?oc=5",
+      "published": "Sat, 21 Mar 2026 09:47:28 GMT",
+      "source": "Trefis"
+    },
+    {
+      "title": "Apple Stock (AAPL) Opinions on Tim Cook's China Visit - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHk4STFrYWJWZEVTUFNaOVNBc2I5LVc1bzBGMXp6bE1vRWxoMi1HOU4wODhWX2g1VlhMak5hb0U1bXRjNkhUX0FjV25fN0NXdEpoTGUtTnpKTGk3V0pSeEp3T0pQVlZ4THNNTkpvaFdZOEVIWkI0OFJIZ243d2tJZmdPMklQZEpsek04RXFYN2gyeUc5YThJ?oc=5",
+      "published": "Thu, 19 Mar 2026 14:04:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Apple (AAPL) beats stock market upswing: What investors need to know - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHVUX1JIX0huaTRiQXEySGZoQ0VtT29vRmZXRi1UWHdaZXVWNXlZXzgzLVlfLXY5bXA4aEplc2NxTjY0NE5wTFo5Wnc2d0xYS292ZmpWWDNfd0xoWFBBWVN5ejBGeTdERUhjdlA4RGdDT1VPUGFUekxRYkFaYzVzNXdmM29uVkxMcm1HRFZKTUFBVHBRUTJrRzIzZnJsa1RIWkFvM0lNa1gycHJHbFRfR09SMWU0X1R3MlZF?oc=5",
+      "published": "Mon, 23 Mar 2026 23:40:01 GMT",
+      "source": "MSN"
+    },
+    {
+      "title": "Has The Market Already Priced In Apple (AAPL) After Recent Share Price Pullback? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzlaOWhlYUZLYUtLbmtUT2VSUXlWcHRWT3JjejNONFpOUmYxWDhnT1dkR0dnZzBCSGloNExkeG5mdUxPRWRKYWJwWlVuSGROOE8xWnk1SkN4ODBObnhvWWJZbnhZY01GTERodG9nWDBDUFRTV2wybmd3TDFrNzI5MHY5dXA0STY4aXowZTdFNVk0MWRkOGdyWjcxaV8wOEgwY2dZWWtLVF9IVm0xd3JhT1AtN0dIc2M2X2hNedIBwgFBVV95cUxQN1o1a1pyV1h1M2FROG5XY0Nya3VTbGYzUF96UmtKUFFaZmV0d3V0TjN3SFJxLVdVM0dFVmU5eFZIT2JNelY5Q0wyMkFfX2h6bWh1aHV4alVIMFFSLUdDUU1fNEh3MkhjVGd5QTJBem94UzlTNDViRVcxVlVGZG1Wdkdzcm02VUtRa2FfTl9RdmJKdlF2TUxIZGk2cTNfbWhONlpvQ3FvUUUtU2VjMGhpdDZRVExqblplQm9zajJUMkhuZw?oc=5",
+      "published": "Tue, 24 Mar 2026 02:19:14 GMT",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Apple Stock Is Down 9% This Year. History Says It’s a Buying Opportunity - NAI500",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXVUS2prTUEtS2Jmc2hPVFA4U2dhX21heHdSeFFyeHFrUnYwWUdPbE9JSE83RTJkdEFxU2h1MmFnV2ozNVpDQ0R0RXRzTlIzU1RNRnVsMG1hcEtzSmFhWGNEZkQtamJfOWpZcWdMUWN4R2w0WUpXeG5Ub0lvUGVaNmlxdGZMRnR0c3Vwc2cybU5LQzBwQUF6by1uRDd0ZkNPSHBrNg?oc=5",
+      "published": "Mon, 23 Mar 2026 02:31:54 GMT",
+      "source": "NAI500"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 2,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple ร่วงลงที่ 252 ดอลลาร์ เนื่องจากนักลงทุนในหุ้นเทคโนโลยีหันไปใช้กลยุทธ์ป้องกันความเสี่ยง",
+        "why": "พาดหัวข่าวระบุชัดเจนว่า 'ราคาหุ้น Apple ร่วง' และนักลงทุนกำลังเปลี่ยนไปสู่การป้องกันความเสี่ยง ซึ่งเป็นสัญญาณเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "นี่คือเหตุผลที่ Apple (AAPL) อาจเป็นหุ้นเทคโนโลยีที่ดีที่สุดที่จะซื้อตอนนี้ ตามความเห็นของ Warren Buffett",
+        "why": "พาดหัวข่าวอ้างถึง Warren Buffett และระบุว่า AAPL 'อาจเป็นหุ้นเทคโนโลยีที่ดีที่สุดที่จะซื้อตอนนี้' ซึ่งเป็นมุมมองเชิงบวกอย่างมาก"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 90,
+        "summary": "ในด้านมูลค่าและการเติบโตที่ดีขึ้น DELL นำหน้าหุ้น Apple",
+        "why": "พาดหัวข่าวเปรียบเทียบ Apple กับ DELL และระบุว่า DELL 'นำหน้าหุ้น Apple' ในด้าน 'มูลค่าและการเติบโตที่ดีขึ้น' ซึ่งบ่งชี้ว่า Apple ไม่ได้เป็นผู้นำในด้านเหล่านี้ ทำให้เป็นมุมมองเชิงลบ"
+      },
+      {
+        "idx": 6,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "Apple (AAPL) มีผลงานเหนือกว่าภาพรวมของตลาดขาขึ้น นักลงทุนจำเป็นต้องรู้เรื่องนี้",
+        "why": "พาดหัวข่าวระบุว่า 'Apple (AAPL) มีผลงานเหนือกว่าตลาดขาขึ้น' ซึ่งบ่งบอกถึงประสิทธิภาพที่แข็งแกร่งของหุ้นเมื่อเทียบกับแนวโน้มขาขึ้นโดยรวมของตลาด"
+      },
+      {
+        "idx": 8,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "ราคาหุ้น Apple ลดลง 9% ในปีนี้ ประวัติศาสตร์ชี้ว่านี่คือโอกาสในการซื้อ",
+        "why": "แม้จะมีการลดลงของราคาหุ้น 9% แต่พาดหัวข่าวให้มุมมองเชิงบวกอย่างชัดเจนโดยระบุว่า 'ประวัติศาสตร์ชี้ว่านี่คือโอกาสในการซื้อ'"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 70,
+      "note": "มีพาดหัวข่าวเชิงบวกหลายรายการที่แนะนำให้พิจารณา Apple เป็นโอกาสในการซื้อ โดยอ้างถึงคำแนะนำจาก Warren Buffett และผลงานที่เหนือกว่าตลาด แม้ว่าจะมีสัญญาณเชิงลบเกี่ยวกับราคาหุ้นที่ลดลงและการเปรียบเทียบกับคู่แข่งก็ตาม"
+    }
+  }
+}
