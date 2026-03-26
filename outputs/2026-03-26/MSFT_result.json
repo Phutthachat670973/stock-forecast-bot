@@ -1,0 +1,102 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-25",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8013,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 11.9870 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0639 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0530 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0836 → กดลง",
+    "- เส้นเฉลี่ย 20 วันเทียบ 50 วัน = -0.0440 → กดลง"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft: This Might Be the Best Core Stock Bargain in the Market Today - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREtvNVZmQWV5Rm5wNWhQaGF2NGVHMENwVEdUTHJSaHJhRGxmeU5QUzNiU0ZRU2JfRjJyOER1ZXFaR1JSRjA5NnpiV243U2VybUVaUnl5NkhfQ214QUpkU3dzekZ6bTNwVnBONExTdTBGaUlfS3VubFlRSTg5SVZzWHltRjE0QzFEbFkzTVNkMndPVDZBblo5TVhsRl9XSGZSdnNlaGZ3?oc=5",
+      "published": "Mon, 23 Mar 2026 22:07:39 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "MSFT Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQX3dUSG5UYjhqVm1nRmNzS2pFY0VvMjFRVlQ0WWk0RzFlM2NQZ1lnR2M0b1JKOUlFRU1KZTllYnJfODBUd0RKQ0FzT2o2SmFJ?oc=5",
+      "published": "Mon, 23 Mar 2026 16:49:24 GMT",
+      "source": "CNN"
+    },
+    {
+      "title": "Why Microsoft (MSFT) Stock Is Ripe for a Turnaround - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3NxOGhsS2RkOU50cTBUaEtoUWhOMmstZWNNSzE5TEwtYkZkaHlDR0Q0Y20wNVJnU0ZQTzZpNnBFYlFOM1p0N2lVZTlTeEp4WFFfTVJuajgxS29pTkZMSnUtbkVfR2JHR3NEVi16Q255bXR6U3JsOHZzRnFrR2xIUXdRdndhMXZvTlhwV3ZOTk9KVmgw?oc=5",
+      "published": "Wed, 25 Mar 2026 15:06:43 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Microsoft Is Now the Cheapest \"Magnificent Seven\" Stock. Does That Make It a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1NSbzNyYmFiQnFZN1FWNU1yMm5GTl90WEtmYkk3VDVtYVEzZ2tkOGo5YzVnTGszM0FCeDdTUnhnVzZuM055bUxPVVVkTTE4cnZ4a3FOcF83NUZuMDA2OG5KRnVaM3NxdXFXLUhOVTFKRnNuQjdIUVg1aVk2Ql9DY1J1ZE92Q09wYXNkZnc4eGhYZlE?oc=5",
+      "published": "Sat, 21 Mar 2026 21:47:00 GMT",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft: Don't Jump To Conclusions From The Recent Share Price Rout (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmJEWWV5dXhhODRPN1Z6YkZYTDdLNFpIMTEwVXJZYTBHVE1WY3huSjc0a2kwNEpuRGY2d1RrQ1l1dEFIRDVJQmVHMlRIOGhJVmpDQk8yalE3cTU3Q2RJX28wajFieE14Q1NXVlVqRE1IMms0R1RWNGpkT05FdEdqVFk4RU1pVGVQdjktSzFFOFZYOEt4OGtDTUJvYk5wenVhbUFRVHBkVkdIdw?oc=5",
+      "published": "Sun, 22 Mar 2026 08:32:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Hits New Low Amid Weak Outlook; Is The Stock A Buy Or Sell Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kRzN2Q2ZJVlJ2R1R0VEJOT2luTXhpcW5GUHA0dUFjNzJla1YtQjk2eUpjcUlldFlzRE1NTXM1bTlGSFpYanpXNTZ0Y0huMTF2R0FLLVpiRnpmZS03UVBNcVEyZDFSZHRUaGprNHlIeWlPWW8tZTU4?oc=5",
+      "published": "Tue, 24 Mar 2026 19:52:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft Stock Tracking Worst 6-Month Stretch Since 2009 - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQR0RlUW1iUEZHN1c3ZWdCcWdaS21VSFF4NXR2WG5iWFB6V3VuX0IteWt1UE1hLXRPWFN2WEZVRnhTcEhZQkZsdjE4UzM0eUhFYjBha2R3bFNhQ0FiU3VnQzdYUjhXM3hmb1k5cEc4YUd2WFU3VXZTVmNFZ3RIOHhTY0t2c1pHUjlqRU1xbHdfcElBTXlXVktqUU81R2Z1WThNNTh6T1NDeGo3SGp4VTVrZ2dJYUZSTHFpbnBkUTc4bTZINlJCdUhOVlg5ZXAxWkM0RFEzZXR2ZExqMGhhTWpXU1NndTAydVJXcEpXeWFCZFkzR1BvY1BmQWRfVXQ3dzItT0xwbm1MTGpRdTlnbGtSaktocGlad1NVY1FYN244bEY3ZlYzdFlCVHNHbTFxOWFxZUpWazhsaTJ1NXVkYl9EZDY0TEs1S0xPVi1RX2U0ZWdhYVViRUcyZ1U3TFRrZ0NIamI5THh5cGZyUUV0U1EtSVRZNElscl90ZUZlMVUxanNsRDdCOWVzQXV2VkMzUHFDQ2c?oc=5",
+      "published": "Wed, 25 Mar 2026 20:53:00 GMT",
+      "source": "Barron's"
+    },
+    {
+      "title": "Microsoft’s Worst Start Since 2008. Should You Buy the Dip? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjc5a3RESGhTZXNYUGlPbFNDSl9TN1Vod0kyNjh2MVVncEJxN1JWYklPQXIwTDkyaEZKMWlEWUdxbmNhRDRJaEs4N08zdzNBXzRjd1k3cE1MdTN2UmZiY1RCTDkyZ09haEQtVC03ZWMzeWhBbXE4bnk1eEVMYVdQM2NIMGEzZmd4dnIyQkwxUmFxZ2NUQk9EaVJJSjdiUVRZTkE?oc=5",
+      "published": "Thu, 19 Mar 2026 14:28:21 GMT",
+      "source": "24/7 Wall St."
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวนี้ชี้ให้เห็นว่าหุ้น Microsoft พร้อมสำหรับการกลับตัวไปในทิศทางที่ดีขึ้น",
+        "why": "วลี 'Ripe for a Turnaround' แสดงถึงความคาดหวังในการฟื้นตัวหรือการเปลี่ยนแปลงเชิงบวกของราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "หัวข้อข่าวระบุว่า Microsoft เป็นหุ้นที่ถูกที่สุดในกลุ่ม 'Magnificent Seven' และตั้งคำถามถึงโอกาสในการซื้อ",
+        "why": "การที่ถูกจัดว่าเป็น 'Cheapest' ในกลุ่มหุ้นชั้นนำบ่งชี้ถึงมูลค่าที่น่าสนใจและอาจเป็นสัญญาณให้ซื้อ"
+      },
+      {
+        "idx": 6,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวรายงานว่า Microsoft ทำจุดต่ำสุดใหม่ท่ามกลางแนวโน้มที่อ่อนแอ",
+        "why": "การ 'Hits New Low Amid Weak Outlook' เป็นข้อบ่งชี้ที่ชัดเจนถึงสภาวะเชิงลบต่อราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "bearish",
+        "confidence": 95,
+        "summary": "หัวข้อข่าวระบุว่าหุ้น Microsoft กำลังอยู่ในช่วง 6 เดือนที่แย่ที่สุดนับตั้งแต่ปี 2009",
+        "why": "การเปรียบเทียบกับ 'Worst 6-Month Stretch Since 2009' เป็นสัญญาณเชิงลบที่บ่งบอกถึงผลการดำเนินงานของหุ้นที่ไม่ดี"
+      }
+    ],
+    "overall": {
+      "stance": "neutral",
+      "confidence": 80,
+      "note": "มีสัญญาณที่ขัดแย้งกันเกี่ยวกับหุ้น Microsoft โดยหัวข้อข่าวบางส่วนแนะนำว่าเป็นหุ้นที่มีมูลค่าดีและพร้อมสำหรับการฟื้นตัว ในขณะที่หัวข้อข่าวอื่น ๆ ชี้ให้เห็นถึงผลการดำเนินงานที่ย่ำแย่ล่าสุดและแนวโน้มที่อ่อนแอ"
+    }
+  }
+}
