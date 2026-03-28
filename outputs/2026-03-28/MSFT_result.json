@@ -1,0 +1,109 @@
+{
+  "ticker": "MSFT",
+  "asof": "2026-03-27",
+  "data_source": "stooq",
+  "proba_up_next_day": 0.8045,
+  "signal": "UP",
+  "horizon_days": 5,
+  "reasons": [
+    "- RSI 14 วัน = 8.6895 → หนุนขึ้น (oversold มีโอกาสเด้ง)",
+    "- ราคาต่ำ/สูงกว่าเส้นเฉลี่ย 20 วัน = -0.0917 → กดลง",
+    "- โมเมนตัม 5 วัน = -0.0657 → กดลง",
+    "- โมเมนตัม 10 วัน = -0.0980 → กดลง",
+    "- Volume เทียบค่าเฉลี่ย 20 วัน = 0.1563 → หนุนขึ้น"
+  ],
+  "headlines": [
+    {
+      "title": "Microsoft: This Might Be the Best Core Stock Bargain in the Market Today - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREtvNVZmQWV5Rm5wNWhQaGF2NGVHMENwVEdUTHJSaHJhRGxmeU5QUzNiU0ZRU2JfRjJyOER1ZXFaR1JSRjA5NnpiV243U2VybUVaUnl5NkhfQ214QUpkU3dzekZ6bTNwVnBONExTdTBGaUlfS3VubFlRSTg5SVZzWHltRjE0QzFEbFkzTVNkMndPVDZBblo5TVhsRl9XSGZSdnNlaGZ3?oc=5",
+      "published": "Mon, 23 Mar 2026 22:07:39 GMT",
+      "source": "Morningstar Canada"
+    },
+    {
+      "title": "Why Microsoft (MSFT) Stock Is Ripe for a Turnaround - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3NxOGhsS2RkOU50cTBUaEtoUWhOMmstZWNNSzE5TEwtYkZkaHlDR0Q0Y20wNVJnU0ZQTzZpNnBFYlFOM1p0N2lVZTlTeEp4WFFfTVJuajgxS29pTkZMSnUtbkVfR2JHR3NEVi16Q255bXR6U3JsOHZzRnFrR2xIUXdRdndhMXZvTlhwV3ZOTk9KVmgw?oc=5",
+      "published": "Wed, 25 Mar 2026 15:06:43 GMT",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Jim Cramer Says Microsoft (MSFT) Is an ‘Elite’ AI Stock to Buy – Here’s Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDdIU2hENmh2QVAwMzlFQWNha2FZV0ZGWURLVXFYaFl4ZXJZZEFUWjVKbVNGejhVY0lXLVJwRDd4VlhJb25qa253WUtOYU51Zlgyb25lT3F2YmJoVUlPS0JGUnFVT0QzeFpKWkRvdl9USFJqYTM0V21ZcTJPWkhjaXdDQUxUWHRsUXBEQlNESlhmQWNxTi1uaUhYZw?oc=5",
+      "published": "Tue, 24 Mar 2026 18:18:23 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Hits New Low Amid Weak Outlook; Is The Stock A Buy Or Sell Now? - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kRzN2Q2ZJVlJ2R1R0VEJOT2luTXhpcW5GUHA0dUFjNzJla1YtQjk2eUpjcUlldFlzRE1NTXM1bTlGSFpYanpXNTZ0Y0huMTF2R0FLLVpiRnpmZS03UVBNcVEyZDFSZHRUaGprNHlIeWlPWW8tZTU4?oc=5",
+      "published": "Tue, 24 Mar 2026 19:52:00 GMT",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "Microsoft: Don't Jump To Conclusions From The Recent Share Price Rout (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmJEWWV5dXhhODRPN1Z6YkZYTDdLNFpIMTEwVXJZYTBHVE1WY3huSjc0a2kwNEpuRGY2d1RrQ1l1dEFIRDVJQmVHMlRIOGhJVmpDQk8yalE3cTU3Q2RJX28wajFieE14Q1NXVlVqRE1IMms0R1RWNGpkT05FdEdqVFk4RU1pVGVQdjktSzFFOFZYOEt4OGtDTUJvYk5wenVhbUFRVHBkVkdIdw?oc=5",
+      "published": "Sun, 22 Mar 2026 08:32:18 GMT",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Wall Street sees 57% upside for iconic tech dividend stock - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2FjZkdkV1NlYkRTUjJKeGN1cWtpaXB6REM5QTkzaFZhNHpGY0F5Y0IzOFlhdWxraTBFRk9zaTJQMThwbUVmMjZlLTZTTHF6cWFEZEZQbS0xX2RnazlkY0dkQzNKNDk4VGVQUFJkTnlBaXNtSGJYMWJlSlNjdXloVnR4R0ZobkJrUDRLNXpQSTVsNFBqM0lmWU1XelRBaFE1UXNOaXdjaUstY0pDNWkxelhOaWp0UQ?oc=5",
+      "published": "Thu, 26 Mar 2026 14:17:00 GMT",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock in Deep Slump — Analysts See Almost 60% Upside - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY19oVFNSTkIybzhzVTdma2ctNDN2NjdHa1RwdGlGVFlVQ2VteHcwb3c5N0VOdUtmVkp5bzhzUVhHb21PT294ZXRYU1JDOEh4U0FGM0VXS2x0RllpRzNsVmtRREp0Q0Zsa0pTZEU5SzJhOUhCNjZxQ3ExdWxsRFFfejM5anJqZEJERGhHMVBxY1o?oc=5",
+      "published": "Thu, 26 Mar 2026 15:53:00 GMT",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft: Stock to Avoid or Once-in-a-Decade Buying Opportunity? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMl9Lbmp0dWctcXBFSXFOc3lKX0tpR0MtUERLTXk4Z3pSTWhvR0lIUDZTdGp1bUprMXpJUzZIZ0VSSHBCVTI5d3pkRzV5ZTRiMll1eEotY2JQOWVSS0txSGoxV1VZOFpIcVdkbHNsd3RzUHhLd0FRcmxERjhJS2oyd3BlQ2V0Qk5CMGZrOVlHWXBkM1pHNndr?oc=5",
+      "published": "Mon, 23 Mar 2026 13:45:00 GMT",
+      "source": "The Motley Fool"
+    }
+  ],
+  "ai_news": {
+    "picks": [
+      {
+        "idx": 1,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่า Microsoft อาจเป็น 'ของถูกที่ดีที่สุดในตลาดวันนี้' ซึ่งบ่งชี้ถึงโอกาสในการซื้อและราคาที่ต่ำกว่ามูลค่าที่แท้จริง",
+        "why": "คำว่า 'Best Core Stock Bargain' ชี้ให้เห็นถึงราคาหุ้นที่น่าสนใจและศักยภาพในการเติบโต"
+      },
+      {
+        "idx": 2,
+        "stance": "bullish",
+        "confidence": 90,
+        "summary": "พาดหัวข่าวระบุว่าหุ้น MSFT 'พร้อมสำหรับการฟื้นตัว' บ่งชี้ว่าแนวโน้มจะเปลี่ยนจากขาลงเป็นขาขึ้น",
+        "why": "วลี 'Ripe for a Turnaround' แสดงถึงความคาดหวังว่าหุ้นจะกลับมามีประสิทธิภาพดีขึ้นหลังจากช่วงเวลาที่อ่อนแอ"
+      },
+      {
+        "idx": 3,
+        "stance": "bullish",
+        "confidence": 95,
+        "summary": "พาดหัวข่าวระบุว่า Jim Cramer มองว่า Microsoft เป็น 'หุ้น AI ชั้นยอดที่ควรซื้อ' ซึ่งเป็นการแนะนำที่ชัดเจนให้ซื้อ",
+        "why": "การแนะนำให้ 'ซื้อ' และการอธิบายว่าเป็น 'Elite’ AI Stock' เป็นสัญญาณเชิงบวกอย่างมากสำหรับราคาหุ้น"
+      },
+      {
+        "idx": 4,
+        "stance": "bearish",
+        "confidence": 80,
+        "summary": "พาดหัวข่าวระบุว่า Microsoft 'ทำจุดต่ำสุดใหม่ท่ามกลางแนวโน้มที่อ่อนแอ' ซึ่งบ่งชี้ถึงภาวะขาลงของราคาหุ้นและมุมมองที่ไม่ดี",
+        "why": "การ 'Hits New Low' และ 'Weak Outlook' เป็นปัจจัยเชิงลบที่ส่งผลกดดันต่อราคาหุ้น"
+      },
+      {
+        "idx": 7,
+        "stance": "neutral",
+        "confidence": 70,
+        "summary": "พาดหัวข่าวระบุทั้งภาวะ 'ตกต่ำอย่างมาก' (ขาลง) และ 'นักวิเคราะห์มองเห็นโอกาสขาขึ้นเกือบ 60%' (ขาขึ้น) ทำให้โดยรวมแล้วมีทั้งมุมมองบวกและลบ จึงถือเป็นกลาง",
+        "why": "การนำเสนอข้อมูลที่ขัดแย้งกันในพาดหัวข่าวเดียวกัน ทำให้ไม่สามารถสรุปทิศทางที่ชัดเจนจากพาดหัวข่าวนี้ได้"
+      }
+    ],
+    "overall": {
+      "stance": "bullish",
+      "confidence": 85,
+      "note": "พาดหัวข่าวส่วนใหญ่บ่งชี้ถึงโอกาสในการซื้อและการฟื้นตัวของหุ้น Microsoft โดยเน้นย้ำถึงมูลค่าที่ต่ำกว่าราคาและศักยภาพด้าน AI แม้จะมีรายงานถึงการทำจุดต่ำสุดใหม่และแนวโน้มที่อ่อนแอ"
+    }
+  }
+}
